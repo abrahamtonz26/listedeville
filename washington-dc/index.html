@@ -7,7 +7,7 @@
 <meta name="description" content="783 of the best places in Washington, DC — restaurants, bars, speakeasies, rooftops, coffee, bakeries and more — tagged with Michelin stars, Bib Gourmands, 50 Best Bars, NYT 100 and where to book.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/site.css?v=20260910b">
+<link rel="stylesheet" href="/assets/site.css?v=20260910c">
 <style>
 .head{padding:44px 0 26px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
 .head h1{font-size:clamp(48px,8vw,104px)}
@@ -53,7 +53,7 @@
 <body id="top" class="city">
 <header class="nav"><div class="wrap">
   <a class="brand" href="/"><b>liste<i>deville</i></b><span>by Honestly Speaking</span></a>
-  <nav><ul><li><a href="/">Home</a></li><li class="menu current"><button type="button" aria-expanded="false" aria-haspopup="true">Washington, DC <span class="car">▾</span></button><ul class="dd"><li><a href="/new-york/">New York</a></li><li><a href="/boston/">Boston</a></li><li><a href="/washington-dc/" aria-current="page">Washington, DC</a></li><li><a href="/miami/">Miami</a></li><li><a href="/chicago/">Chicago</a></li><li><a href="/san-francisco/">San Francisco</a></li><li><a href="/los-angeles/">Los Angeles</a></li><li><a href="/seattle/">Seattle</a></li></ul></li><li><a href="/washington-dc/itineraries/">Itineraries</a></li><li><a href="/about/">About</a></li><li><a href="#search" class="searchtab" id="searchtab" role="button" aria-expanded="false" aria-controls="toolbar"><i>⌕</i><span>Search</span></a></li></ul></nav>
+  <nav><ul><li><a href="/">Home</a></li><li class="menu current"><button type="button" aria-expanded="false" aria-haspopup="true">Washington, DC <span class="car">▾</span></button><ul class="dd"><li><a href="/new-york/">New York</a></li><li><a href="/boston/">Boston</a></li><li><a href="/washington-dc/" aria-current="page">Washington, DC</a></li><li><a href="/miami/">Miami</a></li><li><a href="/chicago/">Chicago</a></li><li><a href="/san-francisco/">San Francisco</a></li><li><a href="/los-angeles/">Los Angeles</a></li><li><a href="/seattle/">Seattle</a></li></ul></li><li><a href="/washington-dc/itineraries/">Itineraries</a></li><li><a href="/about/">About</a></li><li><a href="#search" class="searchtab" id="searchtab" role="button" aria-expanded="false" aria-controls="ss">Search</a></li></ul></nav>
 </div></header>
 
 <main class="wrap city">
@@ -105,8 +105,6 @@
       <span class="sep"></span><span class="lbl">Price</span>
       <button class="chip" data-pr="1">$</button><button class="chip" data-pr="2">$$</button><button class="chip" data-pr="3">$$$</button><button class="chip" data-pr="4">$$$$</button>
     </div>
-    <div class="ovhead"><p class="eyebrow">Search &amp; filters</p><button type="button" class="ovx" id="ovx" aria-label="Close">×</button></div>
-    <div class="ovbar"><span id="ovcount"></span><span><button type="button" class="pill" id="ovreset">Clear all</button><button type="button" class="pill solid" id="ovclose">Show places</button></span></div>
   </div>
 
   <div class="count"><span id="count"></span><span><button id="reset" type="button">Clear all filters</button></span></div>
@@ -219,25 +217,12 @@ const fab=$("#fab"); function tick(){fab.classList.toggle("on",window.scrollY>60
 fab.onclick=e=>{e.preventDefault();scrollTo({top:0,behavior:"smooth"})};
 })();
 </script>
-<script>document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.addEventListener("click",function(e){e.stopPropagation();var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o)});});document.addEventListener("click",function(){document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});document.addEventListener("keydown",function(e){if(e.key==="Escape")document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});</script><script>(function(){var b=document.getElementById("tbtoggle"),tb=document.getElementById("toolbar"),tab=document.getElementById("searchtab"),body=document.body;if(!b||!tb)return;
+<script>document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.addEventListener("click",function(e){e.stopPropagation();var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o)});});document.addEventListener("click",function(){document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});document.addEventListener("keydown",function(e){if(e.key==="Escape")document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});</script><script>(function(){var b=document.getElementById("tbtoggle"),tb=document.getElementById("toolbar");if(!b||!tb)return;
 function setOpen(o){b.setAttribute("aria-expanded",o);tb.classList.toggle("collapsed",!o);b.textContent=o?"Hide search & filters":"Show search & filters";}
-b.onclick=function(){setOpen(b.getAttribute("aria-expanded")!=="true");armed=false;};
+var armed=true,lastY=window.scrollY;b.onclick=function(){setOpen(b.getAttribute("aria-expanded")!=="true");armed=false;};
 /* auto-hide once the reader scrolls down past the toolbar */
-var lastY=window.scrollY,armed=true;
-window.addEventListener("scroll",function(){var y=window.scrollY;if(body.classList.contains("searchopen")){lastY=y;return}
- if(armed&&y>lastY&&b.getAttribute("aria-expanded")==="true"&&y>b.getBoundingClientRect().top+y+260&&document.activeElement!==document.getElementById("q")){var h=tb.offsetHeight;setOpen(false);window.scrollBy(0,-h);armed=false;}
- lastY=window.scrollY;},{passive:true});
-/* full-screen search from the nav */
-var q=document.getElementById("q");
-function openOv(){body.classList.add("searchopen");tab&&tab.setAttribute("aria-expanded","true");tb.classList.remove("collapsed");syncCount();setTimeout(function(){q&&q.focus()},60);}
-function closeOv(){body.classList.remove("searchopen");tab&&tab.setAttribute("aria-expanded","false");if(b.getAttribute("aria-expanded")!=="true")tb.classList.add("collapsed");}
-function syncCount(){var c=document.getElementById("count"),o=document.getElementById("ovcount"),btn=document.getElementById("ovclose");if(!c||!o)return;o.textContent=c.textContent;var n=(c.textContent.match(/^\d+/)||[""])[0];btn.textContent=n?"Show "+n+" places":"Show places";}
-if(tab)tab.addEventListener("click",function(e){e.preventDefault();body.classList.contains("searchopen")?closeOv():openOv();});
-document.getElementById("ovclose").onclick=closeOv;document.getElementById("ovx").onclick=closeOv;
-document.getElementById("ovreset").onclick=function(){document.getElementById("reset").click();};
-document.addEventListener("keydown",function(e){if(e.key==="Escape"&&body.classList.contains("searchopen"))closeOv();});
-new MutationObserver(syncCount).observe(document.getElementById("count"),{childList:true,characterData:true,subtree:true});
+window.addEventListener("scroll",function(){var y=window.scrollY;if(armed&&y>lastY&&b.getAttribute("aria-expanded")==="true"&&y>b.getBoundingClientRect().top+y+260&&document.activeElement!==document.getElementById("q")){var h=tb.offsetHeight;setOpen(false);window.scrollBy(0,-h);armed=false;}lastY=window.scrollY;},{passive:true});
 })();</script>
 
-</body>
+<script src="/assets/search.js?v=20260910c"></script></body>
 </html>
