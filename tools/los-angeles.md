@@ -1,0 +1,898 @@
+# liste de ville / Los Angeles — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide California (2026 selection, June 24, 2026 — the most recent), North America's 50 Best Bars, the LA Times 101, Eater LA, Resy, Tock, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ / ★★ / ★★★ = Michelin stars (2026 California selection) · **GS** = Michelin Green Star
+- **BIB** = Michelin Bib Gourmand (2026)
+- **NA50** = North America's 50 Best Bars · **101** = LA Times 101
+- **JBF** = James Beard winner or nominee (year noted)
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Jon & Vinny's (Fairfax / Brentwood / multiple) — BIB · Resy · Amex ✓ · $$
+- [ ] Kismet (Los Feliz) — BIB · Resy · Amex ✓ · $$
+- [ ] Bavel (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Bestia (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Pine & Crane (Silver Lake / DTLA) — BIB · Resy · Amex ✓ · $
+- [ ] Botanica (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] All Time (Los Feliz) — Resy · Amex ✓ · $$
+- [ ] Little Dom's (Los Feliz) — Resy · Amex ✓ · $$
+- [ ] Bar Moruno (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Melody (Virgil Village; wine bar) — Resy · Amex ✓ · $$
+- [ ] Voodoo Vin (Virgil Village) — Resy · Amex ✓ · $$
+- [ ] Bacetti (Echo Park) — Resy · Amex ✓ · $$$
+- [ ] Ototo (Echo Park; sake bar) — BIB · Resy · Amex ✓ · $$
+- [ ] Tsubaki (Echo Park; izakaya) — Resy · Amex ✓ · $$
+- [ ] Quarter Sheets (Echo Park; pizza) — BIB · Resy · Amex ✓ · $$
+- [ ] Little Fish (Echo Park) — BIB · NEW 2026 Bib · Michelin Young Chef 2026 · Resy · Amex ✓ · $$
+- [ ] Bar Bandini (Echo Park; wine) — Resy · Amex ✓ · $$
+- [ ] Mh Zh (Silver Lake; cash, outside) — Walk-in · $$
+- [ ] Yang's Kitchen (Alhambra) — BIB · Resy · Amex ✓ · $$
+- [ ] Kuya Lord (Melrose Hill; Filipino) — Resy · Amex ✓ · $$
+- [ ] Lasita (Chinatown; Filipino rotisserie + wine) — Resy · Amex ✓ · $$
+- [ ] Bar Etoile (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Camélia (Arts District) — NEW · Resy · Amex ✓ · $$$
+- [ ] Baroo (Arts District; Kwang Uh's return) — ? · Resy · Amex ✓ · $$
+- [ ] Yangban (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Damian (Arts District; Enrique Olvera) — Resy · Amex ✓ · $$$$
+- [ ] Ditroit (Arts District; the taco window) — $$
+- [ ] Girl & the Goat LA (Arts District) — Resy · Amex ✓ · $$
+- [ ] Manuela (Arts District) — Resy · Amex ✓ · $$
+- [ ] Bar Chelou (Pasadena) — Resy · Amex ✓ · $$
+- [ ] Union (Pasadena) — Resy · Amex ✓ · $$
+- [ ] Lunetta (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Pasjoli (Santa Monica) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Rustic Canyon (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Cassia (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Gjelina (Venice) — Resy · Amex ✓ · $$$
+- [ ] Gjusta (Venice; the deli) — Walk-in · $$
+- [ ] Felix (Venice) — Resy · Amex ✓ · $$$
+- [ ] Dudley Market (Venice) — Resy · Amex ✓ · $$
+- [ ] Rose Café (Venice) — Resy · Amex ✓ · $$
+- [ ] Petit Trois (Hollywood / Valley) — Resy · Amex ✓ · $$$
+- [ ] République (La Brea; the bakery-brasserie) — Resy · Amex ✓ · $$
+- [ ] Bar Restaurant (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Antico Nuovo (Larchmont) — Resy · Amex ✓ · $$
+- [ ] Osteria La Buca (Melrose) — Resy · Amex ✓ · $$
+- [ ] Angelini Osteria (Beverly Grove) — Resy · Amex ✓ · $$
+- [ ] Cento Pasta Bar (Mid-City) — Resy · Amex ✓ · $$
+- [ ] Found Oyster (East Hollywood) — Resy · Amex ✓ · $$
+- [ ] Vin Folk (Hermosa Beach) — BIB · Resy · Amex ✓ · $$$
+- [ ] Ggiata (Melrose; sandwiches) — Walk-in · $$
+- [ ] Courage Bagels (Virgil Village) — Walk-in · $$
+- [ ] Bub and Grandma's (Glassell Park) — Walk-in · $$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Thunderbolt (Echo Park) — NA50 · Resy · Amex ✓ · $$
+- [ ] The Varnish (DTLA; reborn behind Cole's) — ? · $$$
+- [ ] Death & Co LA (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Genever (Historic Filipinotown; gin) — Resy · Amex ✓ · $$
+- [ ] The Roger Room (West Hollywood; no sign) — Resy · Amex ✓ · $$$
+- [ ] Lock & Key (Koreatown; the doorknobs) — Resy · Amex ✓ · $$$
+- [ ] R Bar (Koreatown; the password) — Resy · Amex ✓ · $$
+- [ ] The Normandie Club (Koreatown) — Resy · Amex ✓ · $$$
+- [ ] The Walker Inn — CLOSED
+- [ ] Break Room 86 (Koreatown; the 80s, behind the Line Hotel) — Resy · Amex ✓ · $$$
+- [ ] Employees Only LA — CLOSED
+- [ ] Tabula Rasa (Thai Town; wine) — Resy · Amex ✓ · $$
+- [ ] Tiki-Ti (Los Feliz; since 1961, cash) — Walk-in · $
+- [ ] Tonga Hut (North Hollywood; the oldest tiki bar in LA) — Walk-in · $
+- [ ] Bar Flores (Echo Park; mezcal, upstairs) — Resy · Amex ✓ · $$
+- [ ] Bar Stella (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Bar Calico (Sunset Boulevard; the phone booth) — Resy · Amex ✓ · $$
+- [ ] The Spare Room (Roosevelt Hotel; bowling) — Resy · Amex ✓ · $$
+- [ ] Musso & Frank's bar (Hollywood; since 1919) — $$
+- [ ] Frolic Room (Hollywood; the neon) — Walk-in · $
+- [ ] Formosa Café (West Hollywood; the train car) — Walk-in · $$
+- [ ] Jumbo's Clown Room (Los Feliz) — Walk-in · $
+- [ ] Ye Rustic Inn (Los Feliz) — Walk-in · $
+- [ ] Dresden Room (Los Feliz; Marty & Elayne's legacy) — Walk-in · $$
+- [ ] Good Times at Davey Wayne's (Hollywood; through the fridge) — Resy · Amex ✓ · $$
+- [ ] No Vacancy (Hollywood; the bed) — Resy · Amex ✓ · $$
+- [ ] La Descarga (East Hollywood; the armoire) — Resy · Amex ✓ · $$
+- [ ] Harvard & Stone (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Bar Sinister (Hollywood; goth Saturdays) — Walk-in · $$
+- [ ] Bar Marmont? — CLOSED; use Chateau Marmont bar (the garden)
+- [ ] Tower Bar (Sunset Tower; Dimitri) — Resy · Amex ✓ · $$$$
+- [ ] The Edmon (East Hollywood; art deco) — Resy · Amex ✓ · $$
+- [ ] Bigfoot Lodge (Atwater Village) — Walk-in · $$
+- [ ] The Prince (Koreatown; Chinatown film set) — Walk-in · $$
+- [ ] HMS Bounty (Koreatown; the ship) — Walk-in · $$
+- [ ] Dan Sung Sa (Koreatown; the pojangmacha) — Walk-in · $$
+- [ ] Cole's (DTLA; since 1908) — Walk-in · $$
+- [ ] Bar Franca? — CLOSED
+- [ ] Seven Grand (DTLA; whiskey) — Resy · Amex ✓ · $$
+- [ ] Bar Jackalope (inside Seven Grand) — Resy · Amex ✓ · $$
+- [ ] Caña Rum Bar (DTLA; members-ish) — Resy · Amex ✓ · $$
+- [ ] The Edison — CLOSED
+- [ ] Clifton's — CLOSED (reopening?) — ?
+- [ ] La Cita (DTLA; the patio) — Walk-in · $$
+- [ ] Everson Royce Bar (Arts District; the patio, the burger) — Resy · Amex ✓ · $$
+- [ ] Bar Mateo (Arts District) — Resy · Amex ✓ · $$
+- [ ] Bar Mar? — $$
+- [ ] Brack Shop? — CLOSED; use Bar Lubitsch (West Hollywood; vodka)
+- [ ] The Short Stop (Echo Park) — Walk-in · $
+- [ ] The Friend (Silver Lake; Nirvana's poster, the patio) — Walk-in · $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Bar Lis (Thompson Hollywood) — Resy · Amex ✓ · $$$
+- [ ] Mama Shelter (Hollywood; the roof) — Resy · Amex ✓ · $$$
+- [ ] The Roof at the Edition (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Cara Cara (Downtown LA Proper) — Resy · Amex ✓ · $$$
+- [ ] Spire 73 (InterContinental DTLA; the tallest) — OpenTable · $$$$
+- [ ] Perch (DTLA) — OpenTable · $$$
+- [ ] Upstairs at the Ace — CLOSED (the hotel became the Ace's successor) — ?
+- [ ] Broken Shaker LA (Freehand, DTLA) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at the NoMad? — CLOSED
+- [ ] Openaire (Line Hotel, Koreatown; the greenhouse) — Resy · Amex ✓ · $$$
+- [ ] Harriet's Rooftop (1 Hotel West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] The Highlight Room (Dream Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Skybar (Mondrian, Sunset Strip) — OpenTable · $$$$
+- [ ] The Roof at the Pendry (West Hollywood) — Resy · Amex ✓ · $$$
+- [ ] EP & LP (West Hollywood) — Resy · Amex ✓ · $$$
+- [ ] Elephante (Santa Monica) — Resy · Amex ✓ · $$$
+- [ ] Onyx (Shore Hotel, Santa Monica) — OpenTable · $$$
+- [ ] The Bungalow (Santa Monica; Fairmont) — OpenTable · $$$
+- [ ] Hotel Erwin's High (Venice) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at the Kimpton Everly (Hollywood) — $$$
+- [ ] Yamashiro (Hollywood Hills; the view since 1914) — OpenTable · $$$
+- [ ] Castaway (Burbank; the Valley view) — OpenTable · $$$
+- [ ] The Rooftop at the Wayfarer (DTLA) — $$$
+- [ ] Level 8 (Moxy DTLA; eight venues) — Resy · Amex ✓ · $$$
+- [ ] Bar Bohémien? — CLOSED; use LA Live's?
+- [ ] Everson Royce Bar patio (Arts District) — $$$
+- [ ] Bar Mateo patio (Arts District) — $$$
+- [ ] Manuela's garden (Arts District) — $$$
+- [ ] Hinoki & the Bird's patio (Century City) — $$$
+- [ ] Eataly LA's terrace (Century City) — Walk-in · $$$
+- [ ] Saddle Peak Lodge (Calabasas; the drive) — OpenTable · $$$
+- [ ] Malibu Farm (Malibu Pier) — Resy · Amex ✓ · $$$
+- [ ] Nobu Malibu (the deck) — OpenTable · $$$$
+- [ ] Moonshadows (Malibu) — OpenTable · $$$
+- [ ] Neptune's Net (Malibu; the bikers) — Walk-in · $$
+- [ ] Gladstone's — CLOSED (rebuilding) — ?
+- [ ] Margot (Culver City; Platform rooftop) — Resy · Amex ✓ · $$$
+- [ ] Hotel Figueroa's pool bar (DTLA) — Walk-in · $$$
+- [ ] Rooftop at the Hollywood Roosevelt (Tropicana pool) — $$$
+- [ ] Tropicana Pool (Roosevelt) — Walk-in · $$$
+- [ ] The Aster (Hollywood; rooftop) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at the Godfrey Hollywood (I|O) — $$$
+- [ ] Desert 5 Spot (Tommie Hollywood; rooftop honky-tonk) — Resy · Amex ✓ · $$$
+- [ ] Salazar (Frogtown; the outdoor grill) — Resy · Amex ✓ · $$$
+- [ ] Wax Paper (Frogtown; the river) — Resy · Amex ✓ · $$$
+- [ ] Spoke Bicycle Cafe (Frogtown; the river) — Walk-in · $$$
+- [ ] Golden Road (Atwater; beer garden) — Walk-in · $$$
+- [ ] Angel City Brewery (Arts District) — Walk-in · $$$
+- [ ] Arts District Brewing — Walk-in · $$$
+- [ ] Rooftop at the Hoxton (DTLA; Pilot) — Walk-in · $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Thunderbolt (Echo Park) — NA50 · JBF Outstanding Bar finalist · Resy · Amex ✓ · $$
+- [ ] Death & Co LA (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Genever (Historic Filipinotown) — Resy · Amex ✓ · $$
+- [ ] The Varnish (DTLA) — ? · $$$
+- [ ] Bar Flores (Echo Park) — Resy · Amex ✓ · $$
+- [ ] Bar Etoile (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Lasita (Chinatown) — Resy · Amex ✓ · $$
+
+**Cocktail institutions**
+- [ ] The Roger Room (West Hollywood) — Resy · Amex ✓ · $$$
+- [ ] Lock & Key (Koreatown) — Resy · Amex ✓ · $$$
+- [ ] R Bar (Koreatown) — Resy · Amex ✓ · $$
+- [ ] The Normandie Club (Koreatown) — Resy · Amex ✓ · $$$
+- [ ] Break Room 86 (Koreatown) — Resy · Amex ✓ · $$$
+- [ ] Tabula Rasa (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Harvard & Stone (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Bar Stella (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Bar Calico (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] The Spare Room (Hollywood) — Resy · Amex ✓ · $$
+- [ ] Good Times at Davey Wayne's (Hollywood) — Resy · Amex ✓ · $$
+- [ ] No Vacancy (Hollywood) — Resy · Amex ✓ · $$
+- [ ] La Descarga (East Hollywood) — Resy · Amex ✓ · $$
+- [ ] Seven Grand (DTLA) — Resy · Amex ✓ · $$
+- [ ] Bar Jackalope (DTLA) — Resy · Amex ✓ · $$
+- [ ] Caña Rum Bar (DTLA) — Resy · Amex ✓ · $$
+- [ ] Everson Royce Bar (Arts District) — Resy · Amex ✓ · $$
+- [ ] Bar Mateo (Arts District) — Resy · Amex ✓ · $$
+- [ ] Tiki-Ti (Los Feliz) — Walk-in · $
+- [ ] Tonga Hut (North Hollywood) — Walk-in · $
+- [ ] Bar Lubitsch (West Hollywood) — Resy · Amex ✓ · $$
+- [ ] Employees Only LA — CLOSED
+- [ ] The Walker Inn — CLOSED
+- [ ] Bar Franca — CLOSED
+- [ ] The Edison — CLOSED
+- [ ] Melody (Virgil Village) — Resy · Amex ✓ · $$
+- [ ] Voodoo Vin (Virgil Village) — Resy · Amex ✓ · $$
+- [ ] Bar Bandini (Echo Park) — Resy · Amex ✓ · $$
+- [ ] Ototo (Echo Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Tsubaki bar (Echo Park) — $$
+- [ ] Bar Moruno (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Bar Restaurant (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Bar Sinister (Hollywood) — Walk-in · $$
+
+**Hotel & classic bars**
+- [ ] Tower Bar (Sunset Tower) — Resy · Amex ✓ · $$$$
+- [ ] Chateau Marmont (the garden) — Resy · Amex ✓ · $$$$
+- [ ] Polo Lounge (Beverly Hills Hotel) — OpenTable · $$$$
+- [ ] Bar Nineteen12 (Beverly Hills Hotel) — Resy · Amex ✓ · $$
+- [ ] The Bar at the Peninsula Beverly Hills — $$
+- [ ] Musso & Frank's (Hollywood; 1919) — $$
+- [ ] Formosa Café (West Hollywood) — Walk-in · $$
+- [ ] The Spare Room (Roosevelt) — Resy · Amex ✓ · $$
+- [ ] Tropicana Bar (Roosevelt) — Walk-in · $$
+- [ ] Library Bar (Roosevelt) — Walk-in · $$
+- [ ] Bar Lis (Thompson) — Resy · Amex ✓ · $$$
+- [ ] Mama Shelter (Hollywood) — Resy · Amex ✓ · $$$
+- [ ] The Roof at the Edition — Resy · Amex ✓ · $$$$
+- [ ] Cara Cara (Proper DTLA) — Resy · Amex ✓ · $$$
+- [ ] Bar Figueroa (Hotel Figueroa) — Walk-in · $$
+- [ ] Openaire (Line Hotel) — Resy · Amex ✓ · $$
+- [ ] The Bungalow (Santa Monica) — OpenTable · $$
+- [ ] Onyx (Shore Hotel) — OpenTable · $$
+- [ ] Bar Marmont — CLOSED
+
+**Historic / dive / neighborhood**
+- [ ] Cole's (DTLA; 1908; the French dip) — Walk-in · $$
+- [ ] Philippe's (Chinatown; 1908; the other French dip) — Walk-in · $
+- [ ] Frolic Room (Hollywood) — Walk-in · $
+- [ ] Jumbo's Clown Room (Los Feliz) — Walk-in · $
+- [ ] Ye Rustic Inn (Los Feliz) — Walk-in · $
+- [ ] Dresden Room (Los Feliz) — Walk-in · $$
+- [ ] The Short Stop (Echo Park) — Walk-in · $
+- [ ] Gold Room (Echo Park; the free peanuts) — Walk-in · $
+- [ ] Bigfoot Lodge (Atwater) — Walk-in · $$
+- [ ] Tiki-Ti (Los Feliz) — Walk-in · $
+- [ ] HMS Bounty (Koreatown) — Walk-in · $$
+- [ ] The Prince (Koreatown) — Walk-in · $$
+- [ ] Dan Sung Sa (Koreatown) — Walk-in · $$
+- [ ] Hank's? — CLOSED; use King Eddy Saloon (Skid Row; since 1933)
+- [ ] The Smog Cutter (Virgil Village; karaoke) — Walk-in · $
+- [ ] Footsies (Highland Park) — Walk-in · $
+- [ ] The York (Highland Park) — Walk-in · $$
+- [ ] Johnny's Bar (Highland Park) — Walk-in · $$
+- [ ] The Hi Hat (Highland Park) — Walk-in · $$
+- [ ] La Cita (DTLA) — Walk-in · $$
+- [ ] Redwood Bar (DTLA; pirate) — Walk-in · $$
+- [ ] Chez Jay (Santa Monica; since 1959) — Walk-in · $$
+- [ ] The Galley (Santa Monica; since 1934) — Walk-in · $$
+- [ ] Hinano Cafe (Venice; since 1962) — Walk-in · $
+- [ ] Townhouse & Del Monte Speakeasy (Venice; since 1915) — Walk-in · $$
+- [ ] Barney's Beanery (West Hollywood) — Walk-in · $$
+- [ ] Rainbow Bar & Grill (Sunset Strip) — Walk-in · $$
+- [ ] Whisky a Go Go (Sunset Strip) — Walk-in · $$
+- [ ] Ercoles 1101 (Manhattan Beach) — Walk-in · $$
+
+**Wine bars**
+- [ ] Melody (Virgil Village) — Resy · Amex ✓ · $$
+- [ ] Voodoo Vin (Virgil Village) — Resy · Amex ✓ · $$
+- [ ] Bar Bandini (Echo Park) — Resy · Amex ✓ · $$
+- [ ] Tabula Rasa (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Bar Moruno (Silver Lake) — Resy · Amex ✓ · $$
+- [ ] Bar Etoile (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Lasita (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Esters (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Tilda (Echo Park) — Resy · Amex ✓ · $$
+- [ ] Lolo (Silver Lake; the deli + wine) — Resy · Amex ✓ · $$
+- [ ] Bar Chelou (Pasadena) — Resy · Amex ✓ · $$
+- [ ] Vin Folk (Hermosa Beach) — BIB · Resy · Amex ✓ · $$$
+- [ ] Domaine LA (Melrose; the shop) — Walk-in · $$
+
+**Beer**
+- [ ] Golden Road (Atwater) — Walk-in · $$
+- [ ] Angel City (Arts District) — Walk-in · $$
+- [ ] Arts District Brewing — Walk-in · $$
+- [ ] Highland Park Brewery (Chinatown / Highland Park) — Walk-in · $$
+- [ ] Boomtown (DTLA) — Walk-in · $$
+- [ ] Mumford (Cypress Park) — Walk-in · $$
+- [ ] Frogtown Brewery — Walk-in · $$
+- [ ] Eagle Rock Brewery — Walk-in · $$
+- [ ] Smog City (Torrance) — Walk-in · $$
+- [ ] Monkish (Torrance) — Walk-in · $$
+- [ ] Three Weavers (Inglewood) — Walk-in · $$
+- [ ] Brouwerij West (San Pedro) — Walk-in · $$
+
+**Rooftop / view bars that double as great bars**
+- [ ] Bar Lis (Thompson Hollywood) — Resy · Amex ✓ · $$$
+- [ ] Cara Cara (Proper) — Resy · Amex ✓ · $$$
+- [ ] Openaire (Line) — Resy · Amex ✓ · $$
+- [ ] Yamashiro — OpenTable · $$$
+- [ ] Spire 73 — OpenTable · $$$$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Go Get Em Tiger (Larchmont / multiple) — Walk-in · $
+- [ ] Maru Coffee (Los Feliz / Arts District) — Walk-in · $
+- [ ] Dinosaur Coffee (Silver Lake) — Walk-in · $
+- [ ] Intelligentsia (Silver Lake; the Sunset Junction original) — Walk-in · $
+- [ ] Verve (Arts District / multiple) — Walk-in · $
+- [ ] Blue Bottle (multiple) — Walk-in · $
+- [ ] Canyon Coffee (Echo Park) — Walk-in · $
+- [ ] Woodcat (Echo Park) — Walk-in · $
+- [ ] Endorffeine (Chinatown) — Walk-in · $
+- [ ] Bloom & Plume (Historic Filipinotown) — Walk-in · $
+- [ ] Coffee for Sasquatch (Melrose) — Walk-in · $
+- [ ] Alfred Coffee (Melrose Place / multiple) — Walk-in · $
+- [ ] Cognoscenti (Culver City) — Walk-in · $
+- [ ] Destroyer (Culver City; Jordan Kahn's café) — Resy · Amex ✓ · $
+- [ ] Menotti's (Venice) — Walk-in · $
+- [ ] Deus Ex Machina (Venice) — Walk-in · $
+- [ ] Great White (Venice / multiple; Aussie) — Resy · Amex ✓ · $
+- [ ] Bluestone Lane (multiple) — Walk-in · $
+- [ ] Coffee Commissary (Fairfax / multiple) — Walk-in · $
+- [ ] Highlight Coffee (Glendale) — Walk-in · $
+- [ ] Kumquat (Highland Park) — Walk-in · $
+- [ ] Civil Coffee (Highland Park) — Walk-in · $
+- [ ] Collage Coffee (Highland Park) — Walk-in · $
+- [ ] Tierra Mia (Highland Park / multiple; horchata latte) — Walk-in · $
+- [ ] Document Coffee Bar (Koreatown) — Walk-in · $
+- [ ] Café Dulce (Little Tokyo; the green tea doughnut) — Walk-in · $
+- [ ] Cafe Demitasse (Little Tokyo / Santa Monica) — Walk-in · $
+- [ ] Fugetsu-Do (Little Tokyo; mochi since 1903) — Walk-in · $
+- [ ] Mitsuru Café (Little Tokyo; imagawayaki) — Walk-in · $
+- [ ] Copa Vida (Pasadena) — Walk-in · $
+- [ ] Lavender & Honey (Pasadena) — Walk-in · $
+- [ ] Jones Coffee (Pasadena) — Walk-in · $
+- [ ] Charlie's Coffee House (South Pasadena) — Walk-in · $
+- [ ] Jameson Brown (Pasadena) — Walk-in · $
+- [ ] The Coffee Bean & Tea Leaf (born LA, 1963; the original) — Walk-in · $
+- [ ] Philz (multiple) — Walk-in · $
+- [ ] Courage Bagels (Virgil Village) — Walk-in · $
+- [ ] Yeastie Boys (the trucks) — Walk-in · $
+- [ ] Belle's Bagels (Highland Park) — Walk-in · $
+- [ ] Maury's Bagels (Silver Lake) — Walk-in · $
+- [ ] Bagel Broker (Fairfax) — Walk-in · $
+- [ ] Clark Street Bakery (multiple) — Walk-in · $
+- [ ] Friends & Family (Thai Town) — Walk-in · $
+- [ ] Proof Bakery (Atwater) — Walk-in · $
+- [ ] Bub and Grandma's (Glassell Park) — Walk-in · $
+- [ ] Sycamore Kitchen (La Brea) — Resy · Amex ✓ · $
+- [ ] République (La Brea) — Resy · Amex ✓ · $$
+- [ ] Gjusta (Venice) — Walk-in · $$
+- [ ] Superba (Venice / multiple) — Resy · Amex ✓ · $
+- [ ] Andante Coffee (Koreatown / multiple) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★★★
+- [ ] Somni (West Hollywood; Aitor Zabala; 14 seats) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Providence (Hollywood; Michael Cimarusti; since 2005) — ★★★ · GS · Tock · Amex ✓ · $$$$
+
+### Michelin ★★
+- [ ] Kato (Arts District; Jon Yao; promoted 2026) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] n/naka (Palms; Niki Nakayama) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Hayato (Arts District; Brandon Go) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Mélisse (Santa Monica; Josiah Citrin) — ★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★
+- [ ] Corridor 109 (Arts District) — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] KOJIMA (Sawtelle; second-story omakase) — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] Lielle — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] Miura — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] Seline — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] Mori Nozomi (Sawtelle; edomae) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Restaurant Ki (Koreatown; Korean tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Holbox (Historic South Central; Yucatecan seafood, Mercado La Paloma) — ★ · Resy · Amex ✓ · $$
+- [ ] Osteria Mozza (Melrose; Nancy Silverton) — ★ · Resy · Amex ✓ · $$$
+- [ ] Pasjoli (Santa Monica) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Shibumi (DTLA; kappo) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Kali (Larchmont) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Bistro Na's (Temple City; imperial Chinese) — ★ · Resy · Amex ✓ · $$$
+- [ ] Gwen (Hollywood; Curtis Stone) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Le Comptoir (Koreatown; Hotel Normandie) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Citrin (Santa Monica) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Sushi I-naba (Manhattan Beach) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Shin Sushi (Encino) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Sushi Tama (West Hollywood) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Nozawa Bar (Beverly Hills) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Q Sushi (DTLA) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Heritage (Long Beach) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Vespertine (Culver City; Jordan Kahn) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Morihiro (Echo Park) — no longer starred; still essential · Tock · Amex ✓ · $$$$
+- [ ] 715 (Arts District) — no longer starred · Tock · Amex ✓ · $$$
+- [ ] Camphor (Arts District) — no longer starred · Tock · Amex ✓ · $$$
+- [ ] Sushi Ginza Onodera — CLOSED
+
+### Bib Gourmand (2026)
+- [ ] Little Fish (Echo Park) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Sonoratown (DTLA / Mid-City; flour tortillas) — BIB · NEW 2026 · Walk-in · $
+- [ ] Jon & Vinny's (multiple) — BIB · Resy · Amex ✓ · $$
+- [ ] Kismet (Los Feliz) — BIB · Resy · Amex ✓ · $$
+- [ ] Pine & Crane (Silver Lake / DTLA) — BIB · Resy · Amex ✓ · $
+- [ ] Pizzana (Brentwood / multiple) — BIB · Resy · Amex ✓ · $$
+- [ ] Pizzeria Mozza (Melrose) — BIB · Resy · Amex ✓ · $$
+- [ ] Pizzeria Bianco LA (Arts District; Chris Bianco) — BIB · Resy · Amex ✓ · $$
+- [ ] Quarter Sheets (Echo Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Langer's Deli (Westlake; the #19, since 1947) — BIB · Walk-in · $$
+- [ ] Moo's Craft Barbecue (Lincoln Heights) — BIB · Resy · Amex ✓ · $$
+- [ ] Pollo a la Brasa (Koreatown; the wood fire) — BIB · Walk-in · $
+- [ ] Carnes Asadas Pancho Lopez (Boyle Heights) — BIB · Walk-in · $
+- [ ] Chifa (Eagle Rock; Chinese-Peruvian) — BIB · Resy · Amex ✓ · $$
+- [ ] Dha Rae Oak (Koreatown) — BIB · Resy · Amex ✓ · $$
+- [ ] Grá (Echo Park; sourdough pizza) — BIB · Resy · Amex ✓ · $$
+- [ ] Komal (Mercado La Paloma; masa) — BIB · Walk-in · $
+- [ ] Lalibela (Little Ethiopia) — BIB · Walk-in · $$
+- [ ] Liu's Cafe (Koreatown; Taiwanese) — BIB · Walk-in · $
+- [ ] Maccheroni Republic (DTLA) — BIB · Walk-in · $$
+- [ ] Mae Malai Thai House of Noodles (Thai Town) — BIB · Walk-in · $
+- [ ] Rasarumah (Historic Filipinotown; Malaysian) — BIB · Resy · Amex ✓ · $$
+- [ ] Anajak Thai (Sherman Oaks; Taco Tuesday) — BIB · JBF 2024 Best Chef California finalist · Resy · Amex ✓ · $$$
+- [ ] Holy Basil (DTLA / Atwater) — BIB · Resy · Amex ✓ · $$
+- [ ] Luv2Eat Thai Bistro (Hollywood) — BIB · Resy · Amex ✓ · $
+- [ ] Ruen Pair (Thai Town) — BIB · Walk-in · $
+- [ ] Chichen Itza (Mercado La Paloma) — BIB · Resy · Amex ✓ · $
+- [ ] Guelaguetza (Koreatown; Oaxacan, JBF America's Classic) — BIB · Resy · Amex ✓ · $$
+- [ ] Sun Nong Dan (Koreatown; galbi jjim, 24h) — BIB · Walk-in · $$
+- [ ] Yang's Kitchen (Alhambra) — BIB · Resy · Amex ✓ · $$
+- [ ] Hui Tou Xiang (San Gabriel; dumplings) — BIB · Resy · Amex ✓ · $
+- [ ] Ototo (Echo Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Petit Trois (Hollywood) — BIB · Resy · Amex ✓ · $$$
+- [ ] Villa's Tacos (Highland Park) — BIB · Resy · Amex ✓ · $
+- [ ] Zhengyalov Hatz (Glendale; Armenian flatbread) — BIB · Walk-in · $
+- [ ] Vin Folk (Hermosa Beach) — BIB · Resy · Amex ✓ · $$$
+- [ ] Mh Zh (Silver Lake) — BIB · Walk-in · $$
+- [ ] Bacetti (Echo Park) — BIB · Resy · Amex ✓ · $$$
+- [ ] Pijja Palace (Silver Lake; Indian sports bar) — BIB · Resy · Amex ✓ · $$
+- [ ] Woon (Historic Filipinotown; Shanghainese) — BIB · Resy · Amex ✓ · $$
+- [ ] Kuya Lord (Melrose Hill) — BIB · Resy · Amex ✓ · $$
+
+### The new guard
+- [ ] Camélia (Arts District) — NEW · Resy · Amex ✓ · $$$
+- [ ] Baroo (Arts District) — ? · Resy · Amex ✓ · $$
+- [ ] Yangban (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Damian (Arts District) — Resy · Amex ✓ · $$$$
+- [ ] Girl & the Goat LA (Arts District) — Resy · Amex ✓ · $$
+- [ ] Lasita (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Bar Etoile (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Kuya Lord (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Bar Chelou (Pasadena) — Resy · Amex ✓ · $$
+- [ ] Camphor (Arts District) — Tock · Amex ✓ · $$$
+- [ ] 715 (Arts District) — Tock · Amex ✓ · $$$
+- [ ] Morihiro (Echo Park) — Tock · Amex ✓ · $$$$
+- [ ] Ètra (Melrose Hill) — Resy · Amex ✓ · $$
+- [ ] Great White — Resy · Amex ✓ · $$
+- [ ] Tacos 1986 (multiple) — Walk-in · $$
+- [ ] Mariscos Jalisco (Boyle Heights; the shrimp taco truck) — Walk-in · $
+- [ ] Loreto (Frogtown; Baja seafood) — Resy · Amex ✓ · $$
+- [ ] Salazar (Frogtown) — Resy · Amex ✓ · $$
+- [ ] Wax Paper (Frogtown) — Resy · Amex ✓ · $$
+- [ ] Ka'teen (Hollywood; Wes Avila's Yucatecan) — ? · Resy · Amex ✓ · $$
+- [ ] Mother Wolf (Hollywood; Evan Funke's Roman) — Resy · Amex ✓ · $$$$
+- [ ] Funke (Beverly Hills) — Resy · Amex ✓ · $$$$
+- [ ] Felix (Venice) — Resy · Amex ✓ · $$$
+- [ ] Dear John's (Culver City; reborn) — Resy · Amex ✓ · $$
+- [ ] Destroyer (Culver City) — Resy · Amex ✓ · $$
+- [ ] Hinoki & the Bird (Century City) — Resy · Amex ✓ · $$
+- [ ] Cobi's (Santa Monica; Southeast Asian) — Resy · Amex ✓ · $$
+- [ ] Ospi (Venice) — Resy · Amex ✓ · $$
+- [ ] Crudo e Nudo (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Bé Ù (Virgil Village; Vietnamese) — Resy · Amex ✓ · $$
+- [ ] Saffy's (East Hollywood; Bavel's sibling) — Resy · Amex ✓ · $$
+- [ ] Bestia / Bavel (Arts District) — $$
+- [ ] Majordomo (Chinatown; Momofuku) — Resy · Amex ✓ · $$
+- [ ] Nightshade — CLOSED
+- [ ] Orsa & Winston — CLOSED
+- [ ] Trois Mec — CLOSED
+- [ ] Kinn (Koreatown; Korean tasting) — Tock · Amex ✓ · $$$$
+- [ ] Yess (Arts District; Japanese) — ? · Tock · Amex ✓ · $$$$
+- [ ] Soban (Koreatown) — Resy · Amex ✓ · $$
+- [ ] Park's BBQ (Koreatown) — Resy · Amex ✓ · $$
+- [ ] Kang Ho Dong Baekjeong (Koreatown) — Resy · Amex ✓ · $$
+- [ ] Quarters (Koreatown) — Resy · Amex ✓ · $$
+- [ ] Jitlada (Thai Town; southern Thai) — Resy · Amex ✓ · $$
+- [ ] Sapp Coffee Shop (Thai Town; boat noodles) — Walk-in · $
+- [ ] Northern Thai Food Club (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Thai Town's Sanamluang Café (24 hours) — $$
+- [ ] Musso & Frank Grill (Hollywood; 1919) — OpenTable · $$$
+- [ ] Dan Tana's (West Hollywood; since 1964) — OpenTable · $$$$
+- [ ] Spago (Beverly Hills; Wolfgang Puck) — OpenTable · $$$$
+- [ ] Craig's (West Hollywood) — OpenTable · $$$$
+- [ ] Madeo (Beverly Hills) — OpenTable · $$$$
+- [ ] The Ivy (Robertson; the patio) — OpenTable · $$$$
+- [ ] Nobu Malibu — OpenTable · $$$$
+- [ ] Sushi Park (Sunset Strip; the strip mall) — Resy · Amex ✓ · $$$$
+- [ ] Sugarfish (multiple; Nozawa) — Resy · Amex ✓ · $$
+- [ ] Sushi Zo (DTLA) — Tock · Amex ✓ · $$$$
+- [ ] Matsuhisa (Beverly Hills; the original Nobu) — OpenTable · $$$$
+- [ ] Philippe's (Chinatown; 1908) — Walk-in · $
+- [ ] Cole's (DTLA; 1908) — Walk-in · $$
+- [ ] The Original Pantry Cafe — CLOSED (2025)
+- [ ] Grand Central Market (DTLA; Eggslut, Sarita's, Villa Moreliana) — Walk-in · $
+- [ ] Mercado La Paloma (Historic South Central; Holbox, Chichen Itza, Komal) — Walk-in · $$
+- [ ] Guerrilla Tacos (Arts District) — Resy · Amex ✓ · $$
+- [ ] Leo's Tacos Truck (multiple; al pastor) — Walk-in · $
+- [ ] El Tepeyac (Boyle Heights; the Hollenbeck burrito) — Walk-in · $
+- [ ] Guisados (multiple) — Walk-in · $$
+- [ ] Tire Shop Taqueria (South LA; Tijuana-style) — Walk-in · $
+- [ ] Din Tai Fung (Arcadia; the US original) — Walk-in · $$
+- [ ] Sea Harbour (Rosemead; dim sum) — OpenTable · $$
+- [ ] Lunasia (Alhambra; dim sum) — OpenTable · $$
+- [ ] Chengdu Taste (Alhambra; Sichuan) — Resy · Amex ✓ · $$
+- [ ] Mian (San Gabriel) — $
+- [ ] Newport Seafood (San Gabriel; the lobster) — Resy · Amex ✓ · $$$
+- [ ] Sushi Gen (the sashimi lunch) — Resy · Amex ✓ · $$
+- [ ] Daikokuya (ramen) — Walk-in · $$
+- [ ] Marugame Monzo (udon) — Walk-in · $$
+- [ ] Tsujita LA (Sawtelle; tsukemen) — Resy · Amex ✓ · $$
+- [ ] Tsujita (Sawtelle) — Resy · Amex ✓ · $$
+- [ ] Killer Noodle (Sawtelle) — Walk-in · $$
+- [ ] Hamasaku (Sawtelle) — Resy · Amex ✓ · $$
+- [ ] Meals by Genet — Resy · Amex ✓ · $$
+- [ ] Carousel (Glendale; Lebanese-Armenian) — OpenTable · $$
+- [ ] Mini Kabob (Glendale) — Walk-in · $$
+- [ ] Raffi's Place (Glendale) — OpenTable · $$
+- [ ] Attari Sandwich Shop (Westwood; Persian) — Walk-in · $$
+- [ ] Shamshiri Grill (Westwood) — OpenTable · $$
+- [ ] Taste of Tehran (Westwood) — Resy · Amex ✓ · $$
+- [ ] Canter's Deli (Fairfax) — Walk-in · $$
+- [ ] Pink's Hot Dogs (La Brea; since 1939) — Walk-in · $
+- [ ] The Apple Pan (West LA; since 1947) — Walk-in · $
+- [ ] Father's Office (Santa Monica / Culver City; the burger) — Resy · Amex ✓ · $$
+- [ ] Bay Cities Italian Deli (Santa Monica; the Godmother) — Walk-in · $
+- [ ] Bludso's Bar & Que (La Brea) — Resy · Amex ✓ · $$
+- [ ] Roscoe's House of Chicken 'N Waffles (Hollywood / multiple) — Walk-in · $$
+- [ ] Howlin' Ray's (Chinatown; the line) — Walk-in · $
+- [ ] Dave's Hot Chicken (born East Hollywood) — Walk-in · $$
+- [ ] In-N-Out (Baldwin Park original; the secret menu) — Walk-in · $
+- [ ] Tommy's Original (Rampart; chili burgers since 1946) — Walk-in · $
+- [ ] Chili John's (Burbank) — Walk-in · $$
+- [ ] Bob's Big Boy (Burbank; 1949) — Walk-in · $
+- [ ] Casa Vega (Sherman Oaks; since 1956) — OpenTable · $$
+
+---
+
+## Brunch spots (50)
+
+- [ ] République (La Brea) — Resy · Amex ✓ · $$
+- [ ] Sqirl (Virgil Village; the ricotta toast) — Resy · Amex ✓ · $$
+- [ ] Gjusta (Venice) — Walk-in · $$
+- [ ] Gjelina (Venice) — Resy · Amex ✓ · $$$
+- [ ] All Time (Los Feliz) — Resy · Amex ✓ · $$
+- [ ] Little Dom's (Los Feliz) — Resy · Amex ✓ · $$
+- [ ] Kismet (Los Feliz) — BIB · Resy · Amex ✓ · $$
+- [ ] Jon & Vinny's (Fairfax) — BIB · Resy · Amex ✓ · $$
+- [ ] Courage Bagels (Virgil Village) — Walk-in · $$
+- [ ] Bub and Grandma's (Glassell Park) — Walk-in · $$
+- [ ] Friends & Family (Thai Town) — Walk-in · $$
+- [ ] Proof Bakery (Atwater) — Walk-in · $$
+- [ ] Wax Paper (Frogtown) — Resy · Amex ✓ · $$
+- [ ] Salazar (Frogtown) — Resy · Amex ✓ · $$
+- [ ] Spoke (Frogtown) — Walk-in · $$
+- [ ] Huckleberry (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] Superba Food + Bread (Venice) — Resy · Amex ✓ · $$
+- [ ] Rose Café (Venice) — Resy · Amex ✓ · $$
+- [ ] Dudley Market (Venice) — Resy · Amex ✓ · $$
+- [ ] Great White (Venice) — Resy · Amex ✓ · $$
+- [ ] Blue Daisy (Santa Monica) — Resy · Amex ✓ · $$
+- [ ] The Butcher's Daughter (Venice) — Resy · Amex ✓ · $$
+- [ ] Malibu Farm (Malibu Pier) — Resy · Amex ✓ · $$$
+- [ ] Eggslut (Grand Central Market) — Walk-in · $$
+- [ ] Sarita's Pupuseria (Grand Central Market) — Walk-in · $$
+- [ ] Philippe's (Chinatown; breakfast at the counter) — Walk-in · $
+- [ ] Langer's (Westlake) — BIB · Walk-in · $$
+- [ ] Canter's (Fairfax) — Walk-in · $$
+- [ ] Nate 'n Al's (Beverly Hills) — Walk-in · $$
+- [ ] Brent's Deli (Northridge) — Walk-in · $$
+- [ ] Art's Deli (Studio City) — Walk-in · $$
+- [ ] The Griddle Cafe (Hollywood; the pancakes) — Resy · Amex ✓ · $$
+- [ ] Clark Street Diner (Hollywood) — Resy · Amex ✓ · $$
+- [ ] Mel's Drive-In (Sunset Strip) — Walk-in · $$
+- [ ] Bob's Big Boy (Burbank) — Walk-in · $
+- [ ] Pann's (Westchester; Googie since 1958) — Walk-in · $
+- [ ] Norms (La Cienega; since 1957) — Walk-in · $
+- [ ] The Original Farmers Market (Fairfax; Du-par's, since 1934) — Walk-in · $$
+- [ ] Du-par's (Farmers Market) — Walk-in · $$
+- [ ] Roscoe's (Hollywood) — Walk-in · $$
+- [ ] Bloom & Plume (Historic Filipinotown) — Walk-in · $$
+- [ ] Openaire (Line Hotel) — Resy · Amex ✓ · $$
+- [ ] Polo Lounge (Beverly Hills Hotel; the McCarthy salad) — OpenTable · $$$$
+- [ ] Hotel Bel-Air (the garden) — OpenTable · $$$$
+- [ ] The Ivy (Robertson) — OpenTable · $$$$
+- [ ] Zinqué (multiple) — Resy · Amex ✓ · $$
+- [ ] Sycamore Kitchen (La Brea) — Resy · Amex ✓ · $$
+- [ ] Yang's Kitchen (Alhambra) — BIB · Resy · Amex ✓ · $$
+- [ ] Sea Harbour dim sum (Rosemead) — $$
+- [ ] Lunasia dim sum (Alhambra) — $$
+- [ ] Jitlada lunch (Thai Town) — $$
+
+---
+
+## Off-beat & only-in-Los Angeles (50)
+
+- [ ] Mariscos Jalisco (Boyle Heights; the shrimp taco truck) — Walk-in · $
+- [ ] Leo's Tacos Truck (al pastor off the trompo) — Walk-in · $
+- [ ] Tire Shop Taqueria (South LA; Tijuana-style) — Walk-in · $
+- [ ] Villa's Tacos (Highland Park) — BIB · Resy · Amex ✓ · $
+- [ ] Evil Cooks (El Sereno) — Resy · Amex ✓ · $
+- [ ] El Tepeyac (Boyle Heights) — Walk-in · $
+- [ ] Sonoratown (DTLA) — BIB · Walk-in · $
+- [ ] Holbox (Mercado La Paloma; a star in a food hall) — ★ · Resy · Amex ✓ · $$
+- [ ] Chichen Itza (Mercado La Paloma) — BIB · Resy · Amex ✓ · $
+- [ ] Grand Central Market (DTLA; since 1917) — Walk-in · $
+- [ ] Philippe's (the French dip, 1908) — Walk-in · $
+- [ ] Cole's (the other French dip, 1908) — Walk-in · $$
+- [ ] Langer's #19 (Westlake) — BIB · $$
+- [ ] Canter's (Fairfax; 24 hours) — Walk-in · $$
+- [ ] Pink's (La Brea; the line at 1am) — Walk-in · $
+- [ ] Tommy's Original (Rampart; chili) — Walk-in · $
+- [ ] The Apple Pan (West LA; the counter) — Walk-in · $
+- [ ] In-N-Out (Baldwin Park; the original) — Walk-in · $
+- [ ] Bob's Big Boy (Burbank; Friday classic-car night) — Walk-in · $
+- [ ] Pann's (Westchester; Googie) — Walk-in · $
+- [ ] Norms (La Cienega; Googie) — Walk-in · $
+- [ ] Musso & Frank (Hollywood; 1919) — OpenTable · $$$
+- [ ] Dan Tana's (West Hollywood) — OpenTable · $$$$
+- [ ] Yamashiro (Hollywood Hills) — OpenTable · $$$
+- [ ] Tiki-Ti (Los Feliz; cash, since 1961) — Walk-in · $
+- [ ] Tonga Hut (North Hollywood; 1958) — Walk-in · $
+- [ ] Sun Nong Dan (Koreatown; 24 hours) — BIB · Walk-in · $$
+- [ ] Dan Sung Sa (Koreatown; pojangmacha) — Walk-in · $$
+- [ ] Guelaguetza (Koreatown; JBF America's Classic) — BIB · Resy · Amex ✓ · $$
+- [ ] Sapp Coffee Shop (Thai Town; boat noodles) — Walk-in · $
+- [ ] Sanamluang (Thai Town; 24 hours) — Walk-in · $
+- [ ] Jitlada (Thai Town) — Resy · Amex ✓ · $$
+- [ ] Anajak Thai's Taco Tuesday (Sherman Oaks) — BIB · $$
+- [ ] Din Tai Fung (Arcadia; the US original) — Walk-in · $$
+- [ ] Newport Seafood (San Gabriel; the lobster) — Resy · Amex ✓ · $$$
+- [ ] Hui Tou Xiang (San Gabriel) — BIB · Resy · Amex ✓ · $
+- [ ] 626 Night Market (Arcadia; summer) — Walk-in · $
+- [ ] Fugetsu-Do (Little Tokyo; mochi since 1903) — Walk-in · $
+- [ ] Sushi Gen (Little Tokyo; the sashimi lunch) — Resy · Amex ✓ · $$
+- [ ] Howlin' Ray's (Chinatown; the line) — Walk-in · $
+- [ ] Bay Cities (Santa Monica; the Godmother) — Walk-in · $
+- [ ] Neptune's Net (Malibu; the bikers) — Walk-in · $$
+- [ ] Malibu Seafood (the picnic tables) — Walk-in · $$
+- [ ] Randy's Donuts (Inglewood; the giant donut) — Walk-in · $
+- [ ] Donut Man (Glendora; the strawberry donut) — Walk-in · $
+- [ ] Primo's Donuts (West LA; since 1956) — Walk-in · $
+- [ ] Porto's Bakery (Glendale / multiple; the potato balls) — Walk-in · $
+- [ ] The Farmers Market (Fairfax; since 1934) — Walk-in · $
+- [ ] Zankou Chicken (multiple; the garlic sauce) — Walk-in · $
+- [ ] Vespertine (Culver City; the spaceship) — ★ · Tock · Amex ✓ · $$$$
+
+---
+
+## Bakeries (50)
+
+- [ ] République (La Brea) — Resy · Amex ✓ · $$
+- [ ] Proof Bakery (Atwater) — Walk-in · $
+- [ ] Bub and Grandma's (Glassell Park) — Walk-in · $
+- [ ] Friends & Family (Thai Town) — Walk-in · $
+- [ ] Clark Street Bakery (multiple) — Walk-in · $
+- [ ] Gjusta (Venice) — Walk-in · $$
+- [ ] Sycamore Kitchen (La Brea) — Resy · Amex ✓ · $
+- [ ] Lodge Bread (Culver City / Woodland Hills) — Resy · Amex ✓ · $
+- [ ] Bakers Kneaded (Cypress Park) — Walk-in · $
+- [ ] Bread Head? — $
+- [ ] Courage Bagels (Virgil Village) — Walk-in · $
+- [ ] Yeastie Boys (trucks) — Walk-in · $
+- [ ] Belle's Bagels (Highland Park) — Walk-in · $
+- [ ] Maury's Bagels (Silver Lake) — Walk-in · $
+- [ ] Bagel Broker (Fairfax) — Walk-in · $
+- [ ] Porto's Bakery (Glendale / Burbank / multiple) — Walk-in · $
+- [ ] Fugetsu-Do (Little Tokyo) — Walk-in · $
+- [ ] Mitsuru Café (Little Tokyo) — Walk-in · $
+- [ ] Café Dulce (Little Tokyo) — Walk-in · $
+- [ ] Yamazaki Bakery (Little Tokyo) — Walk-in · $
+- [ ] 85°C (multiple; Taiwanese) — Walk-in · $
+- [ ] Kee Wah Bakery (San Gabriel Valley; Hong Kong) — Walk-in · $
+- [ ] Phoenix Bakery (Chinatown; strawberry cake since 1938) — Walk-in · $
+- [ ] Randy's Donuts (Inglewood) — Walk-in · $
+- [ ] Donut Man (Glendora) — Walk-in · $
+- [ ] Primo's Donuts (West LA) — Walk-in · $
+- [ ] Bob's Coffee & Doughnuts (Farmers Market) — Walk-in · $
+- [ ] California Donuts (Koreatown; 24 hours) — Walk-in · $
+- [ ] Sidecar Doughnuts (Santa Monica / Costa Mesa) — Walk-in · $
+- [ ] DK's Donuts (Santa Monica; 24 hours) — Walk-in · $
+- [ ] Blue Star Donuts? — CLOSED; use Kettle Glazed (Hollywood)
+- [ ] Mr. Holmes Bakehouse LA — CLOSED
+- [ ] Milk Bar LA (Melrose) — ? · Walk-in · $
+- [ ] Sweet Lady Jane — CLOSED; use Susiecakes (multiple)
+- [ ] Cake Monkey (Beverly Grove) — Walk-in · $
+- [ ] Pitchoun! (DTLA; French) — Walk-in · $
+- [ ] Chaumont (Beverly Hills; French) — Walk-in · $
+- [ ] Boulangerie Pierre? — $
+- [ ] Röckenwagner (Culver City) — Resy · Amex ✓ · $
+- [ ] Bakery: Cofax — $
+- [ ] Bricks & Scones (Larchmont) — Walk-in · $
+- [ ] Bakery: Rustic Bakery? — $
+- [ ] Bread Lounge (Arts District) — Resy · Amex ✓ · $
+- [ ] Little Flower (Pasadena) — Walk-in · $
+- [ ] Europane (Pasadena) — Walk-in · $
+- [ ] Bakery: Choux? — $
+- [ ] Bakery: Panos Pastry (Hollywood; Armenian) — $
+- [ ] Sarkis Pastry (Glendale / Pasadena) — Walk-in · $
+- [ ] Gusto Bread (Long Beach) — Walk-in · $
+- [ ] Sugarbloom Bakery (Frogtown) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Sweet Rose Creamery (Santa Monica / multiple) — Walk-in · $
+- [ ] Salt & Straw (Larchmont / multiple) — Walk-in · $
+- [ ] Wanderlust Creamery (Atwater / multiple) — Walk-in · $
+- [ ] Jeni's (multiple) — Walk-in · $
+- [ ] Carmela (Pasadena) — Walk-in · $
+- [ ] Mashti Malone's (Hollywood; Persian, since 1980) — Walk-in · $
+- [ ] Saffron & Rose (Westwood; Persian) — Walk-in · $
+- [ ] Fosselman's (Alhambra; since 1919) — Walk-in · $
+- [ ] Scoops (East Hollywood; Tai Kim) — Walk-in · $
+- [ ] Bulgarini Gelato (Altadena) — Walk-in · $
+- [ ] Pazzo Gelato (Silver Lake) — Walk-in · $
+- [ ] Magpies Softserve (Silverlake / multiple; pie + soft serve) — Walk-in · $
+- [ ] Van Leeuwen LA (multiple) — Walk-in · $
+- [ ] McConnell's (Studio City / multiple; Santa Barbara) — Walk-in · $
+- [ ] Mateo's Ice Cream & Fruit Bars (Culver City / multiple; paletas) — Walk-in · $
+- [ ] La Michoacana (multiple) — Walk-in · $
+- [ ] Fugetsu-Do (mochi) — Walk-in · $
+- [ ] Mikawaya (Little Tokyo; the mochi ice cream inventor) — ? · Walk-in · $
+- [ ] Bhan Kanom Thai (Thai Town; the sweets) — Walk-in · $
+- [ ] Cafe Dulce (Little Tokyo) — Walk-in · $
+- [ ] Somi Somi (Koreatown / multiple; ah-boong) — Walk-in · $
+- [ ] Meet Fresh (multiple) — Walk-in · $
+- [ ] Boba Guys LA (multiple) — Walk-in · $
+- [ ] Tea Master (Little Tokyo) — Walk-in · $
+- [ ] Sul & Beans (Koreatown; bingsu) — Walk-in · $
+- [ ] Okrumong (Koreatown; bingsu) — Walk-in · $
+- [ ] Beard Papa's (Little Tokyo) — Walk-in · $
+- [ ] Porto's (the potato balls, the guava strudel) — Walk-in · $
+- [ ] Randy's Donuts — Walk-in · $
+- [ ] Donut Man — Walk-in · $
+- [ ] Primo's — Walk-in · $
+- [ ] California Donuts — Walk-in · $
+- [ ] Sidecar — Walk-in · $
+- [ ] Diddy Riese (Westwood; the $3 ice cream sandwich) — Walk-in · $
+- [ ] Milk Bar LA — ? · Walk-in · $
+- [ ] Susiecakes — Walk-in · $
+- [ ] Cake Monkey — Walk-in · $
+- [ ] Sprinkles (Beverly Hills; the original) — Walk-in · $
+- [ ] Compartés (Melrose / multiple; the chocolate bars) — Walk-in · $
+- [ ] Littlejohn's English Toffee (Farmers Market) — Walk-in · $
+- [ ] See's Candies (born LA, 1921) — Walk-in · $
+- [ ] Phoenix Bakery's strawberry cake (Chinatown) — $
+- [ ] Providence's dessert (Hollywood) — ★★★ · $$$$
+- [ ] Somni's finale (West Hollywood) — ★★★ · $$$$
+- [ ] n/naka's dessert (Palms) — ★★ · $$$$
+- [ ] Kato's dessert (Arts District) — ★★ · $$$$
+- [ ] Vespertine's dessert (Culver City) — ★ · $$$
+- [ ] Destroyer's pastries (Culver City) — $
+- [ ] Ginger's Divine Ice Creams (Culver City) — Walk-in · $
+- [ ] Honeymee (Koreatown / multiple; milk soft serve) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Spago (Beverly Hills) — OpenTable · $$$$
+- [ ] Craig's (West Hollywood) — OpenTable · $$$$
+- [ ] Dan Tana's (West Hollywood) — OpenTable · $$$$
+- [ ] Musso & Frank (Hollywood) — OpenTable · $$$
+- [ ] The Ivy (Robertson) — OpenTable · $$$$
+- [ ] Madeo (Beverly Hills) — OpenTable · $$$$
+- [ ] Polo Lounge (Beverly Hills Hotel) — OpenTable · $$$$
+- [ ] Tower Bar (Sunset Tower) — Resy · Amex ✓ · $$$$
+- [ ] Chateau Marmont — Resy · Amex ✓ · $$$$
+- [ ] Sunset Tower Hotel's Terrace — Resy · Amex ✓ · $$$
+- [ ] Nobu Malibu — OpenTable · $$$$
+- [ ] Nobu Los Angeles (West Hollywood) — OpenTable · $$$$
+- [ ] Matsuhisa (Beverly Hills) — OpenTable · $$$$
+- [ ] Catch LA (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Catch Steak LA — Resy · Amex ✓ · $$$$
+- [ ] Delilah (West Hollywood; the supper club) — Resy · Amex ✓ · $$$$
+- [ ] The Nice Guy (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Bird Streets Club — ? · SevenRooms · $$$$
+- [ ] San Vicente Bungalows (West Hollywood; members) — SevenRooms · $$$$
+- [ ] Soho House West Hollywood (members) — SevenRooms · $$$$
+- [ ] Soho Warehouse (Arts District; members) — SevenRooms · $$$$
+- [ ] Mother Wolf (Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Funke (Beverly Hills) — Resy · Amex ✓ · $$$$
+- [ ] Gigi's (Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Mr. Chow (Beverly Hills) — OpenTable · $$$$
+- [ ] Cipriani Beverly Hills — OpenTable · $$$$
+- [ ] Mastro's (Beverly Hills) — OpenTable · $$$$
+- [ ] Cut (Beverly Wilshire; Wolfgang Puck) — OpenTable · $$$$
+- [ ] Gwen (Hollywood) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Providence (Hollywood) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Somni (West Hollywood) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Osteria Mozza (Melrose) — ★ · Resy · Amex ✓ · $$$
+- [ ] Bestia (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Bavel (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Damian (Arts District) — Resy · Amex ✓ · $$$$
+- [ ] Yangban (Arts District) — Resy · Amex ✓ · $$$
+- [ ] Kato (Arts District) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Hayato (Arts District) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Camélia (Arts District) — NEW · Resy · Amex ✓ · $$$
+- [ ] Cara Cara (Proper DTLA) — Resy · Amex ✓ · $$$
+- [ ] Perch (DTLA) — OpenTable · $$$
+- [ ] Bar Lis (Thompson Hollywood) — Resy · Amex ✓ · $$$
+- [ ] The Roof at the Edition — Resy · Amex ✓ · $$$$
+- [ ] Mélisse / Citrin (Santa Monica) — ★★ / ★ · $$$$
+- [ ] Pasjoli (Santa Monica) — ★ · Resy · Amex ✓ · $$$$
+- [ ] The Bungalow (Santa Monica) — OpenTable · $$$
+- [ ] Élephante (Santa Monica) — Resy · Amex ✓ · $$$
+- [ ] Felix (Venice) — Resy · Amex ✓ · $$$
+- [ ] Gjelina (Venice) — Resy · Amex ✓ · $$$
+- [ ] n/naka (Palms) — ★★ · Tock · Amex ✓ · $$$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] Sound Nightclub (Hollywood) — SevenRooms · $$$
+- [ ] Academy LA (Hollywood) — SevenRooms · $$$
+- [ ] Avalon (Hollywood; the Palladium's rival) — SevenRooms · $$$
+- [ ] Hollywood Palladium (the venue) — Walk-in · $$$
+- [ ] Exchange LA (DTLA) — SevenRooms · $$$
+- [ ] The Mayan (DTLA) — Walk-in · $$$
+- [ ] Los Globos (Silver Lake) — Walk-in · $$$
+- [ ] The Echo / Echoplex (Echo Park) — Walk-in · $$$
+- [ ] Zebulon (Frogtown) — Walk-in · $$$
+- [ ] Gold-Diggers (East Hollywood) — Walk-in · $$$
+- [ ] The Lodge Room (Highland Park) — Walk-in · $$$
+- [ ] Teragram Ballroom (Westlake) — Walk-in · $$$
+- [ ] The Wiltern (Koreatown) — Walk-in · $$$
+- [ ] The Fonda (Hollywood) — Walk-in · $$$
+- [ ] El Rey Theatre (Miracle Mile) — Walk-in · $$$
+- [ ] The Troubadour (West Hollywood; since 1957) — Walk-in · $$$
+- [ ] Whisky a Go Go (Sunset Strip) — Walk-in · $$
+- [ ] The Roxy (Sunset Strip) — Walk-in · $$$
+- [ ] The Viper Room (Sunset Strip) — Walk-in · $$$
+- [ ] Rainbow Bar & Grill (Sunset Strip) — Walk-in · $$
+- [ ] Largo at the Coronet (Beverly Grove) — Resy · Amex ✓ · $$$
+- [ ] Hotel Café (Hollywood) — Resy · Amex ✓ · $$$
+- [ ] Harvelle's (Santa Monica; since 1931) — Resy · Amex ✓ · $$$
+- [ ] The Baked Potato (Studio City; jazz since 1970) — Resy · Amex ✓ · $$$
+- [ ] Sam First (LAX; jazz) — Resy · Amex ✓ · $$$
+- [ ] Blue Whale — CLOSED
+- [ ] Catalina Jazz Club (Hollywood) — OpenTable · $$$
+- [ ] Vibrato (Bel Air; Herb Alpert's) — OpenTable · $$$
+- [ ] The Abbey (West Hollywood) — Walk-in · $$$
+- [ ] Rocco's (West Hollywood) — Walk-in · $$$
+- [ ] Micky's (West Hollywood) — Walk-in · $$$
+- [ ] Precinct (DTLA) — Walk-in · $$$
+- [ ] Akbar (Silver Lake) — Walk-in · $$$
+- [ ] Bar Sinister (Hollywood; goth) — Walk-in · $$$
+- [ ] Club Bahia (Echo Park; salsa) — Walk-in · $$$
+- [ ] La Cita (DTLA; cumbia Sundays) — Walk-in · $$$
+- [ ] Bar Franca — CLOSED
+- [ ] Break Room 86 (Koreatown) — Resy · Amex ✓ · $$$
+- [ ] The Prince (Koreatown) — Walk-in · $$$
+- [ ] Belasco (DTLA) — Walk-in · $$$
+- [ ] Shrine Expo Hall (Exposition Park) — Walk-in · $$$
+- [ ] The Novo (LA Live) — Walk-in · $$$
+- [ ] Greek Theatre (Griffith Park; summer) — Walk-in · $$$
+- [ ] Hollywood Bowl (summer; the picnic) — Walk-in · $$
+- [ ] Delilah (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Bootsy Bellows (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Poppy (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Hyde Sunset (Sunset Strip) — Resy · Amex ✓ · $$$$
+- [ ] Nightingale Plaza (West Hollywood) — Resy · Amex ✓ · $$$$
+- [ ] Bar Lis late (Hollywood) — $$$
+- [ ] Jumbo's Clown Room late (Los Feliz) — $$$
+
+---
+
+*Notes*
+- Michelin: the 2026 California selection, announced June 24, 2026 in San Diego. Los Angeles holds twenty-five stars: Somni and Providence at three (the first in the city's history, awarded 2025); Kato promoted to two beside n/naka, Hayato and Mélisse; and five new one-stars — Corridor 109, Kojima, Lielle, Miura and Seline — while 715, Camphor and Morihiro lost theirs. Little Fish and Sonoratown joined the Bib list; Little Fish's chefs were named Michelin's Young Chefs of the Year.
+- Bars: Thunderbolt in Echo Park is LA's 50 Best regular and a James Beard Outstanding Bar finalist. The Varnish's rebirth behind Cole's and Clifton's reopening are flagged to verify.
+- Anything marked **?** deserves a check before you go — LA lost the Original Pantry, Nightshade, Employees Only and the Walker Inn within two years.

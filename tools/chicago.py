@@ -1,0 +1,99 @@
+# -*- coding: utf-8 -*-
+import re
+SLUG='chicago'; NAME='Chicago'
+MD='/mnt/user-data/outputs/liste-de-ville-chicago-2026.md'
+OUT_HTML='/mnt/user-data/outputs/liste-de-ville-chicago-2026-magazine.html'
+OUT_PDF='/mnt/user-data/outputs/liste-de-ville-chicago-2026.pdf'
+IMG_DIR='/home/claude/img_chicago'; COVERBAND='/home/claude/coverband_chicago.jpg'
+H1='Chi<i>cago</i>'
+TAG='The best of the best in the city — must-visit, unique, a rockstar in its own right. The first edition.'
+MAST='No. 6 · liste de ville / Chicago · Fall/Winter 2026'
+FOOTER='Honestly Speaking  ·  liste de ville / Chicago  ·  Fall/Winter 2026'
+TITLE='Honestly Speaking — liste de ville / Chicago, Fall/Winter 2026'
+STATS=[('20','Michelin stars in the 2025 selection — Smyth alone at three',True),('33','Bib Gourmand restaurants',True),('1907',"the Green Mill — jazz since",False)]
+RANK_LEGEND='<span><span class="note">GS</span> Michelin Green Star</span><span><span class="jbf">JBF</span> James Beard winner or nominee</span>'
+COLOPHON='Compiled by Tony Abraham against Yelp, Google, the Chicago Tribune, Chicago Magazine, Eater Chicago, OpenTable, Resy, Tock and the Michelin Guide. Michelin marks reflect the 2025 Chicago selection, the most recent at time of printing; only stars, Green Stars and Bib Gourmands are shown. Cover: the Gold Coast and the Hancock from Oak Street Beach, via Pexels.'
+AUTHOR_EXTRA='Based in New York, with field notes from all around. <em>liste de ville / Chicago</em> is the fifth city guide — the city that invented Tock, deep dish, and the depression dog, and where the hot-dog stand and the three-star are argued about with equal seriousness.'
+AUTHOR_SMALL='First edition, Fall/Winter 2026. San Francisco, Los Angeles and Seattle to follow.'
+OCC_LEGEND='occasion (editorial, by category and price)'
+SEARCH_HINT='(try “tavern-style”, “Logan Square”, “omakase”)'
+DECKS = {
+ "Cafés & all-day / chef's neighborhood spots": "Logan Square's Bib row, Fulton Market's counters, and the neighborhood rooms Chicago actually eats in on a Tuesday.",
+ "Speakeasies & hidden bars — descending order of amazingness": "Through a record shop, behind a mural, beneath the Aviary. Ranked, loosely, by the drink.",
+ "Rooftop bars": "Over Millennium Park, over the river, over the world's largest rooftop bar on Navy Pier.",
+ "Bars — notable mentions": "A James Beard Outstanding Bar, three 50 Best entries, and the taverns and blues rooms that made the city.",
+ "Coffee shops": "Intelligentsia's hometown, Sawada's military latte, and the bakeries that double as the best cafés.",
+ "Restaurants": "Twenty Michelin stars, thirty-three Bibs, the deep-dish and tavern-style argument, and the Devon Avenue, Pilsen and Uptown kitchens that are the actual city.",
+ "Brunch spots": "Lula on Sunday, Kasama's morning line, and the pancake houses of the North Shore.",
+ "Off-beat & only-in-Chicago": "The depression dog, the dipped beef, the jibarito, mild sauce, and a tasting menu you reach by phoning a chef.",
+ "Bakeries": "Kasama's ube, Lost Larson's cardamom, paczki on Fat Tuesday, and Roeser's since 1911.",
+ "Dessert bars & sweets": "For after — or instead of — dinner.",
+ "Notable mentions — scene dining, lounges & supper clubs": "Where the room is the point: Gold Coast steakhouses, Fulton Market's dining rooms, and the Drake.",
+ "Dance clubs & nightlife": "Smartbar since 1982, the Green Mill since 1907, and the blues rooms in between.",
+}
+ABOUT = {
+ "Cafés": ("Logan Square is the neighborhood-restaurant capital of America: Lula, Daisies, Lardon, Cellar Door, Table Donkey and Stick, Mi Tocaya, Superkhana — seven Bibs on a two-mile stretch. Fulton Market and the Publican family cover the west side.",
+           "Picked for the room you'd return to on a weeknight. Seventeen Bibs are on this list plus three starred rooms; Kasama's daytime bakery-café is the two-star you can walk into."),
+ "Speakeasies": ("Chicago's hidden bars are literal: Dorian's through a record shop, the Violet Hour behind a mural, the Office beneath the Aviary, Milk Room with eight seats. The Green Mill has Capone's tunnels.",
+           "Ranked by the drink. Kumiko is the 2024 James Beard Outstanding Bar; Best Intentions, Meadowlark and Bisous hold 50 Best rankings. Lost Lake and Danny's are listed closed because the city still mourns them."),
+ "Rooftops": ("Cindy's over Millennium Park is the one everyone wants; Offshore on Navy Pier is the largest rooftop bar in the world; the Riverwalk does the same job at water level in summer.",
+           "Chosen for the view first, stretched to include the beach bars and the Riverwalk, which close by October. Wrigleyville's rooftops are on because they're a civic institution."),
+ "Bars": ("A serious cocktail city since the Violet Hour opened in 2007, with a tavern culture older than any of it and the blues rooms that gave the world Chess Records.",
+           "Ranked and recognized first, then institutions, hotel bars, dives, wine, beer. The Green Mill, Billy Goat and Old Town Ale House are on for history; Hopleaf and Map Room for the beer."),
+ "Coffee": ("Intelligentsia started third-wave coffee here in 1995; Metric, Dark Matter and Sawada carry it on; Lou Mitchell's has been giving away Milk Duds since 1923.",
+           "Selected for the cup and the room. The bakeries that double as cafés — Kasama, Lost Larson, Loba, Publican Quality Bread — are the best mornings in the city."),
+ "Restaurants": ("Twenty stars in the 2025 selection — Smyth alone at three, Alinea moved down to two beside Ever, Oriole and Kasama — and thirty-three Bibs, with Mirra, Nadu and Taqueria Chingón added. Around them: the steakhouses, the pizza argument, and the neighborhood kitchens of Pilsen, Uptown, Devon Avenue and Bridgeport.",
+           "Grouped by distinction, then the new guard, then the classics. Tock was invented here (for Alinea), so the counters run on it. The Bibs and the Logan Square block are where to read slowly."),
+ "Brunch": ("Sunday means Lula, the Kasama line, Longman & Eagle's whiskey with eggs, and the pancake houses that have been doing the Dutch baby since the 1950s.",
+           "Kept to places that consistently top Resy and OpenTable's weekend demand plus the counters you walk into. Nine Bibs and a two-star do brunch here."),
+ "Off-beat": ("The depression dog at Gene & Jude's, the dipped beef at Al's, the jibarito in Humboldt Park, mild sauce on the South Side, and a Michelin-starred restaurant you reach by phoning the chef.",
+           "Selected for singularity. Calumet Fisheries won a James Beard America's Classic; Schwa's phone and Oriole's freight elevator are on for the theater; the Sunday Maxwell Street Market is the best cheap meal in the city."),
+ "Bakeries": ("Kasama's ube pastries, Lost Larson's Scandinavian buns, Roeser's since 1911, and the Polish bakeries that sell a hundred thousand paczki on Fat Tuesday.",
+           "Chosen on the strength of one signature item each. Old Fashioned Donuts in Roseland is on for the apple fritter; Ferrara and Scafuri for being older than the Cubs' last title before 2016."),
+ "Dessert": ("Margie's sundae since 1921, the Rainbow Cone since 1926, the Palmer House brownie since 1893, and Alinea's balloon.",
+           "A mix of the destination and the institution. Half of this list is a century old, because Chicago keeps its sweets."),
+ "Scene": ("Where the room is the point: Gibsons and Maple & Ash on the Gold Coast, the Fulton Market dining rooms, the Drake's Coq d'Or, and the starred rooms that are also a show.",
+           "Steakhouses lead — this is Chicago — then Fulton Market's scene, then the tasting rooms where the experience is the point. Soho House is on because everyone will ask."),
+ "Nightlife": ("Smartbar under Metro since 1982, the Green Mill since 1907, Buddy Guy's, and the venues — Thalia Hall, the Salt Shed, Empty Bottle — that make this a music city before a club city.",
+           "Venues and clubs together. Berlin, Double Door and Le Passage are listed closed; Podlasie Club is on because a Polish disco in Avondale is the most Chicago night out there is."),
+}
+R="""Lula Cafe|Daisies|Lardon|Cellar Door Provisions|Table, Donkey and Stick|Giant|Mi Tocaya Antojería|Superkhana International|Dear Margaret|Sochi Saigonese Kitchen|Chilam Balam|Avec|The Publican|Publican Quality Meats|Rose Mary|Monteverde|Obélix|Le Bouchon|Mirra|Mott St|Big Star|Bar Sótano|Frontera Grill|Ciccio Mio|Gilt Bar|Bavette's|Bavette's Bar & Boeuf|Nadu|Galit|Boka|Perilla|Cariño|Andros Taverna|HaiSous|Pleasant House Pub|Kimski|Virtue|Munno Pizzeria & Bistro|Munno|Parachute|Boonie's Filipino|Sifr|Sol de Mexico|Kie-Gol-Lanee|Bloom Plant Based Kitchen|Tortello|Apolonia|Longman & Eagle|Bar Goa|Pompette|Rootstock|Kumiko|The Violet Hour|Meadowlark|Bisous|Best Intentions|Dorian's|Bordel|Sportsman's Club|Scofflaw|Billy Sunday|Three Dots and a Dash|Estereo|Lazy Bird|The Whistler|Ludlow Liquors|Bar DeVille|Chef's Special Cocktail Bar|Nine Bar|Nobody's Darling|Broken English|Ombra|Simone's|Punch House|Debonair Social Club|Bar Lupo|Untitled Supper Club|The Duck Inn|Maria's Packaged Goods|Cindy's|LH Rooftop|Cerise|Apogee|Drumbar|J. Parker|Upstairs at the Gwen|Offshore|Raised|Cabra|Boleo|NoMI Garden|NoMI|Aba|Ēma|Beatnik on the River|Beatnik|Streeterville Social|The Robey's Up Room|The Up Room|ROOF on theWit|Nobu Chicago rooftop|Nobu Chicago|The Godfrey's I|O|VU Rooftop|Terrace 16|Rooftop at the Emily Hotel|Cherry Circle Room|Drawing Room|Game Room|The Coq d'Or|The Palm Court|Pops for Champagne|Vol. 39|The Library at the Gwen|Ada Street|Webster's Wine Bar|Red & White Wines|Income Tax|Smyth|Ever|Oriole|Kasama|Atelier|EL Ideas|Elske|Esmé|Feld|Indienne|Mako|Moody Tongue|Sepia|Topolobampo|Taqueria Chingón|Warlord|Tre Dita|Miru|Adalina|The Alston|Akahoshi Ramen|Bazaar Meat by José Andrés|Jaleo Chicago|Momotaro|Girl & the Goat|Duck Duck Goat|Little Goat Diner|Au Cheval|Maple & Ash|Swift & Sons|RPM Steak / RPM Italian|RPM Steak|RPM Italian|Gibsons Bar & Steakhouse|Gibsons|Chicago Cut|Boeufhaus|Prime & Provisions|Bistro Campagne|North Pond|Sun Wah BBQ|Rooh Chicago|Vajra|Cumin|Jeong|Cho Sun Ok|Jin Ju|Isla Pilipina|Bayan Ko|Kyōten|Sushi-san|Roka Akor|Greek Islands|Athena|Avli|Spacca Napoli|Coalfire|Paulie Gee's Logan Square|Bungalow by Middle Brow|Kuma's Corner|Smoque BBQ|La Bruquena|Tufano's Vernon Park Tap|Rosebud|Piccolo Sogno|Mart Anthony's|Twin Anchors|Le Colonial|Nico Osteria|Somerset|The Peninsula's Shanghai Terrace|m. henry|Big Jones|Southport Grocery|Beatrix|Kanela Breakfast Club|Batter & Berries|Cafe Ba-Ba-Reeba!|Ina Mae Tavern|Peach's|Toast|Yolk|Loba|Floriole|La Fournette|Hewn|Lost Larson|Hopleaf|The Hideout|Kingston Mines|Buddy Guy's Legends|Rosa's Lounge|Schubas|Cole's|Beauty Bar|Slippery Slope|Emporium|Headquarters Beercade|Time Out Market Chicago|Andy's Jazz Club|Jazz Showcase""".split("|")
+T="""Alinea|Next|The Aviary|The Office|Ever|Oriole|Smyth|Kasama|Esmé|EL Ideas|Elske|Feld|Mako|Moody Tongue|Schwa|Atelier|Cariño|Kyōten|Omakase Yume|Milk Room|Roister|Jeong""".split("|")
+O="""Lou Mitchell's|Manny's Cafeteria & Delicatessen|Manny's|Eleven City Diner|Original Pancake House|Walker Bros.|Wildberry Pancakes|Wildberry|Bongo Room|Ann Sather|Tweet|The Drake's Palm Court tea|Green Door Tavern|Harry Caray's|House of Blues|Riviera|Aragon Ballroom|Chicago Theatre|Ravinia|The Vic|Metro|Thalia Hall|Salt Shed|Lincoln Hall|Constellation|Sleeping Village|Subterranean|Bottom Lounge|Radius|Bassline|Reggies|Cobra Lounge|Empty Bottle""".split("|")
+S="""Spybar|Sound-Bar|Prysm|TAO Chicago|Smartbar|Soho House Chicago|Evil Olive""".split("|")
+W="""Gene & Jude's|Superdawg|Wiener's Circle|Jim's Original|Al's Beef|Johnnie's Beef|Mr. Beef|Portillo's|Vito & Nick's|Pequod's|Lou Malnati's|Pizano's|Giordano's|Milly's Pizza in the Pan|Pat's Pizza|Marie's Pizza & Liquors|Calumet Fisheries|Harold's Chicken|Lem's Bar-B-Q|Uncle Remus|Valois|Billy Goat Tavern|Papa's Cache Sabroso|Carnitas Uruapan|5 Rabanitos|Birrieria Zaragoza|Lao Sze Chuan|MingHin Cuisine|Qing Xiang Yuan Dumplings|Cai|Chi Cafe|Han 202|Pho 777|Tank Noodle|Nha Hang Viet Nam|Demera|Ras Dashen|Hema's Kitchen|Uru-Swati|Sabri Nihari|San Soo Gab San|Strings Ramen|Wasabi|Podhalanka|Staropolska|Kasia's Deli|Maxwell Street Market|Devon Avenue|Margie's Candies|Rainbow Cone|Garrett Popcorn|Nuts on Clark|Old Town Ale House|Green Mill|Carol's Pub|Rainbo Club|California Clipper|Delilah's|Gold Star Bar|Rossi's|Bernice's Tavern|Skylark|Podlasie Club|Ola's Liquor|Simon's Tavern|Map Room|Sheffield's|Revolution Brewing|Half Acre|Goose Island|Marz Community Brewing|Off Color Brewing|Pilot Project|Middle Brow Bungalow|Middle Brow|Dovetail|Begyle|Spiteful|Metropolitan Brewing|Kaiser Tiger|Tiny Tapp|City Winery Riverwalk|The Northman Beer & Cider Garden|Island Party Hut|Recess|Parlor Pizza Bar rooftops|Murphy's Bleachers|Old Crow Smokehouse rooftop|Castaways|The Dock at Montrose Beach|Shore Club|Ohio Street Beach's Caffè Oliva|Big Star's patio|Parson's Chicken & Fish|Sheffield's beer garden|Revolution Brewing's taproom|Hopleaf's garden|Hubbard Inn's roof|Moe's Cantina rooftop|Bar Sol at Navy Pier|Wrigleyville rooftops|Intelligentsia|Metric Coffee|Sawada Coffee|Dark Matter Coffee|Ipsento|Ipsento 606|Big Shoulders Coffee|Passion House|Hero Coffee|Dollop Coffee|The Wormhole|Sip of Hope|La Colombe|Publican Quality Bread|Cafe Jumping Bean|Ellipsis Coffeehouse|Fairgrounds|Bru Chicago|Gaslight Coffee Roasters|Collectivo Coffee|Stan's Donuts & Coffee|Stan's Donuts|Do-Rite Donuts|Doughnut Vault|Firecakes|Bombobar|Café Selmarie|Coffee & Tea Exchange|Caffè Umbria|Bridgeport Coffee Company|Sputnik Coffee|Kusanya Café|Sip & Savor|Build Coffee|Plein Air Café|Medici on 57th|Goddess and the Baker|Cafecito|Vanille Patisserie|Bittersweet Pastry Shop|Alliance Bakery|Roeser's Bakery|Weber's Bakery|Mindy's Bakery|Hoosier Mama Pie Company|Hoosier Mama Pie|Bang Bang Pie & Biscuits|Bang Bang Pie|First Slice Pie Café|Old Fashioned Donuts|Dat Donut|Chiu Quon Bakery|Saint Anna Bakery|Tous les Jours|Paris Baguette|Pticek & Son Bakery|Delightful Pastries|Oak Mill Bakery|Bennison's Bakery|Defloured|Panadería Nuevo León|El Nopal Bakery|Ferrara Bakery Chicago|Scafuri Bakery|D'Amato's Bakery|Pan Artesanal|Beurrage|Sweet Mandy B's|Molly's Cupcakes|Wheat's End|Baker Miller|Kirschbaum's|Levain Chicago|Lezza Spumoni & Desserts|Pretty Cool Ice Cream|Jeni's|Black Dog Gelato|Kurimu|Cone Gourmet Ice Cream|Zarlengo's|Miko's Italian Ice|Mario's Italian Lemonade|Vosges Haut-Chocolat|Katherine Anne Confections|Eli's Cheesecake|Kilwins|Kung Fu Tea|Tsaocaa|Joy Yee|Fannie May|Frango Mints|Palmer House's brownie|Original Rainbow Cone at Navy Pier|Sidetrack|Roscoe's|Hydrate|Progress|Cell Block|Big Chicks|Sun Wah""".split("|")
+PLAT={}
+for lst,tag in ((O,'OpenTable'),(S,'SevenRooms'),(W,'Walk-in'),(R,'Resy'),(T,'Tock')):
+    for n in lst:
+        n=n.strip()
+        if n: PLAT[n]=tag
+def lookup(name):
+    if name in PLAT: return PLAT[name]
+    base=name.split(' (')[0].strip()
+    return PLAT.get(base)
+PRICE_OVER={"Smyth":4,"Alinea":4,"Ever":4,"Oriole":4,"Kasama":4,"Kasama daytime":2,"Atelier":4,"Boka":4,"Cariño":4,"EL Ideas":4,"Elske":3,"Esmé":4,"Feld":4,"Galit":3,"Indienne":4,"Mako":4,"Moody Tongue":4,"Next":4,"Schwa":4,"Sepia":3,"Topolobampo":4,"Frontera Grill":2,"Daisies":2,"Lula Cafe":2,"Avec":2,"Virtue":3,"Maple & Ash":4,"Gibsons Bar & Steakhouse":4,"Gibsons":4,"Bavette's":4,"Bavette's Bar & Boeuf":4,"RPM Steak / RPM Italian":4,"RPM Steak":4,"RPM Italian":3,"Swift & Sons":4,"Chicago Cut":4,"Prime & Provisions":4,"Boeufhaus":4,"Bazaar Meat by José Andrés":4,"Jaleo Chicago":3,"Nobu Chicago":4,"Momotaro":4,"Roka Akor":4,"Sushi-san":3,"Tre Dita":4,"Miru":4,"Adalina":4,"The Alston":4,"Le Colonial":3,"Nico Osteria":3,"Somerset":3,"NoMI":4,"The Peninsula's Shanghai Terrace":4,"Girl & the Goat":3,"Duck Duck Goat":3,"Cabra":3,"Au Cheval":2,"Monteverde":3,"The Publican":3,"Rose Mary":3,"Obélix":3,"Le Bouchon":3,"Bistro Campagne":3,"North Pond":4,"Kyōten":4,"Omakase Yume":4,"Jeong":4,"Untitled Supper Club":3,"Kumiko":3,"Milk Room":4,"The Violet Hour":2,"The Aviary":4,"The Office":4,"Best Intentions":2,"Meadowlark":2,"Bisous":2,"Cindy's":3,"LH Rooftop":3,"Offshore":3,"Gene & Jude's":1,"Superdawg":1,"Wiener's Circle":1,"Jim's Original":1,"Al's Beef":1,"Johnnie's Beef":1,"Mr. Beef":1,"Portillo's":1,"Vito & Nick's":1,"Pequod's":2,"Lou Malnati's":2,"Calumet Fisheries":1,"Harold's Chicken":1,"Lem's Bar-B-Q":1,"Uncle Remus":1,"Valois":1,"Billy Goat Tavern":1,"Papa's Cache Sabroso":1,"Carnitas Uruapan":1,"Birrieria Zaragoza":1,"Sun Wah BBQ":2,"Chi Cafe":1,"Maxwell Street Market":1,"Manny's":2,"Manny's Cafeteria & Delicatessen":2,"Lou Mitchell's":2,"Green Mill":1,"Old Town Ale House":1,"Twin Anchors":2,"Margie's Candies":1,"Rainbow Cone":1,"Garrett Popcorn":1,"Smartbar":2,"Metro":2,"Spybar":3,"Sound-Bar":3,"Prysm":3,"TAO Chicago":4,"Soho House Chicago":4,"Ravinia":2}
+def occasions(name, cat=None, price=0):
+    o=[]
+    if cat=='Restaurants':
+        if price>=4: o=['Romantic','Date night']
+        elif price==3: o=['Date night']
+        elif price==2: o=['Casual','Date night']
+        else: o=['Casual']
+        if name in ('Girl & the Goat','Duck Duck Goat','Cabra','Big Star','Frontera Grill','Gibsons','Gibsons Bar & Steakhouse','Maple & Ash','Bavette\'s','RPM Italian','Jaleo Chicago','Aba','Ēma','Sun Wah BBQ','Lao Sze Chuan','MingHin Cuisine','Time Out Market Chicago','Pequod\'s','Lou Malnati\'s','Twin Anchors','Greek Islands','Kuma\'s Corner'): o=o+['Group']
+    elif cat=='Cafés': o=['Date night','Casual'] if price>=2 else ['Casual']
+    elif cat=='Speakeasies': o=['Date night','Late night']
+    elif cat=='Bars':
+        o=['Late night'] if price<=1 else ['Date night','Late night']
+        if 'Brewing' in name or name in ('Hopleaf','Map Room','Sheffield\'s','Half Acre','Goose Island','Off Color Brewing','Pilot Project','Middle Brow Bungalow','Dovetail','Begyle','Spiteful','Kaiser Tiger'): o=['Group','Casual']
+        if name in ('Kumiko','Milk Room','The Violet Hour','The Aviary','The Office','Bisous','The Coq d\'Or','Pops for Champagne','NoMI','Cherry Circle Room','Bar Lupo'): o=['Romantic','Date night']
+    elif cat=='Rooftops': o=['Date night','Group']
+    elif cat=='Coffee': o=['Sweets','Brunch']
+    elif cat=='Brunch': o=['Brunch']
+    elif cat=='Off-beat': o=['Casual']
+    elif cat=='Bakeries': o=['Sweets','Brunch']
+    elif cat=='Dessert': o=['Sweets']
+    elif cat=='Scene': o=['Group','Date night'] if price<=3 else ['Romantic','Group']
+    elif cat=='Nightlife': o=['Late night','Group']
+    return o
+from cities.chicago_itin import ITINS, GOTCHAS
+NOTES_HTML='''<p>Michelin: the 2025 Chicago selection, announced November 18, 2025 as part of the Northeast Cities guide — twenty stars. Smyth is the city's only three-star; Alinea moved down to two after more than a decade at three, alongside Ever, Oriole and Kasama, which was promoted; fifteen one-stars, including Feld, new with a Green Star. Daisies holds a Green Star with its Bib. Thirty-three Bib Gourmands, with Mirra, Nadu and Taqueria Chingón added. Amy Cordell of Ever received the Michelin Service Award. The 2026 selection is expected late 2026.</p><p>Bars: Kumiko won the 2024 James Beard Outstanding Bar award and is Chicago's 50 Best regular; Best Intentions (№25), Meadowlark (№38) and Bisous (№39) held 2025 North America's 50 Best rankings — their 2026 placings weren't confirmed for this edition. Calumet Fisheries holds a James Beard America's Classics award.</p><p>Occasion chips for Chicago are editorial assignments, by category and price. Tock — invented here for Alinea — runs most of the tasting counters; Resy the rest. The Amex credit works at both.</p><p>Photography via Pexels (royalty-free): three photographs, cropped and reused across the twelve sections.</p>'''

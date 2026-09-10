@@ -1,0 +1,904 @@
+# liste de ville / San Francisco — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide California (2026 selection, June 24, 2026 — the most recent), North America's 50 Best Bars, the San Francisco Chronicle's Top 100, Eater SF, Resy, Tock, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ / ★★ / ★★★ = Michelin stars (2026 California selection) · **GS** = Michelin Green Star
+- **BIB** = Michelin Bib Gourmand (2026)
+- **NA50 #n** = North America's 50 Best Bars (2025 ranking noted where 2026 wasn't confirmed) · **Top100** = SF Chronicle Top 100
+- **JBF** = James Beard winner or nominee (year noted)
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Nopa (Divisadero; since 2006) — Resy · Amex ✓ · $$$
+- [ ] Zuni Café (Market St; the roast chicken, since 1979) — Resy · Amex ✓ · $$$
+- [ ] Foreign Cinema (Mission) — Resy · Amex ✓ · $$$
+- [ ] Delfina (Mission) — Resy · Amex ✓ · $$$
+- [ ] Flour + Water (Mission) — BIB · Resy · Amex ✓ · $$$
+- [ ] Cotogna (Jackson Square) — BIB · Resy · Amex ✓ · $$$
+- [ ] Che Fico (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] Rich Table (Hayes Valley) — Resy · Amex ✓ · $$$
+- [ ] Frances (Castro) — Resy · Amex ✓ · $$$
+- [ ] Rintaro (Mission; izakaya) — BIB · Resy · Amex ✓ · $$$
+- [ ] The Morris (Mission; the duck) — BIB · Resy · Amex ✓ · $$$
+- [ ] Piccino (Dogpatch) — Resy · Amex ✓ · $$$
+- [ ] La Ciccia (Noe Valley; Sardinian) — Resy · Amex ✓ · $$$
+- [ ] Trestle (Jackson Square) — Resy · Amex ✓ · $$
+- [ ] Ernest (Mission) — Resy · Amex ✓ · $$$
+- [ ] Abacá (Fisherman's Wharf; Filipino) — Resy · Amex ✓ · $$$
+- [ ] Bar Crenn (Cow Hollow) — Resy · Amex ✓ · $$$
+- [ ] Anchor Oyster Bar (Castro) — BIB · Resy · Amex ✓ · $$
+- [ ] Swan Oyster Depot (Nob Hill; since 1912; cash, counter) — Walk-in · $$
+- [ ] Hog Island Oyster Co. (Ferry Building) — Resy · Amex ✓ · $$
+- [ ] Tartine Manufactory (Mission) — Resy · Amex ✓ · $$
+- [ ] The Mill (Divisadero; Josey Baker bread) — Walk-in · $$
+- [ ] Outerlands (Outer Sunset) — Resy · Amex ✓ · $$
+- [ ] Palm City Wines (Outer Sunset; hoagies + wine) — Resy · Amex ✓ · $$
+- [ ] Ungrafted (Dogpatch; wine bar) — Resy · Amex ✓ · $$
+- [ ] Verjus? — CLOSED; use Bar Sprezzatura (FiDi; aperitivo) — ?
+- [ ] Kitchen Istanbul (Inner Richmond) — BIB · NEW 2026 Bib · Resy · Amex ✓ · $$
+- [ ] Good Good Culture Club (Mission; Liholiho's successor) — BIB · back in 2026 · Resy · Amex ✓ · $$$
+- [ ] Copra (Fillmore; Kerala) — BIB · Resy · Amex ✓ · $$
+- [ ] Pearl 6101 (Outer Richmond) — BIB · Resy · Amex ✓ · $$
+- [ ] Piglet & Co (Mission) — BIB · Resy · Amex ✓ · $$
+- [ ] Prubechu (Mission; Chamorro) — BIB · Resy · Amex ✓ · $$
+- [ ] Um.ma (Inner Sunset; Korean) — BIB · Resy · Amex ✓ · $$
+- [ ] The Snug (Pacific Heights) — Resy · Amex ✓ · $$
+- [ ] Sotto Mare (North Beach; cioppino) — Resy · Amex ✓ · $$
+- [ ] Tony's Pizza Napoletana (North Beach) — Resy · Amex ✓ · $$
+- [ ] Golden Boy Pizza (North Beach; focaccia squares) — Walk-in · $
+- [ ] Liguria Bakery (North Beach; focaccia, cash, until it's gone) — Walk-in · $
+- [ ] Molinari Delicatessen (North Beach; since 1896) — Walk-in · $
+- [ ] Mama's on Washington Square (North Beach; the line) — Resy · Amex ✓ · $$
+- [ ] Tommy's Joynt (Van Ness; hofbrau since 1947) — Walk-in · $
+- [ ] House of Prime Rib (Nob Hill; since 1949) — OpenTable · $$$
+- [ ] Tadich Grill (FiDi; since 1849) — OpenTable · $$$
+- [ ] Sam's Grill (FiDi; since 1867) — OpenTable · $$$
+- [ ] Boulevard (Embarcadero) — OpenTable · $$$$
+- [ ] Kokkari Estiatorio (Jackson Square) — OpenTable · $$$
+- [ ] Perbacco (FiDi) — OpenTable · $$$
+- [ ] Park Tavern (North Beach) — Resy · Amex ✓ · $$
+- [ ] Marlowe (SoMa) — Resy · Amex ✓ · $$
+- [ ] Zazie (Cole Valley) — Resy · Amex ✓ · $$
+- [ ] Plow (Potrero Hill) — Resy · Amex ✓ · $$
+- [ ] Brenda's French Soul Food (Tenderloin) — Resy · Amex ✓ · $$
+- [ ] Turntable at Lord Stanley (Russian Hill; visiting chefs) — Resy · Amex ✓ · $$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] True Laurel (Mission; Lazy Bear's bar) — NA50 2025 #17 · Resy · Amex ✓ · $$$
+- [ ] Pacific Cocktail Haven (Union Square; "PCH") — NA50 2025 #16 · Resy · Amex ✓ · $$$
+- [ ] Trick Dog (Mission; the menu changes wholesale) — Resy · Amex ✓ · $$
+- [ ] Bourbon & Branch (Tenderloin; the password) — Resy · Amex ✓ · $$$
+- [ ] Wilson & Wilson (inside Bourbon & Branch) — Resy · Amex ✓ · $$
+- [ ] Benjamin Cooper (Union Square; above the hotel) — Resy · Amex ✓ · $$
+- [ ] Wildhawk (Mission) — Resy · Amex ✓ · $$
+- [ ] ABV (Mission) — Resy · Amex ✓ · $$
+- [ ] Bar Agricole — CLOSED
+- [ ] Smuggler's Cove (Hayes Valley; three floors of rum) — Resy · Amex ✓ · $$
+- [ ] Whitechapel (Tenderloin; gin, the Tube station) — Resy · Amex ✓ · $$
+- [ ] Comstock Saloon (North Beach; 1907) — Resy · Amex ✓ · $$
+- [ ] Tommy's Mexican Restaurant (Outer Richmond; the Tommy's margarita, Julio Bermejo) — Walk-in · $$
+- [ ] Zam Zam (Haight; the martini, no talking at the bar) — Walk-in · $
+- [ ] Tosca Café (North Beach; since 1919) — Walk-in · $$
+- [ ] Vesuvio (North Beach; the Beats) — Walk-in · $
+- [ ] Specs' (North Beach; the alley) — Walk-in · $
+- [ ] Li Po Lounge (Chinatown; the Chinese mai tai) — Walk-in · $
+- [ ] Buddha Lounge (Chinatown) — Walk-in · $$
+- [ ] Cold Drinks Bar (China Live; upstairs) — Resy · Amex ✓ · $$
+- [ ] Moongate Lounge (above Mister Jiu's, Chinatown) — Resy · Amex ✓ · $$
+- [ ] Bar Part Time (Mission; the record bar) — Walk-in · $$
+- [ ] Key Klub (Tenderloin) — Walk-in · $$
+- [ ] Dalva / Hideout (Mission; the back bar) — Walk-in · $$
+- [ ] Elixir (Mission; since 1858) — Walk-in · $$
+- [ ] The Beehive (Mission) — Walk-in · $$
+- [ ] Kona's Street Market — CLOSED
+- [ ] The Saratoga — CLOSED
+- [ ] Horsefeather (Divisadero) — Resy · Amex ✓ · $$
+- [ ] The Alembic (Haight) — Resy · Amex ✓ · $$
+- [ ] Blackbird (Castro) — Walk-in · $$
+- [ ] Novela (SoMa; the library bar) — Resy · Amex ✓ · $$
+- [ ] Local Edition (FiDi; basement, the newspaper) — Resy · Amex ✓ · $$
+- [ ] Rickhouse (FiDi; whiskey) — Resy · Amex ✓ · $$
+- [ ] Hard Water (Embarcadero; bourbon) — Resy · Amex ✓ · $$
+- [ ] Bar Iris (Nob Hill; Japanese-Californian) — NEW · Resy · Amex ✓ · $$
+- [ ] Dear Inga? — CLOSED
+- [ ] Prizefighter (Emeryville; the drive) — Walk-in · $$
+- [ ] Friends & Family (Oakland) — Resy · Amex ✓ · $$
+- [ ] Viridian (Oakland; Asian-American cocktails) — Resy · Amex ✓ · $$
+- [ ] Bar Shiru (Oakland; listening bar) — Resy · Amex ✓ · $$
+- [ ] The Kon-Tiki (Oakland) — Resy · Amex ✓ · $$
+- [ ] Forbidden Island (Alameda; tiki) — Walk-in · $$
+- [ ] Tonga Room (Fairmont; the rainstorm) — OpenTable · $$$
+- [ ] Top of the Mark (InterContinental Mark Hopkins) — OpenTable · $$$
+- [ ] The Buena Vista (Fisherman's Wharf; the Irish coffee, since 1952) — Resy · Amex ✓ · $$
+- [ ] Big 4 (Huntington Hotel; the piano) — OpenTable · $$$
+- [ ] Pied Piper Bar (Palace Hotel; the Maxfield Parrish) — OpenTable · $$
+- [ ] Redwood Room (Clift; reopening) — ? · $$
+- [ ] Dogpatch Saloon (Dogpatch; since 1912) — Walk-in · $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Charmaine's (SF Proper, Mid-Market) — Resy · Amex ✓ · $$$
+- [ ] Everdene (Virgin Hotels, SoMa) — Resy · Amex ✓ · $$$
+- [ ] Kaiyo Rooftop (Mission Bay) — Resy · Amex ✓ · $$$
+- [ ] El Techo (Mission; above Lolinda) — Resy · Amex ✓ · $$
+- [ ] Dirty Habit (Hotel Zelos, SoMa) — Resy · Amex ✓ · $$$
+- [ ] Jones (Tenderloin; the patio) — Resy · Amex ✓ · $$$
+- [ ] Top of the Mark (Nob Hill) — OpenTable · $$$
+- [ ] View Lounge (Marriott Marquis; 39th floor) — OpenTable · $$$
+- [ ] Cityscape (Hilton Union Square; 46th floor) — OpenTable · $$$
+- [ ] Waterbar (Embarcadero; the bridge) — OpenTable · $$$$
+- [ ] Epic Steak (Embarcadero) — OpenTable · $$$$
+- [ ] Hard Water (Pier 3) — Resy · Amex ✓ · $$$
+- [ ] La Mar Cebichería (Pier 1½; the pier) — Resy · Amex ✓ · $$$
+- [ ] Hog Island (Ferry Building; the back patio) — $$$
+- [ ] Angler (Embarcadero) — Resy · Amex ✓ · $$$$
+- [ ] Coqueta (Pier 5) — Resy · Amex ✓ · $$$
+- [ ] Red's Java House (Pier 30; since 1923) — Walk-in · $
+- [ ] Pier 23 Cafe (Embarcadero; the deck) — Walk-in · $$$
+- [ ] The Ramp (Dogpatch; on the water) — Resy · Amex ✓ · $$$
+- [ ] Mission Rock Resort (Mission Bay) — Resy · Amex ✓ · $$$
+- [ ] Stem Kitchen & Garden (Mission Bay) — Resy · Amex ✓ · $$$
+- [ ] ATwater Tavern (Mission Bay; ballpark) — Walk-in · $$$
+- [ ] Presidio: Presidio Tunnel Tops (the picnic) — $$$
+- [ ] Presidio Social Club — Resy · Amex ✓ · $$$
+- [ ] Sessions at the Presidio — Resy · Amex ✓ · $$$
+- [ ] Greens (Fort Mason; the bridge view, vegetarian since 1979) — OpenTable · $$$
+- [ ] Fort Mason's Radhaus (beer hall) — Walk-in · $$$
+- [ ] Off the Grid (Fort Mason; Friday trucks, seasonal) — Walk-in · $$$
+- [ ] Cliff House — CLOSED (reopening?) — ?
+- [ ] Beach Chalet (Ocean Beach) — OpenTable · $$$
+- [ ] Park Chalet garden (Golden Gate Park) — Resy · Amex ✓ · $$$
+- [ ] Outerlands' patio (Outer Sunset) — $$$
+- [ ] Woods Outbound (Outer Sunset; brewery patio) — Walk-in · $$$
+- [ ] Zeitgeist (Mission; the beer garden) — Walk-in · $
+- [ ] El Rio (Mission; the patio) — Walk-in · $
+- [ ] Wild Side West (Bernal; the garden) — Walk-in · $$$
+- [ ] Biergarten (Hayes Valley) — Walk-in · $$$
+- [ ] Anina (Hayes Valley; patio) — Resy · Amex ✓ · $$$
+- [ ] Fort Point Valencia (Mission) — Walk-in · $$$
+- [ ] Cellarmaker House of Pizza (Bernal) — Walk-in · $$$
+- [ ] Standard Deviant (Mission) — Walk-in · $$$
+- [ ] Harmonic Brewing (Dogpatch / Thrive City) — Walk-in · $$$
+- [ ] Barebottle (Bernal) — Walk-in · $$$
+- [ ] Lake Chalet (Oakland; on Lake Merritt) — OpenTable · $$$
+- [ ] Drake's Dealership (Oakland; beer garden) — Walk-in · $$$
+- [ ] Sausalito: Bar Bocce (on the bay) — $$$
+- [ ] Sam's Anchor Cafe (Tiburon; the deck) — OpenTable · $$$
+- [ ] The Trident (Sausalito) — OpenTable · $$$
+- [ ] Fish. (Sausalito; cash, the dock) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at the Lodge at the Presidio (the bridge) — Walk-in · $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] True Laurel (Mission) — NA50 2025 #17 · Resy · Amex ✓ · $$$
+- [ ] Pacific Cocktail Haven (Union Square) — NA50 2025 #16 · Resy · Amex ✓ · $$$
+- [ ] Trick Dog (Mission) — JBF Outstanding Bar Program (past nominee) · Resy · Amex ✓ · $$
+- [ ] Bourbon & Branch (Tenderloin) — Resy · Amex ✓ · $$$
+- [ ] Smuggler's Cove (Hayes Valley) — Resy · Amex ✓ · $$
+- [ ] Tommy's Mexican Restaurant (Outer Richmond) — Walk-in · $$
+- [ ] Bar Iris (Nob Hill) — NEW · Resy · Amex ✓ · $$
+
+**Cocktail institutions**
+- [ ] Wildhawk (Mission) — Resy · Amex ✓ · $$
+- [ ] ABV (Mission) — Resy · Amex ✓ · $$
+- [ ] Benjamin Cooper (Union Square) — Resy · Amex ✓ · $$
+- [ ] Wilson & Wilson (Tenderloin) — Resy · Amex ✓ · $$
+- [ ] Whitechapel (Tenderloin) — Resy · Amex ✓ · $$
+- [ ] Comstock Saloon (North Beach) — Resy · Amex ✓ · $$
+- [ ] Horsefeather (Divisadero) — Resy · Amex ✓ · $$
+- [ ] The Alembic (Haight) — Resy · Amex ✓ · $$
+- [ ] Blackbird (Castro) — Walk-in · $$
+- [ ] Novela (SoMa) — Resy · Amex ✓ · $$
+- [ ] Local Edition (FiDi) — Resy · Amex ✓ · $$
+- [ ] Rickhouse (FiDi) — Resy · Amex ✓ · $$
+- [ ] Hard Water (Embarcadero) — Resy · Amex ✓ · $$
+- [ ] Cold Drinks Bar (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Moongate Lounge (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Bar Part Time (Mission) — Walk-in · $$
+- [ ] Key Klub (Tenderloin) — Walk-in · $$
+- [ ] Dalva (Mission) — Walk-in · $$
+- [ ] Elixir (Mission) — Walk-in · $$
+- [ ] The Beehive (Mission) — Walk-in · $$
+- [ ] Bar Agricole — CLOSED
+- [ ] The Saratoga — CLOSED
+- [ ] Kona's Street Market — CLOSED
+- [ ] Dear Inga — CLOSED
+- [ ] 15 Romolo (North Beach) — Walk-in · $$
+- [ ] The Devil's Acre (North Beach) — Walk-in · $$
+- [ ] Trou Normand? — CLOSED; use Bar Crudo? — CLOSED; use Anchovy Bar (Fillmore)
+- [ ] Nightbird's Linden Room (Hayes Valley; 8 seats) — Resy · Amex ✓ · $$
+- [ ] Brass Tacks (Hayes Valley) — Resy · Amex ✓ · $$
+- [ ] Two Sisters Bar & Books (Hayes Valley) — Walk-in · $$
+- [ ] Absinthe (Hayes Valley) — Resy · Amex ✓ · $$
+- [ ] Bar Sprezzatura (FiDi) — ? · $$
+- [ ] Prizefighter (Emeryville) — Walk-in · $$
+- [ ] Friends & Family (Oakland) — Resy · Amex ✓ · $$
+- [ ] Viridian (Oakland) — Resy · Amex ✓ · $$
+- [ ] Bar Shiru (Oakland) — Resy · Amex ✓ · $$
+- [ ] The Kon-Tiki (Oakland) — Resy · Amex ✓ · $$
+- [ ] Forbidden Island (Alameda) — Walk-in · $$
+
+**Hotel & classic bars**
+- [ ] Tonga Room (Fairmont) — OpenTable · $$$
+- [ ] Top of the Mark (Mark Hopkins) — OpenTable · $$$
+- [ ] Big 4 (Huntington) — OpenTable · $$$
+- [ ] Pied Piper (Palace Hotel) — Resy · Amex ✓ · $$
+- [ ] The Buena Vista (Fisherman's Wharf) — Resy · Amex ✓ · $$
+- [ ] Redwood Room (Clift) — ? · $$
+- [ ] Charmaine's (SF Proper) — Resy · Amex ✓ · $$$
+- [ ] Villon (SF Proper) — Resy · Amex ✓ · $$
+- [ ] Everdene (Virgin) — Resy · Amex ✓ · $$$
+- [ ] Dirty Habit (Zelos) — Resy · Amex ✓ · $$
+- [ ] The Battery (Jackson Square; members) — SevenRooms · $$$$
+- [ ] Cafe Zoetrope (North Beach; Coppola's) — Walk-in · $$
+
+**Historic / dive / neighborhood**
+- [ ] Vesuvio (North Beach) — Walk-in · $
+- [ ] Specs' (North Beach) — Walk-in · $
+- [ ] Tosca Café (North Beach) — Walk-in · $$
+- [ ] Li Po Lounge (Chinatown) — Walk-in · $
+- [ ] Buddha Lounge (Chinatown) — Walk-in · $$
+- [ ] Zam Zam (Haight) — Walk-in · $
+- [ ] Zeitgeist (Mission) — Walk-in · $
+- [ ] El Rio (Mission) — Walk-in · $
+- [ ] Make-Out Room (Mission) — Walk-in · $$
+- [ ] The Homestead (Mission) — Walk-in · $$
+- [ ] Phone Booth (Mission) — Walk-in · $$
+- [ ] Doc's Clock (Mission) — Walk-in · $$
+- [ ] Wild Side West (Bernal) — Walk-in · $$
+- [ ] The Riptide (Outer Sunset) — Walk-in · $$
+- [ ] Trad'r Sam (Outer Richmond; tiki since 1937) — Walk-in · $$
+- [ ] The Saloon (North Beach; since 1861, blues) — Walk-in · $
+- [ ] Gino & Carlo (North Beach) — Walk-in · $$
+- [ ] Aunt Charlie's Lounge (Tenderloin) — Walk-in · $$
+- [ ] Twin Peaks Tavern (Castro; since 1972) — Walk-in · $$
+- [ ] The Stud (SoMa; reborn) — Resy · Amex ✓ · $$
+- [ ] Hotel Utah Saloon (SoMa; since 1908) — Walk-in · $$
+- [ ] House of Shields (SoMa; since 1908) — Walk-in · $$
+- [ ] The Page (Lower Haight) — Walk-in · $$
+- [ ] Toronado (Lower Haight) — Walk-in · $
+
+**Wine bars**
+- [ ] Ungrafted (Dogpatch) — Resy · Amex ✓ · $$
+- [ ] Palm City Wines (Outer Sunset) — Resy · Amex ✓ · $$
+- [ ] Verjus — CLOSED
+- [ ] Bar Sprezzatura (FiDi) — ? · $$
+- [ ] Nightbird's Linden Room (Hayes Valley) — Resy · Amex ✓ · $$
+- [ ] Two Sisters (Hayes Valley) — Walk-in · $$
+- [ ] Fig & Thistle (Hayes Valley) — Resy · Amex ✓ · $$
+- [ ] Ruby Wine (Potrero) — Resy · Amex ✓ · $$
+- [ ] Yield Wine Bar (Dogpatch) — Resy · Amex ✓ · $$
+- [ ] Press Club (SoMa) — Resy · Amex ✓ · $$
+- [ ] Ordinaire (Oakland) — Resy · Amex ✓ · $$
+- [ ] Snail Bar (Oakland) — BIB · Resy · Amex ✓ · $$
+- [ ] Bar Crenn (Cow Hollow) — Resy · Amex ✓ · $$$
+
+**Beer**
+- [ ] Toronado (Lower Haight) — Walk-in · $
+- [ ] Zeitgeist (Mission) — Walk-in · $
+- [ ] Mikkeller Bar (Tenderloin) — Walk-in · $$
+- [ ] Cellarmaker (SoMa / Bernal) — Walk-in · $$
+- [ ] Fort Point (Presidio / Valencia / Ferry Building) — Walk-in · $$
+- [ ] Standard Deviant (Mission) — Walk-in · $$
+- [ ] Harmonic (Dogpatch) — Walk-in · $$
+- [ ] Barebottle (Bernal) — Walk-in · $$
+- [ ] Woods (Outer Sunset / Mission / Oakland) — Walk-in · $$
+- [ ] Anchor Brewing — CLOSED (revival?) — ?
+- [ ] Monk's Kettle (Mission) — Resy · Amex ✓ · $$
+- [ ] Rosamunde Sausage Grill (Mission / Lower Haight) — Walk-in · $$
+- [ ] Drake's Dealership (Oakland) — Walk-in · $$
+- [ ] Temescal Brewing (Oakland) — Walk-in · $$
+- [ ] Faction? — CLOSED; use Ghost Town Brewing (Oakland)
+
+**Rooftop / view bars that double as great bars**
+- [ ] Charmaine's (SF Proper) — Resy · Amex ✓ · $$$
+- [ ] Everdene (Virgin) — Resy · Amex ✓ · $$$
+- [ ] El Techo (Mission) — Resy · Amex ✓ · $$
+- [ ] Top of the Mark — OpenTable · $$$
+- [ ] Waterbar — OpenTable · $$$$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Ritual Coffee Roasters (Mission / multiple) — Walk-in · $
+- [ ] Sightglass (SoMa / Mission / multiple) — Walk-in · $
+- [ ] Saint Frank (Russian Hill / multiple) — Walk-in · $
+- [ ] Andytown Coffee Roasters (Outer Sunset; the Snowy Plover) — Walk-in · $
+- [ ] Wrecking Ball Coffee (Cow Hollow) — Walk-in · $
+- [ ] Blue Bottle (born Oakland; Ferry Building / multiple) — Walk-in · $
+- [ ] Philz Coffee (born Mission; multiple) — Walk-in · $
+- [ ] Four Barrel Coffee (Mission) — ? · Walk-in · $
+- [ ] The Mill (Divisadero; Four Barrel + Josey Baker) — Walk-in · $
+- [ ] Hollow (Inner Sunset) — Walk-in · $
+- [ ] Trouble Coffee (Outer Sunset; cinnamon toast) — Walk-in · $
+- [ ] Java Beach (Outer Sunset) — Walk-in · $
+- [ ] Flywheel (Cole Valley) — Walk-in · $
+- [ ] Grand Coffee (Mission) — Walk-in · $
+- [ ] Linea Caffe (Mission) — Walk-in · $
+- [ ] Coffee Movement (Nob Hill / Chinatown) — Walk-in · $
+- [ ] Caffè Trieste (North Beach; since 1956; the first espresso west of the Mississippi) — Walk-in · $
+- [ ] Caffe Greco (North Beach) — Walk-in · $
+- [ ] Réveille (multiple) — Walk-in · $
+- [ ] Equator (Fort Mason / multiple) — Walk-in · $
+- [ ] Verve (Castro / multiple; Santa Cruz import) — Walk-in · $
+- [ ] Tartine (Guerrero St; the line) — Walk-in · $
+- [ ] Arsicault (Inner Richmond; the croissant) — Walk-in · $
+- [ ] B. Patisserie (Pacific Heights; kouign amann) — Walk-in · $
+- [ ] Jane the Bakery (Fillmore / multiple) — Walk-in · $
+- [ ] Neighbor Bakehouse (Dogpatch) — Walk-in · $
+- [ ] Craftsman & Wolves (Mission; the Rebel Within) — Walk-in · $
+- [ ] Boba Guys (born Mission; multiple) — Walk-in · $
+- [ ] Stonemill Matcha (Mission) — Walk-in · $
+- [ ] Samovar Tea (Mission / Yerba Buena) — Walk-in · $
+- [ ] Red Blossom Tea (Chinatown) — Walk-in · $
+- [ ] Vital Tea Leaf (Chinatown) — Walk-in · $
+- [ ] Golden Gate Fortune Cookie Factory (Chinatown; the alley) — Walk-in · $
+- [ ] Yasukochi's Sweet Stop (Japantown; coffee crunch cake) — Walk-in · $
+- [ ] Bob's Donuts (Nob Hill; 24 hours) — Walk-in · $
+- [ ] Dynamo Donut (Mission) — Walk-in · $
+- [ ] Mr. Holmes Bakehouse — CLOSED
+- [ ] Devil's Teeth Baking Company (Outer Sunset; the breakfast sandwich) — Walk-in · $
+- [ ] Kahnfections (Mission) — Walk-in · $
+- [ ] Loquat (Mission) — Walk-in · $
+- [ ] Le Marais Bakery (Marina / Castro) — Walk-in · $
+- [ ] La Boulangerie de San Francisco (multiple) — Walk-in · $
+- [ ] Noe Valley Bakery — Walk-in · $
+- [ ] Destination Baking Company (Glen Park) — Walk-in · $
+- [ ] Arizmendi (Inner Sunset / Mission; the co-op) — Walk-in · $
+- [ ] Cheese Board Collective (Berkeley; the drive) — Walk-in · $
+- [ ] Acme Bread (Ferry Building / Berkeley) — Walk-in · $
+- [ ] Boichik Bagels (Berkeley / SF; the NYT's best bagel) — Walk-in · $
+- [ ] Wise Sons (Mission / Ferry Building) — Walk-in · $
+- [ ] Daily Driver (Dogpatch; bagels + butter) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★★★
+- [ ] Californios (Mission; Val Cantu — the world's first three-star Mexican restaurant) — ★★★ · NEW 2026 promotion · Tock · Amex ✓ · $$$$
+- [ ] Atelier Crenn (Cow Hollow; Dominique Crenn) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Benu (SoMa; Corey Lee) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Quince (Jackson Square; Michael Tusk) — ★★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★★
+- [ ] Kiln (SoMa) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Lazy Bear (Mission; the dinner party) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Saison (SoMa; the hearth) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Acquerello (Nob Hill; since 1989) — ★★ · Resy · Amex ✓ · $$$$
+- [ ] Birdsong (SoMa) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Commis (Oakland; James Syhabout) — ★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★
+- [ ] 7 Adams (Laurel Heights) — ★ · Tock · Amex ✓ · $$$
+- [ ] Sorrel (Pacific Heights) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Nari (Japantown; Pim Techamuanvivit) — ★ · Resy · Amex ✓ · $$$
+- [ ] Mister Jiu's (Chinatown; Brandon Jew) — ★ · Resy · Amex ✓ · $$$
+- [ ] State Bird Provisions (Fillmore) — ★ · Resy · Amex ✓ · $$$
+- [ ] The Progress (Fillmore) — ? · Resy · Amex ✓ · $$$
+- [ ] Nisei (Russian Hill; David Yoshimura) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Ju-Ni (Western Addition; omakase) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Omakase (SoMa) — ★ · Tock · Amex ✓ · $$$$
+- [ ] The Shota (FiDi; omakase) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Marlena (Bernal Heights) — ★ · Resy · Amex ✓ · $$$
+- [ ] Nightbird (Hayes Valley; Kim Alter) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Osito (Mission; live fire) — ★ · Resy · Amex ✓ · $$$$
+- [ ] San Ho Won (Mission; Korean grill, Corey Lee) — ★ · Resy · Amex ✓ · $$$
+- [ ] Sons & Daughters (Nob Hill) — ★ · Tock · Amex ✓ · $$$$
+- [ ] SPQR (Fillmore) — ★ · Resy · Amex ✓ · $$$
+- [ ] Spruce (Presidio Heights) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Ssal (Russian Hill; Korean tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Anomaly (Pacific Heights) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Restaurant Naides — ★ · NEW 2026 star · Tock · Amex ✓ · $$$$
+- [ ] Wolfsbane (San Francisco) — ★ · NEW 2026 star · $$$$
+- [ ] Aphotic — CLOSED
+- [ ] Sushi Yoshizumi (San Mateo) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Angler (Embarcadero) — no longer starred; still essential · Resy · Amex ✓ · $$$$
+- [ ] Gary Danko (Russian Hill) — no longer starred; still essential · OpenTable · $$$$
+- [ ] Kin Khao — CLOSED (reopened as Nari's sibling?) — ?
+
+### Worth the drive (Wine Country & the coast)
+- [ ] The French Laundry (Yountville; Thomas Keller) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] SingleThread (Healdsburg) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Enclos (Sonoma) — ★★★ · NEW 2026 promotion · Tock · Amex ✓ · $$$$
+- [ ] Cyrus (Geyserville) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Auberge du Soleil (Rutherford) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Press (St. Helena) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Auro (Calistoga) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Troubadour Bread & Bistro (Healdsburg; the bread counter) — ★ · NEW 2026 star · Resy · Amex ✓ · $$$
+- [ ] Kenzo (Napa) — ★ · Tock · Amex ✓ · $$$$
+- [ ] La Calenda (Yountville; Keller's Mexican) — BIB · Resy · Amex ✓ · $$
+- [ ] Bouchon (Yountville) — Resy · Amex ✓ · $$$
+- [ ] Ad Hoc (Yountville; fried chicken Mondays) — Resy · Amex ✓ · $$$
+- [ ] Chez Panisse (Berkeley; Alice Waters, since 1971) — Resy · Amex ✓ · $$$$
+- [ ] Aubergine (Carmel) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Sierra Mar (Big Sur; Post Ranch) — GS · Resy · Amex ✓ · $$$$
+
+### Bib Gourmand (2026)
+- [ ] Kitchen Istanbul (Inner Richmond) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Good Good Culture Club (Mission) — BIB · Resy · Amex ✓ · $$$
+- [ ] Ippuku (Berkeley; izakaya) — BIB · Resy · Amex ✓ · $$
+- [ ] Joodooboo (Oakland; tofu) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Flour + Water (Mission) — BIB · Resy · Amex ✓ · $$$
+- [ ] Cotogna (Jackson Square) — BIB · Resy · Amex ✓ · $$$
+- [ ] Rintaro (Mission) — BIB · Resy · Amex ✓ · $$$
+- [ ] The Morris (Mission) — BIB · Resy · Amex ✓ · $$$
+- [ ] Anchor Oyster Bar (Castro) — BIB · Resy · Amex ✓ · $$
+- [ ] Copra (Fillmore) — BIB · Resy · Amex ✓ · $$
+- [ ] Pearl 6101 (Outer Richmond) — BIB · Resy · Amex ✓ · $$
+- [ ] Piglet & Co (Mission) — BIB · Resy · Amex ✓ · $$
+- [ ] Prubechu (Mission) — BIB · Resy · Amex ✓ · $$
+- [ ] Um.ma (Inner Sunset) — BIB · Resy · Amex ✓ · $$
+- [ ] La Taqueria (Mission; the burrito) — BIB · Resy · Amex ✓ · $
+- [ ] Z & Y (Chinatown; Sichuan) — BIB · Resy · Amex ✓ · $$
+- [ ] Hong Kong Lounge II (Inner Richmond; dim sum) — BIB · Resy · Amex ✓ · $$
+- [ ] Dumpling Home (Hayes Valley) — BIB · Resy · Amex ✓ · $
+- [ ] Lers Ros (Tenderloin / Hayes Valley; Thai) — BIB · Resy · Amex ✓ · $$
+- [ ] Bini's Kitchen (SoMa; Nepalese momos) — BIB · Walk-in · $
+- [ ] 4505 Burgers & BBQ (Divisadero) — BIB · Resy · Amex ✓ · $$
+- [ ] A16 (Marina) — BIB · Resy · Amex ✓ · $$$
+- [ ] Del Popolo (Nob Hill; pizza) — BIB · Resy · Amex ✓ · $$
+- [ ] El Buen Comer (Bernal; Mexican) — BIB · Resy · Amex ✓ · $$
+- [ ] Chapeau! (Inner Richmond; French) — BIB · Resy · Amex ✓ · $$$
+- [ ] Insalata's (San Anselmo) — BIB · Resy · Amex ✓ · $$$
+- [ ] Snail Bar (Oakland) — BIB · Resy · Amex ✓ · $$
+- [ ] Burdell (Oakland; Geoff Davis) — JBF 2025 Best New Restaurant finalist · Resy · Amex ✓ · $$$
+- [ ] Nyum Bai (Oakland; Cambodian) — BIB · Resy · Amex ✓ · $$
+- [ ] Daytrip (Oakland) — Resy · Amex ✓ · $$
+- [ ] Friends & Family (Oakland) — Resy · Amex ✓ · $$
+- [ ] Pomet (Oakland) — Resy · Amex ✓ · $$
+- [ ] FOB Kitchen (Oakland; Filipino) — Resy · Amex ✓ · $$
+
+### The new guard
+- [ ] Bar Iris (Nob Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Turntable at Lord Stanley (Russian Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Abacá (Fisherman's Wharf) — Resy · Amex ✓ · $$$
+- [ ] Ernest (Mission) — Resy · Amex ✓ · $$$
+- [ ] Bar Crenn (Cow Hollow) — Resy · Amex ✓ · $$$
+- [ ] Merchant Roots (Fillmore; themed tasting) — Resy · Amex ✓ · $$$$
+- [ ] Mourad (SoMa; Moroccan) — Resy · Amex ✓ · $$$
+- [ ] The Anchovy Bar (Fillmore) — Resy · Amex ✓ · $$
+- [ ] Empress by Boon (Chinatown; the room) — Resy · Amex ✓ · $$$$
+- [ ] Four Kings (Chinatown; Cantonese, Mister Jiu's alumni) — Resy · Amex ✓ · $$$
+- [ ] Lion Dance Cafe? — CLOSED; use Bansang (Fillmore; Korean) — NEW
+- [ ] Dalida (Presidio; Eastern Mediterranean) — NEW · Resy · Amex ✓ · $$
+- [ ] Bar Sprezzatura (FiDi) — ? · $$
+- [ ] Ok's Deli (Oakland) — Resy · Amex ✓ · $$
+- [ ] Radhaus (Fort Mason) — Resy · Amex ✓ · $$
+
+### Classics & must-visits
+- [ ] Zuni Café (Market St) — Resy · Amex ✓ · $$$
+- [ ] Nopa (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] Delfina (Mission) — Resy · Amex ✓ · $$$
+- [ ] Foreign Cinema (Mission) — Resy · Amex ✓ · $$$
+- [ ] Che Fico (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] Rich Table (Hayes Valley) — Resy · Amex ✓ · $$$
+- [ ] Frances (Castro) — Resy · Amex ✓ · $$$
+- [ ] Boulevard (Embarcadero) — OpenTable · $$$$
+- [ ] Kokkari (Jackson Square) — OpenTable · $$$
+- [ ] Perbacco (FiDi) — OpenTable · $$$
+- [ ] Tadich Grill (FiDi) — OpenTable · $$$
+- [ ] Sam's Grill (FiDi) — OpenTable · $$$
+- [ ] House of Prime Rib (Nob Hill) — OpenTable · $$$
+- [ ] Swan Oyster Depot (Nob Hill) — Walk-in · $$
+- [ ] Hog Island Oyster Co. (Ferry Building) — Resy · Amex ✓ · $$
+- [ ] Waterbar (Embarcadero) — OpenTable · $$$$
+- [ ] Angler (Embarcadero) — Resy · Amex ✓ · $$$$
+- [ ] Gary Danko (Russian Hill) — OpenTable · $$$$
+- [ ] La Mar Cebichería (Embarcadero) — Resy · Amex ✓ · $$$
+- [ ] Coqueta (Pier 5; Michael Chiarello's) — Resy · Amex ✓ · $$$
+- [ ] Yank Sing (SoMa; dim sum) — OpenTable · $$
+- [ ] Good Mong Kok Bakery (Chinatown; dim sum to go) — Walk-in · $
+- [ ] R&G Lounge (Chinatown; salt and pepper crab) — OpenTable · $$
+- [ ] Great Eastern (Chinatown; Obama's stop) — Walk-in · $$
+- [ ] China Live (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Burma Superstar (Inner Richmond) — Resy · Amex ✓ · $$
+- [ ] Mandalay (Inner Richmond) — Resy · Amex ✓ · $$
+- [ ] Turtle Tower (Tenderloin; pho) — Walk-in · $
+- [ ] Saigon Sandwich (Tenderloin; bánh mì, cash) — Walk-in · $
+- [ ] Bodega SF (Tenderloin; Vietnamese) — Resy · Amex ✓ · $$
+- [ ] Brenda's (Tenderloin) — Resy · Amex ✓ · $$
+- [ ] Liholiho Yacht Club — CLOSED (see Good Good Culture Club)
+- [ ] Mission Chinese Food — CLOSED
+- [ ] Al's Place — CLOSED
+- [ ] El Farolito (Mission; the burrito) — Walk-in · $
+- [ ] La Taqueria (Mission) — BIB · Resy · Amex ✓ · $
+- [ ] Taqueria Cancún (Mission) — Walk-in · $
+- [ ] Papalote (Mission; the salsa) — Walk-in · $
+- [ ] Tacolicious (multiple) — Walk-in · $$
+- [ ] Limón Rotisserie (Mission; Peruvian) — Resy · Amex ✓ · $$
+- [ ] Lolinda (Mission; Argentine) — Resy · Amex ✓ · $$
+- [ ] Beretta (Mission) — Resy · Amex ✓ · $$
+- [ ] Tony's Pizza Napoletana (North Beach) — Resy · Amex ✓ · $$
+- [ ] Golden Boy (North Beach) — $$
+- [ ] Il Casaro (North Beach) — Resy · Amex ✓ · $$
+- [ ] Sotto Mare (North Beach) — Resy · Amex ✓ · $$
+- [ ] Original Joe's (North Beach; since 1937) — OpenTable · $$
+- [ ] Tommy's Joynt (Van Ness) — Walk-in · $
+- [ ] Greens (Fort Mason) — OpenTable · $$
+- [ ] Nopalito (Inner Sunset / Panhandle) — Resy · Amex ✓ · $$
+- [ ] Outerlands (Outer Sunset) — Resy · Amex ✓ · $$
+- [ ] Hook Fish Co (Outer Sunset) — Resy · Amex ✓ · $$
+- [ ] Marnee Thai (Inner Sunset) — Resy · Amex ✓ · $$
+- [ ] San Tung (Inner Sunset; dry-fried chicken wings) — Walk-in · $$
+- [ ] Wako (Inner Richmond; sushi) — Resy · Amex ✓ · $$$
+- [ ] Ijji (Hayes Valley; omakase) — Resy · Amex ✓ · $$$$
+- [ ] Kusakabe (FiDi; omakase) — Resy · Amex ✓ · $$$$
+- [ ] Akiko's (Union Square) — Resy · Amex ✓ · $$$$
+- [ ] Hashiri — CLOSED
+- [ ] Ebisu (Inner Sunset; since 1981) — Resy · Amex ✓ · $$
+- [ ] Rooh (SoMa; Indian) — Resy · Amex ✓ · $$
+- [ ] Besharam (Dogpatch; Gujarati) — Resy · Amex ✓ · $$
+- [ ] Dosa? — CLOSED; use Udupi Palace (Mission)
+- [ ] Piccino (Dogpatch) — Resy · Amex ✓ · $$$
+- [ ] Serpentine? — CLOSED; use Just for You Cafe (Dogpatch)
+- [ ] Chez Panisse (Berkeley) — Resy · Amex ✓ · $$$$
+- [ ] Cheese Board Pizza (Berkeley) — Walk-in · $
+- [ ] Great China (Berkeley; Peking duck) — Resy · Amex ✓ · $$
+- [ ] Vik's Chaat (Berkeley) — Walk-in · $
+- [ ] Wood Tavern (Oakland) — Resy · Amex ✓ · $$
+- [ ] Champa Garden (Oakland; Lao) — Resy · Amex ✓ · $$
+- [ ] Tacos Oscar (Oakland) — Resy · Amex ✓ · $$
+- [ ] Horn Barbecue — CLOSED
+- [ ] Smokin Woods BBQ (Oakland) — Walk-in · $$
+- [ ] Marufuku Ramen (Japantown / multiple) — Walk-in · $$
+- [ ] Mensho Tokyo (Tenderloin) — Walk-in · $$
+- [ ] Sushi Ran (Sausalito) — Resy · Amex ✓ · $$
+- [ ] Fish. (Sausalito) — Resy · Amex ✓ · $$
+- [ ] Sam's Anchor Cafe (Tiburon) — OpenTable · $$
+- [ ] Duarte's Tavern (Pescadero; artichoke soup) — Resy · Amex ✓ · $$
+- [ ] Hog Island Oyster Farm (Marshall; the drive to Tomales Bay) — Walk-in · $$
+- [ ] Nick's Cove (Marshall) — Resy · Amex ✓ · $$
+- [ ] The Marshall Store (Tomales Bay) — Walk-in · $$
+
+---
+
+## Brunch spots (50)
+
+- [ ] Zazie (Cole Valley; the garden) — Resy · Amex ✓ · $$
+- [ ] Plow (Potrero Hill; the potatoes) — Resy · Amex ✓ · $$
+- [ ] Brenda's French Soul Food (Tenderloin; beignets) — Resy · Amex ✓ · $$
+- [ ] Foreign Cinema (Mission) — Resy · Amex ✓ · $$$
+- [ ] Nopa brunch (Divisadero) — $$
+- [ ] Outerlands (Outer Sunset) — Resy · Amex ✓ · $$
+- [ ] Tartine Manufactory (Mission) — Resy · Amex ✓ · $$
+- [ ] Tartine Bakery (Guerrero; the morning bun) — Walk-in · $
+- [ ] Kitchen Story (Castro) — Resy · Amex ✓ · $$
+- [ ] Sweet Maple (Pacific Heights; millionaire's bacon) — Resy · Amex ✓ · $$
+- [ ] Mama's on Washington Square (North Beach) — Resy · Amex ✓ · $$
+- [ ] Dottie's True Blue Café (SoMa) — Resy · Amex ✓ · $$
+- [ ] Rose's Café (Cow Hollow) — Resy · Amex ✓ · $$
+- [ ] Universal Café (Potrero Hill) — Resy · Amex ✓ · $$
+- [ ] Boulettes Larder (Ferry Building) — Resy · Amex ✓ · $$
+- [ ] Hog Island (Ferry Building; the oyster breakfast) — $$
+- [ ] Ferry Building Saturday Market (the stalls) — Walk-in · $$
+- [ ] Chloe's Café (Noe Valley) — Resy · Amex ✓ · $$
+- [ ] Devil's Teeth (Outer Sunset) — Walk-in · $$
+- [ ] Trouble Coffee (Outer Sunset) — Walk-in · $$
+- [ ] Andytown (Outer Sunset) — Walk-in · $$
+- [ ] Wise Sons (Mission / Ferry Building) — Walk-in · $$
+- [ ] Boichik Bagels (Berkeley / SF) — Walk-in · $$
+- [ ] Daily Driver (Dogpatch) — Walk-in · $$
+- [ ] The Mill (Divisadero; toast) — Walk-in · $$
+- [ ] Arsicault (Inner Richmond) — Walk-in · $
+- [ ] B. Patisserie (Pacific Heights) — Walk-in · $
+- [ ] Jane the Bakery — Walk-in · $$
+- [ ] Craftsman & Wolves — Walk-in · $$
+- [ ] Neighbor Bakehouse (Dogpatch) — Walk-in · $$
+- [ ] St. Francis Fountain (Mission; since 1918) — Resy · Amex ✓ · $$
+- [ ] Boogaloos (Mission) — Resy · Amex ✓ · $$
+- [ ] Beretta brunch (Mission) — $$
+- [ ] Sunday at El Techo (Mission) — $$
+- [ ] Piccino (Dogpatch) — Resy · Amex ✓ · $$$
+- [ ] Just for You Cafe (Dogpatch) — Resy · Amex ✓ · $$
+- [ ] Park Tavern brunch (North Beach) — $$
+- [ ] Marlowe brunch (SoMa) — $$
+- [ ] The Buena Vista (Fisherman's Wharf; Irish coffee breakfast) — Resy · Amex ✓ · $$
+- [ ] Greens (Fort Mason; Sunday) — OpenTable · $$
+- [ ] Presidio Social Club — Resy · Amex ✓ · $$
+- [ ] Beach Chalet (Ocean Beach) — OpenTable · $$
+- [ ] Yank Sing (dim sum) — OpenTable · $$
+- [ ] Hong Kong Lounge II (dim sum) — BIB · Resy · Amex ✓ · $$
+- [ ] Good Mong Kok (Chinatown) — Walk-in · $
+- [ ] Sam's Anchor Cafe (Tiburon) — OpenTable · $$
+- [ ] Fish. (Sausalito) — Resy · Amex ✓ · $$
+- [ ] Cheese Board (Berkeley) — Walk-in · $
+- [ ] Bette's Oceanview Diner — CLOSED; use La Note (Berkeley; French)
+- [ ] Grand Lake Kitchen (Oakland) — Resy · Amex ✓ · $$
+- [ ] Brown Sugar Kitchen (Oakland; the waffle) — Resy · Amex ✓ · $$
+
+---
+
+## Off-beat & only-in-San Francisco (50)
+
+- [ ] Swan Oyster Depot (Nob Hill; the counter, cash, 1912) — Walk-in · $$
+- [ ] The Buena Vista (the Irish coffee, invented here 1952) — Resy · Amex ✓ · $$
+- [ ] Tonga Room (Fairmont; the indoor rainstorm) — OpenTable · $$$
+- [ ] House of Prime Rib (the silver cart) — OpenTable · $$$
+- [ ] Tadich Grill (the oldest restaurant in California) — OpenTable · $$$
+- [ ] Sam's Grill (the curtained booths) — OpenTable · $$$
+- [ ] Tommy's Joynt (the hofbrau line) — Walk-in · $
+- [ ] Tommy's Mexican (the margarita, Outer Richmond) — $
+- [ ] Zam Zam (the martini, the rules) — Walk-in · $
+- [ ] Liguria Bakery (focaccia, cash, gone by noon) — Walk-in · $
+- [ ] Golden Boy Pizza (the focaccia square) — Walk-in · $
+- [ ] Molinari (the sandwich, 1896) — $
+- [ ] Mama's (the line on Washington Square) — $
+- [ ] Caffè Trieste (the first espresso on the West Coast) — Walk-in · $
+- [ ] Vesuvio / City Lights (the Beats) — $
+- [ ] Golden Gate Fortune Cookie Factory (Ross Alley) — Walk-in · $
+- [ ] Good Mong Kok (the dim sum window) — Walk-in · $
+- [ ] Li Po (the Chinese mai tai) — $
+- [ ] Sam Wo (Chinatown; since 1907) — Walk-in · $
+- [ ] Mr. Bing's (dice at the bar) — Walk-in · $
+- [ ] El Farolito vs La Taqueria (the burrito war) — $
+- [ ] Papalote (the salsa) — Walk-in · $
+- [ ] Dynamo Donut (Mission) — Walk-in · $
+- [ ] Bob's Donuts (Nob Hill; 3am) — Walk-in · $
+- [ ] Bi-Rite Creamery (Mission; the line on 18th) — Walk-in · $
+- [ ] Mitchell's Ice Cream (Bernal; since 1953; ube, mango) — Walk-in · $
+- [ ] Humphry Slocombe (Mission; Secret Breakfast) — Walk-in · $
+- [ ] Swensen's (Russian Hill; the original, 1948) — Walk-in · $
+- [ ] Ghirardelli (the square; the sundae) — Walk-in · $
+- [ ] Boudin (Fisherman's Wharf; the bread bowl, since 1849) — Walk-in · $
+- [ ] Red's Java House (Pier 30; the burger on the pier) — Walk-in · $
+- [ ] Pier 23 Cafe — Walk-in · $
+- [ ] Alemany Farmers' Market (Saturday; the oldest in the state) — Walk-in · $
+- [ ] Ferry Building Saturday Market — Walk-in · $
+- [ ] Off the Grid (Fort Mason Fridays) — Walk-in · $
+- [ ] Hog Island Oyster Farm (Marshall; shuck your own) — Walk-in · $
+- [ ] Duarte's (Pescadero; artichoke soup) — $
+- [ ] Sushi Ran (Sausalito) — Resy · Amex ✓ · $
+- [ ] Fish. (Sausalito; cash, on the dock) — Resy · Amex ✓ · $
+- [ ] Sam's (Tiburon; the deck, the ferry) — $
+- [ ] Cheese Board (Berkeley; one pizza a day) — Walk-in · $
+- [ ] Chez Panisse Café (Berkeley; upstairs, no tasting menu) — $
+- [ ] Vik's Chaat (Berkeley) — Walk-in · $
+- [ ] Ippuku (Berkeley; the tavern) — BIB · Resy · Amex ✓ · $$
+- [ ] Saigon Sandwich (Tenderloin; $5, cash) — Walk-in · $
+- [ ] Turtle Tower (Tenderloin) — Walk-in · $
+- [ ] Brenda's (Tenderloin) — Resy · Amex ✓ · $
+- [ ] Bini's Kitchen (momos from a kiosk) — BIB · Walk-in · $
+- [ ] Anchor Oyster Bar (Castro; 1977) — BIB · Resy · Amex ✓ · $$
+- [ ] Californios (the first three-star Mexican restaurant in the world) — ★★★ · Tock · Amex ✓ · $$$$
+
+---
+
+## Bakeries (50)
+
+- [ ] Tartine Bakery (Mission; the morning bun) — Walk-in · $
+- [ ] Tartine Manufactory (Mission) — Resy · Amex ✓ · $
+- [ ] Arsicault (Inner Richmond / Civic Center; the croissant) — Walk-in · $
+- [ ] B. Patisserie (Pacific Heights) — Walk-in · $
+- [ ] The Mill / Josey Baker Bread (Divisadero) — $
+- [ ] Jane the Bakery (Fillmore) — Walk-in · $
+- [ ] Neighbor Bakehouse (Dogpatch) — Walk-in · $
+- [ ] Craftsman & Wolves (Mission) — Walk-in · $
+- [ ] Liguria Bakery (North Beach) — Walk-in · $
+- [ ] Acme Bread (Ferry Building) — Walk-in · $
+- [ ] Boudin (Fisherman's Wharf) — Walk-in · $
+- [ ] Arizmendi (multiple) — Walk-in · $
+- [ ] Cheese Board Collective (Berkeley) — Walk-in · $
+- [ ] La Boulangerie de SF (multiple) — Walk-in · $
+- [ ] Le Marais (Marina / Castro) — Walk-in · $
+- [ ] Noe Valley Bakery — Walk-in · $
+- [ ] Destination Baking (Glen Park) — Walk-in · $
+- [ ] Devil's Teeth (Outer Sunset) — Walk-in · $
+- [ ] Kahnfections (Mission) — Walk-in · $
+- [ ] Loquat (Mission) — Walk-in · $
+- [ ] Mr. Holmes — CLOSED
+- [ ] Bob's Donuts (Nob Hill) — Walk-in · $
+- [ ] Dynamo Donut (Mission) — Walk-in · $
+- [ ] Yasukochi's Sweet Stop (Japantown) — Walk-in · $
+- [ ] Golden Gate Fortune Cookie (Chinatown) — Walk-in · $
+- [ ] Good Mong Kok (Chinatown) — Walk-in · $
+- [ ] AA Bakery & Cafe (Chinatown) — Walk-in · $
+- [ ] Eastern Bakery (Chinatown; since 1924; mooncakes) — Walk-in · $
+- [ ] Stella Pastry (North Beach; sacripantina) — Walk-in · $
+- [ ] Victoria Pastry (North Beach; since 1914) — Walk-in · $
+- [ ] Dianda's (Mission; Italian-American, since 1962) — Walk-in · $
+- [ ] La Victoria (Mission; pan dulce) — Walk-in · $
+- [ ] La Reyna (Mission; pan dulce) — Walk-in · $
+- [ ] Pastelería? — $
+- [ ] Cinderella Bakery (Inner Richmond; Russian) — Walk-in · $
+- [ ] Boichik Bagels (Berkeley / SF) — Walk-in · $
+- [ ] Wise Sons (Mission) — Walk-in · $
+- [ ] Daily Driver (Dogpatch) — Walk-in · $
+- [ ] Marla Bakery (Outer Richmond) — ? · Walk-in · $
+- [ ] Thorough Bread and Pastry (Castro) — Walk-in · $
+- [ ] Black Jet Baking Co. (Bernal) — Walk-in · $
+- [ ] Vive La Tarte? — CLOSED; use Mission Pie — CLOSED; use Pie: Three Babes Bakeshop (Bayview / Ferry Building)
+- [ ] Pinkie's Bakery (SoMa) — Walk-in · $
+- [ ] Rize Up Bakery (Mission; sourdough) — Walk-in · $
+- [ ] Grand Bakery? — CLOSED; use Starter Bakery (Oakland)
+- [ ] Firebrand (Oakland) — Walk-in · $
+- [ ] Semifreddi's (Berkeley) — Walk-in · $
+- [ ] Sweet Adeline (Berkeley) — Walk-in · $
+- [ ] Bakesale Betty (Oakland; the fried chicken sandwich) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Bi-Rite Creamery (Mission) — Walk-in · $
+- [ ] Humphry Slocombe (Mission / multiple) — Walk-in · $
+- [ ] Mitchell's Ice Cream (Bernal) — Walk-in · $
+- [ ] Swensen's (Russian Hill) — Walk-in · $
+- [ ] Salt & Straw (multiple) — Walk-in · $
+- [ ] Smitten (multiple; liquid nitrogen) — Walk-in · $
+- [ ] Garden Creamery (Mission; Hawaiian-Japanese) — Walk-in · $
+- [ ] Marco Polo Italian Ice Cream (Inner Sunset; Asian flavors) — Walk-in · $
+- [ ] Polly Ann Ice Cream (Outer Sunset; the wheel) — Walk-in · $
+- [ ] Ghirardelli (the square) — Walk-in · $
+- [ ] Dandelion Chocolate (Mission; the factory) — Walk-in · $
+- [ ] Recchiuti Confections (Ferry Building) — Walk-in · $
+- [ ] XOX Truffles (North Beach) — Walk-in · $
+- [ ] See's Candies (born SF, 1921; multiple) — Walk-in · $
+- [ ] Yasukochi's coffee crunch cake (Japantown) — $
+- [ ] Stella's sacripantina (North Beach) — $
+- [ ] Victoria's St. Honoré (North Beach) — $
+- [ ] Tartine's morning bun — $
+- [ ] B. Patisserie's kouign amann — $
+- [ ] Arsicault's croissant — $
+- [ ] Craftsman & Wolves' Rebel Within — $
+- [ ] Dynamo's maple bacon — $
+- [ ] Bob's apple fritter — $
+- [ ] Devil's Teeth's cinnamon roll — $
+- [ ] Boba Guys (multiple) — Walk-in · $
+- [ ] Stonemill Matcha (Mission) — Walk-in · $
+- [ ] Teaspoon? — $
+- [ ] Mochi: Benkyodo — CLOSED (2022); use Nippon-Ya (Japantown; mochi)
+- [ ] Belly Good Café (Japantown; cat crêpes) — Walk-in · $
+- [ ] Golden Gate Fortune Cookie — Walk-in · $
+- [ ] Eastern Bakery (mooncakes) — Walk-in · $
+- [ ] AA Bakery (egg tarts) — Walk-in · $
+- [ ] Golden Gate Bakery (Chinatown; egg tarts, when open) — ? · Walk-in · $
+- [ ] Dianda's (Mission) — Walk-in · $
+- [ ] La Victoria (pan dulce) — Walk-in · $
+- [ ] Nightbird's dessert course (Hayes Valley) — ★ · $$$
+- [ ] Atelier Crenn's dessert (Cow Hollow) — ★★★ · $$$$
+- [ ] Californios' dessert (Mission) — ★★★ · $$$$
+- [ ] Lazy Bear's finale (Mission) — ★★ · $$$$
+- [ ] Benu's finale (SoMa) — ★★★ · $$$$
+- [ ] Quince (Jackson Square) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Sons & Daughters' dessert (Nob Hill) — ★ · $$$
+- [ ] Caffè Trieste's cannoli — $
+- [ ] The Buena Vista's Irish coffee (dessert, arguably) — $
+- [ ] Three Babes Bakeshop (pie) — Walk-in · $
+- [ ] Black Jet (Bernal) — Walk-in · $
+- [ ] Bakesale Betty (Oakland) — Walk-in · $
+- [ ] Hot Cookie (Castro) — Walk-in · $
+- [ ] Anthony's Cookies (Mission) — Walk-in · $
+- [ ] Fentons Creamery (Oakland; since 1894) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Empress by Boon (Chinatown; the room) — Resy · Amex ✓ · $$$$
+- [ ] Mister Jiu's (Chinatown) — ★ · Resy · Amex ✓ · $$$
+- [ ] Moongate Lounge (Chinatown) — Resy · Amex ✓ · $$$
+- [ ] China Live (Chinatown) — Resy · Amex ✓ · $$$
+- [ ] Kokkari (Jackson Square) — OpenTable · $$$
+- [ ] Quince (Jackson Square) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Cotogna (Jackson Square) — BIB · Resy · Amex ✓ · $$$
+- [ ] The Battery (Jackson Square; members) — SevenRooms · $$$$
+- [ ] Wayfare Tavern (FiDi) — Resy · Amex ✓ · $$$
+- [ ] Tadich Grill (FiDi) — OpenTable · $$$
+- [ ] Boulevard (Embarcadero) — OpenTable · $$$$
+- [ ] Waterbar (Embarcadero) — OpenTable · $$$$
+- [ ] Epic Steak (Embarcadero) — OpenTable · $$$$
+- [ ] Angler (Embarcadero) — Resy · Amex ✓ · $$$$
+- [ ] La Mar (Embarcadero) — Resy · Amex ✓ · $$$
+- [ ] Coqueta (Pier 5) — Resy · Amex ✓ · $$$
+- [ ] Gary Danko (Russian Hill) — OpenTable · $$$$
+- [ ] Acquerello (Nob Hill) — ★★ · Resy · Amex ✓ · $$$$
+- [ ] House of Prime Rib (Nob Hill) — OpenTable · $$$
+- [ ] Sons & Daughters (Nob Hill) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Top of the Mark (Nob Hill) — OpenTable · $$$
+- [ ] Tonga Room (Nob Hill) — OpenTable · $$$
+- [ ] Big 4 (Nob Hill) — OpenTable · $$$
+- [ ] Spruce (Presidio Heights) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Atelier Crenn (Cow Hollow) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Bar Crenn (Cow Hollow) — Resy · Amex ✓ · $$$
+- [ ] A16 (Marina) — BIB · Resy · Amex ✓ · $$$
+- [ ] Benu (SoMa) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Saison (SoMa) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Birdsong (SoMa) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Kiln (SoMa) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Mourad (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Marlowe (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Californios (Mission) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Lazy Bear (Mission) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Foreign Cinema (Mission) — Resy · Amex ✓ · $$$
+- [ ] Osito (Mission) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Nopa (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] Che Fico (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] State Bird / The Progress (Fillmore) — $$$
+- [ ] Nari (Japantown) — ★ · Resy · Amex ✓ · $$$
+- [ ] Nightbird (Hayes Valley) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Absinthe (Hayes Valley) — Resy · Amex ✓ · $$$
+- [ ] Zuni Café (Market St) — Resy · Amex ✓ · $$$
+- [ ] Charmaine's (SF Proper) — Resy · Amex ✓ · $$$
+- [ ] Villon (SF Proper) — Resy · Amex ✓ · $$$
+- [ ] The Buena Vista (Fisherman's Wharf) — Resy · Amex ✓ · $$
+- [ ] Sam's Anchor Cafe (Tiburon) — OpenTable · $$$
+- [ ] The French Laundry (Yountville) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] SingleThread (Healdsburg) — ★★★ · Tock · Amex ✓ · $$$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] Public Works (Mission) — Resy · Amex ✓ · $$
+- [ ] The Great Northern (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Audio (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Halcyon (SoMa) — Resy · Amex ✓ · $$$
+- [ ] 1015 Folsom (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Temple (SoMa) — Resy · Amex ✓ · $$$
+- [ ] Monarch (SoMa) — Resy · Amex ✓ · $$$
+- [ ] F8 (SoMa) — Resy · Amex ✓ · $$$
+- [ ] DNA Lounge (SoMa; since 1985) — Resy · Amex ✓ · $$$
+- [ ] Cat Club (SoMa; 80s night) — Walk-in · $$$
+- [ ] The Stud (SoMa; reborn) — Resy · Amex ✓ · $$$
+- [ ] Oasis (SoMa; drag) — Resy · Amex ✓ · $$$
+- [ ] Powerhouse (SoMa) — Walk-in · $$$
+- [ ] The Eagle (SoMa) — Walk-in · $$$
+- [ ] El Rio (Mission) — Walk-in · $
+- [ ] Make-Out Room (Mission) — Walk-in · $$$
+- [ ] Bissap Baobab (Mission; Senegalese dance nights) — ? · Walk-in · $$$
+- [ ] Amado's (Mission) — Resy · Amex ✓ · $$$
+- [ ] The Chapel (Mission) — Resy · Amex ✓ · $$$
+- [ ] Rickshaw Stop (Hayes Valley) — Resy · Amex ✓ · $$$
+- [ ] The Independent (Divisadero) — Resy · Amex ✓ · $$$
+- [ ] The Fillmore (Fillmore; the posters, the apples) — Resy · Amex ✓ · $$$
+- [ ] Bimbo's 365 Club (North Beach; since 1931) — Resy · Amex ✓ · $$$
+- [ ] Great American Music Hall (Tenderloin; 1907) — Resy · Amex ✓ · $$$
+- [ ] The Warfield (Tenderloin) — Resy · Amex ✓ · $$$
+- [ ] August Hall (Union Square) — Resy · Amex ✓ · $$$
+- [ ] Bottom of the Hill (Potrero Hill) — Resy · Amex ✓ · $$$
+- [ ] Thee Parkside (Potrero Hill) — Walk-in · $$$
+- [ ] Madrone Art Bar (Divisadero; Prince vs Michael) — Walk-in · $$$
+- [ ] Beaux (Castro) — Walk-in · $$$
+- [ ] Hi Tops (Castro) — Walk-in · $$$
+- [ ] Lookout (Castro) — Walk-in · $$$
+- [ ] Twin Peaks Tavern (Castro) — Walk-in · $$$
+- [ ] Aunt Charlie's (Tenderloin; drag) — Walk-in · $$$
+- [ ] Black Cat (Tenderloin; jazz) — Resy · Amex ✓ · $$$
+- [ ] Mr. Tipple's (Civic Center; jazz) — Resy · Amex ✓ · $$$
+- [ ] SFJAZZ Center (Hayes Valley) — Resy · Amex ✓ · $$$
+- [ ] Yoshi's (Oakland) — Resy · Amex ✓ · $$$
+- [ ] The New Parish (Oakland) — Resy · Amex ✓ · $$$
+- [ ] Fox Theater (Oakland) — Resy · Amex ✓ · $$$
+- [ ] Starline Social Club (Oakland) — ? · Walk-in · $$$
+- [ ] Eli's Mile High Club (Oakland) — Walk-in · $$$
+- [ ] Bar Part Time (Mission; the record bar, late) — Walk-in · $$$
+- [ ] Key Klub late (Tenderloin) — $$$
+- [ ] Zeitgeist late (Mission) — $$$
+- [ ] Li Po late (Chinatown) — $$$
+- [ ] Bob's Donuts at 3am (Nob Hill) — $$$
+- [ ] Outside Lands (Golden Gate Park; August) — Walk-in · $$$$
+- [ ] Hardly Strictly Bluegrass (Golden Gate Park; October, free) — Walk-in · $
+- [ ] Portola Festival (Pier 80; September) — Walk-in · $$$$
+
+---
+
+*Notes*
+- Michelin: the 2026 California selection, announced June 24, 2026 in San Diego. San Francisco's Californios was promoted to three stars — the first Mexican restaurant in the world to hold them — joining Atelier Crenn, Benu and Quince; Enclos in Sonoma also reached three, giving the Bay Area and Wine Country six three-star restaurants with the French Laundry and SingleThread. Restaurant Naides and Wolfsbane earned first stars in the city, Troubadour in Healdsburg; Kitchen Istanbul and Joodooboo joined the Bib list, and Good Good Culture Club and Ippuku returned to it. California now counts 83 stars and 117 Bibs.
+- Bars: True Laurel (№17) and Pacific Cocktail Haven (№16) held 2025 North America's 50 Best rankings; their 2026 placings weren't confirmed for this edition.
+- Anything marked **?** deserves a check before you go — San Francisco has lost a run of institutions since 2020 (Anchor Brewing, Kin Khao's original, Aphotic, Bar Agricole, Liholiho) and the churn continues.

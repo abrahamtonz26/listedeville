@@ -1,0 +1,895 @@
+# liste de ville / Boston — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide Boston (2025, its inaugural selection — Nov 2025), North America's 50 Best Bars, Boston Magazine's Best of Boston 2026, The Boston Globe, Eater Boston, Resy, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ = Michelin star (2025 Boston selection — the city's first, and its only one)
+- **BIB** = Michelin Bib Gourmand (2025) · **MR** = Michelin Recommended (shown here only because Boston's first guide made it news)
+- **NA50** = North America's 50 Best Bars · **BoB** = Boston Magazine Best of Boston 2026
+- **JBF 2026** = James Beard Award 2026 semifinalist (Massachusetts had no finalists this year)
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial, by category and price)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Pammy's (Cambridge; the room) — MR · Resy · Amex ✓ · $$$
+- [ ] Alden & Harlow (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Waypoint (Harvard Square; seafood + wine) — Resy · Amex ✓ · $$$
+- [ ] Giulia (Porter Square; pasta) — Resy · Amex ✓ · $$$
+- [ ] Bar Enza (Harvard Square; Italian) — Resy · Amex ✓ · $$
+- [ ] Nathálie (Fenway; wine bar) — NEW · Resy · Amex ✓ · $$
+- [ ] Haley.Henry (Downtown; tinned fish + wine) — Resy · Amex ✓ · $$
+- [ ] Rebel's Guild (Revere Hotel; wine bar) — Resy · Amex ✓ · $$
+- [ ] Spoke Wine Bar (Davis Square) — Resy · Amex ✓ · $$
+- [ ] Juliet (Union Square, Somerville; French, prix-fixe) — Resy · Amex ✓ · $$$
+- [ ] Sarma (Somerville; meze) — MR · Resy · Amex ✓ · $$$
+- [ ] Oleana (Cambridge; Ana Sortun's patio) — MR · Resy · Amex ✓ · $$$
+- [ ] Sofra (Watertown line; bakery-café) — Resy · Amex ✓ · $
+- [ ] Urban Hearth (North Cambridge) — MR · Resy · Amex ✓ · $$$
+- [ ] Field & Vine (Union Square, Somerville) — Resy · Amex ✓ · $$
+- [ ] Celeste (Union Square; Peruvian) — Resy · Amex ✓ · $$
+- [ ] Vinal Bakery & Café (Union Square) — $$
+- [ ] Highland Kitchen (Somerville) — Resy · Amex ✓ · $$
+- [ ] Trina's Starlite Lounge (Inman Square) — Resy · Amex ✓ · $$
+- [ ] Puritan & Co (Inman Square) — Resy · Amex ✓ · $$
+- [ ] The Table at Season to Taste (North Cambridge; prix-fixe) — Resy · Amex ✓ · $$
+- [ ] Little Donkey (Central Square; Ken Oringer) — Resy · Amex ✓ · $$
+- [ ] Toro (South End; tapas) — Resy · Amex ✓ · $$$
+- [ ] Coppa (South End; enoteca) — Resy · Amex ✓ · $$
+- [ ] The Butcher Shop (South End) — Resy · Amex ✓ · $$
+- [ ] Bar Mezzana (South End; crudo) — Resy · Amex ✓ · $$$
+- [ ] Shore Leave (South End; tiki + izakaya) — Resy · Amex ✓ · $$
+- [ ] Kava Neo-Taverna (South End; Greek) — Resy · Amex ✓ · $$
+- [ ] Myers + Chang (South End) — Resy · Amex ✓ · $$
+- [ ] Flour Bakery + Café (multiple; Joanne Chang) — Resy · Amex ✓ · $
+- [ ] Tatte (multiple) — Resy · Amex ✓ · $
+- [ ] Mida (South End / Fenway; Douglass Williams) — Resy · Amex ✓ · $$
+- [ ] Fox & the Knife (South Boston; Karen Akunowicz) — BIB · Resy · Amex ✓ · $$$
+- [ ] Bar Volpe (South Boston) — BIB · Resy · Amex ✓ · $$
+- [ ] Chickadee (Seaport / Fort Point) — JBF semifinalist (past) · Resy · Amex ✓ · $$
+- [ ] Lucca Back Bay — Resy · Amex ✓ · $$
+- [ ] Krasi (Back Bay; Greek wine bar) — Resy · Amex ✓ · $$$
+- [ ] Bar Lyon (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Select Oyster Bar (Back Bay; Michael Serpa) — Resy · Amex ✓ · $$$
+- [ ] Little Whale Oyster Bar (Back Bay) — Resy · Amex ✓ · $$
+- [ ] Neptune Oyster (North End) — MR · Resy · Amex ✓ · $$$
+- [ ] Mamma Maria (North End) — Resy · Amex ✓ · $$
+- [ ] Carmelina's (North End) — Resy · Amex ✓ · $$
+- [ ] Prezza (North End) — Resy · Amex ✓ · $$
+- [ ] Marcelino's Boutique Bar (Boston; Providence import) — NEW · Resy · Amex ✓ · $$$
+- [ ] Comfort Kitchen (Dorchester) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Lê Madeline (Quincy; Vietnamese) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Nightshade Noodle Bar (Lynn; Rachel Miller) — MR · Resy · Amex ✓ · $$$
+- [ ] Faccia a Faccia (Back Bay) — Resy · Amex ✓ · $$
+- [ ] The Salty Pig (Back Bay) — Resy · Amex ✓ · $$
+- [ ] Loyal Nine (East Cambridge) — Resy · Amex ✓ · $$
+- [ ] Lenox Sophia (Lenox; the duck press) — JBF 2026 semifinalist · $$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Hecate (Back Bay; beneath Krasi) — NA50 (2025 entry) · Resy · Amex ✓ · $$$
+- [ ] Offsuit (Leather District; behind Troquet) — Resy · Amex ✓ · $$$
+- [ ] Wink & Nod (South End; basement) — Resy · Amex ✓ · $$$
+- [ ] Drink (Fort Point; no menu) — Walk-in · $$$
+- [ ] The Wig Shop (Downtown Crossing; behind the wig shop) — Walk-in · $$$
+- [ ] Yvonne's (Downtown; behind the false library door) — Resy · Amex ✓ · $$$
+- [ ] Bogie's Place (inside jm Curley; steaks, Downtown) — Resy · Amex ✓ · $$
+- [ ] Blossom Bar (Brookline; Sichuan + cocktails) — Resy · Amex ✓ · $$
+- [ ] Backbar (Union Square, Somerville; back of a hallway) — Resy · Amex ✓ · $$
+- [ ] Lucky's Lounge (Fort Point; no sign) — Walk-in · $$
+- [ ] Silvertone Bar & Grill (Downtown; basement) — Walk-in · $$
+- [ ] Carrie Nation (Beacon Hill; the hidden speakeasy room) — $$
+- [ ] The Last Hurrah (Omni Parker House) — Resy · Amex ✓ · $$$
+- [ ] Oak Long Bar + Kitchen (Fairmont Copley Plaza) — Resy · Amex ✓ · $$$
+- [ ] Bristol Lounge (Four Seasons) — Resy · Amex ✓ · $$$
+- [ ] Marcelino's Boutique Bar (Downtown) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Pallino (South End) — NEW · Resy · Amex ✓ · $$
+- [ ] Nathálie (Fenway) — Resy · Amex ✓ · $$
+- [ ] Hojoko (Fenway; izakaya bar) — Resy · Amex ✓ · $$
+- [ ] Shore Leave (South End; downstairs tiki) — Resy · Amex ✓ · $$
+- [ ] Tiki Rock (Downtown) — Walk-in · $$
+- [ ] The Koji Club (Brighton; sake bar at the Charles River Speedway) — JBF 2026 semifinalist · Walk-in · $$
+- [ ] Bar Vlaha (Brookline; Greek) — NEW · Resy · Amex ✓ · $$
+- [ ] Mahaniyom (Brookline Village; Michelin Exceptional Cocktails Award 2025) — BIB · Resy · Amex ✓ · $$
+- [ ] Eastern Standard (Kenmore; reborn) — NEW · Resy · Amex ✓ · $$$
+- [ ] Equal Measure (Kenmore; Eastern Standard's bar) — NEW · Resy · Amex ✓ · $$
+- [ ] The Hawthorne — CLOSED
+- [ ] Brick & Mortar — CLOSED
+- [ ] Deep Ellum — CLOSED
+- [ ] Ruka (Downtown; Nikkei + late night) — Resy · Amex ✓ · $$
+- [ ] Trophy Room (South End) — Walk-in · $$
+- [ ] The Tam (Theater District; dive) — Walk-in · $
+- [ ] Biddy Early's (Financial District; dive) — Walk-in · $$
+- [ ] Bukowski Tavern (Back Bay / Inman) — Walk-in · $
+- [ ] The Sevens (Beacon Hill) — Walk-in · $$
+- [ ] Cheers (Beacon Hill; the Bull & Finch) — Walk-in · $$
+- [ ] Delux Café (South End) — Walk-in · $$
+- [ ] Wally's Cafe (South End; jazz since 1947) — Walk-in · $
+- [ ] Lolita (Back Bay / Fort Point; the cotton-candy exit) — Resy · Amex ✓ · $$
+- [ ] Bar Boulud (Mandarin Oriental) — ? · $$
+- [ ] Grana (The Langham; the bar) — Resy · Amex ✓ · $$$
+- [ ] Fed at the Langham — $$
+- [ ] Six West (Cambria, South End rooftop) — Resy · Amex ✓ · $$$
+- [ ] Charlie's Kitchen (Harvard Square) — Walk-in · $$
+- [ ] Grendel's Den (Harvard Square) — Walk-in · $$
+- [ ] The Plough and Stars (Cambridge; since 1969) — Walk-in · $$
+- [ ] Brendan Behan Pub (Jamaica Plain) — Walk-in · $$
+- [ ] Doyle's Café — CLOSED
+- [ ] The Underground (Central Square; beneath the Middle East) — ? · $$
+- [ ] Rebel's Guild's back bar (Revere Hotel) — $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Lookout Rooftop (The Envoy, Seaport) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at Revere (Revere Hotel) — Resy · Amex ✓ · $$$
+- [ ] Contessa (The Newbury; the glass roof) — Resy · Amex ✓ · $$$$
+- [ ] Colonnade Rooftop Pool (Back Bay; day passes) — $$$
+- [ ] Six West (Cambria, South End) — Resy · Amex ✓ · $$$
+- [ ] Felipe's Rooftop (Harvard Square) — Walk-in · $$$
+- [ ] Legal Harborside Roof Deck (Seaport) — Resy · Amex ✓ · $$$
+- [ ] Coppersmith (South Boston; roof deck) — Resy · Amex ✓ · $$$
+- [ ] Reelhouse (East Boston; waterfront) — Walk-in · $$$
+- [ ] Cunard Tavern (East Boston; roof) — Walk-in · $$$
+- [ ] Pier 6 (Charlestown; the skyline view) — Walk-in · $$$
+- [ ] The Landing at Long Wharf (seasonal) — Walk-in · $$$
+- [ ] Trillium Fort Point rooftop (Seaport) — Walk-in · $$$
+- [ ] Trillium Garden on the Greenway (seasonal) — Walk-in · $$$
+- [ ] Cisco Brewers Seaport (seasonal) — Walk-in · $$$
+- [ ] Harpoon Beer Hall (Seaport) — Walk-in · $$$
+- [ ] Sam Adams Downtown Taproom (Faneuil Hall) — Walk-in · $$$
+- [ ] Night Shift Owl's Nest (Esplanade; seasonal) — Walk-in · $$$
+- [ ] Lovejoy Wharf's Night Shift Brewing (North Station) — $$$
+- [ ] The Anchor (Charlestown Navy Yard; seasonal) — Walk-in · $$$
+- [ ] Deck at Rowes Wharf? — Rowes Wharf Sea Grille patio (Boston Harbor Hotel) · $$$
+- [ ] Alcove (Lovejoy Wharf) — Resy · Amex ✓ · $$$
+- [ ] Outlook Kitchen (The Envoy, Seaport) — $$$
+- [ ] Stephanie's on Newbury patio (Back Bay) — $$$
+- [ ] Sonsie patio — ? (Back Bay) · $$$
+- [ ] Cafeteria patio (Back Bay) — $$$
+- [ ] Woods Hill Pier 4 (waterfront) — Resy · Amex ✓ · $$$$
+- [ ] Row 34 patio (Seaport) — $$$
+- [ ] Committee patio (Seaport) — $$$
+- [ ] Lola 42 patio (Seaport) — $$$
+- [ ] Grace by Nia (Seaport; live music) — Resy · Amex ✓ · $$$
+- [ ] Time Out Market Boston (Fenway; food hall) — Walk-in · $$$
+- [ ] Bleacher Bar (under the Green Monster) — OpenTable · $$$
+- [ ] Cask 'n Flagon (Fenway) — OpenTable · $$$
+- [ ] Loretta's Last Call (Fenway) — OpenTable · $$$
+- [ ] Pammy's patio (Cambridge) — $$$
+- [ ] Bow Market courtyard (Union Square) — Walk-in · $$$
+- [ ] Remnant Brewing (Bow Market) — $$$
+- [ ] Aeronaut Brewing beer garden (Somerville) — Walk-in · $$$
+- [ ] Lamplighter Brewing (Cambridge) — Walk-in · $$$
+- [ ] Dorchester Brewing rooftop (Dorchester) — Walk-in · $$$
+- [ ] Castle Island Brewing (Southie; seasonal) — Walk-in · $$$
+- [ ] Lincoln Tavern patio (South Boston) — $$$
+- [ ] Brewer's Fork patio (Charlestown) — Walk-in · $$$
+- [ ] Monument Restaurant & Tavern (Charlestown) — Walk-in · $$$
+- [ ] Downeast Cider House (taproom) — Walk-in · $$$
+- [ ] Envoy's Lookout — winter igloos (Seaport; seasonal) · $$$
+- [ ] Tavern in the Square Seaport patio — $$$
+- [ ] Yotel's Sky Lounge (Seaport) — $$$
+- [ ] Alcove waterfront deck (Lovejoy Wharf) — $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Hecate (Back Bay) — NA50 (2025 entry) · Resy · Amex ✓ · $$$
+- [ ] Mahaniyom (Brookline Village) — BIB · Michelin Exceptional Cocktails 2025 · Resy · Amex ✓ · $$
+- [ ] The Koji Club (Brighton) — JBF 2026 semifinalist · Walk-in · $$
+- [ ] Drink (Fort Point; John Gertsen's legacy) — Walk-in · $$$
+- [ ] Marcelino's Boutique Bar (Downtown) — NEW · Resy · Amex ✓ · $$$
+- [ ] Offsuit (Leather District) — Resy · Amex ✓ · $$$
+- [ ] Blossom Bar (Brookline) — Resy · Amex ✓ · $$
+
+**Cocktail institutions**
+- [ ] Yvonne's (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Wink & Nod (South End) — Resy · Amex ✓ · $$$
+- [ ] The Wig Shop (Downtown Crossing) — Walk-in · $$$
+- [ ] Backbar (Somerville) — Resy · Amex ✓ · $$
+- [ ] Hojoko (Fenway) — Resy · Amex ✓ · $$
+- [ ] Shore Leave (South End) — Resy · Amex ✓ · $$
+- [ ] Tiki Rock (Downtown) — Walk-in · $$
+- [ ] Nathálie (Fenway) — Resy · Amex ✓ · $$
+- [ ] Bar Pallino (South End) — NEW · Resy · Amex ✓ · $$
+- [ ] Equal Measure (Kenmore) — NEW · Resy · Amex ✓ · $$
+- [ ] Eastern Standard (Kenmore) — NEW · Resy · Amex ✓ · $$$
+- [ ] Ruka (Downtown) — Resy · Amex ✓ · $$
+- [ ] Bogie's Place (Downtown) — Resy · Amex ✓ · $$
+- [ ] jm Curley (Downtown) — Walk-in · $$
+- [ ] Silvertone (Downtown) — $$
+- [ ] Lucky's Lounge (Fort Point) — Walk-in · $$
+- [ ] Trina's Starlite Lounge (Inman Square) — Resy · Amex ✓ · $$
+- [ ] Highland Kitchen bar (Somerville) — $$
+- [ ] Brick & Mortar — CLOSED
+- [ ] The Hawthorne — CLOSED
+- [ ] Deep Ellum — CLOSED
+- [ ] Bar Mezzana bar (South End) — $$
+- [ ] Toro bar (South End) — $$
+- [ ] Coppa bar (South End) — $$
+- [ ] The Beehive (South End; live music) — Resy · Amex ✓ · $$
+- [ ] Wally's Cafe (South End; jazz) — Walk-in · $
+- [ ] Delux Café (South End) — Walk-in · $$
+- [ ] Trophy Room (South End) — Walk-in · $$
+- [ ] Bukowski Tavern (Back Bay) — Walk-in · $
+- [ ] Citizen Public House (Fenway; whiskey) — Resy · Amex ✓ · $$
+- [ ] Bar Lyon (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Krasi (Back Bay; Greek wine) — Resy · Amex ✓ · $$$
+- [ ] Sonsie (Back Bay) — ? · OpenTable · $$
+- [ ] Lolita (Back Bay) — Resy · Amex ✓ · $$
+- [ ] Carrie Nation (Beacon Hill) — $$
+- [ ] 21st Amendment (Beacon Hill) — Walk-in · $$
+- [ ] The Sevens (Beacon Hill) — Walk-in · $$
+- [ ] Cheers (Beacon Hill) — Walk-in · $$
+- [ ] Tip Tap Room (Beacon Hill) — Walk-in · $$
+- [ ] Alcove (Lovejoy Wharf) — Resy · Amex ✓ · $$
+- [ ] The Bell in Hand (Faneuil Hall; since 1795) — Walk-in · $
+- [ ] Green Dragon (Faneuil Hall) — Walk-in · $$
+- [ ] Union Oyster House bar (since 1826) — $$
+- [ ] The Black Rose (Faneuil Hall; Irish) — Walk-in · $$
+- [ ] Mr. Dooley's (Financial District) — Walk-in · $$
+- [ ] Biddy Early's (Financial District) — Walk-in · $$
+- [ ] The Tam (Theater District) — Walk-in · $
+- [ ] Jacob Wirth — CLOSED
+
+**Hotel & classic bars**
+- [ ] Bristol Lounge (Four Seasons) — Resy · Amex ✓ · $$$
+- [ ] Oak Long Bar + Kitchen (Fairmont Copley) — Resy · Amex ✓ · $$$
+- [ ] The Last Hurrah (Omni Parker House) — Resy · Amex ✓ · $$$
+- [ ] Contessa bar (The Newbury) — $$
+- [ ] The Street Bar (The Newbury) — Resy · Amex ✓ · $$
+- [ ] Bar Boulud (Mandarin Oriental) — ? · $$
+- [ ] Grana (The Langham) — Resy · Amex ✓ · $$$
+- [ ] Fed (The Langham) — Resy · Amex ✓ · $$
+- [ ] Rooftop at Revere — Resy · Amex ✓ · $$$
+- [ ] Lookout (The Envoy) — $$
+- [ ] Six West (Cambria) — Resy · Amex ✓ · $$$
+- [ ] Noir (Charles Hotel, Cambridge) — Resy · Amex ✓ · $$
+- [ ] Regattabar (Charles Hotel; jazz) — OpenTable · $$
+- [ ] Scullers Jazz Club (DoubleTree, Allston) — OpenTable · $$
+- [ ] Liberty Hotel's Alibi (the old jail) — $$
+- [ ] Clink (Liberty Hotel) — $$
+- [ ] Precinct Kitchen + Bar (Loews) — Resy · Amex ✓ · $$
+- [ ] Rowes Wharf Bar (Boston Harbor Hotel) — $$
+
+**Historic / dive / neighborhood**
+- [ ] Charlie's Kitchen (Harvard Square) — Walk-in · $$
+- [ ] Grendel's Den (Harvard Square) — Walk-in · $$
+- [ ] The Plough and Stars (Cambridge) — Walk-in · $$
+- [ ] Phoenix Landing (Central Square) — Walk-in · $$
+- [ ] The Cantab Lounge (Central Square) — Walk-in · $$
+- [ ] The Druid (Inman Square) — Walk-in · $$
+- [ ] Sligo Pub (Davis Square) — Walk-in · $$
+- [ ] The Burren (Davis Square) — Walk-in · $$
+- [ ] Brendan Behan (Jamaica Plain) — $$
+- [ ] Doyle's — CLOSED
+- [ ] Croke Park (South Boston; "Whitey's") — Walk-in · $
+- [ ] L Street Tavern (South Boston; Good Will Hunting) — Walk-in · $
+- [ ] Murphy's Law (South Boston) — Walk-in · $$
+- [ ] Sullivan's Tap (North Station) — Walk-in · $$
+- [ ] The Harp (North Station) — Walk-in · $$
+- [ ] Eire Pub (Dorchester) — Walk-in · $$
+- [ ] dbar (Dorchester) — Walk-in · $$
+- [ ] The Banshee (Dorchester) — Walk-in · $$
+- [ ] Doyle's Café — CLOSED
+- [ ] Costello's Tavern (Jamaica Plain) — Walk-in · $$
+
+**Wine bars**
+- [ ] Haley.Henry (Downtown) — Resy · Amex ✓ · $$
+- [ ] Nathálie (Fenway) — Resy · Amex ✓ · $$
+- [ ] Rebel's Guild (Back Bay) — Resy · Amex ✓ · $$
+- [ ] Spoke (Davis Square) — $$
+- [ ] Krasi (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Bar Enza (Harvard Square) — Resy · Amex ✓ · $$
+- [ ] Sip Wine Bar (Financial District) — Resy · Amex ✓ · $$
+- [ ] Bin 26 Enoteca (Beacon Hill) — Resy · Amex ✓ · $$
+- [ ] Ward 8 (North End) — Resy · Amex ✓ · $$
+- [ ] Coppa (South End) — Resy · Amex ✓ · $$
+
+**Beer**
+- [ ] Trillium (Fort Point / Fenway / Canton) — Walk-in · $$
+- [ ] Harpoon Beer Hall (Seaport) — Walk-in · $$
+- [ ] Night Shift (Lovejoy Wharf / Everett) — Walk-in · $$
+- [ ] Lamplighter (Cambridge) — Walk-in · $$
+- [ ] Aeronaut (Somerville) — Walk-in · $$
+- [ ] Remnant (Bow Market) — Walk-in · $$
+- [ ] Dorchester Brewing — Walk-in · $$
+- [ ] Castle Island Brewing (South Boston) — Walk-in · $$
+- [ ] Notch Brewery (Brighton; lagers) — Walk-in · $$
+- [ ] Bukowski Tavern (beer list) — Walk-in · $
+- [ ] Cambridge Brewing Company (Kendall) — Walk-in · $$
+- [ ] Sunset Grill & Tap (Allston; 112 taps) — Walk-in · $$
+- [ ] Row 34 (beer + oysters) — Resy · Amex ✓ · $$$
+
+**Rooftop / view bars that double as great bars**
+- [ ] Lookout Rooftop (Seaport) — Resy · Amex ✓ · $$$
+- [ ] Contessa (The Newbury) — Resy · Amex ✓ · $$$$
+- [ ] Rooftop at Revere — Resy · Amex ✓ · $$$
+- [ ] Six West — Resy · Amex ✓ · $$$
+- [ ] Alcove (Lovejoy Wharf) — Resy · Amex ✓ · $$
+
+---
+
+## Coffee shops (50)
+
+- [ ] George Howell Coffee (Downtown Crossing / Newton) — Walk-in · $
+- [ ] Gracenote Coffee (Leather District) — Walk-in · $
+- [ ] Render Coffee (South End) — Walk-in · $
+- [ ] Thinking Cup (Downtown / Back Bay / North End) — Walk-in · $
+- [ ] Pavement Coffeehouse (multiple) — Walk-in · $
+- [ ] Ogawa Coffee (Downtown; Kyoto import) — Walk-in · $
+- [ ] Curio Coffee (Cambridge; waffles) — Walk-in · $
+- [ ] Broadsheet Coffee Roasters (Cambridge) — Walk-in · $
+- [ ] Barrington Coffee (Fenway / Downtown) — Walk-in · $
+- [ ] Jaho Coffee (South End / Downtown) — Walk-in · $
+- [ ] Blue Bottle (Harvard Square / Back Bay) — Walk-in · $
+- [ ] 1369 Coffee House (Inman / Central) — Walk-in · $
+- [ ] Diesel Café (Davis Square) — Walk-in · $
+- [ ] Simon's Coffee Shop (Porter Square) — Walk-in · $
+- [ ] Tatte (multiple) — Resy · Amex ✓ · $
+- [ ] Flour (multiple) — $
+- [ ] Sofra (Watertown line) — Resy · Amex ✓ · $
+- [ ] Caffè Vittoria (North End; since 1929) — Walk-in · $
+- [ ] Caffé Paradiso (North End) — Walk-in · $
+- [ ] Polcari's Coffee (North End; since 1932) — Walk-in · $
+- [ ] Caffè dello Sport (North End) — Walk-in · $
+- [ ] Cafe Nero (multiple) — Walk-in · $
+- [ ] Bakey (Beacon Hill) — NEW · Resy · Amex ✓ · $
+- [ ] The Paris Creperie (Brookline) — Walk-in · $
+- [ ] Cafe Fixe (Brookline) — Walk-in · $
+- [ ] Kohi Coffee Company (Seaport / Provincetown) — Walk-in · $
+- [ ] Cafe Susu (Cambridge) — Walk-in · $
+- [ ] Forge Baking Company (Somerville) — Walk-in · $
+- [ ] 3 Little Figs (Somerville) — Walk-in · $
+- [ ] Bloc Café (Union Square) — Walk-in · $
+- [ ] Recreo Coffee (West Roxbury; Nicaraguan) — Walk-in · $
+- [ ] Dudley Café (Nubian Square) — Walk-in · $
+- [ ] Haley House Bakery Café (Roxbury) — Walk-in · $
+- [ ] Ula Café (Jamaica Plain) — Walk-in · $
+- [ ] Fazenda Coffee Roasters (Jamaica Plain) — Walk-in · $
+- [ ] City Feed and Supply (Jamaica Plain) — Walk-in · $
+- [ ] Dwelltime — CLOSED
+- [ ] Darwin's — CLOSED
+- [ ] Hi-Rise Bread Company (Cambridge) — Walk-in · $
+- [ ] Petsi Pies (Cambridge / Somerville) — Walk-in · $
+- [ ] Longfellows (Wellesley) — Walk-in · $
+- [ ] Mamaleh's (Kendall / Brookline; Jewish deli + coffee) — Walk-in · $
+- [ ] Bagelsaurus (Porter Square) — Walk-in · $
+- [ ] Iggy's Bread (Cambridge) — Walk-in · $
+- [ ] Clear Flour Bread (Brookline) — Walk-in · $
+- [ ] Cutty's (Brookline; sandwiches) — Walk-in · $
+- [ ] Dunkin' (the original, Quincy) — the pilgrimage · Walk-in · $
+- [ ] Union Square Donuts (Somerville; coffee + doughnuts) — Walk-in · $
+- [ ] Kane's Donuts (Saugus / Financial District) — Walk-in · $
+- [ ] Tatte Harvard Square (the flagship) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★
+- [ ] 311 Omakase (South End; Wei Fa Chen) — ★ · Tock · Amex ✓ · $$$$
+
+### Bib Gourmand (2025) & Michelin Recommended
+- [ ] Bar Volpe (South Boston) — BIB · Resy · Amex ✓ · $$
+- [ ] Fox & the Knife (South Boston) — BIB · Resy · Amex ✓ · $$$
+- [ ] Pagu (Central Square; Tracy Chang) — BIB · Resy · Amex ✓ · $$
+- [ ] Jahunger (Cambridge; Uyghur) — BIB · Resy · Amex ✓ · $$
+- [ ] Sumiao Hunan Kitchen (Kendall Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Mahaniyom (Brookline Village; Thai) — BIB · Resy · Amex ✓ · $$
+- [ ] Oleana (Cambridge) — MR · Resy · Amex ✓ · $$$
+- [ ] Sarma (Somerville) — MR · Resy · Amex ✓ · $$$
+- [ ] Pammy's (Cambridge) — MR · Resy · Amex ✓ · $$$
+- [ ] Urban Hearth (North Cambridge) — MR · Resy · Amex ✓ · $$$
+- [ ] Nightshade Noodle Bar (Lynn) — MR · Resy · Amex ✓ · $$$
+- [ ] Neptune Oyster (North End) — MR · Resy · Amex ✓ · $$$
+- [ ] O Ya (Leather District; Tim Cushman) — MR · JBF 2026 semifinalist (Outstanding Restaurant) · Tock · Amex ✓ · $$$$
+- [ ] Uni (The Eliot; Ken Oringer) — MR · Resy · Amex ✓ · $$$$
+- [ ] Toro (South End) — MR · Resy · Amex ✓ · $$$
+- [ ] Sorellina (Back Bay) — MR · Resy · Amex ✓ · $$$$
+- [ ] Mooncusser (Back Bay; seafood tasting) — MR · Resy · Amex ✓ · $$$$
+- [ ] Krasi (Back Bay) — MR · Resy · Amex ✓ · $$$
+- [ ] Comfort Kitchen (Dorchester) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Lê Madeline (Quincy) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Gaaeng Supper Club (pop-up; Pao Thampitak) — JBF 2026 semifinalist · $$
+- [ ] La Padrona (Back Bay; Italian) — NEW · Resy · Amex ✓ · $$$
+- [ ] Lenox Sophia (Lenox; worth the drive) — JBF 2026 semifinalist · $$
+
+### The new guard
+- [ ] Marcelino's Boutique Bar (Downtown) — NEW · Resy · Amex ✓ · $$$
+- [ ] Eastern Standard (Kenmore; reborn 2023) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Pallino (South End) — NEW · Resy · Amex ✓ · $$
+- [ ] Bar Vlaha (Brookline; Greek) — NEW · Resy · Amex ✓ · $$
+- [ ] Ilona (South End; Georgian-Israeli) — NEW · Resy · Amex ✓ · $$
+- [ ] Faccia a Faccia (Back Bay) — NEW · Resy · Amex ✓ · $$
+- [ ] Nautilus Pier 4 — CLOSED
+- [ ] Woods Hill Pier 4 (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Contessa (The Newbury; the scene) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Zurito (Beacon Hill; pintxos) — NEW · Resy · Amex ✓ · $$
+- [ ] Ruka (Downtown; Nikkei) — Resy · Amex ✓ · $$
+- [ ] Yvonne's (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Grace by Nia (Seaport) — NEW · Resy · Amex ✓ · $$
+- [ ] Mariel (Downtown; Cuban) — Resy · Amex ✓ · $$
+- [ ] Bar Enza (Harvard Square) — NEW · Resy · Amex ✓ · $$
+- [ ] Bakey (Beacon Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Prima (Union Square, Somerville) — NEW · Resy · Amex ✓ · $$
+- [ ] Field & Vine (Somerville) — Resy · Amex ✓ · $$
+- [ ] Juliet (Somerville) — Resy · Amex ✓ · $$$
+- [ ] Celeste (Somerville) — Resy · Amex ✓ · $$
+- [ ] Dakzen (Davis Square; Thai) — Resy · Amex ✓ · $$
+- [ ] Little Big Diner (Newton; noodles) — $$
+
+### Classics & must-visits
+- [ ] No. 9 Park (Beacon Hill; Barbara Lynch) — Resy · Amex ✓ · $$$$
+- [ ] Menton — CLOSED
+- [ ] Sportello (Fort Point) — Resy · Amex ✓ · $$
+- [ ] Mistral (South End) — Resy · Amex ✓ · $$$$
+- [ ] Sorellina (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] Ostra (Back Bay; seafood) — Resy · Amex ✓ · $$$$
+- [ ] Mooo (Beacon Hill; steak) — Resy · Amex ✓ · $$$$
+- [ ] Grill 23 (Back Bay; steak) — Resy · Amex ✓ · $$$$
+- [ ] Abe & Louie's (Back Bay) — OpenTable · $$$$
+- [ ] Deuxave (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] L'Espalier — CLOSED
+- [ ] Zuma (Four Seasons One Dalton) — Resy · Amex ✓ · $$$$
+- [ ] Trade (Financial District) — Resy · Amex ✓ · $$
+- [ ] Row 34 (Fort Point / Cambridge) — Resy · Amex ✓ · $$$
+- [ ] Island Creek Oyster Bar (Kenmore) — CLOSED (Burlington remains)
+- [ ] Legal Sea Foods (multiple; Harborside) — OpenTable · $$
+- [ ] Union Oyster House (since 1826) — OpenTable · $$$
+- [ ] Neptune Oyster (North End) — Resy · Amex ✓ · $$$
+- [ ] Select Oyster Bar (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Mamma Maria (North End) — Resy · Amex ✓ · $$
+- [ ] Carmelina's (North End) — Resy · Amex ✓ · $$
+- [ ] Prezza (North End) — Resy · Amex ✓ · $$
+- [ ] Giacomo's (North End; the line) — Walk-in · $$
+- [ ] Regina Pizzeria (North End; since 1926) — Walk-in · $
+- [ ] Galleria Umberto (North End; Sicilian slices, cash, lunch only) — Walk-in · $
+- [ ] Santarpio's (East Boston; since 1903) — Walk-in · $
+- [ ] Giulia (Porter Square) — Resy · Amex ✓ · $$$
+- [ ] Alden & Harlow (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Waypoint (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Harvest (Harvard Square) — Resy · Amex ✓ · $$
+- [ ] Craigie on Main — CLOSED
+- [ ] Little Donkey (Central Square) — Resy · Amex ✓ · $$
+- [ ] Tasting Counter (Somerville; Peter Ungár) — Tock · Amex ✓ · $$$$
+- [ ] Puritan & Co (Inman Square) — Resy · Amex ✓ · $$
+- [ ] Highland Kitchen (Somerville) — Resy · Amex ✓ · $$
+- [ ] Sofra (Watertown line) — Resy · Amex ✓ · $
+- [ ] Coppa (South End) — Resy · Amex ✓ · $$
+- [ ] The Butcher Shop (South End) — Resy · Amex ✓ · $$
+- [ ] Myers + Chang (South End) — Resy · Amex ✓ · $$
+- [ ] Banyan Bar + Refuge (South End) — Resy · Amex ✓ · $$
+- [ ] SRV (South End; Venetian) — Resy · Amex ✓ · $$
+- [ ] Bar Mezzana (South End) — Resy · Amex ✓ · $$$
+- [ ] Kava Neo-Taverna (South End) — Resy · Amex ✓ · $$
+- [ ] Chickadee (Fort Point) — Resy · Amex ✓ · $$
+- [ ] Lucca (North End / Back Bay) — $$
+- [ ] Bar Volpe (South Boston) — Resy · Amex ✓ · $$
+- [ ] Fox & the Knife (South Boston) — Resy · Amex ✓ · $$$
+- [ ] Loco Taqueria (South Boston) — Resy · Amex ✓ · $$
+- [ ] Lincoln Tavern (South Boston) — Resy · Amex ✓ · $$
+- [ ] Sweet Cheeks Q (Fenway; Tiffani Faison) — Resy · Amex ✓ · $$
+- [ ] Tiger Mama — CLOSED
+- [ ] Fool's Errand (Fenway) — ? · $$
+- [ ] Hojoko (Fenway) — Resy · Amex ✓ · $$
+- [ ] Citizen Public House (Fenway) — Resy · Amex ✓ · $$
+- [ ] Mida (South End / Fenway) — Resy · Amex ✓ · $$
+- [ ] Shōjō (Chinatown) — Resy · Amex ✓ · $$
+- [ ] Ruckus (Chinatown; ramen) — $$
+- [ ] Gene's Chinese Flatbread Cafe (Chinatown; hand-pulled noodles) — Walk-in · $
+- [ ] Taiwan Cafe (Chinatown) — Walk-in · $$
+- [ ] Peach Farm (Chinatown; late night) — Walk-in · $$
+- [ ] Winsor Dim Sum Cafe (Chinatown) — Walk-in · $$
+- [ ] Hei La Moon (Chinatown; dim sum) — Walk-in · $$
+- [ ] Dumpling Cafe (Chinatown) — Walk-in · $$
+- [ ] Pho Pasteur (Chinatown) — Walk-in · $$
+- [ ] Bánh Mì Ba Le (Dorchester) — Walk-in · $$
+- [ ] Pho Hoa (Dorchester) — Walk-in · $$
+- [ ] Anh Hong (Dorchester; seven courses of beef) — Walk-in · $$
+- [ ] Shanti (Dorchester; Indian) — Walk-in · $$
+- [ ] Sullivan's Castle Island (South Boston; JBF America's Classic 2025) — Walk-in · $
+- [ ] Yankee Lobster (Seaport) — Walk-in · $$
+- [ ] James Hook & Co (Seaport; lobster rolls) — Walk-in · $$
+- [ ] Kelly's Roast Beef (Revere Beach; since 1951) — Walk-in · $
+- [ ] Belle Isle Seafood (Winthrop) — Walk-in · $$
+- [ ] Woodman's of Essex (Essex; the fried clam, since 1914) — Walk-in · $$
+- [ ] The Clam Box (Ipswich) — Walk-in · $$
+- [ ] Roy Moore Lobster Co (Rockport) — Walk-in · $$
+- [ ] Kowloon (Saugus; the tiki palace) — Walk-in · $$
+- [ ] Mr. Bartley's Burger Cottage (Harvard Square) — Walk-in · $
+- [ ] Anna's Taqueria (multiple) — Walk-in · $
+- [ ] El Pelón (Fenway / Brighton) — Walk-in · $
+- [ ] Toro (South End) — Resy · Amex ✓ · $$$
+- [ ] Oleana (Cambridge) — Resy · Amex ✓ · $$$
+- [ ] Sarma (Somerville) — Resy · Amex ✓ · $$$
+- [ ] Pammy's (Cambridge) — Resy · Amex ✓ · $$$
+- [ ] O Ya (Leather District) — Tock · Amex ✓ · $$$$
+- [ ] Uni (The Eliot) — Resy · Amex ✓ · $$$$
+- [ ] Mooncusser (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] Nightshade Noodle Bar (Lynn) — Resy · Amex ✓ · $$$
+- [ ] Urban Hearth (Cambridge) — Resy · Amex ✓ · $$$
+- [ ] Comfort Kitchen (Dorchester) — Resy · Amex ✓ · $$
+- [ ] Lê Madeline (Quincy) — Resy · Amex ✓ · $$
+- [ ] Pagu (Central Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Jahunger (Cambridge) — BIB · Resy · Amex ✓ · $$
+- [ ] Sumiao Hunan Kitchen (Kendall) — BIB · Resy · Amex ✓ · $$
+- [ ] Mahaniyom (Brookline) — BIB · Resy · Amex ✓ · $$
+- [ ] Dumpling House (Cambridge / Chinatown) — Walk-in · $$
+- [ ] Dumpling Daughter (multiple) — Walk-in · $$
+- [ ] Yume Wo Katare (Porter Square; ramen, say your dream) — Walk-in · $$
+- [ ] Sapporo Ramen (Porter Square) — Walk-in · $$
+- [ ] Santouka (Harvard Square) — Walk-in · $$
+- [ ] Café Sushi (Cambridge) — $$
+- [ ] Fat Baby (South Boston; sushi) — $$
+- [ ] Ocean Prime (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Mastro's (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Del Frisco's (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Smith & Wollensky (Atlantic Wharf) — Resy · Amex ✓ · $$$$
+- [ ] Davio's (Back Bay / Seaport) — Resy · Amex ✓ · $$$
+- [ ] Atlantic Fish Co (Back Bay) — Resy · Amex ✓ · $$
+- [ ] Saltie Girl (Back Bay; tinned fish) — Resy · Amex ✓ · $$
+- [ ] Eventide Fenway (Portland import) — Resy · Amex ✓ · $$
+- [ ] Little Whale (Back Bay) — $$
+- [ ] Bar Lyon (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Stephanie's on Newbury — OpenTable · $$
+- [ ] Cafeteria (Newbury) — OpenTable · $$
+- [ ] Piattini (Newbury) — Resy · Amex ✓ · $$
+- [ ] Lolita (Back Bay / Fort Point) — Resy · Amex ✓ · $$
+- [ ] Nebo (Seaport; North End Italian moved) — Resy · Amex ✓ · $$
+- [ ] Trattoria il Panino (North End) — Resy · Amex ✓ · $$
+- [ ] Bricco (North End) — Resy · Amex ✓ · $$
+- [ ] Antico Forno (North End) — Resy · Amex ✓ · $$
+- [ ] Monica's Trattoria (North End) — Resy · Amex ✓ · $$
+- [ ] Al Dente (North End) — Resy · Amex ✓ · $$
+
+---
+
+## Brunch spots (50)
+
+- [ ] North Street Grille (North End) — $$
+- [ ] The Paramount (Beacon Hill; the line) — OpenTable · $$
+- [ ] The Friendly Toast (Back Bay / Cambridge) — OpenTable · $$
+- [ ] Zaftigs (Brookline / Natick) — OpenTable · $$
+- [ ] Mike & Patty's (Bay Village; egg sandwiches) — Walk-in · $$
+- [ ] Trident Booksellers & Café (Newbury) — Walk-in · $$
+- [ ] Stephanie's on Newbury — OpenTable · $$
+- [ ] Cafe Landwer (multiple; shakshuka) — Resy · Amex ✓ · $$
+- [ ] Aquitaine (South End) — Resy · Amex ✓ · $$
+- [ ] Gaslight (South End) — Resy · Amex ✓ · $$
+- [ ] The Beehive (South End; jazz brunch) — Resy · Amex ✓ · $$
+- [ ] Toro brunch (South End) — $$
+- [ ] Bar Lyon brunch (Back Bay) — $$
+- [ ] Little Donkey brunch (Central Square) — $$
+- [ ] Lincoln Tavern (South Boston; the Southie brunch) — Resy · Amex ✓ · $$
+- [ ] Loco Taqueria (South Boston) — Resy · Amex ✓ · $$
+- [ ] Coppersmith (South Boston) — Resy · Amex ✓ · $$
+- [ ] Committee (Seaport; Greek brunch) — Resy · Amex ✓ · $$
+- [ ] Trina's Starlite Lounge (Inman; the tots) — Resy · Amex ✓ · $$
+- [ ] Highland Kitchen (Somerville) — Resy · Amex ✓ · $$
+- [ ] Loyal Nine (East Cambridge) — Resy · Amex ✓ · $$
+- [ ] Sofra (Watertown line) — Resy · Amex ✓ · $
+- [ ] Tatte (multiple) — Resy · Amex ✓ · $
+- [ ] Flour (multiple) — $$
+- [ ] Pavement (multiple) — $$
+- [ ] Mamaleh's (Kendall / Brookline) — Walk-in · $$
+- [ ] Bagelsaurus (Porter Square) — Walk-in · $$
+- [ ] Kupel's Bakery (Brookline) — Walk-in · $$
+- [ ] Exodus Bagels (Jamaica Plain / Roslindale) — Walk-in · $$
+- [ ] Sound Bites (Somerville) — Walk-in · $$
+- [ ] Ball Square Cafe (Somerville) — Walk-in · $$
+- [ ] Renee's Café (Somerville) — Walk-in · $$
+- [ ] Neighborhood Restaurant (Union Square; the cream of wheat) — Walk-in · $$
+- [ ] Forge Baking Company (Somerville) — Walk-in · $$
+- [ ] Veggie Galaxy (Central Square; vegan diner) — Walk-in · $$
+- [ ] Cafe Luna (Central Square) — Walk-in · $$
+- [ ] Alden & Harlow brunch (Harvard Square) — $$
+- [ ] Henrietta's Table (Charles Hotel) — Resy · Amex ✓ · $$
+- [ ] The Hourly Oyster House (Harvard Square) — Resy · Amex ✓ · $$
+- [ ] Zoe's (Cambridge; diner) — Resy · Amex ✓ · $$
+- [ ] Centre Street Café (Jamaica Plain) — Walk-in · $$
+- [ ] Brassica Kitchen (Jamaica Plain) — $$
+- [ ] Ula Café (Jamaica Plain) — Walk-in · $$
+- [ ] Bakey (Beacon Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Cafe Vanille (Beacon Hill) — Walk-in · $$
+- [ ] Eastern Standard brunch (Kenmore) — NEW · $$
+- [ ] Sonsie brunch (Newbury) — ? · $$
+- [ ] Buttermilk & Bourbon (Back Bay; New Orleans) — Resy · Amex ✓ · $$
+- [ ] Bar Volpe brunch (South Boston) — BIB · $$
+- [ ] Contessa brunch (The Newbury) — NEW · $$
+- [ ] Yvonne's brunch (Downtown) — $$
+
+---
+
+## Off-beat & only-in-Boston (50)
+
+- [ ] Sullivan's Castle Island (South Boston; JBF America's Classic 2025) — Walk-in · $
+- [ ] Kelly's Roast Beef (Revere Beach) — Walk-in · $
+- [ ] Galleria Umberto (North End; cash, until it runs out) — Walk-in · $
+- [ ] Regina Pizzeria (North End original, Thacher St) — Walk-in · $
+- [ ] Santarpio's (East Boston) — Walk-in · $
+- [ ] Kowloon (Saugus; Route 1 tiki) — Walk-in · $$
+- [ ] Hilltop Steakhouse — CLOSED (the cactus lives on)
+- [ ] Mr. Bartley's (Harvard Square) — $
+- [ ] Charlie's Sandwich Shoppe — CLOSED
+- [ ] Haymarket (Friday–Saturday produce market since 1830) — Walk-in · $
+- [ ] Boston Public Market (Haymarket) — Walk-in · $
+- [ ] Quincy Market (Faneuil Hall; the clam chowder in a bread bowl) — Walk-in · $
+- [ ] Union Oyster House (oldest restaurant in America) — OpenTable · $$$
+- [ ] The Bell in Hand (oldest tavern) — Walk-in · $
+- [ ] Durgin-Park — CLOSED
+- [ ] James Hook & Co (Seaport) — Walk-in · $$
+- [ ] Yankee Lobster (Seaport) — Walk-in · $$
+- [ ] Belle Isle Seafood (Winthrop) — Walk-in · $
+- [ ] Woodman's of Essex (the fried clam) — Walk-in · $$
+- [ ] The Clam Box (Ipswich) — Walk-in · $$
+- [ ] Roy Moore (Rockport) — $
+- [ ] Simco's (Mattapan; hot dogs since 1935) — Walk-in · $
+- [ ] El Pelón (Fenway) — Walk-in · $
+- [ ] Gene's Chinese Flatbread (Chinatown) — $
+- [ ] Peach Farm (Chinatown; 2am) — Walk-in · $$
+- [ ] Yume Wo Katare (Porter Square) — Walk-in · $$
+- [ ] Anh Hong (Dorchester) — Walk-in · $
+- [ ] Bánh Mì Ba Le (Dorchester) — Walk-in · $
+- [ ] Pho Hoa (Dorchester) — Walk-in · $
+- [ ] Ali's Roti (Roxbury / Dorchester; Trinidadian) — Walk-in · $
+- [ ] Singh's Roti Shop (Dorchester) — Walk-in · $
+- [ ] Flames (Dorchester; Jamaican) — Walk-in · $
+- [ ] Comfort Kitchen (Dorchester) — Resy · Amex ✓ · $$
+- [ ] Haley House Bakery Café (Roxbury) — Walk-in · $
+- [ ] Suya Joint (Roxbury; Nigerian) — Walk-in · $
+- [ ] Dudley Café (Nubian Square) — Walk-in · $
+- [ ] Bow Market (Union Square; the micro-mall) — Walk-in · $
+- [ ] Time Out Market Boston (Fenway) — Walk-in · $
+- [ ] Eataly Boston (Prudential) — Walk-in · $
+- [ ] High Street Place (Financial District; food hall) — Walk-in · $
+- [ ] Hub Hall (North Station; food hall) — Walk-in · $
+- [ ] Bleacher Bar (under the Green Monster) — OpenTable · $
+- [ ] Fenway Park sausage carts (Lansdowne St) — Walk-in · $
+- [ ] Dunkin' (Quincy; the 1950 original) — Walk-in · $
+- [ ] Kane's Donuts (Saugus) — Walk-in · $
+- [ ] Union Square Donuts (Somerville) — Walk-in · $
+- [ ] Mike's Pastry vs Modern Pastry (North End; pick a side) — $
+- [ ] Bova's Bakery (North End; 24 hours) — Walk-in · $
+- [ ] Toscanini's (Central Square; burnt caramel) — Walk-in · $
+- [ ] Christina's (Inman Square; the flavors) — Walk-in · $
+- [ ] Cutty's (Brookline; roast beef 1000) — Walk-in · $
+
+---
+
+## Bakeries (50)
+
+- [ ] Flour Bakery + Café (multiple; the sticky bun) — Resy · Amex ✓ · $
+- [ ] Tatte (multiple) — Resy · Amex ✓ · $
+- [ ] Sofra (Watertown line; Maura Kilpatrick) — Resy · Amex ✓ · $
+- [ ] Clear Flour Bread (Brookline) — Walk-in · $
+- [ ] Iggy's Bread (Cambridge) — Walk-in · $
+- [ ] Hi-Rise Bread Company (Cambridge) — Walk-in · $
+- [ ] Vinal Bakery (Somerville) — Walk-in · $
+- [ ] Forge Baking Company (Somerville) — Walk-in · $
+- [ ] Bakey (Beacon Hill) — NEW · Resy · Amex ✓ · $
+- [ ] Levain Bakery Boston (Back Bay / Harvard Square) — NEW · Walk-in · $
+- [ ] Mike's Pastry (North End) — Walk-in · $
+- [ ] Modern Pastry (North End) — Walk-in · $
+- [ ] Bova's Bakery (North End; 24 hours) — Walk-in · $
+- [ ] Maria's Pastry Shop (North End; the sfogliatelle) — Walk-in · $
+- [ ] Parziale's Bakery (North End) — Walk-in · $
+- [ ] Lyndell's Bakery (Somerville; since 1887) — Walk-in · $
+- [ ] Danish Pastry House (Watertown / Medford) — Walk-in · $
+- [ ] Japonaise Bakery (Brookline / Cambridge) — Walk-in · $
+- [ ] Kupel's Bakery (Brookline) — Walk-in · $
+- [ ] Bagelsaurus (Porter Square) — Walk-in · $
+- [ ] Mamaleh's (Kendall) — Walk-in · $
+- [ ] Exodus Bagels (JP / Roslindale) — Walk-in · $
+- [ ] Katz Bagel Bakery (Chelsea; the pizza bagel, since 1938) — Walk-in · $
+- [ ] Kane's Donuts (Saugus / Financial District) — Walk-in · $
+- [ ] Union Square Donuts (Somerville / Fenway) — Walk-in · $
+- [ ] Blackbird Doughnuts (South End / multiple) — Walk-in · $
+- [ ] Linda's Donuts (Belmont) — Walk-in · $
+- [ ] Twin Donuts (Allston; since 1955) — Walk-in · $
+- [ ] Demet's Donuts (Medford) — Walk-in · $
+- [ ] Party Favors (Brookline; cakes) — Walk-in · $
+- [ ] Lakon Paris Patisserie (Newton) — NEW · Walk-in · $
+- [ ] Praliné (Belmont) — ? · $
+- [ ] Cafe Vanille (Beacon Hill; French) — Walk-in · $
+- [ ] Panificio (Beacon Hill) — Walk-in · $
+- [ ] Bricco Panetteria (North End; bread from the alley) — Walk-in · $
+- [ ] Bricco Salumeria (North End) — Walk-in · $
+- [ ] Cutty's (Brookline) — Walk-in · $
+- [ ] Bagel Guild (Somerville) — NEW · Walk-in · $
+- [ ] Athan's Bakery (Brookline / Brighton; Greek) — Walk-in · $
+- [ ] Sevan Bakery (Watertown; Armenian) — Walk-in · $
+- [ ] Massis Bakery (Watertown; Armenian) — Walk-in · $
+- [ ] Arax Market (Watertown) — Walk-in · $
+- [ ] Central Bakery (Peabody; Portuguese) — Walk-in · $
+- [ ] Mariposa Bakery (Central Square) — Walk-in · $
+- [ ] Cafe Madeleine (South End; French) — Walk-in · $
+- [ ] Haley House Bakery Café (Roxbury) — Walk-in · $
+- [ ] Wheelhouse (Financial District; breakfast sandwiches) — Walk-in · $
+- [ ] Bread & Butter (Fenway; Portuguese rolls) — ? · $
+- [ ] Zinneken's (Harvard Square; Belgian waffles) — Walk-in · $
+- [ ] Flour Fort Point (the original) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Toscanini's (Central Square) — Walk-in · $
+- [ ] Christina's Homemade Ice Cream (Inman Square) — $
+- [ ] J.P. Licks (multiple; since 1981) — Walk-in · $
+- [ ] Emack & Bolio's (multiple; since 1975) — Walk-in · $
+- [ ] FoMu (multiple; vegan) — Walk-in · $
+- [ ] Gracie's Ice Cream (Union Square) — Walk-in · $
+- [ ] Honeycomb Creamery (Cambridge) — Walk-in · $
+- [ ] Picco (South End; pizza + ice cream) — Walk-in · $
+- [ ] Ron's Gourmet Ice Cream (Hyde Park; bowling alley) — Walk-in · $
+- [ ] Sullivan's soft serve (Castle Island) — $
+- [ ] Kimball Farm (Westford; the drive) — Walk-in · $
+- [ ] Bedford Farms (Bedford) — Walk-in · $
+- [ ] Richardson's (Middleton) — Walk-in · $
+- [ ] Taiyaki NYC Boston (Chinatown) — Walk-in · $
+- [ ] Tous les Jours (Chinatown / Allston) — Walk-in · $
+- [ ] Paris Baguette (multiple) — Walk-in · $
+- [ ] Mike's Pastry (cannoli) — Walk-in · $
+- [ ] Modern Pastry (cannoli) — Walk-in · $
+- [ ] Bova's (the 2am cannoli) — $
+- [ ] Maria's Pastry (sfogliatelle) — $
+- [ ] Caffè Vittoria (tiramisu + espresso) — Walk-in · $
+- [ ] L.A. Burdick Chocolate (Harvard Square; drinking chocolate) — Walk-in · $
+- [ ] Beacon Hill Chocolates — Walk-in · $
+- [ ] Taza Chocolate (Somerville; factory tour) — Walk-in · $
+- [ ] EHChocolatier (Cambridge) — Walk-in · $
+- [ ] Union Square Donuts (the brown butter hazelnut) — Walk-in · $
+- [ ] Blackbird Doughnuts — Walk-in · $
+- [ ] Twin Donuts (Allston) — Walk-in · $
+- [ ] Levain (cookies) — Walk-in · $
+- [ ] Insomnia Cookies (multiple) — Walk-in · $
+- [ ] Bakey (Beacon Hill) — Resy · Amex ✓ · $
+- [ ] Lakon Paris (Newton) — $
+- [ ] Cafe Vanille (Beacon Hill) — Walk-in · $
+- [ ] Japonaise (Brookline) — $
+- [ ] Tous les Jours (Chinatown) — Walk-in · $
+- [ ] Ho Yuen Bakery (the roast pork buns) — Walk-in · $
+- [ ] Great Taste Bakery (Chinatown) — Walk-in · $
+- [ ] Kung Fu Tea / Tsaocaa (bubble tea) — $
+- [ ] Teado (Chinatown; tea) — Walk-in · $
+- [ ] Jaho (South End; matcha) — $
+- [ ] Ogawa (Downtown; matcha) — $
+- [ ] Van Leeuwen Boston (Back Bay) — NEW · Walk-in · $
+- [ ] Amorino (Newbury) — ? · $
+- [ ] Angelato (Beacon Hill; gelato) — Walk-in · $
+- [ ] Caffè dello Sport gelato — $
+- [ ] Sofra's pastries — $
+- [ ] Tatte's halva brownie — $
+- [ ] Flour's Boston cream pie (the city's dessert) — $
+- [ ] Cafe Susu (Cambridge; pastries) — Walk-in · $
+- [ ] Lizzy's Ice Cream (Harvard Square) — Walk-in · $
+- [ ] Sweet Bakery — $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Contessa (The Newbury) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Yvonne's (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Zuma (One Dalton) — Resy · Amex ✓ · $$$$
+- [ ] Ostra (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] Sorellina (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] Mistral (South End) — Resy · Amex ✓ · $$$$
+- [ ] Grill 23 (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] Mooo (Beacon Hill) — Resy · Amex ✓ · $$$$
+- [ ] No. 9 Park (Beacon Hill) — Resy · Amex ✓ · $$$$
+- [ ] Bar Mezzana (South End) — Resy · Amex ✓ · $$$
+- [ ] Toro (South End) — Resy · Amex ✓ · $$$
+- [ ] Mariel (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Ruka (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Lolita (Back Bay / Fort Point) — Resy · Amex ✓ · $$$
+- [ ] Carrie Nation (Beacon Hill) — $$$
+- [ ] The Street Bar (The Newbury) — Resy · Amex ✓ · $$$
+- [ ] Bristol Lounge (Four Seasons) — Resy · Amex ✓ · $$$
+- [ ] Oak Long Bar (Fairmont Copley) — $$$
+- [ ] Grana (The Langham) — Resy · Amex ✓ · $$$
+- [ ] Bar Boulud (Mandarin) — ? · $$$
+- [ ] Rooftop at Revere — Resy · Amex ✓ · $$$
+- [ ] Lookout (Envoy) — $$$
+- [ ] Ocean Prime (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Mastro's (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Del Frisco's (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Davio's (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Abe & Louie's (Back Bay) — OpenTable · $$$$
+- [ ] Atlantic Fish Co (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Saltie Girl (Back Bay) — Resy · Amex ✓ · $$$
+- [ ] Stephanie's on Newbury — OpenTable · $$$
+- [ ] Sonsie (Newbury) — ? · OpenTable · $$$
+- [ ] Eataly Boston (Prudential) — Walk-in · $$$
+- [ ] Time Out Market (Fenway) — $$$
+- [ ] Hojoko (Fenway) — Resy · Amex ✓ · $$$
+- [ ] Eastern Standard (Kenmore) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Enza (Harvard Square) — NEW · Resy · Amex ✓ · $$$
+- [ ] Alden & Harlow (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Harvest (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Waypoint (Harvard Square) — Resy · Amex ✓ · $$$
+- [ ] Tasting Counter (Somerville) — Tock · Amex ✓ · $$$$
+- [ ] O Ya (Leather District) — Tock · Amex ✓ · $$$$
+- [ ] Uni (The Eliot) — Resy · Amex ✓ · $$$$
+- [ ] Mooncusser (Back Bay) — Resy · Amex ✓ · $$$$
+- [ ] 311 Omakase (South End) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Woods Hill Pier 4 (Seaport) — Resy · Amex ✓ · $$$$
+- [ ] Legal Harborside (Seaport; three floors) — $$$
+- [ ] Trade (Financial District) — Resy · Amex ✓ · $$$
+- [ ] Marcelino's (Downtown) — NEW · $$$
+- [ ] La Padrona (Back Bay) — NEW · Resy · Amex ✓ · $$$
+- [ ] Faccia a Faccia (Back Bay) — NEW · Resy · Amex ✓ · $$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] Royale (Theater District) — SevenRooms · $$$
+- [ ] The Grand (Seaport) — SevenRooms · $$$
+- [ ] Bijou (Theater District) — SevenRooms · $$$
+- [ ] Icon (Theater District) — SevenRooms · $$$
+- [ ] Memoire (Encore Boston Harbor) — SevenRooms · $$$
+- [ ] Candibar (Theater District) — SevenRooms · $$$
+- [ ] Venu (Theater District) — SevenRooms · $$$
+- [ ] Big Night Live (North Station) — Walk-in · $$$
+- [ ] Roadrunner (Brighton; the venue) — Walk-in · $$$
+- [ ] House of Blues (Fenway) — Walk-in · $$$
+- [ ] Paradise Rock Club (Allston) — Walk-in · $$$
+- [ ] Brighton Music Hall — Walk-in · $$$
+- [ ] The Sinclair (Harvard Square) — Walk-in · $$$
+- [ ] The Middle East — CLOSED (reopening?) — ?
+- [ ] Great Scott — CLOSED
+- [ ] Lizard Lounge (Cambridge) — Walk-in · $$$
+- [ ] Wally's Cafe (South End; jazz) — Walk-in · $
+- [ ] The Beehive (South End) — Resy · Amex ✓ · $$$
+- [ ] Regattabar (Charles Hotel) — OpenTable · $$$
+- [ ] Scullers (Allston) — $$$
+- [ ] Club Café (Back Bay) — Walk-in · $$$
+- [ ] Jacques Cabaret (Bay Village; drag since 1938) — Walk-in · $$$
+- [ ] The Alley Bar (Downtown) — Walk-in · $$$
+- [ ] Cathedral Station (South End) — Walk-in · $$$
+- [ ] Trophy Room (South End) — Walk-in · $$$
+- [ ] dbar (Dorchester) — Walk-in · $$$
+- [ ] Cure Lounge (Theater District) — SevenRooms · $$$
+- [ ] Havana Club (Central Square; salsa) — Walk-in · $$$
+- [ ] Phoenix Landing (Central Square) — Walk-in · $$$
+- [ ] Middlesex Lounge (Central Square) — Walk-in · $$$
+- [ ] The Cantab (Central Square) — $$$
+- [ ] ZuZu (Central Square) — ? · $$$
+- [ ] Bill's Bar (Lansdowne) — ? · $$$
+- [ ] Loretta's Last Call (Lansdowne; country) — OpenTable · $$$
+- [ ] Cask 'n Flagon (Lansdowne) — OpenTable · $$$
+- [ ] Lansdowne Pub — OpenTable · $$$
+- [ ] Game On! (Lansdowne) — OpenTable · $$$
+- [ ] MGM Music Hall at Fenway — Walk-in · $$$
+- [ ] Leader Bank Pavilion (Seaport; summer) — Walk-in · $$$
+- [ ] ONCE Somerville — CLOSED (pop-ups)
+- [ ] Bow Market's Remnant nights — $$$
+- [ ] Sally O'Brien's (Somerville; live music) — Walk-in · $$$
+- [ ] Thunder Road — CLOSED
+- [ ] Toad (Porter Square; tiny) — Walk-in · $$$
+- [ ] The Burren (Davis Square; back room) — Walk-in · $$$
+- [ ] Atwood's Tavern (Cambridge) — Walk-in · $$$
+- [ ] Plough and Stars (Cambridge) — $$$
+- [ ] Bell in Hand (Faneuil Hall; DJs upstairs) — $$$
+- [ ] Ned Devine's (Faneuil Hall) — Walk-in · $$$
+- [ ] Hong Kong (Harvard Square; the scorpion bowl) — Walk-in · $$$
+- [ ] The Whisky Saigon — CLOSED
+
+---
+
+*Notes*
+- Michelin: the inaugural 2025 Boston selection (Northeast Cities guide, November 2025) — one star (311 Omakase), six Bib Gourmands, and a long "Recommended" list that includes several of the city's best rooms. The Michelin Exceptional Cocktails Award went to Mahaniyom's Chompon "Boong" Boonnak.
+- James Beard 2026: Massachusetts had no finalists; semifinalists included O Ya, Comfort Kitchen, Lê Madeline, The Koji Club, Gaaeng Supper Club and Lenox Sophia. Sullivan's Castle Island received the America's Classics award in 2025.
+- Bars: Hecate entered North America's 50 Best in 2025; its 2026 placing wasn't confirmed for this edition.
+- Anything marked **?** deserves a check before you go.

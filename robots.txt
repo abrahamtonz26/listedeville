@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://listedeville.com/sitemap.xml

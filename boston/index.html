@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Boston — listedeville</title>
+<meta name="description" content="795 of the best places in Boston — restaurants, bars, speakeasies, rooftops, coffee, bakeries and more — tagged with Michelin stars, Bib Gourmands, 50 Best Bars, NYT 100 and where to book.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<style>
+.head{padding:44px 0 26px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end}
+.head h1{font-size:clamp(48px,8vw,104px)}
+.head .deck{margin-top:12px;max-width:44ch}
+.head .meta{font-size:13px;color:var(--ink2);text-align:right}
+.toolbar{position:sticky;top:60px;z-index:15;background:var(--paper);padding:12px 0 10px;border-bottom:1px solid var(--rule)}
+.search{display:flex;gap:10px;align-items:center}
+.search input{flex:1;font:inherit;font-size:16px;padding:12px 18px;border-radius:999px;border:1px solid var(--ink);background:#fff;color:var(--ink)}
+.search input:focus{outline:2px solid var(--taxi);outline-offset:2px}
+.search select{font:inherit;font-size:14px;padding:11px 14px;border-radius:999px;border:1px solid var(--rule);background:#fff}
+.rows{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;align-items:center}
+.rows .lbl{font-size:12px;color:var(--ink2);margin-right:4px}
+.rows .sep{width:1px;height:20px;background:var(--rule);margin:0 6px}
+.count{font-size:13px;color:var(--ink2);margin:16px 0 8px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.count button{background:none;border:0;font:inherit;font-size:13px;color:var(--ink);text-decoration:underline;cursor:pointer;padding:0}
+.section{margin-top:26px}
+.section-h{display:flex;align-items:center;gap:14px;margin:34px 0 12px}
+.section-h img{width:56px;height:56px;object-fit:cover;border-radius:12px}
+.section-h h2{font-size:34px;margin:0}
+.section-h span{font-size:13px;color:var(--ink2)}
+.grp{display:inline-block;font-weight:600;font-size:12px;padding:5px 12px;background:var(--plate);border-radius:999px;margin:14px 0 8px}
+.list{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.e{background:#fff;border-radius:16px;padding:12px 16px 12px;display:flex;flex-direction:column;gap:3px;border:1px solid transparent}
+.e:hover{border-color:var(--rule)}
+.e .n{font-family:"Fraunces",serif;font-size:19px;font-weight:500;line-height:1.15;text-decoration:none;font-variation-settings:"opsz" 14}
+.e .n:hover{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.e.v .n span{background:var(--taxi);padding:0 6px;margin-left:-6px;border-radius:999px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.e.x .n{text-decoration:line-through;color:var(--ink2);font-weight:400}
+.e .p{font-size:12.5px;color:var(--ink2)}
+.e .t{display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center;margin-top:3px}
+.e .links{margin-top:6px;display:flex;gap:10px;font-size:12px}
+.e .links a{color:var(--ink2);text-decoration:none;border-bottom:1px solid var(--rule)}
+.e .links a:hover{color:var(--ink);border-color:var(--ink)}
+.empty{padding:60px 0;text-align:center;color:var(--ink2);font-family:"Fraunces",serif;font-style:italic;font-size:22px}
+.fab{position:fixed;right:22px;bottom:22px;z-index:16;display:inline-flex;align-items:center;gap:8px;padding:10px 16px 10px 13px;border-radius:999px;background:var(--ink);color:#fff;text-decoration:none;font-family:"Fraunces",serif;font-style:italic;font-size:16px;opacity:0;transform:translateY(12px);transition:opacity .25s,transform .25s;pointer-events:none}
+.fab span{font-style:normal;font-family:"IBM Plex Sans";font-weight:600}
+.fab.on{opacity:1;transform:none;pointer-events:auto}
+@media (max-width:1000px){.list{grid-template-columns:1fr 1fr}}
+@media (max-width:680px){.list{grid-template-columns:1fr}.head{grid-template-columns:1fr}.head .meta{text-align:left}.toolbar{top:60px}.search select{display:none}}
+@media (prefers-reduced-motion:reduce){.fab{transition:none}}
+</style>
+</head>
+<body id="top">
+<header class="nav"><div class="wrap">
+  <a class="brand" href="/"><b>listedeville</b><span>by Honestly Speaking</span></a>
+  <nav><ul><li><a href="/">Home</a></li><li class="menu current"><button type="button" aria-expanded="false" aria-haspopup="true">Boston <span class="car">▾</span></button><ul class="dd"><li><a href="/new-york/">New York</a></li><li><a href="/boston/">Boston</a></li><li><a href="/boston/" aria-current="page">Washington, DC</a></li><li><a href="/miami/">Miami</a></li><li><a href="/chicago/">Chicago</a></li><li><a href="/san-francisco/">San Francisco</a></li><li><a href="/los-angeles/">Los Angeles</a></li><li><a href="/seattle/">Seattle</a></li></ul></li><li><a href="/boston/itineraries/">Itineraries</a></li><li><a href="/about/">About</a></li></ul></nav>
+</div></header>
+
+<main class="wrap">
+  <div class="head">
+    <div>
+      <p class="eyebrow">listedeville · No. 4 · Fall/Winter 2026</p>
+      <h1>Bos<i>ton</i></h1>
+      <p class="deck">The best of the best in the city — must-visit, unique, a rockstar in its own right. Search it, filter it, book it.</p>
+    </div>
+    <div class="meta"><a class="pill" href="/boston/liste-de-ville-boston-2026.pdf" style="margin-bottom:12px">Download the magazine edition (PDF)</a><br>795 places · twelve lists<br>Michelin star — the city&#x27;s first · Bib Gourmand restaurants</div>
+  </div>
+
+  <div class="toolbar">
+    <div class="search">
+      <input id="q" type="search" placeholder="Search a place, a neighborhood, a cuisine… (try “omakase”, “oysters”, “rooftop”)" autocomplete="off" aria-label="Search places">
+      <select id="sort" aria-label="Sort"><option value="list">Editor's order</option><option value="az">A → Z</option><option value="rank">Ranked first</option></select>
+    </div>
+    <div class="rows" id="cats"><span class="lbl">Lists</span></div>
+    <div class="rows" id="filters">
+      <span class="lbl">Only</span>
+      <button class="chip" data-f="stars"><span class="star">★</span> Michelin-starred</button>
+      <button class="chip" data-f="bib"><span class="bib">Bib</span> Bib Gourmand</button>
+      <button class="chip" data-f="ranked">Ranked (50 Best)</button>
+      <button class="chip" data-f="amex"><span class="amex">Amex ✓</span> Resy credit</button>
+      <button class="chip" data-f="new">New since last edition</button>
+      <button class="chip" data-f="visited"><span class="been">been</span> Tony's been</button>
+      <span class="sep"></span>
+      <span class="lbl">Book on</span>
+      <button class="chip" data-p="Resy">Resy</button>
+      <button class="chip" data-p="Tock">Tock</button>
+      <button class="chip" data-p="OpenTable">OpenTable</button>
+      <button class="chip" data-p="SevenRooms">SevenRooms</button>
+      <button class="chip" data-p="Walk-in">Walk-in</button>
+      <span class="sep"></span>
+      <button class="chip" data-f="jbf"><span class="jbf">JBF 2026</span> James Beard nominee</button>
+      <button class="chip" data-f="showclosed">Show closed</button>
+    </div>
+    <div class="rows" id="occ"><span class="lbl">Occasion</span>
+      <button class="chip" data-o="Romantic">Romantic</button>
+      <button class="chip" data-o="Date night">Date night</button>
+      <button class="chip" data-o="Casual">Casual</button>
+      <button class="chip" data-o="Group">Group / lively</button>
+      <button class="chip" data-o="Brunch">Brunch &amp; daytime</button>
+      <button class="chip" data-o="Late night">Late night</button>
+      <button class="chip" data-o="Sweets">Coffee &amp; sweets</button>
+      <span class="sep"></span><span class="lbl">Price</span>
+      <button class="chip" data-pr="1">$</button><button class="chip" data-pr="2">$$</button><button class="chip" data-pr="3">$$$</button><button class="chip" data-pr="4">$$$$</button>
+    </div>
+  </div>
+
+  <div class="count"><span id="count"></span><span><button id="reset" type="button">Clear all filters</button></span></div>
+  <div id="results"></div>
+</main>
+
+<a class="fab" href="#top" id="fab" aria-label="Back to the top"><span>↑</span> Back to the top</a>
+
+<footer><div class="wrap">
+  <span>© 2026 <a href="https://honestlyspeaking.xyz">Honestly Speaking</a> · listedeville · New York, Fall/Winter 2026</span>
+  <span>Booking platforms as best known at time of publishing — the Resy app is the source of truth for the Amex credit · <a href="/about/#notes">Notes &amp; sources</a> · <a href="mailto:hello@listedeville.com">hello@listedeville.com</a></span>
+</div></footer>
+
+<script>
+(function(){
+const CATS=[["Cafés","cafes"],["Speakeasies","speakeasies"],["Rooftops","rooftops"],["Bars","bars"],["Coffee","coffee"],["Restaurants","restaurants"],["Brunch","brunch"],["Off-beat","off-beat"],["Bakeries","bakeries"],["Dessert","dessert"],["Scene","scene"],["Nightlife","nightlife"]];
+const DECK={"Cafés": "Cambridge and Somerville's chef rooms, South End enotecas, and the wine bars where Boston actually eats on a Tuesday.", "Speakeasies": "Beneath a Greek wine bar, behind a wig shop, through a false library. Ranked, loosely, by the drink.", "Rooftops": "A low city with a harbor — the roofs, decks and beer gardens that catch the water.", "Bars": "A 50 Best entry, a Michelin cocktail award, a sake bar in a speedway, and the taverns since 1795.", "Coffee": "George Howell's town: the roasters, the North End caffès since 1929, and the bakeries that double as cafés.", "Restaurants": "One star, six Bibs, a long Michelin 'recommended' bench that reads like a best-of, and the seafood shacks that make the drive worth it.", "Brunch": "Southie brunch, the Paramount line, and the diners of Somerville.", "Off-beat": "Fried clams in Essex, roast beef on Revere Beach, Sicilian slices for cash, and a tiki palace on Route 1.", "Bakeries": "Flour's sticky bun, the North End cannoli war, and Watertown's Armenian bakeries.", "Dessert": "For after — or instead of — dinner.", "Scene": "Where the room is the point: the Newbury's glass roof, the Seaport steakhouses, and the hotel bars of Back Bay.", "Nightlife": "Theater District megaclubs, Lansdowne Street, and the rock rooms of Allston and Cambridge."};
+const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let DATA=[], state={q:"",cats:new Set(),f:new Set(),p:new Set(),o:new Set(),pr:new Set(),sort:"list"};
+
+// read URL params
+const u=new URLSearchParams(location.search);
+
+["stars","bib","ranked","amex","new","visited","jbf","showclosed"].forEach(k=>{if(u.get(k)==="1") state.f.add(k)});
+u.getAll("p").forEach(p=>state.p.add(p)); u.getAll("o").forEach(o=>state.o.add(o)); u.getAll("pr").forEach(x=>state.pr.add(x)); u.getAll("cat").forEach(c=>state.cats.add(c));
+if(u.get("q")) state.q=u.get("q");
+
+// category chips
+const catRow=$("#cats");
+CATS.forEach(([c])=>{const b=document.createElement("button");b.className="chip";b.dataset.c=c;b.textContent=c;b.setAttribute("aria-pressed",state.cats.has(c));b.onclick=()=>{state.cats.has(c)?state.cats.delete(c):state.cats.add(c);sync();render()};catRow.appendChild(b)});
+document.querySelectorAll("#filters .chip").forEach(b=>{
+  const k=b.dataset.f, p=b.dataset.p;
+  b.setAttribute("aria-pressed", k?state.f.has(k):state.p.has(p));
+  b.onclick=()=>{ if(k){state.f.has(k)?state.f.delete(k):state.f.add(k)} else {state.p.has(p)?state.p.delete(p):state.p.add(p)} sync();render(); };
+});
+document.querySelectorAll("#occ .chip[data-pr]").forEach(b=>{const v=b.dataset.pr;b.setAttribute("aria-pressed",state.pr.has(v));b.onclick=()=>{state.pr.has(v)?state.pr.delete(v):state.pr.add(v);sync();render()}});
+document.querySelectorAll("#occ .chip[data-o]").forEach(b=>{const o=b.dataset.o;b.setAttribute("aria-pressed",state.o.has(o));b.onclick=()=>{state.o.has(o)?state.o.delete(o):state.o.add(o);sync();render()}});
+$("#q").value=state.q; $("#q").addEventListener("input",e=>{state.q=e.target.value;sync();render()});
+$("#sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
+$("#reset").onclick=()=>{state={q:"",cats:new Set(),f:new Set(),p:new Set(),o:new Set(),pr:new Set(),sort:state.sort};$("#q").value="";sync();render()};
+
+function sync(){
+  document.querySelectorAll("#cats .chip").forEach(b=>b.setAttribute("aria-pressed",state.cats.has(b.dataset.c)));
+  document.querySelectorAll("#filters .chip").forEach(b=>b.setAttribute("aria-pressed",b.dataset.f?state.f.has(b.dataset.f):state.p.has(b.dataset.p)));
+  document.querySelectorAll("#occ .chip[data-o]").forEach(b=>b.setAttribute("aria-pressed",state.o.has(b.dataset.o)));
+  document.querySelectorAll("#occ .chip[data-pr]").forEach(b=>b.setAttribute("aria-pressed",state.pr.has(b.dataset.pr)));
+  const q=new URLSearchParams(); if(state.q)q.set("q",state.q); [...state.cats].forEach(c=>q.append("cat",c)); [...state.f].forEach(k=>q.set(k,"1")); [...state.p].forEach(p=>q.append("p",p)); [...state.o].forEach(o=>q.append("o",o)); [...state.pr].forEach(x=>q.append("pr",x));
+  history.replaceState(null,"",location.pathname+(q.toString()?"?"+q:""));
+}
+function match(d){
+  if(d.closed && !state.f.has("showclosed") && !state.q) return false;
+  if(state.cats.size && !state.cats.has(d.cat)) return false;
+  if(state.f.has("stars")&&!d.stars) return false;
+  if(state.f.has("bib")&&!d.bib) return false;
+  if(state.f.has("ranked")&&!(d.na50||d.nyt)) return false;
+  if(state.f.has("amex")&&!d.amex) return false;
+  if(state.f.has("new")&&!d.new) return false;
+  if(state.f.has("visited")&&!d.visited) return false;
+  if(state.f.has("jbf")&&!d.jbf) return false;
+  if(state.o.size && ![...state.o].some(o=>d.occ.includes(o))) return false;
+  if(state.pr.size && !state.pr.has(String(d.price))) return false;
+  if(state.p.size && !state.p.has(d.platform||"")) return false;
+  if(state.q){const q=state.q.toLowerCase(); const hay=(d.name+" "+d.place+" "+d.cat+" "+d.group+" "+d.notes.join(" ")+" "+(d.platform||"")+" "+(d.jbf||"")+" "+d.occ.join(" ")).toLowerCase(); if(!hay.includes(q)) return false;}
+  return true;
+}
+function tags(d){
+  let t=[];
+  if(d.stars) t.push('<span class="star">'+"★".repeat(d.stars)+'</span>');
+  if(d.bib) t.push('<span class="bib">Bib</span>');
+  if(d.price) t.push('<span class="price" title="rough spend per person">'+"$".repeat(d.price)+'</span>');
+  if(d.na50) t.push('<span class="rank">50 Best <b>№'+d.na50+'</b></span>');
+  if(d.nyt) t.push(d.nyt===100&&!d.notes.some(n=>/#100/.test(n))?'<span class="rank">NYT 100</span>':'<span class="rank">NYT <b>№'+d.nyt+'</b></span>');
+  if(d.new) t.push('<span class="new">new</span>');
+  if(d.closed) t.push('<span class="closed">closed</span>');
+  if(d.verify) t.push('<span class="verify">verify</span>');
+  d.notes.filter(n=>!/^closed/.test(n)).forEach(n=>t.push('<span class="note">'+esc(n)+'</span>'));
+  if(d.platform) t.push('<span class="plat'+(d.platform==="Walk-in"?" walkin":"")+'">'+d.platform+'</span>');
+  if(d.amex) t.push('<span class="amex">Amex ✓</span>');
+  if(d.jbf) t.push('<span class="jbf" title="James Beard Award 2026 nominee — '+esc(d.jbf)+'">JBF 2026</span>');
+  if(d.occ.length) t.push('<span class="occ">'+d.occ.map(o=>'<i>'+o+'</i>').join("")+'</span>');
+  return t.join("");
+}
+function card(d){
+  const g="https://www.google.com/search?q="+d.q, m="https://www.google.com/maps/search/?api=1&query="+d.q;
+  const book=d.platform&&d.platform!=="Walk-in"?'<a href="https://www.google.com/search?q='+d.q+'+'+d.platform+'" target="_blank" rel="noopener">Book on '+d.platform+'</a>':"";
+  return '<div class="e'+(d.visited?" v":"")+(d.closed?" x":"")+'"><a class="n" href="'+g+'" target="_blank" rel="noopener"><span>'+esc(d.name)+'</span></a>'+(d.place?'<span class="p">'+esc(d.place)+'</span>':"")+'<span class="t">'+tags(d)+'</span><span class="links"><a href="'+m+'" target="_blank" rel="noopener">Map</a>'+book+'</span></div>';
+}
+function render(){
+  let items=DATA.filter(match);
+  if(state.sort==="az") items=[...items].sort((a,b)=>a.name.localeCompare(b.name));
+  if(state.sort==="rank") items=[...items].sort((a,b)=>score(b)-score(a));
+  $("#count").textContent=items.length+" of "+DATA.length+" places"+(state.cats.size?" in "+[...state.cats].join(", "):"");
+  if(!items.length){$("#results").innerHTML='<div class="empty">Nothing matches — try fewer filters, or a shorter search.</div>';return}
+  let html="";
+  const byCat=state.sort==="list";
+  if(byCat){
+    CATS.forEach(([c,slug])=>{
+      const list=items.filter(d=>d.cat===c); if(!list.length) return;
+      html+='<section class="section"><div class="section-h"><img src="/img/boston/'+slug+'.jpg" alt=""><div><h2>'+c+'</h2><span>'+list.length+' places · '+DECK[c]+'</span></div></div>';
+      let g=null;
+      list.forEach(d=>{ if(d.group!==g){ if(g!==null) html+='</div>'; g=d.group; if(g) html+='<div class="grp">'+esc(g)+'</div>'; html+='<div class="list">'; } html+=card(d); });
+      html+='</div></section>';
+    });
+  } else { html='<div class="list" style="margin-top:14px">'+items.map(card).join("")+'</div>'; }
+  $("#results").innerHTML=html;
+}
+function score(d){return (d.stars*40)+(d.bib?20:0)+(d.na50?60-d.na50:0)+(d.nyt?101-d.nyt:0)}
+fetch("/assets/boston.json").then(r=>r.json()).then(j=>{DATA=j.items;render()});
+const fab=$("#fab"); function tick(){fab.classList.toggle("on",window.scrollY>600)} addEventListener("scroll",tick,{passive:true}); tick();
+fab.onclick=e=>{e.preventDefault();scrollTo({top:0,behavior:"smooth"})};
+})();
+</script>
+<script>document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.addEventListener("click",function(e){e.stopPropagation();var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o)});});document.addEventListener("click",function(){document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});document.addEventListener("keydown",function(e){if(e.key==="Escape")document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});</script></body>
+</html>

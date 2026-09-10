@@ -1,0 +1,828 @@
+# liste de ville / Seattle — Fall/Winter 2026
+
+First edition · Michelin does not cover Seattle, so the cross-references are the James Beard Foundation (2026 semifinalists and finalists), Seattle Met and Seattle Magazine's restaurants of the year, The Seattle Times, Eater Seattle, Resy, Tock, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- **JBF 2026** = James Beard 2026 finalist or semifinalist (category noted) · **JBF** = past winner or nominee
+- **RoY** = Seattle Met or Seattle Magazine Restaurant of the Year
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Atoma (Wallingford; Johnny Courtney) — JBF 2026 finalist · RoY 2024 · Tock · Amex ✓ · $$$
+- [ ] Little Beast Ballard — JBF 2026 semifinalist · RoY 2025 · Resy · Amex ✓ · $$
+- [ ] The Wayland Mill (Northlake) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$$
+- [ ] Café Suliman (Melrose Market; Ahmed Suliman) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Musang (Beacon Hill; Melissa Miranda) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Homer (Beacon Hill; Logan Cox) — JBF 2026 semifinalist · Tock · Amex ✓ · $$$
+- [ ] Pancita (Ravenna; Janet Becerra) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Ramie (Capitol Hill; Vietnamese) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Le Caviste (Belltown; French wine bar) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] The Walrus and the Carpenter (Ballard; Renee Erickson) — Resy · Amex ✓ · $$$
+- [ ] The Whale Wins (Fremont) — Resy · Amex ✓ · $$$
+- [ ] Bar Melusine — CLOSED
+- [ ] Bateau (Capitol Hill; the whole-animal steakhouse) — Resy · Amex ✓ · $$$$
+- [ ] Westward (Lake Union; the fire pit) — Resy · Amex ✓ · $$$
+- [ ] Sitka & Spruce — CLOSED
+- [ ] Spinasse (Capitol Hill; tajarin) — Resy · Amex ✓ · $$$
+- [ ] Artusi (Capitol Hill; Spinasse's bar) — Resy · Amex ✓ · $$
+- [ ] Tavolàta (Belltown / Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] How to Cook a Wolf (Queen Anne / Madison Park) — Resy · Amex ✓ · $$
+- [ ] Marmite (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] L'Oursin (Central District; natural wine + seafood) — Resy · Amex ✓ · $$
+- [ ] JuneBaby (Ravenna; Edouardo Jordan) — Resy · Amex ✓ · $$$
+- [ ] Salare — CLOSED
+- [ ] Off Alley (Columbia City; 8 seats) — Tock · Amex ✓ · $$$$
+- [ ] Lark (Capitol Hill; Johnathan Sundstrom) — Resy · Amex ✓ · $$$
+- [ ] Altura (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] Cafe Juanita (Kirkland; the drive) — Resy · Amex ✓ · $$$$
+- [ ] Copine (Ballard) — Resy · Amex ✓ · $$$$
+- [ ] Barnacle (Ballard; Erickson's aperitivo bar) — Resy · Amex ✓ · $$
+- [ ] Rupee Bar (Ballard; Sri Lankan-Indian) — Resy · Amex ✓ · $$
+- [ ] Stoneburner (Ballard) — Resy · Amex ✓ · $$
+- [ ] Sawyer (Ballard) — Resy · Amex ✓ · $$
+- [ ] Un Bien (Ballard; Caribbean roast pork sandwiches) — Walk-in · $
+- [ ] Bar del Corso (Beacon Hill; pizza) — Resy · Amex ✓ · $$
+- [ ] Delancey (Ballard; pizza) — Resy · Amex ✓ · $$
+- [ ] Essex (Ballard; Delancey's bar) — Resy · Amex ✓ · $$
+- [ ] Vif (Fremont; wine + coffee) — Resy · Amex ✓ · $$
+- [ ] Manolin (Fremont; the fire) — Resy · Amex ✓ · $$
+- [ ] Rock Creek (Fremont; seafood) — Resy · Amex ✓ · $$
+- [ ] Eight Row (Green Lake) — Resy · Amex ✓ · $$
+- [ ] Frelard Tamales (Ballard) — Walk-in · $$
+- [ ] Nue (Capitol Hill; global street food) — Resy · Amex ✓ · $$
+- [ ] Oddfellows Café (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Bar Ferdinand (Chophouse Row; wine) — Resy · Amex ✓ · $$
+- [ ] Taylor Shellfish Oyster Bar (Capitol Hill / Pioneer Square / Queen Anne) — Resy · Amex ✓ · $$
+- [ ] Damn the Weather (Pioneer Square) — Resy · Amex ✓ · $$
+- [ ] Il Corvo — CLOSED
+- [ ] The London Plane — CLOSED
+- [ ] Ben Paris (Pioneer Square; State Hotel) — Resy · Amex ✓ · $$
+- [ ] Le Pichet (Pike Place; since 2000) — Resy · Amex ✓ · $$
+- [ ] Café Campagne (Pike Place) — Resy · Amex ✓ · $$
+- [ ] Matt's in the Market (Pike Place) — Resy · Amex ✓ · $$
+- [ ] Sushi Kashiba (Pike Place; Shiro Kashiba) — Tock · Amex ✓ · $$$$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Roquette (Belltown) — JBF 2026 semifinalist, Outstanding Bar · Resy · Amex ✓ · $$
+- [ ] Rob Roy (Belltown; Anu Apte) — JBF 2026 semifinalist, Cocktail Service · Resy · Amex ✓ · $$
+- [ ] Canon (Capitol Hill; the largest spirits collection in the Western Hemisphere) — Resy · Amex ✓ · $$$
+- [ ] Bathtub Gin & Co (Belltown; the alley door) — Resy · Amex ✓ · $$
+- [ ] Needle & Thread (above Tavern Law, Capitol Hill; the phone) — Resy · Amex ✓ · $$
+- [ ] Tavern Law (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Zig Zag Café (Pike Place; the Hillclimb) — Resy · Amex ✓ · $$
+- [ ] Knee High Stocking Co (Capitol Hill; the doorbell) — Resy · Amex ✓ · $$
+- [ ] Foreign National (Capitol Hill; behind Stateside) — Resy · Amex ✓ · $$
+- [ ] The Backdoor at Roxy's (Fremont; through the diner) — Walk-in · $$
+- [ ] Hazlewood (Ballard; tiny) — Walk-in · $$
+- [ ] Sun Liquor (Capitol Hill; distillery bar) — Walk-in · $$
+- [ ] Rumba (Capitol Hill; 500 rums) — Walk-in · $$
+- [ ] Inside Passage (Belltown; the tiki submarine) — Walk-in · $$
+- [ ] Navy Strength (Belltown; tiki) — Walk-in · $$
+- [ ] No Anchor (Belltown; beer + cocktails) — Walk-in · $$
+- [ ] Deep Dive (South Lake Union; beneath the Spheres) — Resy · Amex ✓ · $$$
+- [ ] Deep Dive (South Lake Union) — Resy · Amex ✓ · $$$
+- [ ] Bar Cotto? — CLOSED; use Herb & Bitter (Capitol Hill; amaro)
+- [ ] The Doctor's Office (Capitol Hill; 8 seats, by reservation) — Resy · Amex ✓ · $$
+- [ ] Life on Mars (Capitol Hill; records + vegan) — Walk-in · $$
+- [ ] Vito's (First Hill; the lounge) — Walk-in · $$
+- [ ] The Pine Box (Capitol Hill; the former funeral home) — Walk-in · $$
+- [ ] Bar Vacilando (Capitol Hill; Mexican cocktails) — NEW · Resy · Amex ✓ · $$
+- [ ] ShibShib (Chinatown–International District; Café Suliman's bar) — NEW · Resy · Amex ✓ · $$
+- [ ] Tomo's bar (White Center) — Walk-in · $$
+- [ ] Bar Ferdinand (Chophouse Row) — Resy · Amex ✓ · $$
+- [ ] Le Caviste (Belltown) — Resy · Amex ✓ · $$
+- [ ] Damn the Weather (Pioneer Square) — Resy · Amex ✓ · $$
+- [ ] Good Bar (Pioneer Square) — Walk-in · $$
+- [ ] Central Saloon (Pioneer Square; since 1892) — Walk-in · $
+- [ ] J&M Café (Pioneer Square; since 1889) — Walk-in · $
+- [ ] Merchant's Café (Pioneer Square; oldest in the city) — Walk-in · $$
+- [ ] Ben Paris (State Hotel) — Resy · Amex ✓ · $$
+- [ ] Pennyroyal (Hotel Sorrento) — Resy · Amex ✓ · $$
+- [ ] The Fireside Room (Sorrento; the library) — Resy · Amex ✓ · $$
+- [ ] Bookstore Bar (Alexis Hotel) — Resy · Amex ✓ · $$
+- [ ] Linda's Tavern (Capitol Hill) — Walk-in · $
+- [ ] The Comet (Capitol Hill) — Walk-in · $
+- [ ] Unicorn / Narwhal (Capitol Hill; the carnival) — Walk-in · $$
+- [ ] Cha Cha Lounge (Capitol Hill; basement) — Walk-in · $$
+- [ ] Shorty's (Belltown; pinball + hot dogs) — Walk-in · $
+- [ ] The Crocodile's Here-After (Belltown) — Walk-in · $$
+- [ ] Hattie's Hat (Ballard) — Walk-in · $
+- [ ] King's Hardware (Ballard) — Walk-in · $$
+- [ ] Al's Tavern (Wallingford) — Walk-in · $$
+- [ ] Blue Moon Tavern (University District; since 1934) — Walk-in · $
+- [ ] The Whisky Bar (Belltown) — Walk-in · $$
+- [ ] Bar House (Fremont; the tiny one) — Resy · Amex ✓ · $$
+- [ ] Radiator Whiskey (Pike Place; upstairs) — Resy · Amex ✓ · $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] The Nest (Thompson Seattle; Pike Place and the Sound) — Resy · Amex ✓ · $$$
+- [ ] Mbar (South Lake Union; the Space Needle view) — Resy · Amex ✓ · $$$
+- [ ] Frolik (Motif Seattle; the deck) — Resy · Amex ✓ · $$$
+- [ ] Fog Room (Charter Hotel) — Resy · Amex ✓ · $$$
+- [ ] SkyCity? — CLOSED (Loupe Lounge, Space Needle)
+- [ ] Loupe Lounge (Space Needle; the rotating floor) — OpenTable · $$$$
+- [ ] Westward (Lake Union; the beach) — Resy · Amex ✓ · $$$
+- [ ] Little Water Cantina (Eastlake; Lake Union) — Resy · Amex ✓ · $$$
+- [ ] Marination Ma Kai (West Seattle; the ferry view) — Resy · Amex ✓ · $$$
+- [ ] Salty's on Alki (West Seattle; the skyline) — OpenTable · $$$
+- [ ] Alki Beach's Cactus (West Seattle) — $$$
+- [ ] Ray's Boathouse (Shilshole; the Sound) — OpenTable · $$$
+- [ ] Ballard's Barnacle patio — $$$
+- [ ] Little Coyote? — CLOSED; use Fremont Brewing's beer garden (the urban beer garden)
+- [ ] Fremont Brewing (Fremont) — Walk-in · $$$
+- [ ] Stoup Brewing (Ballard) — Walk-in · $$$
+- [ ] Reuben's Brews (Ballard; the taproom) — Walk-in · $$$
+- [ ] Lucky Envelope (Ballard) — Walk-in · $$$
+- [ ] Obec (Ballard) — Walk-in · $$$
+- [ ] Holy Mountain (Interbay; the wild ales) — Walk-in · $$$
+- [ ] Cloudburst (Belltown / Shilshole) — Walk-in · $$$
+- [ ] Optimism Brewing (Capitol Hill) — Walk-in · $$$
+- [ ] Chuck's Hop Shop (Central District / Greenwood) — Walk-in · $$$
+- [ ] Machine House Brewery (Georgetown; English ales) — Walk-in · $$$
+- [ ] Georgetown Brewing (the Manny's) — Walk-in · $$$
+- [ ] Jules Maes Saloon (Georgetown; since 1888) — Walk-in · $
+- [ ] The Pine Box (Capitol Hill) — Walk-in · $$$
+- [ ] Rhein Haus (Capitol Hill; bocce beer hall) — Walk-in · $$$
+- [ ] Bar Harbor (South Lake Union; the marina) — Resy · Amex ✓ · $$$
+- [ ] Daniel's Broiler (Lake Union; the marina view) — OpenTable · $$$$
+- [ ] Chinook's (Fishermen's Terminal) — OpenTable · $$$
+- [ ] Pike Place's Maximilien (the Sound from the market) — $$$
+- [ ] The Pink Door (Pike Place; the deck, the trapeze) — OpenTable · $$$
+- [ ] Cutters Crabhouse (Pike Place; the deck) — OpenTable · $$$
+- [ ] Ivar's Acres of Clams (Pier 54; the deck, since 1938) — Walk-in · $$
+- [ ] Elliott's Oyster House (Pier 56) — OpenTable · $$$
+- [ ] The Crab Pot (Pier 57) — Walk-in · $$$
+- [ ] Pier 62's Overlook Walk (the new waterfront) — Walk-in · $$$
+- [ ] Six Seven (Edgewater Hotel; on the water) — OpenTable · $$$$
+- [ ] Aqua by El Gaucho (Pier 70) — OpenTable · $$$$
+- [ ] Anthony's HomePort (Shilshole) — OpenTable · $$$
+- [ ] Agua Verde (Portage Bay; kayaks + tacos) — Resy · Amex ✓ · $$$
+- [ ] Ivar's Salmon House (Lake Union) — OpenTable · $$$
+- [ ] Canlis (Queen Anne; the view since 1950) — Tock · Amex ✓ · $$$$
+- [ ] Betty (Queen Anne) — Resy · Amex ✓ · $$$
+- [ ] Toulouse Petit (Queen Anne; the patio) — OpenTable · $$$
+- [ ] Bastille — CLOSED; use Ballard's Percy's? — CLOSED; use The Sexton (Ballard)
+- [ ] Smith Tower's Observatory bar (Pioneer Square; 35th floor) — $$$
+- [ ] Smith Tower Observatory Bar — Resy · Amex ✓ · $$$
+- [ ] Kerry Park + a picnic from DeLaurenti (the view, the classic) — Walk-in · $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Roquette (Belltown) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Rob Roy (Belltown) — JBF 2026 semifinalist (Anu Apte) · Resy · Amex ✓ · $$
+- [ ] Canon (Capitol Hill) — JBF Outstanding Bar Program (past nominee) · Resy · Amex ✓ · $$$
+- [ ] Le Caviste (Belltown) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Zig Zag Café (Pike Place; where Murray Stenson worked) — Resy · Amex ✓ · $$
+- [ ] Bathtub Gin & Co (Belltown) — Resy · Amex ✓ · $$
+- [ ] Deep Dive (South Lake Union; Renee Erickson) — Resy · Amex ✓ · $$$
+
+**Cocktail institutions**
+- [ ] Needle & Thread (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Tavern Law (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Knee High Stocking Co (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Foreign National (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Sun Liquor (Capitol Hill) — Walk-in · $$
+- [ ] Rumba (Capitol Hill) — Walk-in · $$
+- [ ] Herb & Bitter (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] The Doctor's Office (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Bar Vacilando (Capitol Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Life on Mars (Capitol Hill) — Walk-in · $$
+- [ ] Vito's (First Hill) — Walk-in · $$
+- [ ] Inside Passage (Belltown) — Walk-in · $$
+- [ ] Navy Strength (Belltown) — Walk-in · $$
+- [ ] No Anchor (Belltown) — Walk-in · $$
+- [ ] The Backdoor at Roxy's (Fremont) — Walk-in · $$
+- [ ] Hazlewood (Ballard) — Walk-in · $$
+- [ ] Barnacle (Ballard) — Resy · Amex ✓ · $$
+- [ ] Essex (Ballard) — Resy · Amex ✓ · $$
+- [ ] ShibShib (Chinatown–ID) — NEW · Resy · Amex ✓ · $$
+- [ ] Damn the Weather (Pioneer Square) — Resy · Amex ✓ · $$
+- [ ] Good Bar (Pioneer Square) — Walk-in · $$
+- [ ] Bar Ferdinand (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Artusi (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Pennyroyal (Sorrento) — Resy · Amex ✓ · $$
+- [ ] Ben Paris (State Hotel) — Resy · Amex ✓ · $$
+- [ ] Bookstore Bar (Alexis) — Resy · Amex ✓ · $$
+- [ ] The Fireside Room (Sorrento) — Resy · Amex ✓ · $$
+- [ ] Bar Melusine — CLOSED
+- [ ] Liberty (Capitol Hill; sushi + cocktails) — Resy · Amex ✓ · $$
+- [ ] Montana (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Tin Lizzie Lounge (Queen Anne; MarQueen Hotel) — Resy · Amex ✓ · $$
+- [ ] Mistral Kitchen — CLOSED
+- [ ] Tomo's bar (White Center) — Walk-in · $$
+- [ ] Georgetown's Flying Squirrel — $$
+
+**Hotel & classic bars**
+- [ ] The Nest (Thompson) — Resy · Amex ✓ · $$$
+- [ ] Mbar (SLU) — Resy · Amex ✓ · $$$
+- [ ] Fog Room (Charter) — Resy · Amex ✓ · $$
+- [ ] Frolik (Motif) — Resy · Amex ✓ · $$
+- [ ] Pennyroyal / Fireside Room (Sorrento) — $$
+- [ ] Bookstore Bar (Alexis) — Resy · Amex ✓ · $$
+- [ ] Ben Paris (State Hotel) — Resy · Amex ✓ · $$
+- [ ] The Georgian (Fairmont Olympic) — OpenTable · $$
+- [ ] Shuckers (Fairmont Olympic; oysters) — OpenTable · $$
+- [ ] Oliver's Lounge (Mayflower Park; the martini) — OpenTable · $$
+- [ ] Six Seven (Edgewater) — OpenTable · $$$$
+- [ ] Ace Hotel Seattle — CLOSED
+- [ ] Canlis bar (Queen Anne) — $$
+- [ ] The Pink Door bar (Pike Place) — $$
+- [ ] Smith Tower Observatory Bar — Resy · Amex ✓ · $$
+
+**Historic / dive / neighborhood**
+- [ ] Central Saloon (Pioneer Square; 1892) — Walk-in · $
+- [ ] J&M Café (Pioneer Square; 1889) — Walk-in · $
+- [ ] Merchant's Café (Pioneer Square) — Walk-in · $$
+- [ ] Jules Maes (Georgetown; 1888) — Walk-in · $
+- [ ] Blue Moon Tavern (U District; 1934) — Walk-in · $
+- [ ] Linda's Tavern (Capitol Hill) — Walk-in · $
+- [ ] The Comet (Capitol Hill) — Walk-in · $
+- [ ] Cha Cha Lounge (Capitol Hill) — Walk-in · $$
+- [ ] Unicorn (Capitol Hill) — Walk-in · $$
+- [ ] Shorty's (Belltown) — Walk-in · $
+- [ ] Hattie's Hat (Ballard) — Walk-in · $
+- [ ] King's Hardware (Ballard) — Walk-in · $$
+- [ ] The Smoke Shop (Ballard) — Walk-in · $$
+- [ ] Al's Tavern (Wallingford) — Walk-in · $$
+- [ ] Buckaroo Tavern — CLOSED
+- [ ] The Dubliner (Fremont) — Walk-in · $$
+- [ ] Brouwer's Café (Fremont; Belgian beer) — Walk-in · $$
+- [ ] Nickerson Street Saloon (Fremont) — Walk-in · $$
+- [ ] Mecca Café (Queen Anne; since 1930) — Walk-in · $
+- [ ] Ozzie's (Queen Anne; karaoke) — Walk-in · $$
+- [ ] 5 Point Café (Belltown; since 1929, 24 hours) — Walk-in · $
+- [ ] The Two Bells? — CLOSED; use Rendezvous (Belltown; the Jewelbox Theater)
+- [ ] Beveridge Place Pub (West Seattle) — Walk-in · $$
+- [ ] West 5 (West Seattle) — Walk-in · $$
+- [ ] Marco Polo Bar & Grill (Georgetown) — ? · Walk-in · $$
+- [ ] Dynasty Room (Chinatown–ID) — NEW · Walk-in · $$
+- [ ] Bush Garden — CLOSED (karaoke; relocated?) — ?
+
+**Wine bars**
+- [ ] Le Caviste (Belltown) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] L'Oursin (Central District) — Resy · Amex ✓ · $$
+- [ ] Vif (Fremont) — Resy · Amex ✓ · $$
+- [ ] Bar Ferdinand (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Artusi (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Light Sleeper (Capitol Hill; wine bar) — NEW · Resy · Amex ✓ · $$
+- [ ] Bottlehouse (Madrona) — Resy · Amex ✓ · $$
+- [ ] Bar Sotto? — CLOSED; use Pink Salt?
+- [ ] Tinte Cellars (Georgetown) — Walk-in · $$
+- [ ] Eight Bells Winery (Ravenna) — Walk-in · $$
+- [ ] Damn the Weather (Pioneer Square) — Resy · Amex ✓ · $$
+
+**Beer**
+- [ ] Fremont Brewing — Walk-in · $$
+- [ ] Stoup (Ballard) — Walk-in · $$
+- [ ] Reuben's Brews (Ballard) — Walk-in · $$
+- [ ] Holy Mountain (Interbay) — Walk-in · $$
+- [ ] Cloudburst (Belltown) — Walk-in · $$
+- [ ] Optimism (Capitol Hill) — Walk-in · $$
+- [ ] Chuck's Hop Shop — Walk-in · $$
+- [ ] Machine House (Georgetown) — Walk-in · $$
+- [ ] Georgetown Brewing — Walk-in · $$
+- [ ] Brouwer's (Fremont) — Walk-in · $$
+- [ ] The Pine Box (Capitol Hill) — Walk-in · $$
+- [ ] Rhein Haus (Capitol Hill) — Walk-in · $$
+- [ ] Fair Isle Brewing (Ballard; saisons) — Walk-in · $$
+- [ ] Urban Family (Interbay) — Walk-in · $$
+- [ ] Ravenna Brewing — Walk-in · $$
+
+**Rooftop / view bars that double as great bars**
+- [ ] The Nest (Thompson) — Resy · Amex ✓ · $$$
+- [ ] Mbar (SLU) — Resy · Amex ✓ · $$$
+- [ ] Deep Dive (SLU) — Resy · Amex ✓ · $$$
+- [ ] Westward (Lake Union) — Resy · Amex ✓ · $$$
+- [ ] Canlis (Queen Anne) — Tock · Amex ✓ · $$$$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Victrola (Capitol Hill / multiple) — Walk-in · $
+- [ ] Espresso Vivace (Capitol Hill; David Schomer's temple) — Walk-in · $
+- [ ] Caffè Vita (Capitol Hill / multiple) — Walk-in · $
+- [ ] Analog Coffee (Capitol Hill) — Walk-in · $
+- [ ] Anchorhead Coffee (Downtown / Bellevue) — Walk-in · $
+- [ ] Elm Coffee Roasters (Pioneer Square) — Walk-in · $
+- [ ] Zeitgeist (Pioneer Square) — Walk-in · $
+- [ ] Monorail Espresso (Downtown; the window since 1980) — Walk-in · $
+- [ ] Storyville (Pike Place; upstairs) — Walk-in · $
+- [ ] Ghost Alley Espresso (Pike Place; the gum wall) — Walk-in · $
+- [ ] Le Panier (Pike Place; French bakery) — Walk-in · $
+- [ ] Starbucks Reserve Roastery (Capitol Hill; the mothership) — Walk-in · $
+- [ ] The original Starbucks (Pike Place; the line, the pilgrimage) — Walk-in · $
+- [ ] Milstead & Co (Fremont; the multi-roaster) — Walk-in · $
+- [ ] Lighthouse Roasters (Fremont; since 1993) — Walk-in · $
+- [ ] Fremont Coffee Company — Walk-in · $
+- [ ] Herkimer Coffee (Phinney Ridge / U District) — Walk-in · $
+- [ ] Zoka (Green Lake / U District) — Walk-in · $
+- [ ] Café Allegro (U District; since 1975; the first espresso bar in Seattle) — Walk-in · $
+- [ ] Ballard Coffee Works — Walk-in · $
+- [ ] Slate Coffee (Ballard / Pioneer Square) — Walk-in · $
+- [ ] Caffè Umbria (Pioneer Square / multiple) — Walk-in · $
+- [ ] Olympia Coffee (Capitol Hill / West Seattle) — Walk-in · $
+- [ ] Boon Boona (Renton / Capitol Hill; East African) — Walk-in · $
+- [ ] Coffeeholic House (Columbia City; Vietnamese) — Walk-in · $
+- [ ] Hood Famous Cafe + Bar (Chinatown–ID; Filipino, ube) — Walk-in · $
+- [ ] Empire Espresso (Columbia City) — Walk-in · $
+- [ ] Squirrel Chops (Central District; coffee + haircuts) — Walk-in · $
+- [ ] Cortona Café (Central District) — Walk-in · $
+- [ ] Tougo Coffee (Central District) — Walk-in · $
+- [ ] Broadcast Coffee (multiple) — Walk-in · $
+- [ ] Union Coffee (Capitol Hill) — Walk-in · $
+- [ ] Porchlight Coffee & Records (Capitol Hill) — Walk-in · $
+- [ ] Ada's Technical Books & Café (Capitol Hill) — Walk-in · $
+- [ ] Bakery Nouveau (West Seattle / Capitol Hill / Burien) — Walk-in · $
+- [ ] Temple Pastries (Central District; Christina Wood) — JBF 2026 semifinalist · Walk-in · $
+- [ ] Sea Wolf Bakers (Fremont) — Walk-in · $
+- [ ] Coyle's Bakeshop (Greenwood) — Walk-in · $
+- [ ] Macrina Bakery (Belltown / multiple) — Walk-in · $
+- [ ] Crumble & Flake (Capitol Hill) — Walk-in · $
+- [ ] Dahlia Bakery? — CLOSED (Tom Douglas)
+- [ ] Byen Bakeri (Queen Anne; Scandinavian) — Walk-in · $
+- [ ] Larsen's Bakery (Ballard; Danish since 1974) — Walk-in · $
+- [ ] Cafe Besalu (Ballard; the croissant) — Walk-in · $
+- [ ] The Fat Hen (Ballard) — Resy · Amex ✓ · $
+- [ ] Portage Bay Cafe (multiple; the pancake bar) — Walk-in · $
+- [ ] Biscuit Bitch (Belltown / multiple) — Walk-in · $
+- [ ] Top Pot Doughnuts (Capitol Hill / multiple; the library) — Walk-in · $
+- [ ] General Porpoise (Capitol Hill / multiple; Erickson's doughnuts) — Walk-in · $
+- [ ] Mighty-O Donuts (Wallingford; vegan) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### The top of the city (Beard-recognized & the tasting counters)
+- [ ] Canlis (Queen Anne; since 1950) — JBF (past) · Tock · Amex ✓ · $$$$
+- [ ] Atoma (Wallingford; Johnny Courtney) — JBF 2026 finalist · RoY 2024 · Tock · Amex ✓ · $$$
+- [ ] Surrell (Madrona; Aaron Tekulve) — JBF 2026 finalist · Tock · Amex ✓ · $$$$
+- [ ] Archipelago (Hillman City; Aaron & Amber Verzosa; Filipino tasting) — JBF 2026 semifinalist, Outstanding Chef · Tock · Amex ✓ · $$$$
+- [ ] Musang (Beacon Hill; Melissa Miranda) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Homer (Beacon Hill; Logan Cox) — JBF 2026 semifinalist · Tock · Amex ✓ · $$$
+- [ ] Pancita (Ravenna; Janet Becerra) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Ramie (Capitol Hill) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$
+- [ ] Little Beast Ballard — JBF 2026 semifinalist · RoY 2025 · Resy · Amex ✓ · $$
+- [ ] The Wayland Mill (Northlake) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$$
+- [ ] Café Suliman (Melrose Market) — JBF 2026 semifinalist · Resy · Amex ✓ · $$
+- [ ] Tomo (White Center; Brady Williams, 2019 JBF Best Chef Northwest) — JBF · Tock · Amex ✓ · $$$$
+- [ ] Sushi Kashiba (Pike Place; Shiro Kashiba) — Tock · Amex ✓ · $$$$
+- [ ] Sushi Shiro — $$
+- [ ] Wataru (Ravenna; edomae) — Tock · Amex ✓ · $$$$
+- [ ] Kisaku (Green Lake) — Resy · Amex ✓ · $$$
+- [ ] Off Alley (Columbia City) — Tock · Amex ✓ · $$$$
+- [ ] The Harvest Vine (Madison Valley; Basque) — Resy · Amex ✓ · $$$
+- [ ] Altura (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] Spinasse (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Lark (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Bateau (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] The Walrus and the Carpenter (Ballard) — Resy · Amex ✓ · $$$
+- [ ] The Whale Wins (Fremont) — Resy · Amex ✓ · $$$
+- [ ] Westward (Lake Union) — Resy · Amex ✓ · $$$
+- [ ] JuneBaby (Ravenna) — Resy · Amex ✓ · $$$
+- [ ] Cafe Juanita (Kirkland) — Resy · Amex ✓ · $$$$
+- [ ] The Herbfarm (Woodinville; the nine courses, the drive) — Tock · Amex ✓ · $$$$
+- [ ] Passage (Inn at Langley, Whidbey Island; Johnny Spero) — NEW · Tock · Amex ✓ · $$$$
+- [ ] Willows Inn — CLOSED
+- [ ] Copine (Ballard) — Resy · Amex ✓ · $$$$
+- [ ] Eden Hill (Queen Anne) — Resy · Amex ✓ · $$$$
+- [ ] Art of the Table — CLOSED
+- [ ] Mamnoon (Capitol Hill; Levantine) — Resy · Amex ✓ · $$$
+- [ ] Nue (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Ba Bar (multiple; Vietnamese) — Resy · Amex ✓ · $$
+- [ ] Pho Bac Súp Shop (Chinatown–ID / Rainier; the Pham sisters, JBF Outstanding Restaurateur finalists) — Resy · Amex ✓ · $
+- [ ] The Boat (Chinatown–ID; Pho Bac's original) — JBF · Resy · Amex ✓ · $
+- [ ] Phocific Standard Time (Chinatown–ID; the bar) — Resy · Amex ✓ · $$
+- [ ] Communion (Central District; Kristi Brown) — JBF · Resy · Amex ✓ · $$
+- [ ] Fat's Chicken and Waffles (Central District) — Walk-in · $$
+- [ ] Ezell's Famous Chicken (Central District; Oprah's) — Walk-in · $
+- [ ] Marination (multiple; Hawaiian-Korean) — Walk-in · $
+- [ ] Paseo (Fremont / Ballard; the Caribbean roast pork sandwich) — Walk-in · $
+- [ ] Un Bien (Ballard; the Paseo family's original) — Walk-in · $
+- [ ] Salumi (Pioneer Square; Batali's family) — Walk-in · $
+- [ ] Tat's Deli (Pioneer Square; cheesesteaks) — Walk-in · $
+- [ ] Il Nido (West Seattle; Alki bathhouse) — Resy · Amex ✓ · $$
+- [ ] La Medusa — CLOSED
+- [ ] Tutta Bella (multiple) — Resy · Amex ✓ · $$
+- [ ] Bar del Corso (Beacon Hill) — Resy · Amex ✓ · $$
+- [ ] Delancey (Ballard) — Resy · Amex ✓ · $$
+- [ ] Dino's Tomato Pie (Capitol Hill; Sicilian square) — Resy · Amex ✓ · $$
+- [ ] Serious Pie (multiple; Tom Douglas) — OpenTable · $$
+- [ ] Lupo (Fremont; pizza) — Resy · Amex ✓ · $$
+- [ ] Moto Pizza (West Seattle; Detroit-style, the wait list) — Resy · Amex ✓ · $$
+- [ ] Post Alley Pizza (Pike Place) — $$
+- [ ] Taylor Shellfish (multiple) — Resy · Amex ✓ · $$
+- [ ] Elliott's Oyster House (Pier 56) — OpenTable · $$
+- [ ] Ray's Boathouse (Shilshole) — OpenTable · $$
+- [ ] Ivar's Acres of Clams (Pier 54) — Walk-in · $$
+- [ ] Pike Place Chowder (the line) — Walk-in · $
+- [ ] Emmett Watson's Oyster Bar (Pike Place; since 1979) — Resy · Amex ✓ · $$
+- [ ] Matt's in the Market (Pike Place) — Resy · Amex ✓ · $$
+- [ ] Le Pichet (Pike Place) — Resy · Amex ✓ · $$
+- [ ] Café Campagne (Pike Place) — Resy · Amex ✓ · $$
+- [ ] The Pink Door (Pike Place) — OpenTable · $$
+- [ ] Il Bistro (Pike Place; downstairs) — Resy · Amex ✓ · $$
+- [ ] Place Pigalle (Pike Place) — Resy · Amex ✓ · $$
+- [ ] Chan (Pike Place; Korean) — Resy · Amex ✓ · $$
+- [ ] Oriental Mart (Pike Place; the Filipino counter, JBF America's Classic 2020) — Walk-in · $
+- [ ] Maneki (Chinatown–ID) — Resy · Amex ✓ · $$
+- [ ] Tai Tung (Chinatown–ID; since 1935; Bruce Lee's booth) — Resy · Amex ✓ · $
+- [ ] Jade Garden (Chinatown–ID; dim sum) — Walk-in · $$
+- [ ] Harbor City (Chinatown–ID; dim sum) — Walk-in · $$
+- [ ] Dough Zone (multiple; dumplings) — Walk-in · $$
+- [ ] Din Tai Fung (multiple; the US's second city) — Walk-in · $$
+- [ ] Shanghai Garden (Chinatown–ID; barley green noodles) — Walk-in · $$
+- [ ] Mike's Noodle House (Chinatown–ID) — Walk-in · $$
+- [ ] Szechuan Noodle Bowl (Chinatown–ID; dumplings + pancakes) — Walk-in · $$
+- [ ] Hood Famous (Chinatown–ID) — Walk-in · $$
+- [ ] Kedai Makan (Capitol Hill; Malaysian) — Resy · Amex ✓ · $$
+- [ ] Little Uncle (Capitol Hill; Thai) — Resy · Amex ✓ · $$
+- [ ] Bai Tong (Tukwila / Capitol Hill; Thai) — Resy · Amex ✓ · $$
+- [ ] Thai Tom (U District; the counter) — Walk-in · $
+- [ ] Kin Len (Fremont; Thai street food) — Resy · Amex ✓ · $$
+- [ ] Lionhead — CLOSED
+- [ ] Monsoon (Capitol Hill / Bellevue; Vietnamese) — OpenTable · $$
+- [ ] Tamarind Tree (Chinatown–ID; Vietnamese) — Resy · Amex ✓ · $$
+- [ ] Salare — CLOSED
+- [ ] Meskel? — CLOSED; use Cafe Selam (Central District; Ethiopian)
+- [ ] Delish Ethiopian Cuisine (Central District) — Resy · Amex ✓ · $$
+- [ ] Island Soul (Columbia City) — Resy · Amex ✓ · $$
+- [ ] Geo's Cuban & Creole (Columbia City) — Resy · Amex ✓ · $$
+- [ ] Mezcaleria Oaxaca (Queen Anne / Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] La Carta de Oaxaca (Ballard) — Resy · Amex ✓ · $$
+- [ ] El Camión (trucks / Ballard) — Walk-in · $
+- [ ] Taqueria La Fondita? — $$
+- [ ] Dick's Drive-In (Wallingford / multiple; since 1954) — Walk-in · $
+- [ ] Red Mill Burgers (Phinney / Interbay) — Walk-in · $$
+- [ ] Li'l Woody's (Capitol Hill / multiple) — Walk-in · $$
+- [ ] Beecher's Handmade Cheese (Pike Place; the mac) — Walk-in · $$
+- [ ] Piroshky Piroshky (Pike Place; the line) — Walk-in · $
+- [ ] Ellenos Greek Yogurt (Pike Place) — Walk-in · $$
+- [ ] Lowell's (Pike Place; the view) — Resy · Amex ✓ · $$
+- [ ] The Crumpet Shop (Pike Place; since 1976) — Walk-in · $
+- [ ] Toulouse Petit (Queen Anne; the happy hour) — OpenTable · $$
+- [ ] How to Cook a Wolf (Queen Anne) — Resy · Amex ✓ · $$
+- [ ] Betty (Queen Anne) — Resy · Amex ✓ · $$
+- [ ] The 5 Spot (Queen Anne) — $$
+- [ ] Metropolitan Grill (Downtown; the steak) — OpenTable · $$$$
+- [ ] El Gaucho (Belltown) — OpenTable · $$$$
+- [ ] Daniel's Broiler (Lake Union / Bellevue) — OpenTable · $$$$
+- [ ] Six Seven (Edgewater) — OpenTable · $$$$
+- [ ] Palisade (Magnolia) — OpenTable · $$$
+- [ ] Chinook's (Fishermen's Terminal) — OpenTable · $$
+- [ ] Salty's on Alki (West Seattle) — OpenTable · $$
+- [ ] Marination Ma Kai (West Seattle) — Resy · Amex ✓ · $$
+- [ ] Mashiko (West Seattle; sustainable sushi) — Resy · Amex ✓ · $$
+- [ ] Bakery Nouveau West Seattle — $$
+- [ ] Husky Deli (West Seattle; ice cream since 1932) — Walk-in · $
+
+---
+
+## Brunch spots (50)
+
+- [ ] Portage Bay Cafe (multiple; the toppings bar) — Walk-in · $$
+- [ ] Biscuit Bitch (Belltown / multiple) — Walk-in · $$
+- [ ] Oddfellows (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Skillet Diner (Capitol Hill / multiple; the bacon jam) — Resy · Amex ✓ · $$
+- [ ] Glo's (Capitol Hill; the line, since 1985) — Walk-in · $$
+- [ ] Wandering Goose — CLOSED
+- [ ] Tallulah's (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Coastal Kitchen (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Volunteer Park Cafe (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Café Presse (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] The Fat Hen (Ballard) — Resy · Amex ✓ · $$
+- [ ] Cafe Besalu (Ballard) — Walk-in · $$
+- [ ] Larsen's (Ballard) — Walk-in · $$
+- [ ] Hattie's Hat (Ballard; the hangover breakfast) — Walk-in · $
+- [ ] Bastille — CLOSED
+- [ ] Stoneburner brunch (Ballard) — $$
+- [ ] Sawyer brunch (Ballard) — $$
+- [ ] Little Beast Ballard weekend — JBF 2026 · $$
+- [ ] The Whale Wins brunch (Fremont) — $$
+- [ ] Roxy's Diner (Fremont; the deli) — Resy · Amex ✓ · $$
+- [ ] Sea Wolf (Fremont) — Walk-in · $$
+- [ ] Fremont's Hale's? — $$
+- [ ] Eight Row weekend (Green Lake) — $$
+- [ ] JuneBaby brunch (Ravenna) — $$
+- [ ] Ravenna's Zoka + Bakery? — $$
+- [ ] Mr. West Cafe Bar (Downtown / U Village) — Resy · Amex ✓ · $$
+- [ ] Lola (Downtown; Tom Douglas) — OpenTable · $$
+- [ ] Lowell's (Pike Place) — Resy · Amex ✓ · $$
+- [ ] The Crumpet Shop (Pike Place) — Walk-in · $
+- [ ] Le Panier (Pike Place) — Walk-in · $$
+- [ ] Café Campagne brunch (Pike Place) — $$
+- [ ] Toulouse Petit brunch (Queen Anne; the Creole) — $$
+- [ ] The 5 Spot (Queen Anne) — $$
+- [ ] Citizen (Queen Anne; crêpes) — Resy · Amex ✓ · $$
+- [ ] Macrina (Belltown) — Walk-in · $$
+- [ ] 5 Point Café (Belltown; 24 hours) — Walk-in · $
+- [ ] Salumi lunch (Pioneer Square) — $$
+- [ ] Damn the Weather brunch (Pioneer Square) — $$
+- [ ] Ben Paris brunch (Pioneer Square) — $$
+- [ ] Geraldine's Counter (Columbia City; the French toast) — Resy · Amex ✓ · $$
+- [ ] Island Soul brunch (Columbia City) — $$
+- [ ] Fat's Chicken and Waffles (Central District) — Walk-in · $$
+- [ ] Communion brunch (Central District) — $$
+- [ ] Temple Pastries (Central District) — JBF 2026 · Walk-in · $
+- [ ] Easy Street Records Café (West Seattle) — Walk-in · $$
+- [ ] Bakery Nouveau (West Seattle) — Walk-in · $
+- [ ] Marination Ma Kai (West Seattle) — Resy · Amex ✓ · $$
+- [ ] Jade Garden dim sum (Chinatown–ID) — $$
+- [ ] Harbor City dim sum (Chinatown–ID) — $$
+- [ ] Hood Famous (Chinatown–ID; the ube) — Walk-in · $$
+
+---
+
+## Off-beat & only-in-Seattle (50)
+
+- [ ] Pike Place Market (the fish throwers, the first Starbucks) — Walk-in · $
+- [ ] Oriental Mart (Pike Place; JBF America's Classic) — Walk-in · $
+- [ ] Piroshky Piroshky (the line) — Walk-in · $
+- [ ] Beecher's (the mac and cheese window) — Walk-in · $
+- [ ] The Crumpet Shop — Walk-in · $
+- [ ] Ellenos (the yogurt) — Walk-in · $
+- [ ] Rachel's Ginger Beer — Walk-in · $
+- [ ] The Gum Wall (and Ghost Alley Espresso beside it) — Walk-in · $
+- [ ] Monorail Espresso (the window since 1980) — Walk-in · $
+- [ ] Dick's Drive-In (the Deluxe, cash) — Walk-in · $
+- [ ] Ivar's (Pier 54; feed the seagulls, since 1938) — Walk-in · $$
+- [ ] Ezell's (Oprah's chicken) — Walk-in · $
+- [ ] Paseo / Un Bien (the sandwich, the argument) — $
+- [ ] Salumi (the line, the culatello) — Walk-in · $
+- [ ] Tat's (the cheesesteak) — Walk-in · $
+- [ ] Tai Tung (Bruce Lee's booth, since 1935) — Resy · Amex ✓ · $
+- [ ] Maneki (since 1904) — Resy · Amex ✓ · $$
+- [ ] Uwajimaya (Chinatown–ID; the food hall) — Walk-in · $
+- [ ] Fuji Bakery (Chinatown–ID) — Walk-in · $
+- [ ] Hood Famous (the ube cheesecake) — Walk-in · $
+- [ ] Pho Bac Súp Shop (the boat) — Resy · Amex ✓ · $
+- [ ] Bush Garden's karaoke — ? · $
+- [ ] Jules Maes (1888) — Walk-in · $
+- [ ] Georgetown Trailer Park Mall (Sundays) — Walk-in · $
+- [ ] Fremont Sunday Market — Walk-in · $
+- [ ] The Fremont Troll (then Kin Len) — Walk-in · $
+- [ ] Theo Chocolate factory tour (Fremont) — Walk-in · $
+- [ ] Ballard Farmers Market (Sunday) — Walk-in · $
+- [ ] Ballard Locks + Ray's afterward — Walk-in · $
+- [ ] Fishermen's Terminal + Chinook's — Walk-in · $
+- [ ] Wild Salmon Seafood Market (Fishermen's Terminal) — Walk-in · $
+- [ ] Mutual Fish (Rainier; the market) — Walk-in · $
+- [ ] Marination (the truck that became a chain) — Walk-in · $
+- [ ] El Camión (the truck) — Walk-in · $
+- [ ] Tacos Chukis (the adobada, upstairs) — Walk-in · $
+- [ ] Kedai Makan (Malaysian, the line) — Resy · Amex ✓ · $
+- [ ] Thai Tom (U District; the counter, cash) — Walk-in · $
+- [ ] Café Allegro (the first espresso bar, 1975) — Walk-in · $
+- [ ] Espresso Vivace (the latte art origin) — Walk-in · $
+- [ ] Starbucks Reserve Roastery (the mothership) — Walk-in · $
+- [ ] Top Pot (the library of doughnuts) — Walk-in · $
+- [ ] Husky Deli (West Seattle; ice cream since 1932) — Walk-in · $
+- [ ] Molly Moon's (the honey lavender) — Walk-in · $
+- [ ] Frankie & Jo's (vegan) — Walk-in · $
+- [ ] Salt & Straw Seattle — Walk-in · $
+- [ ] Canlis (the valet, the 1950 room) — Tock · Amex ✓ · $$$$
+- [ ] The Herbfarm (Woodinville; the nine-course pilgrimage) — Tock · Amex ✓ · $$$$
+- [ ] Taylor Shellfish farm (Shelton; the drive) — Walk-in · $
+- [ ] Hama Hama Oyster Saloon (Lilliwaup; the Hood Canal) — Walk-in · $
+- [ ] Beth's Café (Green Lake; the 12-egg omelet) — Walk-in · $
+
+---
+
+## Bakeries (50)
+
+- [ ] Bakery Nouveau (West Seattle / Capitol Hill / Burien) — Walk-in · $
+- [ ] Temple Pastries (Central District) — JBF 2026 semifinalist · Walk-in · $
+- [ ] Sea Wolf Bakers (Fremont) — Walk-in · $
+- [ ] Coyle's Bakeshop (Greenwood) — Walk-in · $
+- [ ] Macrina Bakery (multiple; since 1993) — Walk-in · $
+- [ ] Crumble & Flake (Capitol Hill) — Walk-in · $
+- [ ] Cafe Besalu (Ballard) — Walk-in · $
+- [ ] Larsen's Bakery (Ballard) — Walk-in · $
+- [ ] Byen Bakeri (Queen Anne) — Walk-in · $
+- [ ] Le Panier (Pike Place) — Walk-in · $
+- [ ] Piroshky Piroshky (Pike Place) — Walk-in · $
+- [ ] The Crumpet Shop (Pike Place) — Walk-in · $
+- [ ] Three Girls Bakery (Pike Place; since 1912) — Walk-in · $
+- [ ] Grand Central Bakery (Pioneer Square / multiple) — Walk-in · $
+- [ ] Columbia City Bakery — Walk-in · $
+- [ ] Tall Grass Bakery (Ballard) — Walk-in · $
+- [ ] Sunny Honey? — $
+- [ ] Yummy House Bakery (Chinatown–ID) — Walk-in · $
+- [ ] Mee Sum Pastry (Pike Place; the hum bow) — Walk-in · $
+- [ ] Hood Famous (Chinatown–ID) — Walk-in · $
+- [ ] Top Pot Doughnuts — Walk-in · $
+- [ ] General Porpoise — Walk-in · $
+- [ ] Mighty-O — Walk-in · $
+- [ ] Daily Dozen Doughnuts (Pike Place; the mini) — Walk-in · $
+- [ ] Frost Doughnuts (Mill Creek; the drive) — Walk-in · $
+- [ ] Salmonberry Goods (Ballard) — ? · Walk-in · $
+- [ ] Deep Sea Sugar & Salt (Georgetown; the cakes) — Walk-in · $
+- [ ] Hello Robin (Capitol Hill; cookies) — Walk-in · $
+- [ ] Hot Cakes (Ballard / Capitol Hill; molten chocolate) — Walk-in · $
+- [ ] Nuflours (Capitol Hill; gluten-free) — Walk-in · $
+- [ ] Dahlia Bakery — CLOSED
+- [ ] Sugar Bakery & Café (First Hill) — Walk-in · $
+- [ ] North Hill Bakery (Capitol Hill) — Walk-in · $
+- [ ] Le Rêve (Queen Anne) — Walk-in · $
+- [ ] Hiroki (Green Lake; Japanese-French) — Walk-in · $
+- [ ] Fresh Flours (Phinney / Beacon Hill; Japanese) — Walk-in · $
+- [ ] Lazy Cow Bakery (Fremont; vegan) — Walk-in · $
+- [ ] Raised Doughnuts (Central District) — Walk-in · $
+- [ ] Dochi (Chinatown–ID; mochi doughnuts) — Walk-in · $
+- [ ] Sheng Kee (Bellevue) — Walk-in · $
+- [ ] Regent Bakery (Redmond / Capitol Hill; Hong Kong cakes) — Walk-in · $
+- [ ] La Parisienne (Pioneer Square) — Walk-in · $
+- [ ] Belle Epicurean (Downtown) — Walk-in · $
+- [ ] Cafe Hitchcock? — CLOSED; use Bakery: Hitchcock Deli (Bainbridge; the ferry)
+- [ ] Blackbird Bakery (Bainbridge Island) — Walk-in · $
+- [ ] Seattle Bagel Bakery (Pike Place) — Walk-in · $
+- [ ] Rubinstein Bagels (SLU / Capitol Hill) — Walk-in · $
+- [ ] Zylberschtein's (Pinehurst; the deli) — Walk-in · $
+- [ ] Little Oddfellows (Capitol Hill; Elliott Bay Book Co.) — Walk-in · $
+- [ ] The Flour Box (Beacon Hill; doughnuts) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Molly Moon's (multiple) — Walk-in · $
+- [ ] Frankie & Jo's (Capitol Hill / Ballard; vegan) — Walk-in · $
+- [ ] Salt & Straw (Capitol Hill / Ballard) — Walk-in · $
+- [ ] Husky Deli (West Seattle) — Walk-in · $
+- [ ] Full Tilt (multiple; pinball + ice cream) — Walk-in · $
+- [ ] Fainting Goat Gelato (Wallingford) — Walk-in · $
+- [ ] Gelatiamo (Downtown) — Walk-in · $
+- [ ] Bottega Italiana (Pike Place; gelato) — Walk-in · $
+- [ ] Shug's Soda Fountain (Pike Place) — Walk-in · $
+- [ ] Sweet Alchemy (U District / multiple) — Walk-in · $
+- [ ] Parfait (Ballard) — Walk-in · $
+- [ ] Hood Famous (the ube cheesecake) — Walk-in · $
+- [ ] Deep Sea Sugar & Salt (Georgetown) — Walk-in · $
+- [ ] Hot Cakes (Ballard) — Walk-in · $
+- [ ] Hello Robin (Capitol Hill) — Walk-in · $
+- [ ] Top Pot — Walk-in · $
+- [ ] General Porpoise — Walk-in · $
+- [ ] Mighty-O — Walk-in · $
+- [ ] Daily Dozen — $
+- [ ] Dochi (mochi doughnuts) — Walk-in · $
+- [ ] Theo Chocolate (Fremont) — Walk-in · $
+- [ ] Fran's Chocolates (multiple; the salted caramel) — Walk-in · $
+- [ ] Dilettante (multiple; since 1976) — Walk-in · $
+- [ ] Intrigue Chocolate (Pioneer Square) — Walk-in · $
+- [ ] Indi Chocolate (Pike Place) — Walk-in · $
+- [ ] Ellenos (Pike Place) — Walk-in · $
+- [ ] Rachel's Ginger Beer — Walk-in · $
+- [ ] The Crumpet Shop — Walk-in · $
+- [ ] Piroshky's sweet ones — $
+- [ ] Fuji Bakery's? — $
+- [ ] Don't Yell at Me (Capitol Hill / multiple) — Walk-in · $
+- [ ] Sharetea (multiple) — Walk-in · $
+- [ ] Yifang (multiple) — Walk-in · $
+- [ ] Snowy Village (multiple) — Walk-in · $
+- [ ] Meet Fresh (multiple) — Walk-in · $
+- [ ] Beard Papa's (Uwajimaya) — Walk-in · $
+- [ ] Uwajimaya's bakery counter — Walk-in · $
+- [ ] Temple Pastries — JBF 2026 · Walk-in · $
+- [ ] Sea Wolf's morning bun — $
+- [ ] Coyle's cruffin — $
+- [ ] Bakery Nouveau's twice-baked almond croissant — $
+- [ ] Besalu's croissant — $
+- [ ] Larsen's kringle — $
+- [ ] Byen's cardamom bun — $
+- [ ] Canlis's dessert (Queen Anne) — $
+- [ ] Atoma's dessert (Wallingford) — JBF 2026 · $
+- [ ] Archipelago's finale (Hillman City) — JBF 2026 · $
+- [ ] The Herbfarm's finale (Woodinville) — $
+- [ ] Sushi Kashiba's tamago (Pike Place) — $
+- [ ] Fran's at the airport (SEA; the last stop) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Canlis (Queen Anne) — Tock · Amex ✓ · $$$$
+- [ ] The Nest (Thompson) — Resy · Amex ✓ · $$$
+- [ ] Mbar (SLU) — Resy · Amex ✓ · $$$
+- [ ] Deep Dive (SLU) — Resy · Amex ✓ · $$$
+- [ ] Westward (Lake Union) — Resy · Amex ✓ · $$$
+- [ ] Daniel's Broiler (Lake Union) — OpenTable · $$$$
+- [ ] Six Seven (Edgewater) — OpenTable · $$$$
+- [ ] Aqua by El Gaucho (Pier 70) — OpenTable · $$$$
+- [ ] El Gaucho (Belltown) — OpenTable · $$$$
+- [ ] Metropolitan Grill (Downtown) — OpenTable · $$$$
+- [ ] Bateau (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] The Pink Door (Pike Place) — OpenTable · $$$
+- [ ] Matt's in the Market — Resy · Amex ✓ · $$$
+- [ ] Sushi Kashiba — Tock · Amex ✓ · $$$$
+- [ ] Il Bistro — Resy · Amex ✓ · $$$
+- [ ] Place Pigalle — Resy · Amex ✓ · $$$
+- [ ] The Georgian (Fairmont Olympic) — OpenTable · $$$
+- [ ] Shuckers (Fairmont Olympic) — OpenTable · $$$
+- [ ] Oliver's (Mayflower Park) — $$$
+- [ ] Pennyroyal (Sorrento) — Resy · Amex ✓ · $$$
+- [ ] Ben Paris (State Hotel) — Resy · Amex ✓ · $$$
+- [ ] Frolik (Motif) — Resy · Amex ✓ · $$$
+- [ ] Lola (Downtown; Tom Douglas) — OpenTable · $$$
+- [ ] Palace Kitchen (Downtown; Tom Douglas) — OpenTable · $$$
+- [ ] Mamnoon (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Spinasse (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Altura (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] Lark (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Atoma (Wallingford) — Tock · Amex ✓ · $$$
+- [ ] Surrell (Madrona) — Tock · Amex ✓ · $$$$
+- [ ] Archipelago (Hillman City) — Tock · Amex ✓ · $$$$
+- [ ] Tomo (White Center) — Tock · Amex ✓ · $$$$
+- [ ] The Walrus and the Carpenter (Ballard) — Resy · Amex ✓ · $$$
+- [ ] The Whale Wins (Fremont) — Resy · Amex ✓ · $$$
+- [ ] Copine (Ballard) — Resy · Amex ✓ · $$$$
+- [ ] Eden Hill (Queen Anne) — Resy · Amex ✓ · $$$$
+- [ ] Toulouse Petit (Queen Anne) — OpenTable · $$$
+- [ ] Palisade (Magnolia) — OpenTable · $$$
+- [ ] Ray's Boathouse (Shilshole) — OpenTable · $$$
+- [ ] Salty's on Alki — OpenTable · $$$
+- [ ] Il Nido (West Seattle) — Resy · Amex ✓ · $$$
+- [ ] The Herbfarm (Woodinville) — Tock · Amex ✓ · $$$$
+- [ ] Cafe Juanita (Kirkland) — Resy · Amex ✓ · $$$$
+- [ ] Passage (Whidbey Island) — NEW · Tock · Amex ✓ · $$$$
+- [ ] Ascend Prime (Bellevue; the 31st floor) — OpenTable · $$$$
+- [ ] Monsoon Bellevue — $$$
+- [ ] Din Tai Fung Bellevue (the original US one) — OpenTable · $$$
+- [ ] Soho House? — none; use The Ruins (Queen Anne; members supper club) · $$$
+- [ ] Washington Athletic Club (Downtown; members) — Resy · Amex ✓ · $$$$
+- [ ] Bar Ferdinand (Capitol Hill) — Resy · Amex ✓ · $$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] Q Nightclub (Capitol Hill) — SevenRooms · $$$
+- [ ] Kremwerk / Timbre Room / Cherry (Denny Triangle; the complex) — SevenRooms · $$
+- [ ] Supernova (SoDo) — SevenRooms · $$
+- [ ] Monkey Loft (SoDo; the rooftop dance floor) — SevenRooms · $$
+- [ ] Neumos (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Barboza (below Neumos) — Resy · Amex ✓ · $$$
+- [ ] The Crocodile (Belltown; since 1991) — Resy · Amex ✓ · $$
+- [ ] Showbox (Downtown; since 1939) — Resy · Amex ✓ · $$$
+- [ ] Showbox SoDo — Resy · Amex ✓ · $$$
+- [ ] Tractor Tavern (Ballard) — Resy · Amex ✓ · $$$
+- [ ] Sunset Tavern (Ballard) — Resy · Amex ✓ · $$$
+- [ ] Conor Byrne (Ballard) — Resy · Amex ✓ · $$$
+- [ ] The Royal Room (Columbia City; jazz) — Resy · Amex ✓ · $$$
+- [ ] Dimitriou's Jazz Alley (Belltown; since 1979) — OpenTable · $$$
+- [ ] The Triple Door (Downtown; supper club) — OpenTable · $$$
+- [ ] Musicquarium (Triple Door's lounge) — Resy · Amex ✓ · $$$
+- [ ] Vermillion (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Chop Suey (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] The Vera Project (Seattle Center; all-ages) — Walk-in · $$$
+- [ ] Clock-Out Lounge (Beacon Hill) — Resy · Amex ✓ · $$$
+- [ ] Substation (Ballard) — Resy · Amex ✓ · $$$
+- [ ] Central Saloon (Pioneer Square; live music) — Walk-in · $
+- [ ] Nectar Lounge (Fremont) — Resy · Amex ✓ · $$$
+- [ ] High Dive (Fremont) — Resy · Amex ✓ · $$$
+- [ ] Add-a-Ball (Fremont; pinball) — Walk-in · $$$
+- [ ] Unicorn (Capitol Hill) — Walk-in · $$$
+- [ ] Cha Cha Lounge — Walk-in · $$$
+- [ ] Pony (Capitol Hill) — Walk-in · $$$
+- [ ] The Cuff Complex (Capitol Hill) — Walk-in · $$$
+- [ ] Neighbours (Capitol Hill; since 1983) — Walk-in · $$$
+- [ ] R Place — CLOSED (relocated?) — ?
+- [ ] Wildrose (Capitol Hill; the lesbian bar since 1984) — Walk-in · $$$
+- [ ] Massive (Capitol Hill) — NEW · Resy · Amex ✓ · $$$
+- [ ] Queer/Bar (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Baltic Room — CLOSED
+- [ ] Re-bar — CLOSED
+- [ ] Trinity? — CLOSED
+- [ ] Foundation Nightclub (Belltown) — Resy · Amex ✓ · $$$
+- [ ] Aston Manor? — CLOSED
+- [ ] Ora Nightclub (Belltown) — Resy · Amex ✓ · $$$
+- [ ] Contour? — CLOSED; use Rendezvous's Jewelbox (Belltown)
+- [ ] The Rabbit Box (Pike Place; comedy + music) — Resy · Amex ✓ · $$$
+- [ ] Bush Garden karaoke — ? · $$$
+- [ ] Rock Box (Capitol Hill; karaoke rooms) — Walk-in · $$$
+- [ ] Ozzie's (Queen Anne; karaoke) — Walk-in · $$$
+- [ ] Georgetown's 9 Million in Unmarked Bills — $$$
+- [ ] Jules Maes late (Georgetown) — $$$
+- [ ] Climate Pledge Arena (concerts) — Walk-in · $$$
+- [ ] Paramount Theatre (Downtown) — Walk-in · $$$
+- [ ] Moore Theatre (Belltown; since 1907) — Walk-in · $$$
+
+---
+
+*Notes*
+- Michelin does not publish a Seattle guide. The cross-references here are the James Beard Foundation's 2026 awards — Seattle's finalists were Johnny Courtney of Atoma and Aaron Tekulve of Surrell for Best Chef: Northwest and Pacific (neither won; the city's last win was Brady Williams at Canlis in 2019) — and its semifinalists: Archipelago (Outstanding Chef), Café Suliman (Emerging Chef), Little Beast Ballard and the Wayland Mill (Best New Restaurant), Temple Pastries (Outstanding Pastry), Le Caviste (Wine), Roquette (Outstanding Bar), Anu Apte of Rob Roy (Cocktail Service), and Musang, Homer, Pancita and Ramie for Best Chef. Seattle Met's restaurants of the year (Atoma 2024, Little Beast 2025) are marked RoY.
+- Anything marked **?** deserves a check before you go — Seattle lost Bar Melusine, Sitka & Spruce, Salare, Il Corvo, the London Plane and the Willows Inn within a few years.

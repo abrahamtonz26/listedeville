@@ -1,0 +1,891 @@
+# liste de ville / Washington, DC — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide Washington, D.C. (2025 selection, Nov 2025 — the most recent), North America's 50 Best Bars 2026, Washingtonian's 100 Very Best Restaurants 2026, The Washington Post (Elazar Sontag's 10 Best New Restaurants, May 2026), Eater DC, Resy's Hit List, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ / ★★ = Michelin stars (2025 DC selection; no three-stars this year — the Inn at Little Washington was moved to two)
+- **BIB** = Michelin Bib Gourmand (2025)
+- **NA50 #n** = North America's 50 Best Bars 2026 (51–100 list)
+- **WP** = Washington Post 10 Best New Restaurants 2026 · **W#n** = Washingtonian 100 Very Best 2026 rank
+- **JBF 2026** = James Beard Award 2026 nominee (category in the note)
+- **NEW** = opened or arrived on the list in the last two years · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** = where to book · **Amex ✓** = Resy dining credit should apply
+- **$ / $$ / $$$ / $$$$** = rough spend per person — under $20 / $20–60 / $60–150 / $150+
+- Occasion chips (Romantic, Date night, Casual, Group, Brunch, Late night, Sweets) are editorial assignments for DC — there is no companion occasion guide yet.
+
+**Your in-progress list, checked**
+- Zaytinya holds a Bib; Rasika and Anju are the two must-tries that need a reservation; Causa and Imperfecto are Michelin-starred; Daru and L'Ardente are Bibs.
+- Closed since you wrote it: Makan (as you noted) and Cranes (February 2026). Thip Khao, The Coupe and Alhambra are flagged to verify.
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Yellow (Georgetown / Navy Yard / Union Market; Albi's daytime sibling) — BIB · Resy · Amex ✓ · $
+- [ ] Bar del Monte (Mount Pleasant; the Pastans' Italian bar) — W#12 · NEW · Walk-in · $$
+- [ ] Ellē (Mount Pleasant; bakery by day, restaurant by night) — BIB · Resy · Amex ✓ · $$
+- [ ] La'Shukran (Union Market; Michael Rafidi's Levantine bar) — NEW · Resy · Amex ✓ · $$
+- [ ] Maison Bar à Vins (Logan Circle; natural wine bar) — JBF 2026 · Best New Restaurant finalist · NEW · Resy · Amex ✓ · $$
+- [ ] Residents Cafe & Bar (Dupont Circle; all-day) — BIB · Resy · Amex ✓ · $$
+- [ ] Unconventional Diner (Shaw) — BIB · Resy · Amex ✓ · $$
+- [ ] Your Only Friend (Mount Vernon Square; sandwiches + cocktails) — BIB · NEW 2025 Bib · Resy · Amex ✓ · $$
+- [ ] Le Diplomate (Logan Circle; the brasserie) — Resy · Amex ✓ · $$$
+- [ ] Café Riggs (Penn Quarter; inside the Riggs hotel) — Resy · Amex ✓ · $$
+- [ ] Emma's Torch (Georgetown; refugee-staffed café-restaurant) — NEW · Resy · Amex ✓ · $$
+- [ ] The Grace (Georgetown) — NEW · Resy · Amex ✓ · $$
+- [ ] La Merna (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Pizzeria Paradiso (Dupont / Georgetown; the original DC pizza bar) — Resy · Amex ✓ · $$
+- [ ] Ama (Shaw; Johanna Hellrigl's Italian) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$
+- [ ] Cucina Morini (Mount Vernon Square; Sicilian) — W#10 · JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$$
+- [ ] Caruso's Grocery (Capitol Hill; red-sauce) — Resy · Amex ✓ · $$
+- [ ] The Wells (Capitol Hill; wine + oysters) — NEW · Resy · Amex ✓ · $$
+- [ ] The Duck & The Peach (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] La Collina (Capitol Hill; Italian) — Resy · Amex ✓ · $$
+- [ ] Rose's Luxury bar seats (Barracks Row; walk-in) — ★ · Resy · Amex ✓ · $$$
+- [ ] Little Pearl (Capitol Hill; café by day, tasting counter by night) — ★ · Resy · Amex ✓ · $$$
+- [ ] Bar Chinois (Mount Vernon Square) — NEW · $$
+- [ ] St. Anselm (Union Market; the tavern) — Resy · Amex ✓ · $$
+- [ ] Bidwell (Union Market) — Resy · Amex ✓ · $$
+- [ ] Buffalo & Bergen (Union Market; bagels + egg creams) — Walk-in · $$
+- [ ] Rappahannock Oyster Bar (The Wharf) — Resy · Amex ✓ · $$
+- [ ] Hank's Oyster Bar (Dupont / The Wharf / Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Old Ebbitt Grill (Downtown; since 1856) — OpenTable · $$
+- [ ] Martin's Tavern (Georgetown; since 1933; the JFK proposal booth) — OpenTable · $$
+- [ ] Bar Pilar (14th St) — $$
+- [ ] Cork Wine Bar & Market (14th St) — Resy · Amex ✓ · $$
+- [ ] Lulu's Wine Garden (U Street) — Resy · Amex ✓ · $$
+- [ ] Maxwell Park (Shaw / Navy Yard; Brent Kroll's wine bar) — JBF 2026 · Outstanding Wine Program finalist · Walk-in · $$
+- [ ] Primrose (Brookland; French wine bar) — Resy · Amex ✓ · $$
+- [ ] Chez Billy Sud (Georgetown) — Resy · Amex ✓ · $$
+- [ ] Bistrot du Coin (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] Le Chat Noir (Friendship Heights) — ? · $$
+- [ ] Et Voila! (Palisades; Belgian) — Resy · Amex ✓ · $$
+- [ ] Ruta del Vino (Petworth) — Resy · Amex ✓ · $$
+- [ ] Timber Pizza (Petworth) — Resy · Amex ✓ · $$
+- [ ] Little Coco's (Petworth) — Resy · Amex ✓ · $$
+- [ ] Lapis (Adams Morgan; Afghan) — BIB · Resy · Amex ✓ · $$
+- [ ] Mintwood Place — CLOSED
+- [ ] The Red Hen (Bloomingdale) — BIB · Resy · Amex ✓ · $$$
+- [ ] Boundary Stone (Bloomingdale) — Resy · Amex ✓ · $$
+- [ ] Tabard Inn (Dupont Circle; the fireplace) — Resy · Amex ✓ · $$
+- [ ] Iron Gate (Dupont Circle; the garden) — Resy · Amex ✓ · $$
+- [ ] Ala (Dupont Circle; Turkish) — Resy · Amex ✓ · $$
+- [ ] Green Almond Pantry (Shaw; lunch-only; temporarily closed) — ? · $$
+- [ ] My Little Chamomile (Shaw; Cagla Onal-Urel's Turkish) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$
+- [ ] Beteseb (Adams Morgan; Ethiopian) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$
+- [ ] Busboys and Poets (14th St / multiple) — OpenTable · $$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Silver Lyan (Riggs hotel vault, Penn Quarter; Mr Lyan) — NA50 #55 · Resy · Amex ✓ · $$$
+- [ ] Allegory (behind a door in the Eaton hotel library) — NA50 #57 · Resy · Amex ✓ · $$$
+- [ ] The Gibson (U Street; the original DC speakeasy) — Walk-in · $$
+- [ ] Columbia Room — CLOSED
+- [ ] Chicken + Whiskey (14th St; through the freezer door) — Resy · Amex ✓ · $$
+- [ ] Left Door (14th St; the black door above Brookland Pint's old space) — Resy · Amex ✓ · $$
+- [ ] Harold Black (Barracks Row; unmarked) — Resy · Amex ✓ · $$
+- [ ] Denson Liquor Bar (Penn Quarter; downstairs) — Resy · Amex ✓ · $$
+- [ ] Never Looked Better — CLOSED
+- [ ] The Sheppard (Dupont Circle; through the pizza shop) — Resy · Amex ✓ · $$
+- [ ] Green Zone (Adams Morgan; Middle Eastern cocktails) — Resy · Amex ✓ · $$
+- [ ] Copycat Co. (H Street; Chinese street food + cocktails) — Resy · Amex ✓ · $$
+- [ ] Providencia (H Street; Latin cocktails) — Resy · Amex ✓ · $$
+- [ ] L'Annexe (Georgetown; hidden bar under Chez Billy Sud) — Resy · Amex ✓ · $$
+- [ ] Off the Record (Hay-Adams basement; the power bar) — OpenTable · $$$
+- [ ] Round Robin Bar (Willard InterContinental; since 1847) — OpenTable · $$$
+- [ ] Barmini (Penn Quarter; José Andrés' cocktail lab; reservation only) — Tock · Amex ✓ · $$$$
+- [ ] Service Bar (U Street; 50 Best №23 in 2025) — JBF 2026 semifinalist (Christine Kim) · Walk-in · $$
+- [ ] Bar Cana (Adams Morgan; 2025 JBF Best New Bar semifinalist) — Resy · Amex ✓ · $$
+- [ ] Jane Jane (14th St) — Resy · Amex ✓ · $$
+- [ ] Death Punch (Adams Morgan; DC's Death & Co outpost) — NEW · Resy · Amex ✓ · $$
+- [ ] Death & Co DC (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Dirty Habit (Hotel Monaco; the courtyard) — Resy · Amex ✓ · $$
+- [ ] Zeppelin (Shaw; back-room karaoke) — Resy · Amex ✓ · $$
+- [ ] Morris American Bar (Shaw) — Resy · Amex ✓ · $$
+- [ ] Archipelago (U Street; tiki) — Resy · Amex ✓ · $$
+- [ ] Hank's Cocktail Bar (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] Bar Charley (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] McClellan's Retreat (Dupont Circle; Civil War themed) — Resy · Amex ✓ · $$
+- [ ] The Tune Inn (Capitol Hill; dive with a hidden back room) — Walk-in · $
+- [ ] Lost & Found (Shaw) — Resy · Amex ✓ · $$
+- [ ] Wisdom (Capitol Hill; gin) — Resy · Amex ✓ · $$
+- [ ] La Jambe (Shaw; French wine + charcuterie) — Resy · Amex ✓ · $$
+- [ ] Reveler's Hour (Adams Morgan; Tail Up Goat's wine bar; pasta) — Resy · Amex ✓ · $$
+- [ ] The Alibi (Adams Morgan) — Resy · Amex ✓ · $$
+- [ ] Quarry House Tavern (Silver Spring; basement dive) — $$
+- [ ] PX (Old Town Alexandria; the blue light = open) — $$
+- [ ] Captain Gregory's (Old Town Alexandria; behind Sugar Shack doughnuts) — Walk-in · $$
+- [ ] The Next Whisky Bar (Watergate) — $$
+- [ ] Barrel (Capitol Hill; bourbon bar upstairs, hidden downstairs) — $$
+- [ ] Cane's back bar (H Street; rum) — BIB · Resy · Amex ✓ · $$
+- [ ] Sotto's jazz nights (14th St) — $$
+- [ ] Maxwell Park's back room (Shaw) — Walk-in · $$
+- [ ] Quill (The Jefferson; the library bar) — Resy · Amex ✓ · $$$
+- [ ] Dram & Grain (Adams Morgan; beneath Jack Rose; reservation only) — Tock · Amex ✓ · $$$
+- [ ] Dabney Cellar (Blagden Alley; the wine bar under The Dabney) — $$
+- [ ] Calico (Blagden Alley; backyard bar) — $$
+- [ ] Tiger Fork (Blagden Alley) — Resy · Amex ✓ · $$
+- [ ] The Crown & Crow (14th St; Sherlock's parlor) — $$
+- [ ] Sotto (14th St; the basement under Ghibellina) — Walk-in · $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Summit (Conrad Washington DC; CityCenter) — Resy · Amex ✓ · $$$
+- [ ] The Wild Days (Eaton DC) — Resy · Amex ✓ · $$$
+- [ ] Top of the Gate (Watergate Hotel; Kennedy Center views) — Resy · Amex ✓ · $$$
+- [ ] VUE (Hotel Washington; the White House view) — Resy · Amex ✓ · $$$
+- [ ] Ciel Social Club (AC Hotel Downtown) — Resy · Amex ✓ · $$$
+- [ ] 12 Stories (InterContinental, The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Whiskey Charlie (Canopy by Hilton, The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Officina (The Wharf; the rooftop terrazza) — Resy · Amex ✓ · $$$
+- [ ] La Vie (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Moonraker (Pendry, The Wharf) — NEW · Resy · Amex ✓ · $$$
+- [ ] Flora Flora (Pendry, The Wharf) — NEW · Resy · Amex ✓ · $$$
+- [ ] Hi-Lawn (Union Market rooftop; lawn games) — Resy · Amex ✓ · $$
+- [ ] Jackie (Navy Yard) — Resy · Amex ✓ · $$$
+- [ ] The Salt Line (Navy Yard; waterside) — Resy · Amex ✓ · $$$
+- [ ] Anchovy Social (Thompson Hotel, Navy Yard) — Resy · Amex ✓ · $$$
+- [ ] Bar Élan (Navy Yard) — NEW · Resy · Amex ✓ · $$$
+- [ ] Brighton (Navy Yard; British pub rooftop) — Resy · Amex ✓ · $$$
+- [ ] Takoda (Shaw / Navy Yard) — Resy · Amex ✓ · $$$
+- [ ] Hotel Zena's Hedy's Rooftop (Logan Circle) — Resy · Amex ✓ · $$$
+- [ ] The Brixton (U Street) — Resy · Amex ✓ · $$$
+- [ ] Marvin (U Street; the roof deck) — Resy · Amex ✓ · $$$
+- [ ] El Techo (Shaw; Latin rooftop, Rito Loco) — Resy · Amex ✓ · $$
+- [ ] Kingfisher (Adams Morgan) — Resy · Amex ✓ · $$
+- [ ] Jack Rose Dining Saloon terrace (Adams Morgan; 2,700 whiskeys) — $$$
+- [ ] Perry's (Adams Morgan; the original rooftop; drag brunch) — Resy · Amex ✓ · $$
+- [ ] Mission (Dupont Circle) — Resy · Amex ✓ · $$$
+- [ ] Dirty Habit courtyard (Hotel Monaco) — $$$
+- [ ] POV — CLOSED (now VUE)
+- [ ] Crimson View (Motto by Hilton, Chinatown) — Resy · Amex ✓ · $$$
+- [ ] The Graham Rooftop (Georgetown) — Resy · Amex ✓ · $$$
+- [ ] Tony & Joe's (Georgetown Waterfront) — Resy · Amex ✓ · $$$
+- [ ] Sequoia (Georgetown Waterfront) — Resy · Amex ✓ · $$$
+- [ ] Lady Bird (The Banneker, Downtown) — Resy · Amex ✓ · $$$
+- [ ] Ambar's roof (Capitol Hill / Clarendon) — $$$
+- [ ] Kaliwa's Wharf terrace — $$$
+- [ ] Mi Vida (The Wharf / District Wharf; upper deck) — Resy · Amex ✓ · $$$
+- [ ] Cantina Bambina (The Wharf; pier bar) — Resy · Amex ✓ · $$$
+- [ ] Del Mar (The Wharf; Fabio Trabocchi; terrace) — Resy · Amex ✓ · $$$$
+- [ ] Bar Deco (Chinatown; rooftop) — Resy · Amex ✓ · $$$
+- [ ] DNV Rooftop (Donovan Hotel, Thomas Circle) — Resy · Amex ✓ · $$$
+- [ ] Embassy Row Hotel rooftop pool (Dupont Circle) — $$$
+- [ ] Cortez (Shaw; rooftop) — Resy · Amex ✓ · $$
+- [ ] Tiki TNT (The Wharf; rooftop) — Resy · Amex ✓ · $$
+- [ ] Roofers Union (Adams Morgan; roof deck) — Resy · Amex ✓ · $$
+- [ ] Kirwan's on the Wharf (The Wharf; upstairs) — Resy · Amex ✓ · $$$
+- [ ] Hank's on the Wharf rooftop (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Uptowner Cafe roof (Adams Morgan) — ? · $$$
+- [ ] The Brig (Navy Yard; beer garden, open-air) — Walk-in · $$
+- [ ] Dacha Beer Garden (Shaw / Navy Yard; open-air) — Walk-in · $$
+- [ ] Wunder Garten (NoMa; open-air) — Walk-in · $$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Silver Lyan (Penn Quarter) — NA50 #55 · Resy · Amex ✓ · $$$
+- [ ] Allegory (Downtown) — NA50 #57 · Resy · Amex ✓ · $$$
+- [ ] Service Bar (U Street) — 50 Best №23 in 2025 · JBF 2026 semifinalist · Walk-in · $$
+- [ ] Maxwell Park (Shaw / Navy Yard) — JBF 2026 · Outstanding Wine Program finalist · Walk-in · $$
+- [ ] Maison Bar à Vins (Logan Circle) — JBF 2026 · Best New Restaurant finalist · NEW · Resy · Amex ✓ · $$
+- [ ] Bar Cana (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Barmini (Penn Quarter) — Tock · Amex ✓ · $$$$
+
+**Cocktail institutions**
+- [ ] The Gibson (U Street) — Walk-in · $$
+- [ ] Jack Rose Dining Saloon (Adams Morgan; the whiskey library) — Resy · Amex ✓ · $$$
+- [ ] Copycat Co. (H Street) — Resy · Amex ✓ · $$
+- [ ] Providencia (H Street) — Resy · Amex ✓ · $$
+- [ ] Green Zone (Adams Morgan) — Resy · Amex ✓ · $$
+- [ ] Death & Co DC (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Death Punch (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Left Door (14th St) — Resy · Amex ✓ · $$
+- [ ] Chicken + Whiskey (14th St) — Resy · Amex ✓ · $$
+- [ ] Jane Jane (14th St) — Resy · Amex ✓ · $$
+- [ ] Bar Charley (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] Hank's Cocktail Bar (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] The Sheppard (Dupont Circle) — Resy · Amex ✓ · $$
+- [ ] Harold Black (Barracks Row) — Resy · Amex ✓ · $$
+- [ ] Wisdom (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Denson Liquor Bar (Penn Quarter) — Resy · Amex ✓ · $$
+- [ ] Lost & Found (Shaw) — Resy · Amex ✓ · $$
+- [ ] Morris American Bar (Shaw) — Resy · Amex ✓ · $$
+- [ ] Zeppelin (Shaw) — Resy · Amex ✓ · $$
+- [ ] Archipelago (U Street; tiki) — Resy · Amex ✓ · $$
+- [ ] Dirty Habit (Penn Quarter) — Resy · Amex ✓ · $$
+- [ ] Bar Spero (Capitol Crossing; Johnny Spero) — NEW · Resy · Amex ✓ · $$
+- [ ] Bar Élan (Navy Yard) — NEW · Resy · Amex ✓ · $$
+- [ ] Bernadette's (Union Market; above The Oak Room; supper club) — NEW · Resy · Amex ✓ · $$$
+- [ ] The Oak Room bar (Union Market) — NEW · Resy · Amex ✓ · $$
+- [ ] Lucky Buns (Adams Morgan; burgers + bar) — Resy · Amex ✓ · $$
+- [ ] Pop's SeaBar (Adams Morgan) — $$
+- [ ] The Alibi (Adams Morgan) — Resy · Amex ✓ · $$
+- [ ] L'Annexe (Georgetown) — Resy · Amex ✓ · $$
+- [ ] Reveler's Hour (Adams Morgan) — Resy · Amex ✓ · $$
+
+**Hotel & classic bars**
+- [ ] Off the Record (Hay-Adams) — OpenTable · $$$
+- [ ] Round Robin Bar (Willard) — OpenTable · $$$
+- [ ] The Next Whisky Bar (Watergate) — $$
+- [ ] Quill (The Jefferson) — Resy · Amex ✓ · $$$
+- [ ] Bourbon Steak bar (Four Seasons Georgetown) — OpenTable · $$
+- [ ] The Rye Bar (Rosewood Georgetown) — ? · $$
+- [ ] Bazaar bar (Waldorf Astoria; José Andrés) — $$
+- [ ] Peacock Alley (Waldorf Astoria) — Resy · Amex ✓ · $$$
+- [ ] Marcus DC bar (Salamander; Marcus Samuelsson) — JBF 2026 semifinalist (Anthony Jones) · NEW · Resy · Amex ✓ · $$
+- [ ] Dōgon bar (Salamander; Kwame Onwuachi) — NEW · SevenRooms · $$
+- [ ] Lyle's / Lyle Hotel bar (Dupont) — ? · $$
+- [ ] The Morrow's Le Clou (NoMa) — ? · $$
+- [ ] Riggs' Café Riggs bar (Penn Quarter) — Resy · Amex ✓ · $$
+- [ ] Bar at the Line (Adams Morgan; the church) — ? · $$
+- [ ] St. Regis Bar (Downtown) — $$
+- [ ] Doyle bar at The Dupont Circle Hotel — $$
+- [ ] Quadrant (Ritz-Carlton West End) — $$
+- [ ] Lobby Bar at the Conrad — $$
+
+**Historic / dive / neighborhood**
+- [ ] The Tune Inn (Capitol Hill; since 1947) — Walk-in · $
+- [ ] The Raven Grill (Mount Pleasant; oldest bar in DC) — Walk-in · $
+- [ ] Dan's Cafe (Adams Morgan; pour-your-own) — Walk-in · $
+- [ ] The Pug (H Street) — Walk-in · $
+- [ ] Little Miss Whiskey's Golden Dollar (H Street) — Walk-in · $$
+- [ ] Rock & Roll Hotel — CLOSED
+- [ ] Solly's Tavern (U Street) — Walk-in · $
+- [ ] Saloon (U Street; no standing, no TV, no shots) — Walk-in · $$
+- [ ] Showtime Lounge (Bloomingdale) — Walk-in · $
+- [ ] Wonderland Ballroom (Columbia Heights) — Walk-in · $$
+- [ ] Red Derby (Columbia Heights) — Walk-in · $
+- [ ] Marx Cafe (Mount Pleasant) — Walk-in · $
+- [ ] Trusty's (Capitol Hill) — Walk-in · $
+- [ ] Kramers (Dupont Circle; bookstore bar) — Resy · Amex ✓ · $$
+- [ ] The Big Hunt (Dupont Circle) — Walk-in · $
+- [ ] Fox & Hounds (Dupont Circle) — Walk-in · $
+- [ ] Ivy and Coney (Shaw; Detroit meets Chicago) — Walk-in · $$
+- [ ] Sonny's Pizza (Park View; bar) — Walk-in · $$
+- [ ] Hitching Post (Petworth; bar side) — BIB · Resy · Amex ✓ · $$
+- [ ] Slash Run (Petworth; burgers + metal) — Walk-in · $
+- [ ] Looking Glass Lounge (Petworth) — Walk-in · $
+- [ ] The Passenger — CLOSED
+- [ ] Never Looked Better — CLOSED
+
+**Wine bars**
+- [ ] Maxwell Park (Shaw / Navy Yard) — JBF 2026 finalist · Walk-in · $$
+- [ ] Maison Bar à Vins (Logan Circle) — JBF 2026 finalist · NEW · Resy · Amex ✓ · $$
+- [ ] Cork (14th St) — Walk-in · $$
+- [ ] Primrose (Brookland) — Resy · Amex ✓ · $$
+- [ ] Lulu's Wine Garden (U Street) — Resy · Amex ✓ · $$
+- [ ] La Jambe (Shaw) — Resy · Amex ✓ · $$
+- [ ] The Wells (Capitol Hill) — NEW · Resy · Amex ✓ · $$
+- [ ] Ruta del Vino (Petworth) — Resy · Amex ✓ · $$
+- [ ] Vin 909 (Annapolis; worth the drive) — $$
+- [ ] Dio Wine Bar (H Street) — $$
+- [ ] Pearl Dive Oyster Palace (14th St; oysters + wine) — Resy · Amex ✓ · $$
+
+**Beer**
+- [ ] Bluejacket (Navy Yard; brewery) — Walk-in · $$
+- [ ] Right Proper Brewing (Shaw / Brookland) — Walk-in · $$
+- [ ] ChurchKey (14th St; 555 beers) — Walk-in · $$
+- [ ] Atlas Brew Works (Ivy City / Navy Yard) — Walk-in · $$
+- [ ] Red Bear Brewing (NoMa) — Walk-in · $$
+- [ ] Other Half DC (Ivy City) — NEW · Walk-in · $$
+- [ ] Hellbender (Brookland) — Walk-in · $$
+- [ ] The Sovereign (Georgetown; Belgian beer) — Walk-in · $$
+- [ ] Meridian Pint (Petworth) — Walk-in · $$
+- [ ] Pizzeria Paradiso's beer list (Dupont) — $$
+- [ ] Port City Brewing (Alexandria) — Walk-in · $$
+
+**Rooftop / view bars that double as great bars**
+- [ ] Summit at the Conrad — $$
+- [ ] Top of the Gate (Watergate) — Resy · Amex ✓ · $$$
+- [ ] The Wild Days (Eaton) — Resy · Amex ✓ · $$$
+- [ ] VUE (Hotel Washington) — Resy · Amex ✓ · $$$
+- [ ] 12 Stories (The Wharf) — Resy · Amex ✓ · $$$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Yellow (Georgetown / Navy Yard / Union Market) — BIB · Resy · Amex ✓ · $
+- [ ] Compass Coffee (multiple; the DC roaster) — Walk-in · $
+- [ ] Tatte (multiple; Boston import) — Walk-in · $
+- [ ] The Coffee Bar (Logan Circle) — Walk-in · $
+- [ ] Sidamo Coffee & Tea (H Street; Ethiopian) — Walk-in · $
+- [ ] Little Red Fox (Van Ness) — Walk-in · $
+- [ ] Qualia Coffee (Petworth; roaster) — Walk-in · $
+- [ ] Lost Sock Roasters (Takoma / Mount Pleasant) — Walk-in · $
+- [ ] Vigilante Coffee (Hyattsville / College Park) — Walk-in · $
+- [ ] Colada Shop (14th St / The Wharf; Cuban) — Resy · Amex ✓ · $
+- [ ] Baked & Wired (Georgetown) — Resy · Amex ✓ · $
+- [ ] Blue Bottle (Georgetown / Union Station) — Walk-in · $
+- [ ] La Colombe (Blagden Alley / Chinatown / multiple) — Walk-in · $
+- [ ] Slipstream (14th St / Navy Yard) — Walk-in · $
+- [ ] Peregrine Espresso (Eastern Market / Union Market) — Walk-in · $
+- [ ] Emissary (Dupont Circle) — Resy · Amex ✓ · $
+- [ ] Un Je Ne Sais Quoi (Dupont Circle; French pastry + coffee) — Resy · Amex ✓ · $
+- [ ] Zeke's Coffee (Brookland; roaster) — Walk-in · $
+- [ ] Dua Coffee (Downtown; Indonesian) — Walk-in · $
+- [ ] For Five Coffee Roasters (Downtown / multiple) — Walk-in · $
+- [ ] Swing's Coffee (Downtown; since 1916) — Walk-in · $
+- [ ] Tryst (Adams Morgan; the couch café) — Resy · Amex ✓ · $
+- [ ] Philz Coffee (Adams Morgan / Navy Yard) — Walk-in · $
+- [ ] Bluestone Lane (Georgetown / Downtown) — Walk-in · $
+- [ ] Grace Street Coffee (Georgetown; roaster) — Walk-in · $
+- [ ] Boulangerie Christophe (Georgetown) — Walk-in · $
+- [ ] Ching Ching Cha (Georgetown; tea house) — Walk-in · $
+- [ ] Teaism (Penn Quarter / Dupont) — Walk-in · $
+- [ ] Ceremony Coffee (Annapolis / multiple) — Walk-in · $
+- [ ] Wydown (14th St / H Street) — Walk-in · $
+- [ ] Big Bear Cafe (Bloomingdale) — Walk-in · $
+- [ ] Ellē (Mount Pleasant; the café side) — BIB · Resy · Amex ✓ · $$
+- [ ] Bread Furst (Van Ness; Mark Furstenberg) — Walk-in · $
+- [ ] Seylou (Shaw; whole-grain bakery + coffee) — Walk-in · $
+- [ ] Rose Ave Bakery (Downtown; Asian-American pastry + coffee) — Walk-in · $
+- [ ] Pluma by Bluebird (Union Market) — Walk-in · $
+- [ ] Coffee Republic (Downtown) — $
+- [ ] Killer ESP (Old Town Alexandria) — Walk-in · $
+- [ ] Misha's (Old Town Alexandria) — Walk-in · $
+- [ ] Northside Social (Clarendon) — Walk-in · $
+- [ ] Idido Coffee (Arlington; Ethiopian) — Walk-in · $
+- [ ] Bakers & Baristas (Chinatown / multiple) — Walk-in · $
+- [ ] Café Georgetown (Georgetown; Turkish coffee) — Walk-in · $
+- [ ] Sankofa Video Books & Café (Howard; Ethiopian) — Walk-in · $
+- [ ] Filter Coffeehouse (Dupont / Foggy Bottom) — Walk-in · $
+- [ ] Colony Club (Park View) — Walk-in · $
+- [ ] The Potter's House (Adams Morgan) — Walk-in · $
+- [ ] Three Fifty Bakery & Coffee (Dupont) — Walk-in · $
+- [ ] Ebenezers Coffeehouse (Capitol Hill) — Walk-in · $
+- [ ] Radici (Capitol Hill; Italian market) — Walk-in · $
+- [ ] Dolcezza (multiple; gelato + coffee) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★★
+- [ ] minibar by José Andrés (Penn Quarter) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Jônt (Logan Circle; above Bresca) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] The Inn at Little Washington (Washington, VA; 90 min) — ★★ (down from ★★★) · Resy · Amex ✓ · $$$$
+
+### Michelin ★
+- [ ] Albi (Navy Yard; Michael Rafidi) — ★ · W#1 · NYT 4 stars · NEW · Resy · Amex ✓ · $$$
+- [ ] Bresca (14th St; Ryan Ratino) — ★ · JBF 2026 semifinalist (Outstanding Hospitality) · Resy · Amex ✓ · $$$
+- [ ] Causa (Blagden Alley; Carlos Delgado, 2025 JBF Best Chef) — ★ · Resy · Amex ✓ · $$$$
+- [ ] The Dabney (Blagden Alley; Jeremiah Langhorne; hearth) — ★ · Resy · Amex ✓ · $$$
+- [ ] Elcielo (Union Market; Colombian) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Fiola (Penn Quarter; Fabio Trabocchi) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Gravitas (Ivy City; Matt Baker) — ★ · Tock · Amex ✓ · $$$
+- [ ] Imperfecto (West End; Enrique Limardo) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Kinship (Mount Vernon Square; Eric Ziebold) — ★ · Tock · Amex ✓ · $$$
+- [ ] Little Pearl (Capitol Hill) — ★ · Resy · Amex ✓ · $$$
+- [ ] Masseria (Union Market; Nicholas Stefanelli) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Mita (Shaw; plant-based Latin tasting) — ★ · JBF 2026 semifinalist · Tock · Amex ✓ · $$$$
+- [ ] Métier (Mount Vernon Square; below Kinship) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Omakase at Barracks Row — ★ · Tock · Amex ✓ · $$$$
+- [ ] Oyster Oyster (Shaw; vegetable tasting) — ★ · Tock · Amex ✓ · $$$
+- [ ] Pineapple & Pearls (Capitol Hill; Aaron Silverman) — ★ (down from ★★) · Tock · Amex ✓ · $$$$
+- [ ] Rania (Penn Quarter; Indian) — ★ · Resy · Amex ✓ · $$$
+- [ ] Rooster & Owl (Columbia Heights) — ★ · Resy · Amex ✓ · $$$
+- [ ] Rose's Luxury (Barracks Row) — ★ · Resy · Amex ✓ · $$$
+- [ ] Sushi Nakazawa DC (Trump / Waldorf Astoria building, Federal Triangle) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Xiquet by Danny Lledó (Glover Park; Valencian) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Tail Up Goat — CLOSED (2025)
+- [ ] Reverie — CLOSED (Oct 2025)
+- [ ] Cranes — CLOSED (Feb 2026)
+- [ ] Maydan (14th St; live fire) — no longer starred; still essential · Resy · Amex ✓ · $$$
+
+### Bib Gourmand (2025)
+- [ ] Zaytinya (Penn Quarter; José Andrés) — BIB · Resy · Amex ✓ · $$$
+- [ ] Daru (H Street; Suresh Sundas) — BIB · Resy · Amex ✓ · $$$
+- [ ] L'Ardente (Capitol Crossing; the 40-layer lasagna) — BIB · Resy · Amex ✓ · $$$
+- [ ] Amparo Fondita (Dupont Circle; Mexican) — BIB · Resy · Amex ✓ · $$
+- [ ] Astoria DC (Dupont Circle; Asian) — BIB · Resy · Amex ✓ · $$
+- [ ] Cane (H Street; Trinidadian) — BIB · Resy · Amex ✓ · $$
+- [ ] Dauphine's (Downtown; New Orleans) — BIB · Resy · Amex ✓ · $$$
+- [ ] Ellē (Mount Pleasant) — BIB · Resy · Amex ✓ · $$
+- [ ] Hitching Post (Petworth; fried chicken) — BIB · Resy · Amex ✓ · $$
+- [ ] Ivy City Smokehouse — BIB · Resy · Amex ✓ · $$
+- [ ] Karma Modern Indian (Downtown) — BIB · Resy · Amex ✓ · $$
+- [ ] La Tejana (Mount Pleasant; breakfast tacos) — BIB · Resy · Amex ✓ · $
+- [ ] Laos in Town (NoMa) — BIB · Resy · Amex ✓ · $$
+- [ ] Lapis (Adams Morgan; Afghan) — BIB · Resy · Amex ✓ · $$
+- [ ] Maketto (H Street; Cambodian-Taiwanese) — BIB · Resy · Amex ✓ · $$
+- [ ] Menya Hosaki (Petworth; ramen) — BIB · Resy · Amex ✓ · $$
+- [ ] Oyamel (Penn Quarter; José Andrés) — BIB · Resy · Amex ✓ · $$
+- [ ] PhoXotic (Bloomingdale) — BIB · NEW 2025 Bib · Resy · Amex ✓ · $
+- [ ] Queen's English (Columbia Heights; Hong Kong) — BIB · Resy · Amex ✓ · $$
+- [ ] Residents Cafe & Bar (Dupont Circle) — BIB · Resy · Amex ✓ · $$
+- [ ] Sababa (Cleveland Park; Israeli) — BIB · Resy · Amex ✓ · $$
+- [ ] Stellina Pizzeria (Union Market / multiple) — BIB · Resy · Amex ✓ · $$
+- [ ] Taqueria Habanero (Columbia Heights / 14th St) — BIB · Resy · Amex ✓ · $
+- [ ] The Red Hen (Bloomingdale) — BIB · Resy · Amex ✓ · $$$
+- [ ] Toki Underground (H Street; ramen) — BIB · Resy · Amex ✓ · $$
+- [ ] Unconventional Diner (Shaw) — BIB · Resy · Amex ✓ · $$
+- [ ] Yellow (multiple) — BIB · Resy · Amex ✓ · $
+- [ ] Your Only Friend (Mount Vernon Square) — BIB · NEW 2025 Bib · Resy · Amex ✓ · $$
+- [ ] Makan — CLOSED
+
+### Washington Post 10 Best New 2026, Resy Hit List & the new guard
+- [ ] The Oak Room (Union Market; Tim Hollingsworth's grill; prime rib) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Bernadette's (Union Market; the supper club upstairs) — NEW · Resy · Amex ✓ · $$$
+- [ ] Marcus DC (Salamander; Marcus Samuelsson) — JBF 2026 semifinalist · NEW · Resy · Amex ✓ · $$$
+- [ ] Dōgon (Salamander; Kwame Onwuachi; Afro-Caribbean) — NEW · Resy · Amex ✓ · $$$
+- [ ] Chai Pani (Union Market; Meherwan Irani) — JBF 2026 · Outstanding Restaurateur finalist · NEW · Resy · Amex ✓ · $$
+- [ ] Tapori (H Street; Suresh Sundas' Indian street food) — JBF 2026 · Best Chef Mid-Atlantic finalist · NEW · Resy · Amex ✓ · $$
+- [ ] Moon Rabbit (Penn Quarter; Kevin Tien; Vietnamese) — JBF 2026 · Outstanding Pastry Chef finalist (Susan Bae) · NEW · Resy · Amex ✓ · $$$
+- [ ] Centrolina (CityCenter; Amy Brandwein) — JBF 2026 semifinalist (Outstanding Restaurant) · Resy · Amex ✓ · $$$
+- [ ] Cucina Morini (Mount Vernon Square) — W#10 · NEW · Resy · Amex ✓ · $$$
+- [ ] Bar del Monte (Mount Pleasant) — W#12 · NEW · Walk-in · $$
+- [ ] Pascual (Capitol Hill; wood-fired Mexican) — NEW · Resy · Amex ✓ · $$$
+- [ ] Gemini (Cleveland Park; Italian) — NEW · Resy · Amex ✓ · $$
+- [ ] La'Shukran (Union Market) — NEW · Resy · Amex ✓ · $$
+- [ ] Ama (Shaw) — NEW · Resy · Amex ✓ · $$
+- [ ] Beteseb (Adams Morgan; Ethiopian) — NEW · Resy · Amex ✓ · $$
+- [ ] Brasero Atlantico (Downtown; Argentine grill) — NEW · Resy · Amex ✓ · $$
+- [ ] Boogy & Peel (Dupont Circle; Detroit-style pizza) — NEW · Resy · Amex ✓ · $$
+- [ ] Desert 5 (Union Market; ribs + line dancing) — NEW · Resy · Amex ✓ · $$
+- [ ] Emma's Torch (Georgetown) — NEW · Resy · Amex ✓ · $$
+- [ ] The Grace (Georgetown) — NEW · Resy · Amex ✓ · $$
+- [ ] La Merna (Adams Morgan) — NEW · Resy · Amex ✓ · $$
+- [ ] Osteria Mozza DC (Georgetown; Nancy Silverton, 2026 JBF Lifetime Achievement) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Spero (Capitol Crossing; Johnny Spero) — NEW · Resy · Amex ✓ · $$
+- [ ] Shoto (Midtown Center; Japanese, the scene) — NEW · Resy · Amex ✓ · $$$$
+- [ ] The Bazaar by José Andrés (Waldorf Astoria) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Amazonia (Shaw; Carlos Delgado's Amazonian) — NEW · Resy · Amex ✓ · $$
+- [ ] Hiraya (Eckington; Filipino) — NEW · Resy · Amex ✓ · $$
+- [ ] Botiwalla (Union Market; Chai Pani's kebab sibling) — NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Cappelini's (chicken parm) — NEW 2026 · $$
+- [ ] Bizzeria (pizza) — NEW 2026 · $$
+- [ ] Marv's Dogs (Chicago dogs; from Cork's owners) — NEW 2026 · $$
+- [ ] Hijos del Maíz (Rockville; masa taco trailer) — NEW 2026 · $$
+
+### Classics & must-visits (no Michelin mark)
+- [ ] Rasika (Penn Quarter / West End; the palak chaat) — Resy · Amex ✓ · $$$
+- [ ] Anju (Dupont Circle; Korean; Fried Rice Collective) — Resy · Amex ✓ · $$$
+- [ ] Chiko (Capitol Hill / Dupont; Korean-Chinese) — Resy · Amex ✓ · $$
+- [ ] I Egg You (Dupont; breakfast sandwiches) — NEW · Resy · Amex ✓ · $$
+- [ ] Le Diplomate (Logan Circle) — Resy · Amex ✓ · $$$
+- [ ] 2 Amys (Cathedral Heights; Peter Pastan) — JBF 2026 semifinalist (Outstanding Chef) · Walk-in · $$
+- [ ] Etto (14th St) — Resy · Amex ✓ · $$
+- [ ] Ghostburger (Shaw) — Resy · Amex ✓ · $$
+- [ ] Lutèce (Georgetown; French small plates) — ? · Resy · Amex ✓ · $$
+- [ ] Thip Khao (Columbia Heights; Lao) — ? · $$
+- [ ] Alhambra (Spanish) — ? · $$
+- [ ] Roaming Rooster (multiple; fried chicken) — Walk-in · $$
+- [ ] Love, Makoto (Downtown; food hall by Makoto Okuwa) — Resy · Amex ✓ · $$
+- [ ] Kaliwa (The Wharf; Filipino-Thai-Korean) — Resy · Amex ✓ · $$
+- [ ] Del Mar (The Wharf; Spanish seafood) — Resy · Amex ✓ · $$$$
+- [ ] Fiola Mare (Georgetown Waterfront) — Resy · Amex ✓ · $$$$
+- [ ] Sfoglina (Van Ness / Rosslyn / Downtown; pasta) — Resy · Amex ✓ · $$
+- [ ] Nina May (Shaw) — Resy · Amex ✓ · $$
+- [ ] Opal (Chevy Chase) — Resy · Amex ✓ · $$
+- [ ] Ellington Park Bistro (Dupont) — Resy · Amex ✓ · $$
+- [ ] Bombay Club (Downtown; since 1988) — Resy · Amex ✓ · $$
+- [ ] The Bombay Street Food (Columbia Heights) — ? · $$
+- [ ] Indique (Cleveland Park) — Resy · Amex ✓ · $$
+- [ ] Bindaas (Cleveland Park / Foggy Bottom) — Resy · Amex ✓ · $$
+- [ ] Ambar (Capitol Hill / Clarendon; Balkan; unlimited small plates) — Resy · Amex ✓ · $$
+- [ ] Compass Rose (14th St; global street food) — Resy · Amex ✓ · $$
+- [ ] Doi Moi (14th St; Southeast Asian) — Resy · Amex ✓ · $$
+- [ ] Bad Saint — CLOSED
+- [ ] Little Serow — CLOSED
+- [ ] Komi — CLOSED
+- [ ] Sushi Taro (Dupont Circle; kaiseki) — Resy · Amex ✓ · $$$$
+- [ ] Sushi Capitol (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Rakuya (Dupont) — Resy · Amex ✓ · $$
+- [ ] Tonari (Chinatown; Japanese-Italian) — Resy · Amex ✓ · $$
+- [ ] Daikaya (Chinatown; ramen + izakaya) — Resy · Amex ✓ · $$
+- [ ] Bantam King (Chinatown) — Walk-in · $$
+- [ ] Reren Lamen & Bar (Chinatown) — Walk-in · $$
+- [ ] Hong Kong Pearl (Falls Church; dim sum) — Walk-in · $$
+- [ ] Peter Chang (Arlington / Rockville; Sichuan) — Walk-in · $$
+- [ ] Tiger Fork (Blagden Alley; Hong Kong + cocktails) — Resy · Amex ✓ · $$
+- [ ] Hazel (Shaw) — Resy · Amex ✓ · $$
+- [ ] Convivial (Shaw) — Resy · Amex ✓ · $$
+- [ ] Chercher (Shaw; Ethiopian) — Resy · Amex ✓ · $$
+- [ ] Zenebech (Shaw; Ethiopian) — Walk-in · $$
+- [ ] Dukem (U Street; Ethiopian) — Walk-in · $$
+- [ ] Ethiopic (H Street) — Walk-in · $$
+- [ ] Ben's Chili Bowl (U Street; since 1958) — Walk-in · $
+- [ ] Florida Avenue Grill (U Street; since 1944) — Walk-in · $
+- [ ] Georgia Brown's (Downtown; Lowcountry) — Resy · Amex ✓ · $$
+- [ ] Old Ebbitt Grill (Downtown) — OpenTable · $$
+- [ ] The Occidental (Downtown; reopened) — NEW · Resy · Amex ✓ · $$
+- [ ] Joe's Seafood, Prime Steak & Stone Crab (Downtown) — Resy · Amex ✓ · $$$$
+- [ ] Charlie Palmer Steak (Capitol Hill) — Resy · Amex ✓ · $$$$
+- [ ] Bourbon Steak (Georgetown) — Resy · Amex ✓ · $$$$
+- [ ] The Capital Grille (Penn Quarter) — OpenTable · $$
+- [ ] BLT Steak (Downtown) — Resy · Amex ✓ · $$
+- [ ] Ray's the Steaks (Arlington) — OpenTable · $$
+- [ ] Filomena (Georgetown; the Christmas decorations) — OpenTable · $$
+- [ ] 1789 (Georgetown) — Resy · Amex ✓ · $$
+- [ ] Clyde's of Georgetown — Resy · Amex ✓ · $$
+- [ ] Founding Farmers (Foggy Bottom / multiple) — OpenTable · $$
+- [ ] Farmers Fishers Bakers (Georgetown Waterfront) — Resy · Amex ✓ · $$
+- [ ] Busboys and Poets (multiple) — OpenTable · $$
+- [ ] Belga Cafe (Capitol Hill; Belgian) — Resy · Amex ✓ · $$
+- [ ] The Smith (Penn Quarter) — OpenTable · $$$
+- [ ] Ted's Bulletin (Capitol Hill / multiple; homemade Pop-Tarts) — Resy · Amex ✓ · $$
+- [ ] Rappahannock Oyster Bar (The Wharf) — Resy · Amex ✓ · $$
+- [ ] Pearl Dive Oyster Palace (14th St) — Resy · Amex ✓ · $$
+- [ ] Hank's Oyster Bar (multiple) — Resy · Amex ✓ · $$
+- [ ] The Salt Line (Navy Yard) — Resy · Amex ✓ · $$
+- [ ] Ivy City Smokehouse (Ivy City) — BIB · Resy · Amex ✓ · $$
+- [ ] 2Fifty BBQ (Riverdale, MD; Texas-style) — JBF 2026 semifinalist · Walk-in · $$
+- [ ] Federalist Pig (Adams Morgan; BBQ) — Resy · Amex ✓ · $$
+- [ ] Hill Country (Penn Quarter) — ? · $$
+- [ ] Field & Main (Marshall, VA; worth the drive) — JBF 2026 finalist · Resy · Amex ✓ · $$$
+
+---
+
+## Brunch spots (50)
+
+- [ ] Founding Farmers (Foggy Bottom; the one everyone books) — OpenTable · $$
+- [ ] Le Diplomate (Logan Circle) — Resy · Amex ✓ · $$$
+- [ ] Belga Cafe (Capitol Hill; Belgian waffles) — Resy · Amex ✓ · $$
+- [ ] The Smith (Penn Quarter) — OpenTable · $$$
+- [ ] Busboys and Poets (multiple) — OpenTable · $$
+- [ ] The Coupe (Columbia Heights) — ? · $$
+- [ ] Ala (Dupont Circle; Turkish breakfast) — Resy · Amex ✓ · $$
+- [ ] Imperfecto (West End; brunch tasting) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Yellow (multiple) — BIB · Resy · Amex ✓ · $
+- [ ] Unconventional Diner (Shaw) — BIB · Resy · Amex ✓ · $$
+- [ ] Residents Cafe & Bar (Dupont) — BIB · Resy · Amex ✓ · $$
+- [ ] La Tejana (Mount Pleasant; breakfast tacos) — BIB · Resy · Amex ✓ · $
+- [ ] Ellē (Mount Pleasant) — BIB · Resy · Amex ✓ · $$
+- [ ] Ted's Bulletin (Capitol Hill / multiple) — Resy · Amex ✓ · $$
+- [ ] The Diner (Adams Morgan; 24 hours) — Resy · Amex ✓ · $$
+- [ ] Tryst (Adams Morgan) — Resy · Amex ✓ · $
+- [ ] Perry's (Adams Morgan; drag brunch) — Resy · Amex ✓ · $$
+- [ ] Nellie's (U Street; drag brunch) — Resy · Amex ✓ · $$
+- [ ] Farmers Fishers Bakers (Georgetown Waterfront) — Resy · Amex ✓ · $$
+- [ ] Baked & Wired (Georgetown) — Resy · Amex ✓ · $
+- [ ] Martin's Tavern (Georgetown) — OpenTable · $$
+- [ ] Café Riggs (Penn Quarter) — Resy · Amex ✓ · $$
+- [ ] Old Ebbitt Grill (Downtown; oyster brunch) — OpenTable · $$
+- [ ] Zaytinya brunch (Penn Quarter) — BIB · OpenTable · $$
+- [ ] Oyamel brunch (Penn Quarter) — BIB · OpenTable · $$
+- [ ] Ambar (Capitol Hill; unlimited brunch) — Resy · Amex ✓ · $$
+- [ ] Bidwell (Union Market) — Resy · Amex ✓ · $$
+- [ ] St. Anselm (Union Market) — Resy · Amex ✓ · $$
+- [ ] Buffalo & Bergen (Union Market) — Walk-in · $$
+- [ ] Pluma by Bluebird (Union Market) — Walk-in · $$
+- [ ] The Duck & The Peach (Capitol Hill) — Resy · Amex ✓ · $$
+- [ ] Little Pearl brunch (Capitol Hill) — ★ · $$$
+- [ ] Bar del Monte weekend (Mount Pleasant) — NEW · Resy · Amex ✓ · $$
+- [ ] Iron Gate (Dupont; garden brunch) — Resy · Amex ✓ · $$
+- [ ] Tabard Inn (Dupont; the doughnuts) — Resy · Amex ✓ · $$
+- [ ] Bistrot du Coin (Dupont) — Resy · Amex ✓ · $$
+- [ ] Kramers (Dupont) — Resy · Amex ✓ · $$
+- [ ] Emissary (Dupont) — Resy · Amex ✓ · $$
+- [ ] I Egg You (Dupont) — NEW · Resy · Amex ✓ · $$
+- [ ] Lucky Buns (Adams Morgan) — Resy · Amex ✓ · $$
+- [ ] Chez Billy Sud (Georgetown) — Resy · Amex ✓ · $$
+- [ ] Boulangerie Christophe (Georgetown) — Walk-in · $$
+- [ ] Un Je Ne Sais Quoi (Dupont) — Resy · Amex ✓ · $$
+- [ ] Colada Shop (14th St / The Wharf) — Resy · Amex ✓ · $$
+- [ ] Del Mar brunch (The Wharf) — OpenTable · $$
+- [ ] Officina (The Wharf) — Resy · Amex ✓ · $$
+- [ ] Anchovy Social (Navy Yard) — Resy · Amex ✓ · $$
+- [ ] The Salt Line (Navy Yard) — Resy · Amex ✓ · $$
+- [ ] Cane (H Street; Sunday) — BIB · Resy · Amex ✓ · $$
+- [ ] Dauphine's (Downtown; Creole brunch) — BIB · Resy · Amex ✓ · $$$
+- [ ] Marcus DC brunch (Salamander) — NEW · Resy · Amex ✓ · $$
+- [ ] Osteria Morini (Navy Yard) — Resy · Amex ✓ · $$
+- [ ] Duke's Grocery (Dupont / multiple) — Resy · Amex ✓ · $$
+- [ ] Bob & Edith's (Arlington; 24 hours) — Walk-in · $$
+- [ ] Pete's Diner (Capitol Hill) — Walk-in · $$
+
+---
+
+## Off-beat & only-in-DC (50)
+
+- [ ] Ben's Chili Bowl (U Street; the half-smoke, since 1958) — Walk-in · $
+- [ ] Florida Avenue Grill (U Street; since 1944) — Walk-in · $
+- [ ] Horace & Dickie's (H Street; fried whiting, since 1990) — Walk-in · $
+- [ ] Henry's Soul Cafe (U Street; sweet potato pie) — Walk-in · $
+- [ ] Dukem (U Street) — Walk-in · $
+- [ ] Zenebech (Shaw) — Walk-in · $
+- [ ] Chercher (Shaw) — Resy · Amex ✓ · $
+- [ ] Ethiopic (H Street) — Walk-in · $
+- [ ] Beteseb (Adams Morgan) — NEW · Resy · Amex ✓ · $
+- [ ] Eden Center (Falls Church; Vietnamese mall) — the drive · Walk-in · $
+- [ ] Hong Kong Pearl (Falls Church; dim sum) — Walk-in · $$
+- [ ] Eastern Market (Capitol Hill; Market Lunch's bluebucks pancakes) — Walk-in · $
+- [ ] Market Lunch (Eastern Market) — Walk-in · $
+- [ ] Union Market (NoMa; the hall) — Walk-in · $
+- [ ] Maine Avenue Fish Market (The Wharf; oldest open-air fish market in the US) — Walk-in · $
+- [ ] Jessie Taylor Seafood (Fish Market) — Walk-in · $
+- [ ] Captain White's (Fish Market) — Walk-in · $
+- [ ] Hitching Post (Petworth; behind the Old Soldiers' Home) — BIB · Resy · Amex ✓ · $$
+- [ ] La Tejana (Mount Pleasant; breakfast tacos from a window) — BIB · Resy · Amex ✓ · $
+- [ ] Taqueria Habanero (Columbia Heights) — BIB · Resy · Amex ✓ · $
+- [ ] El Rey (U Street; tacos + patio) — Walk-in · $
+- [ ] Los Hermanos (Columbia Heights; Dominican) — Walk-in · $
+- [ ] Amsterdam Falafelshop (Adams Morgan; the toppings bar) — Walk-in · $
+- [ ] Jumbo Slice (Adams Morgan; 2am) — Walk-in · $
+- [ ] Pizza Mart (Adams Morgan; the jumbo slice) — Walk-in · $
+- [ ] Lucky Buns (Adams Morgan) — Resy · Amex ✓ · $
+- [ ] Wiseguy Pizza (Chinatown / Navy Yard; NY slices) — Walk-in · $
+- [ ] Andy's Pizza (Foggy Bottom / multiple) — Walk-in · $
+- [ ] Call Your Mother Deli (Park View / multiple; the Jew-ish deli) — Walk-in · $
+- [ ] Bullfrog Bagels (H Street / multiple) — Walk-in · $
+- [ ] Pretzel Bakery (Capitol Hill) — Walk-in · $
+- [ ] Crumbs & Whiskers (Georgetown; cat café) — Walk-in · $
+- [ ] Dan's Cafe (Adams Morgan; pour-your-own) — Walk-in · $
+- [ ] Toki Underground (H Street; up the stairs) — BIB · Resy · Amex ✓ · $$
+- [ ] Ivy and Coney (Shaw) — Walk-in · $
+- [ ] Ghostburger (Shaw) — Resy · Amex ✓ · $
+- [ ] Mr. Braxton (Park View) — ? · $
+- [ ] Kith/Kin — CLOSED
+- [ ] Momofuku CCDC — CLOSED
+- [ ] Sonny's Pizza (Park View) — Walk-in · $
+- [ ] Hip City Veg (Downtown) — Walk-in · $
+- [ ] Cava original (Rockville / multiple; started here) — Walk-in · $
+- [ ] Sweetgreen original (Georgetown; started here) — Walk-in · $
+- [ ] Georgetown Cupcake (Georgetown; the line on M Street) — Walk-in · $
+- [ ] Sugar Shack Donuts (Old Town Alexandria) — Walk-in · $
+- [ ] Captain Gregory's (behind the doughnut shop) — Walk-in · $
+- [ ] Mount Vernon Inn (Mount Vernon, VA; peanut soup) — Walk-in · $
+- [ ] Bethesda Crab House (Bethesda; newspaper tables) — Walk-in · $
+- [ ] The Congressional cafeterias (Longworth) — the tourist's secret · $
+- [ ] Supreme Court cafeteria — the other tourist's secret · Walk-in · $
+- [ ] Quarterdeck (Arlington; crabs on the deck) — Walk-in · $
+
+---
+
+## Bakeries (50)
+
+- [ ] Bread Furst (Van Ness; Mark Furstenberg, 2017 JBF Outstanding Baker) — Walk-in · $
+- [ ] Seylou (Shaw; whole-grain, stone-milled) — Walk-in · $
+- [ ] Baked & Wired (Georgetown) — Resy · Amex ✓ · $
+- [ ] Georgetown Cupcake (Georgetown; the line) — Walk-in · $
+- [ ] Sprinkles (Georgetown) — Walk-in · $
+- [ ] Rose Ave Bakery (Downtown) — Walk-in · $
+- [ ] Un Je Ne Sais Quoi (Dupont Circle) — Resy · Amex ✓ · $
+- [ ] Boulangerie Christophe (Georgetown) — Walk-in · $
+- [ ] Fresh Baguette (Bethesda / Georgetown / multiple) — Walk-in · $
+- [ ] Le Caprice DC (Columbia Heights) — ? · $
+- [ ] Bakers & Baristas (Chinatown / multiple) — Walk-in · $
+- [ ] Lyon Bakery (Union Market) — Walk-in · $
+- [ ] Buffalo & Bergen (Union Market; bagels) — Walk-in · $
+- [ ] Call Your Mother Deli (multiple; bagels) — NEW · Walk-in · $
+- [ ] Bullfrog Bagels (multiple) — Walk-in · $
+- [ ] Pearl's Bagels (Mount Vernon Square / multiple) — Walk-in · $
+- [ ] Bethesda Bagels (Bethesda / Dupont) — Walk-in · $
+- [ ] The Pretzel Bakery (Capitol Hill) — Walk-in · $
+- [ ] Paul (Penn Quarter / multiple; French) — Walk-in · $
+- [ ] Tatte (multiple) — Walk-in · $
+- [ ] Yellow (multiple; pistachio sticky bun) — BIB · Resy · Amex ✓ · $
+- [ ] Ellē (Mount Pleasant) — BIB · Resy · Amex ✓ · $$
+- [ ] Pluma by Bluebird (Union Market) — Walk-in · $
+- [ ] Little Red Fox (Van Ness) — Walk-in · $
+- [ ] Heidelberg Pastry Shoppe (Arlington; German, since 1975) — Walk-in · $
+- [ ] Best Buns (Shirlington) — Walk-in · $
+- [ ] Sugar Shack Donuts (Old Town Alexandria) — Walk-in · $
+- [ ] District Doughnut (Barracks Row / multiple) — Walk-in · $
+- [ ] Astro Doughnuts & Fried Chicken (Downtown) — Walk-in · $
+- [ ] Donut Run (Takoma; vegan) — Walk-in · $
+- [ ] Duck Donuts (multiple) — Walk-in · $
+- [ ] Sticky Fingers (Columbia Heights; vegan) — Walk-in · $
+- [ ] Buttercream Bakeshop (Shaw) — Walk-in · $
+- [ ] Baked by Yael (Woodley Park; cakepops) — Walk-in · $
+- [ ] Firehook Bakery (Cleveland Park / multiple) — Walk-in · $
+- [ ] Marvelous Market — CLOSED
+- [ ] Levain DC (Georgetown / Bethesda) — NEW · Walk-in · $
+- [ ] Milk Bar DC (Logan Circle) — ? · $
+- [ ] Sweet Lobby (Barracks Row; macarons) — Walk-in · $
+- [ ] Ladurée Georgetown — ? · $
+- [ ] Fluffy Thoughts (McLean; cakes) — Walk-in · $
+- [ ] A Baked Joint (Mount Vernon Square) — Walk-in · $
+- [ ] Bakeshop (Clarendon) — Walk-in · $
+- [ ] Mah-Ze-Dahr — CLOSED (DC)
+- [ ] Bread & Water Company (Union Market) — Walk-in · $
+- [ ] Bakehouse (Old Town Alexandria) — ? · $
+- [ ] Chinatown Express bakery counter (Chinatown; noodles + buns) — Walk-in · $
+- [ ] Patisserie Poupon (Georgetown) — Walk-in · $
+- [ ] Praline Bakery (Bethesda) — Walk-in · $
+- [ ] Rise Bakery (Adams Morgan; gluten-free) — Walk-in · $
+- [ ] Whisked! (Union Market; pies) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Ice Cream Jubilee (Navy Yard / 14th St) — Walk-in · $
+- [ ] Jeni's (multiple) — Walk-in · $
+- [ ] Van Leeuwen (multiple) — Walk-in · $
+- [ ] Dolcezza (multiple; gelato + coffee) — Walk-in · $
+- [ ] Pitango Gelato (Penn Quarter / multiple) — Walk-in · $
+- [ ] Larry's Homemade Ice Cream (Dupont) — Walk-in · $
+- [ ] Mount Desert Island Ice Cream (Mount Pleasant / Shaw) — Walk-in · $
+- [ ] Thomas Sweet (Georgetown) — Walk-in · $
+- [ ] Moorenko's (Silver Spring / multiple) — Walk-in · $
+- [ ] Milk Bar (Logan Circle) — ? · $
+- [ ] Georgetown Cupcake (Georgetown) — Walk-in · $
+- [ ] Baked & Wired (Georgetown; the cupcakes locals prefer) — Resy · Amex ✓ · $
+- [ ] Sweet Lobby (Barracks Row) — Walk-in · $
+- [ ] Un Je Ne Sais Quoi (Dupont; the pastry case) — Resy · Amex ✓ · $
+- [ ] Rose Ave Bakery (Downtown) — Walk-in · $
+- [ ] Ching Ching Cha (Georgetown; tea + sweets) — Walk-in · $
+- [ ] Teaism (Penn Quarter; salty oat cookies) — Walk-in · $
+- [ ] Tatte (multiple) — Walk-in · $
+- [ ] Chocolate Chocolate (Downtown; since 1984) — Walk-in · $
+- [ ] Fleurir Chocolates (Old Town Alexandria) — Walk-in · $
+- [ ] The Chocolate House (Dupont) — Walk-in · $
+- [ ] Kilwins (Old Town Alexandria) — Walk-in · $
+- [ ] Sugar Shack Donuts (Old Town Alexandria) — Walk-in · $
+- [ ] Astro Doughnuts (Downtown) — Walk-in · $
+- [ ] District Doughnut (multiple) — Walk-in · $
+- [ ] Ted's Bulletin (homemade Pop-Tarts) — Resy · Amex ✓ · $$
+- [ ] Kung Fu Tea (multiple) — Walk-in · $
+- [ ] Tsaocaa (multiple; bubble tea) — Walk-in · $
+- [ ] Mochi Ring (multiple; mochi doughnuts) — Walk-in · $
+- [ ] Paris Baguette (multiple) — Walk-in · $
+- [ ] Sweet Home Café (National Museum of African American History and Culture) — Walk-in · $$
+- [ ] Mitsitam Cafe (National Museum of the American Indian) — Walk-in · $$
+- [ ] Riggs' Café Riggs desserts (Penn Quarter) — $
+- [ ] Moon Rabbit's pastry (Penn Quarter; Susan Bae) — JBF 2026 finalist · $
+- [ ] Bresca's dessert counter (14th St) — $
+- [ ] Jônt's mignardises (Logan Circle) — ★★ · $$$$
+- [ ] Pineapple & Pearls (Capitol Hill) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Little Pearl (Capitol Hill; pastries by day) — ★ · Resy · Amex ✓ · $$$
+- [ ] Yellow (pistachio sticky bun) — BIB · Resy · Amex ✓ · $
+- [ ] Ellē (Mount Pleasant) — BIB · Resy · Amex ✓ · $$
+- [ ] Bread Furst (Van Ness) — Walk-in · $
+- [ ] Seylou (Shaw) — Walk-in · $
+- [ ] Buttercream Bakeshop (Shaw) — Walk-in · $
+- [ ] Baked by Yael (Woodley Park) — Walk-in · $
+- [ ] Sticky Fingers (Columbia Heights) — Walk-in · $
+- [ ] Donut Run (Takoma) — Walk-in · $
+- [ ] Sprinkles (Georgetown) — Walk-in · $
+- [ ] Levain DC (Georgetown) — NEW · Walk-in · $
+- [ ] Salt & Straw DC — ? · $
+- [ ] Insomnia Cookies (multiple) — Walk-in · $
+- [ ] Sarah's Handmade Ice Cream (Bethesda) — Walk-in · $
+- [ ] Nicecream (Clarendon; nitrogen) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] The Bazaar by José Andrés (Waldorf Astoria) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Peacock Alley (Waldorf Astoria) — Resy · Amex ✓ · $$$
+- [ ] Shoto (Midtown Center) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Marcus DC (Salamander) — NEW · Resy · Amex ✓ · $$$
+- [ ] Dōgon (Salamander) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bernadette's (Union Market; supper club) — NEW · Resy · Amex ✓ · $$$
+- [ ] The Oak Room (Union Market) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Fiola (Penn Quarter) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Fiola Mare (Georgetown Waterfront) — Resy · Amex ✓ · $$$$
+- [ ] Del Mar (The Wharf) — Resy · Amex ✓ · $$$$
+- [ ] Le Diplomate (Logan Circle) — Resy · Amex ✓ · $$$
+- [ ] Osteria Mozza (Georgetown) — NEW · $$$
+- [ ] Bourbon Steak (Four Seasons) — Resy · Amex ✓ · $$$$
+- [ ] Cut by Wolfgang Puck (Rosewood Georgetown) — ? · OpenTable · $$$$
+- [ ] Café Milano (Georgetown; the diplomats) — Resy · Amex ✓ · $$$
+- [ ] The Occidental (Downtown) — NEW · Resy · Amex ✓ · $$$
+- [ ] Old Ebbitt Grill (Downtown) — OpenTable · $$$
+- [ ] Off the Record (Hay-Adams) — OpenTable · $$$
+- [ ] Round Robin Bar (Willard) — OpenTable · $$$
+- [ ] Quill (The Jefferson) — Resy · Amex ✓ · $$$
+- [ ] The Greenhouse at The Jefferson — Resy · Amex ✓ · $$$
+- [ ] Plume — CLOSED
+- [ ] Charlie Palmer Steak (Capitol Hill; the lobbyists) — Resy · Amex ✓ · $$$$
+- [ ] Bombay Club (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Rasika West End — Resy · Amex ✓ · $$$
+- [ ] Ambar (Capitol Hill) — Resy · Amex ✓ · $$$
+- [ ] Barcelona Wine Bar (14th St / Cathedral Heights) — Resy · Amex ✓ · $$$
+- [ ] Whiskey Charlie (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] The Salt Line (Navy Yard; game nights) — Resy · Amex ✓ · $$$
+- [ ] Mi Vida (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Kaliwa (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Hank's Oyster Bar (The Wharf) — Resy · Amex ✓ · $$$
+- [ ] Tony & Joe's (Georgetown Waterfront) — Resy · Amex ✓ · $$$
+- [ ] Sequoia (Georgetown Waterfront) — Resy · Amex ✓ · $$$
+- [ ] Nobu DC (West End) — Resy · Amex ✓ · $$$$
+- [ ] Rare Steakhouse & Tavern (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Joe's Seafood (Downtown) — $$$
+- [ ] The Hamilton (Downtown; live music) — Resy · Amex ✓ · $$$
+- [ ] Ned's Club (Downtown; members) — NEW · SevenRooms · $$$$
+- [ ] The LINE DC lobby (Adams Morgan) — $$$
+- [ ] The Eaton lobby & Wild Days (Downtown) — $$$
+- [ ] Riggs (Penn Quarter; Café Riggs + Silver Lyan) — $$$
+- [ ] The Morrow (NoMa) — ? · $$$
+- [ ] Lyle (Dupont; hotel bar) — ? · $$$
+- [ ] Salamander DC (Southwest) — $$$
+- [ ] Pendry Wharf (Moonraker / Flora Flora) — NEW · $$$
+- [ ] Zaytinya (Penn Quarter; the room) — BIB · Resy · Amex ✓ · $$$
+- [ ] Jaleo (Penn Quarter) — Resy · Amex ✓ · $$$
+- [ ] China Chilcano (Penn Quarter) — Resy · Amex ✓ · $$$
+- [ ] Oyamel (Penn Quarter) — BIB · Resy · Amex ✓ · $$
+- [ ] The Lafayette at the Hay-Adams (the power breakfast) — Resy · Amex ✓ · $$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] U Street Music Hall — CLOSED
+- [ ] 9:30 Club (U Street; the venue) — Walk-in · $$
+- [ ] Black Cat (14th St) — Walk-in · $$$
+- [ ] Flash (Shaw; techno) — Walk-in · $$$
+- [ ] Decades (Dupont Circle; four floors) — SevenRooms · $$$
+- [ ] Soundcheck (Downtown) — SevenRooms · $$$
+- [ ] Echostage (Northeast; the megaclub) — Walk-in · $$$
+- [ ] Club Glow at Echostage — Walk-in · $$$
+- [ ] Bliss (Northeast) — SevenRooms · $$$
+- [ ] The Park at 14th — SevenRooms · $$$
+- [ ] Rosebar (Dupont) — SevenRooms · $$$
+- [ ] Ultrabar (Downtown) — SevenRooms · $$$
+- [ ] Abigail (Dupont) — SevenRooms · $$$
+- [ ] Heist (Dupont) — SevenRooms · $$$
+- [ ] Cafe Citron (Dupont; Latin) — SevenRooms · $$$
+- [ ] Nellie's Sports Bar (U Street) — Resy · Amex ✓ · $$$
+- [ ] Number Nine (Logan Circle) — Walk-in · $$$
+- [ ] Trade (14th St) — Walk-in · $$$
+- [ ] Pitchers / A League of Her Own (Adams Morgan) — Walk-in · $$$
+- [ ] Kiki (Shaw) — Walk-in · $$$
+- [ ] Shakers (Shaw) — Walk-in · $$$
+- [ ] Bunker (Downtown) — Walk-in · $$$
+- [ ] Town Danceboutique — CLOSED
+- [ ] Green Lantern (Downtown) — Walk-in · $$$
+- [ ] DC9 (U Street) — Walk-in · $$$
+- [ ] Velvet Lounge (U Street) — Walk-in · $$$
+- [ ] Marvin (U Street) — Resy · Amex ✓ · $$$
+- [ ] The Brixton (U Street) — Resy · Amex ✓ · $$$
+- [ ] Madam's Organ (Adams Morgan; blues, since 1992) — Walk-in · $$$
+- [ ] Songbyrd Music House (Union Market) — Walk-in · $$$
+- [ ] The Anthem (The Wharf; the venue) — Walk-in · $$$
+- [ ] Pearl Street Warehouse (The Wharf) — Walk-in · $$$
+- [ ] Union Stage (The Wharf) — Walk-in · $$$
+- [ ] Howard Theatre (Shaw) — Walk-in · $$$
+- [ ] Lincoln Theatre (U Street) — Walk-in · $$$
+- [ ] Blues Alley (Georgetown; jazz since 1965) — Walk-in · $$$
+- [ ] Twins Jazz — CLOSED
+- [ ] Mr. Henry's (Capitol Hill; jazz) — Walk-in · $$$
+- [ ] JoJo Restaurant & Bar (U Street; jazz) — Walk-in · $$$
+- [ ] Sotto (14th St; jazz basement) — Walk-in · $$$
+- [ ] Zeppelin karaoke (Shaw) — Resy · Amex ✓ · $$$
+- [ ] Muzette (Adams Morgan; karaoke) — Walk-in · $$$
+- [ ] Hill Prince (H Street) — Walk-in · $$$
+- [ ] Little Miss Whiskey's (H Street; upstairs dance floor) — Walk-in · $$$
+- [ ] Rock & Roll Hotel — CLOSED
+- [ ] Wonderland Ballroom (Columbia Heights) — Walk-in · $$$
+- [ ] Dirty Habit late (Penn Quarter) — $$$
+- [ ] Barcode (Downtown) — SevenRooms · $$$
+- [ ] Clarendon Ballroom (Arlington) — SevenRooms · $$$
+- [ ] Spider Kelly's (Clarendon) — Walk-in · $$$
+
+---
+
+*Notes*
+- Michelin: the 2025 Washington, D.C. selection (announced November 2025 as part of the Northeast Cities guide) — three two-stars, twenty-two one-stars, twenty-eight Bib Gourmands. No new stars this year; the Inn at Little Washington moved from three to two. The 2026 selection is expected late 2026.
+- Bars: North America's 50 Best Bars 2026 placed Silver Lyan (№55) and Allegory (№57) on its extended list; Service Bar was №23 in 2025.
+- Anything marked **?** deserves a check on Resy or Google before you go — DC lost a record ~100 restaurants in 2025 and the churn has continued into 2026.

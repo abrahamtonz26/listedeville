@@ -1,0 +1,906 @@
+# liste de ville / Chicago — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide Chicago (2025 selection, Nov 2025 — the most recent), North America's 50 Best Bars, Chicago Tribune, Chicago Magazine, Eater Chicago, Resy, Tock (born here), OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ / ★★ / ★★★ = Michelin stars (2025 Chicago selection) · **GS** = Michelin Green Star
+- **BIB** = Michelin Bib Gourmand (2025)
+- **NA50 #n** = North America's 50 Best Bars (2025 ranking noted where 2026 wasn't confirmed)
+- **JBF** = James Beard winner or nominee (year noted)
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Lula Cafe (Logan Square; since 1999) — BIB · Resy · Amex ✓ · $$
+- [ ] Kasama daytime (Ukrainian Village; the bakery-café) — ★★ · $$
+- [ ] Daisies (Logan Square; pasta) — BIB · GS · Resy · Amex ✓ · $$
+- [ ] Lardon (Logan Square; charcuterie all day) — BIB · Resy · Amex ✓ · $$
+- [ ] Cellar Door Provisions (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Table, Donkey and Stick (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Giant (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Mi Tocaya Antojería (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Superkhana International (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Dear Margaret (Lakeview; French-Canadian) — BIB · Resy · Amex ✓ · $$
+- [ ] Sochi Saigonese Kitchen (Lakeview) — BIB · Resy · Amex ✓ · $$
+- [ ] Chilam Balam (Lakeview) — BIB · Resy · Amex ✓ · $$
+- [ ] Avec (West Loop / River North) — BIB · Resy · Amex ✓ · $$
+- [ ] The Publican (Fulton Market) — Resy · Amex ✓ · $$$
+- [ ] Publican Quality Meats (Fulton Market) — Resy · Amex ✓ · $$
+- [ ] Rose Mary (Fulton Market; Joe Flamm) — Resy · Amex ✓ · $$$
+- [ ] Monteverde (West Loop; Sarah Grueneberg) — Resy · Amex ✓ · $$$
+- [ ] Obélix (River North; the Bouchon brothers) — NEW · Resy · Amex ✓ · $$$
+- [ ] Le Bouchon (Bucktown; since 1993) — Resy · Amex ✓ · $$$
+- [ ] Mirra (Bucktown) — BIB · NEW 2025 Bib · Resy · Amex ✓ · $$
+- [ ] Mott St (Wicker Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Big Star (Wicker Park / Wrigleyville) — Resy · Amex ✓ · $$
+- [ ] Bar Sótano (River North; below Frontera) — Resy · Amex ✓ · $$
+- [ ] Frontera Grill (River North; Rick Bayless) — Resy · Amex ✓ · $$
+- [ ] Ciccio Mio (River North) — BIB · Resy · Amex ✓ · $$
+- [ ] Gilt Bar (River North) — Resy · Amex ✓ · $$
+- [ ] Au Cheval (West Loop; the burger) — Resy · Amex ✓ · $$
+- [ ] Bavette's (River North) — Resy · Amex ✓ · $$$$
+- [ ] Nadu (Lincoln Park; South Indian) — BIB · NEW 2025 Bib · Resy · Amex ✓ · $$
+- [ ] Galit (Lincoln Park; Zach Engel) — ★ · Resy · Amex ✓ · $$$
+- [ ] Boka (Lincoln Park) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Perilla (West Loop; Korean) — BIB · Resy · Amex ✓ · $$
+- [ ] Cariño (Uptown; Norman Fenton) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Andros Taverna (Logan Square; Greek) — Resy · Amex ✓ · $$
+- [ ] HaiSous (Pilsen; Vietnamese) — Resy · Amex ✓ · $$
+- [ ] Pleasant House Pub (Pilsen; pies) — BIB · Resy · Amex ✓ · $$
+- [ ] Kimski (Bridgeport; Korean-Polish) — Resy · Amex ✓ · $$
+- [ ] Virtue (Hyde Park; Erick Williams, 2022 JBF Best Chef Great Lakes) — Resy · Amex ✓ · $$$
+- [ ] Munno Pizzeria & Bistro (Andersonville) — BIB · Resy · Amex ✓ · $$
+- [ ] Parachute (Andersonville; reborn) — NEW · Resy · Amex ✓ · $$
+- [ ] Boonie's Filipino (North Center) — BIB · Resy · Amex ✓ · $$
+- [ ] Sifr (River North) — BIB · Resy · Amex ✓ · $$
+- [ ] Sol de Mexico (Belmont Cragin) — BIB · Resy · Amex ✓ · $$
+- [ ] Birrieria Zaragoza (Uptown) — BIB · Walk-in · $
+- [ ] Kie-Gol-Lanee (Uptown; Oaxacan) — Resy · Amex ✓ · $$
+- [ ] Bloom Plant Based Kitchen (Wicker Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Tortello (Wicker Park; fresh pasta) — BIB · Resy · Amex ✓ · $$
+- [ ] Apolonia (South Loop) — BIB · Resy · Amex ✓ · $$
+- [ ] Longman & Eagle (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Bar Goa (River North; Indian) — NEW · Resy · Amex ✓ · $$
+- [ ] Pompette (Bucktown; wine bar) — NEW · Resy · Amex ✓ · $$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Kumiko (West Loop; Julia Momosé) — NA50 · Resy · Amex ✓ · $$$
+- [ ] Milk Room (Chicago Athletic Association; 8 seats) — Tock · Amex ✓ · $$$$
+- [ ] The Violet Hour (Wicker Park; behind the mural) — Resy · Amex ✓ · $$
+- [ ] Meadowlark (Logan Square) — NA50 2025 #38 · Resy · Amex ✓ · $$
+- [ ] Bisous (River North; wine + cocktails) — NA50 2025 #39 · Resy · Amex ✓ · $$
+- [ ] Best Intentions (Logan Square) — NA50 2025 #25 · Resy · Amex ✓ · $$
+- [ ] The Office (beneath The Aviary, Fulton Market; reservation only) — Tock · Amex ✓ · $$$$
+- [ ] The Aviary (Fulton Market; Alinea group) — Tock · Amex ✓ · $$$$
+- [ ] Dorian's (Wicker Park; through the record shop) — Resy · Amex ✓ · $$
+- [ ] Bordel (Wicker Park; upstairs, burlesque) — Resy · Amex ✓ · $$
+- [ ] Sportsman's Club (Ukrainian Village; the daily four) — Resy · Amex ✓ · $$
+- [ ] Scofflaw (Logan Square; gin) — Resy · Amex ✓ · $$
+- [ ] Billy Sunday (Logan Square; amaro) — Resy · Amex ✓ · $$
+- [ ] Lost Lake — CLOSED
+- [ ] Three Dots and a Dash (River North; tiki, down the alley) — Resy · Amex ✓ · $$
+- [ ] Bar Sótano (River North; below Frontera) — Resy · Amex ✓ · $$
+- [ ] Estereo (Logan Square; Latin, open-air) — Resy · Amex ✓ · $$
+- [ ] Lazy Bird (The Hoxton, Fulton Market; basement) — Resy · Amex ✓ · $$
+- [ ] Green Mill (Uptown; since 1907; Capone's booth) — Walk-in · $
+- [ ] California Clipper (Humboldt Park) — Walk-in · $$
+- [ ] Rainbo Club (Ukrainian Village; the photo booth) — Walk-in · $$
+- [ ] Danny's Tavern — CLOSED
+- [ ] The Whistler (Logan Square; tiny, jazz) — Resy · Amex ✓ · $$
+- [ ] Ludlow Liquors (Avondale) — Resy · Amex ✓ · $$
+- [ ] Bar DeVille (West Town) — Resy · Amex ✓ · $$
+- [ ] Chef's Special Cocktail Bar (Bucktown; Chinese-American + drinks) — BIB · Resy · Amex ✓ · $$
+- [ ] Nine Bar (Chinatown; inside Moon Palace) — NEW · Resy · Amex ✓ · $$
+- [ ] Jerry's? — CLOSED
+- [ ] Dove's Luncheonette (Wicker Park; the counter) — $$
+- [ ] Untitled Supper Club (River North; the vault) — Resy · Amex ✓ · $$$
+- [ ] Fulton Market's Nobody's Darling (Andersonville; Black-owned, JBF Outstanding Bar 2023 semifinalist) — $$
+- [ ] Nobody's Darling (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Marchesa? — CLOSED
+- [ ] Bar Ramone? — CLOSED; use Broken English (Old Town; tequila)
+- [ ] Ombra (Andersonville; aperitivo) — Resy · Amex ✓ · $$
+- [ ] Simone's (Pilsen) — Resy · Amex ✓ · $$
+- [ ] Punch House (Pilsen; basement of Dusek's) — Resy · Amex ✓ · $$
+- [ ] Thalia Hall's bars (Pilsen) — $$
+- [ ] Debonair Social Club (Wicker Park) — Resy · Amex ✓ · $$
+- [ ] Emporium (Wicker Park / Logan Square; arcade bar) — Resy · Amex ✓ · $$
+- [ ] Headquarters Beercade (River North) — Resy · Amex ✓ · $$
+- [ ] Game Room (Chicago Athletic Association) — Resy · Amex ✓ · $$
+- [ ] Drawing Room (Chicago Athletic Association) — Resy · Amex ✓ · $$
+- [ ] Cherry Circle Room (Chicago Athletic Association) — Resy · Amex ✓ · $$
+- [ ] Bar Lupo (River North) — Resy · Amex ✓ · $$
+- [ ] The Duck Inn (Bridgeport; the duck) — Resy · Amex ✓ · $$
+- [ ] Maria's Packaged Goods (Bridgeport; liquor store + bar) — Resy · Amex ✓ · $$
+- [ ] Kaiser Tiger (West Loop; beer garden) — Walk-in · $$
+- [ ] Old Town Ale House (Old Town; the paintings) — Walk-in · $
+- [ ] Skylark (Pilsen) — Walk-in · $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Cindy's (Chicago Athletic Association; over Millennium Park) — Resy · Amex ✓ · $$$
+- [ ] LH Rooftop (LondonHouse; the Tribune Tower view) — Resy · Amex ✓ · $$$
+- [ ] Cerise (Virgin Hotels) — Resy · Amex ✓ · $$$
+- [ ] Apogee (Dana Hotel, River North) — Resy · Amex ✓ · $$$
+- [ ] Drumbar (Raffaello, Streeterville) — Resy · Amex ✓ · $$$
+- [ ] J. Parker (Hotel Lincoln, Lincoln Park) — Resy · Amex ✓ · $$$
+- [ ] Upstairs at the Gwen (Michigan Ave) — Resy · Amex ✓ · $$$
+- [ ] Offshore (Navy Pier; the largest rooftop bar in the world) — Resy · Amex ✓ · $$$
+- [ ] Raised (Renaissance, the river) — Resy · Amex ✓ · $$$
+- [ ] Utopian Tailgate (Second City, Old Town) — $$$
+- [ ] Cabra (The Hoxton; Stephanie Izard's Peruvian rooftop) — Resy · Amex ✓ · $$$
+- [ ] Boleo (Kimpton Gray; the retractable roof) — Resy · Amex ✓ · $$$
+- [ ] NoMI Garden (Park Hyatt) — Resy · Amex ✓ · $$$
+- [ ] The Signature Room — CLOSED
+- [ ] Aba (Fulton Market; the terrace) — Resy · Amex ✓ · $$$
+- [ ] Ēma (River North; the terrace) — Resy · Amex ✓ · $$$
+- [ ] Beatnik on the River (River North) — Resy · Amex ✓ · $$$
+- [ ] Tiny Tapp (Riverwalk; seasonal) — Walk-in · $$$
+- [ ] City Winery Riverwalk (seasonal) — Walk-in · $$$
+- [ ] The Northman Beer & Cider Garden (Riverwalk) — Walk-in · $$$
+- [ ] Island Party Hut (Riverwalk) — Walk-in · $$$
+- [ ] Streeterville Social (Loews) — Resy · Amex ✓ · $$$
+- [ ] The Robey's Up Room (Wicker Park; the tower) — Resy · Amex ✓ · $$$
+- [ ] Cabana Club (The Robey; pool) — $$$
+- [ ] Recess (West Loop; outdoor) — Walk-in · $$$
+- [ ] Parlor Pizza Bar rooftops (multiple) — Walk-in · $$$
+- [ ] Fulton Market Kitchen? — CLOSED; use Kaiser Tiger beer garden (West Loop)
+- [ ] Sky Pilot — $$$
+- [ ] ROOF on theWit (the Loop) — Resy · Amex ✓ · $$$
+- [ ] Nobu Chicago rooftop (Fulton Market) — Resy · Amex ✓ · $$$
+- [ ] The Godfrey's I|O (River North; the retractable roof) — $$$
+- [ ] VU Rooftop (South Loop) — Resy · Amex ✓ · $$$
+- [ ] Wrigleyville rooftops (the Cubs; seasonal) — Walk-in · $$$
+- [ ] Murphy's Bleachers (Wrigleyville; roof deck) — Walk-in · $$$
+- [ ] Old Crow Smokehouse rooftop (Wrigleyville) — Walk-in · $$$
+- [ ] Castaways (North Avenue Beach; seasonal) — Walk-in · $$$
+- [ ] The Dock at Montrose Beach (seasonal) — Walk-in · $$$
+- [ ] Shore Club (North Avenue Beach; seasonal) — Walk-in · $$$
+- [ ] Ohio Street Beach's Caffè Oliva (seasonal) — Walk-in · $$$
+- [ ] Big Star's patio (Wicker Park) — Walk-in · $$$
+- [ ] Parson's Chicken & Fish (Logan Square / Lincoln Park; the patio) — Walk-in · $$$
+- [ ] Sheffield's beer garden (Lakeview) — Walk-in · $$$
+- [ ] Revolution Brewing's taproom (Avondale) — Walk-in · $$$
+- [ ] Hopleaf's garden (Andersonville) — Walk-in · $$$
+- [ ] Hubbard Inn's roof (River North) — Walk-in · $$$
+- [ ] Moe's Cantina rooftop (River North) — Walk-in · $$$
+- [ ] Lakeview's Bar Cocina? — $$$
+- [ ] Bar Sol at Navy Pier (seasonal) — Walk-in · $$$
+- [ ] Terrace 16 (Trump International; the river) — Resy · Amex ✓ · $$$
+- [ ] Rooftop at the Emily Hotel (Fulton Market; Selva) — NEW · Resy · Amex ✓ · $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Kumiko (West Loop) — NA50 · JBF Outstanding Bar 2024 winner · Resy · Amex ✓ · $$$
+- [ ] Best Intentions (Logan Square) — NA50 2025 #25 · Resy · Amex ✓ · $$
+- [ ] Meadowlark (Logan Square) — NA50 2025 #38 · Resy · Amex ✓ · $$
+- [ ] Bisous (River North) — NA50 2025 #39 · Resy · Amex ✓ · $$
+- [ ] Milk Room (Chicago Athletic Association) — Tock · Amex ✓ · $$$$
+- [ ] The Violet Hour (Wicker Park; JBF Outstanding Bar Program 2015) — Resy · Amex ✓ · $$
+- [ ] The Aviary (Fulton Market) — Tock · Amex ✓ · $$$$
+
+**Cocktail institutions**
+- [ ] The Office (Fulton Market) — Tock · Amex ✓ · $$$$
+- [ ] Dorian's (Wicker Park) — Resy · Amex ✓ · $$
+- [ ] Sportsman's Club (Ukrainian Village) — Resy · Amex ✓ · $$
+- [ ] Scofflaw (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Billy Sunday (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Three Dots and a Dash (River North) — Resy · Amex ✓ · $$
+- [ ] Bar Sótano (River North) — Resy · Amex ✓ · $$
+- [ ] Estereo (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Lazy Bird (Fulton Market) — Resy · Amex ✓ · $$
+- [ ] The Whistler (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Ludlow Liquors (Avondale) — Resy · Amex ✓ · $$
+- [ ] Bar DeVille (West Town) — Resy · Amex ✓ · $$
+- [ ] Chef's Special Cocktail Bar (Bucktown) — BIB · Resy · Amex ✓ · $$
+- [ ] Nine Bar (Chinatown) — NEW · Resy · Amex ✓ · $$
+- [ ] Nobody's Darling (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Ombra (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Broken English (Old Town) — Resy · Amex ✓ · $$
+- [ ] Punch House (Pilsen) — Resy · Amex ✓ · $$
+- [ ] Simone's (Pilsen) — Resy · Amex ✓ · $$
+- [ ] Bordel (Wicker Park) — Resy · Amex ✓ · $$
+- [ ] Bar Lupo (River North) — Resy · Amex ✓ · $$
+- [ ] Untitled Supper Club (River North) — Resy · Amex ✓ · $$$
+- [ ] Cherry Circle Room (CAA) — Resy · Amex ✓ · $$
+- [ ] Drawing Room (CAA) — Resy · Amex ✓ · $$
+- [ ] Game Room (CAA) — Resy · Amex ✓ · $$
+- [ ] Longman & Eagle bar (Logan Square) — $$
+- [ ] Lost Lake — CLOSED
+- [ ] Marchesa — CLOSED
+- [ ] Danny's — CLOSED
+- [ ] Bar Cargo — CLOSED
+
+**Hotel & classic bars**
+- [ ] Milk Room / Cherry Circle Room (CAA) — $$
+- [ ] Cindy's (CAA) — Resy · Amex ✓ · $$$
+- [ ] The Coq d'Or (The Drake; since 1933) — Resy · Amex ✓ · $$
+- [ ] The Palm Court (The Drake) — Resy · Amex ✓ · $$
+- [ ] NoMI (Park Hyatt) — Resy · Amex ✓ · $$$$
+- [ ] Bar at the Peninsula (The Bar) — $$
+- [ ] Pops for Champagne (River North) — Resy · Amex ✓ · $$
+- [ ] Drumbar (Raffaello) — Resy · Amex ✓ · $$
+- [ ] Apogee (Dana) — Resy · Amex ✓ · $$
+- [ ] Cerise (Virgin) — Resy · Amex ✓ · $$
+- [ ] LH Rooftop (LondonHouse) — Resy · Amex ✓ · $$$
+- [ ] Lazy Bird (Hoxton) — Resy · Amex ✓ · $$
+- [ ] The Up Room (The Robey) — Resy · Amex ✓ · $$
+- [ ] Boleo (Kimpton Gray) — Resy · Amex ✓ · $$
+- [ ] Vol. 39 (Kimpton Gray) — Resy · Amex ✓ · $$
+- [ ] The Library at the Gwen — Resy · Amex ✓ · $$
+- [ ] Ada Street (Bucktown; the backyard) — Resy · Amex ✓ · $$
+
+**Historic / dive / neighborhood**
+- [ ] Green Mill (Uptown; 1907) — Walk-in · $
+- [ ] Old Town Ale House (Old Town) — Walk-in · $
+- [ ] Billy Goat Tavern (lower Michigan Ave; since 1934) — Walk-in · $
+- [ ] Green Door Tavern (River North; since 1921) — OpenTable · $$
+- [ ] Twin Anchors (Old Town; ribs, Sinatra's spot) — Resy · Amex ✓ · $$
+- [ ] Rainbo Club (Ukrainian Village) — Walk-in · $$
+- [ ] California Clipper (Humboldt Park) — Walk-in · $$
+- [ ] Delilah's (Lincoln Park; whiskey + punk) — Walk-in · $$
+- [ ] Gold Star Bar (Wicker Park) — Walk-in · $$
+- [ ] Rossi's (River North; dive) — Walk-in · $$
+- [ ] Carol's Pub (Uptown; country) — Walk-in · $$
+- [ ] The Hideout (West Town) — Resy · Amex ✓ · $$
+- [ ] Empty Bottle (Ukrainian Village) — OpenTable · $$
+- [ ] Cole's (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Maria's Packaged Goods (Bridgeport) — Resy · Amex ✓ · $$
+- [ ] The Duck Inn (Bridgeport) — Resy · Amex ✓ · $$
+- [ ] Bernice's Tavern (Bridgeport) — Walk-in · $$
+- [ ] Skylark (Pilsen) — Walk-in · $$
+- [ ] Podlasie Club (Avondale; Polish disco) — Walk-in · $$
+- [ ] Ola's Liquor (Ukrainian Village) — Walk-in · $$
+- [ ] Reggies (South Loop) — OpenTable · $$
+- [ ] Kingston Mines (Lincoln Park; blues) — Resy · Amex ✓ · $$
+- [ ] Buddy Guy's Legends (South Loop) — Resy · Amex ✓ · $$
+- [ ] Rosa's Lounge (Logan Square; blues) — Resy · Amex ✓ · $$
+- [ ] Schubas (Lakeview) — Resy · Amex ✓ · $$
+- [ ] Hopleaf (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Simon's Tavern (Andersonville; since 1934) — Walk-in · $$
+
+**Wine bars**
+- [ ] Bisous (River North) — Resy · Amex ✓ · $$
+- [ ] Rootstock (Humboldt Park) — Resy · Amex ✓ · $$
+- [ ] Pompette (Bucktown) — NEW · Resy · Amex ✓ · $$
+- [ ] Webster's Wine Bar (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Bar Pastoral (Lakeview) — ? · $$
+- [ ] Red & White Wines (Bucktown) — Resy · Amex ✓ · $$
+- [ ] Income Tax (Edgewater) — Resy · Amex ✓ · $$
+- [ ] Cellar Door Provisions (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Table, Donkey and Stick (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Daisies (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Ombra (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Bar Lupo (River North) — Resy · Amex ✓ · $$
+
+**Beer**
+- [ ] Hopleaf (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Map Room (Bucktown) — Walk-in · $$
+- [ ] Sheffield's (Lakeview) — Walk-in · $$
+- [ ] Revolution Brewing (Logan Square / Avondale) — Walk-in · $$
+- [ ] Half Acre (North Center / Lincoln Park) — Walk-in · $$
+- [ ] Goose Island (Fulton St / Wrigleyville) — Walk-in · $$
+- [ ] Marz Community Brewing (Bridgeport) — Walk-in · $$
+- [ ] Off Color Brewing (Lincoln Park; Mousetrap) — Walk-in · $$
+- [ ] Pilot Project (Logan Square) — Walk-in · $$
+- [ ] Middle Brow Bungalow (Logan Square; beer + pizza + bread) — Walk-in · $$
+- [ ] Dovetail (Ravenswood) — Walk-in · $$
+- [ ] Begyle (Ravenswood) — Walk-in · $$
+- [ ] Spiteful (Ravenswood) — Walk-in · $$
+- [ ] Metropolitan Brewing (Avondale; the river) — Walk-in · $$
+- [ ] Kaiser Tiger (West Loop) — Walk-in · $$
+
+**Rooftop / view bars that double as great bars**
+- [ ] Cindy's (CAA) — Resy · Amex ✓ · $$$
+- [ ] Apogee (Dana) — Resy · Amex ✓ · $$
+- [ ] Drumbar (Raffaello) — Resy · Amex ✓ · $$
+- [ ] J. Parker (Lincoln Hotel) — Resy · Amex ✓ · $$
+- [ ] Cabra (Hoxton) — Resy · Amex ✓ · $$$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Intelligentsia (Broadway / Millennium Park / multiple; born here 1995) — Walk-in · $
+- [ ] Metric Coffee (West Town; roaster) — Walk-in · $
+- [ ] Sawada Coffee (West Loop; military latte) — Walk-in · $
+- [ ] Dark Matter Coffee (Star Lounge, Ukrainian Village / multiple) — Walk-in · $
+- [ ] Ipsento (Bucktown; Ipsento 606) — Walk-in · $
+- [ ] Big Shoulders Coffee (multiple) — Walk-in · $
+- [ ] Passion House (Logan Square / multiple) — Walk-in · $
+- [ ] Hero Coffee (the Loop / multiple) — Walk-in · $
+- [ ] Dollop Coffee (multiple) — Walk-in · $
+- [ ] The Wormhole (Wicker Park; DeLorean) — Walk-in · $
+- [ ] Sip of Hope (Logan Square) — Walk-in · $
+- [ ] La Colombe (multiple) — Walk-in · $
+- [ ] Kasama (Ukrainian Village; the morning pastry) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Lost Larson (Andersonville / Wicker Park) — Resy · Amex ✓ · $
+- [ ] Publican Quality Bread (Fulton Market) — Walk-in · $
+- [ ] Loba Pastry + Coffee (Lakeview) — $
+- [ ] Floriole (Lincoln Park) — Resy · Amex ✓ · $
+- [ ] La Fournette (Old Town) — Resy · Amex ✓ · $
+- [ ] Hewn (Evanston) — Resy · Amex ✓ · $
+- [ ] Middle Brow (Logan Square) — Walk-in · $
+- [ ] Cafe Jumping Bean (Pilsen; since 1994) — Walk-in · $
+- [ ] Café Marie-Jeanne? — CLOSED
+- [ ] Ellipsis Coffeehouse (Edgewater) — Walk-in · $
+- [ ] Fairgrounds (Bucktown / multiple) — Walk-in · $
+- [ ] Bru Chicago (Lincoln Park) — Walk-in · $
+- [ ] Gaslight Coffee Roasters (Logan Square) — Walk-in · $
+- [ ] Collectivo Coffee (Milwaukee import; multiple) — Walk-in · $
+- [ ] Stan's Donuts & Coffee (multiple) — Walk-in · $
+- [ ] Do-Rite Donuts (multiple) — Walk-in · $
+- [ ] Doughnut Vault (River North) — Walk-in · $
+- [ ] Firecakes (River North / multiple) — Walk-in · $
+- [ ] Bombobar (West Loop; hotter chocolate) — Walk-in · $
+- [ ] Café Selmarie (Lincoln Square) — Walk-in · $
+- [ ] Coffee & Tea Exchange (Lakeview; since 1975) — Walk-in · $
+- [ ] Caffè Umbria (Loop / multiple) — Walk-in · $
+- [ ] Bridgeport Coffee Company (Bridgeport) — Walk-in · $
+- [ ] Sputnik Coffee (Pilsen; roaster) — Walk-in · $
+- [ ] Sip & Savor (Bronzeville) — Walk-in · $
+- [ ] Build Coffee (Woodlawn) — Walk-in · $
+- [ ] Plein Air Café (Hyde Park) — Walk-in · $
+- [ ] Medici on 57th (Hyde Park; the bakery) — Walk-in · $
+- [ ] Valois (Hyde Park; cafeteria, Obama's spot) — Walk-in · $
+- [ ] Ann Sather (Lakeview / multiple; cinnamon rolls) — OpenTable · $
+- [ ] Lou Mitchell's (West Loop; since 1923; free Milk Duds) — OpenTable · $$
+- [ ] Manny's Cafeteria & Delicatessen (South Loop; since 1942) — OpenTable · $$
+- [ ] Eleven City Diner (South Loop) — OpenTable · $
+- [ ] Beatrix (multiple) — Resy · Amex ✓ · $
+- [ ] Goddess and the Baker (multiple) — Walk-in · $
+- [ ] Cafecito (multiple; Cuban) — Walk-in · $
+- [ ] Ipsento 606 (Bucktown; on the trail) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★★★
+- [ ] Smyth (West Loop; John and Karen Shields) — ★★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★★
+- [ ] Alinea (Lincoln Park; Grant Achatz) — ★★ (down from ★★★) · Tock · Amex ✓ · $$$$
+- [ ] Ever (Fulton Market; Curtis Duffy; Michelin Service Award 2025) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Oriole (West Loop; Noah Sandoval; the freight elevator) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Kasama (Ukrainian Village; Genie Kwon & Tim Flores; promoted 2025) — ★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★
+- [ ] Atelier (Lincoln Square) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Boka (Lincoln Park) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Cariño (Uptown) — ★ · Tock · Amex ✓ · $$$$
+- [ ] EL Ideas (Douglas Park; Phillip Foss) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Elske (West Loop) — ★ · Tock · Amex ✓ · $$$
+- [ ] Esmé (Lincoln Park; Jenner Tomaska) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Feld (West Town; Jake Potashnick) — ★ · GS · NEW 2025 star · Tock · Amex ✓ · $$$$
+- [ ] Galit (Lincoln Park) — ★ · Resy · Amex ✓ · $$$
+- [ ] Indienne (River North; Sujan Sarkar) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Mako (West Loop; omakase) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Moody Tongue (South Loop; the brewery tasting menu) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Next (West Loop; the menu changes entirely) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Schwa (Wicker Park; Michael Carlson; the phone) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Sepia (West Loop) — ★ · Resy · Amex ✓ · $$$
+- [ ] Topolobampo (River North; Rick Bayless) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Daisies (Logan Square) — BIB · GS · Resy · Amex ✓ · $$
+
+### Bib Gourmand (2025)
+- [ ] Mirra (Bucktown) — BIB · NEW 2025 · Resy · Amex ✓ · $$
+- [ ] Nadu (Lincoln Park) — BIB · NEW 2025 · Resy · Amex ✓ · $$
+- [ ] Taqueria Chingón (West Loop / Bucktown) — BIB · NEW 2025 · Resy · Amex ✓ · $$
+- [ ] Lula Cafe (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Avec (West Loop) — BIB · Resy · Amex ✓ · $$
+- [ ] Frontera Grill (River North) — BIB · Resy · Amex ✓ · $$
+- [ ] Virtue (Hyde Park) — BIB · Resy · Amex ✓ · $$$
+- [ ] Lardon (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Cellar Door Provisions (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Table, Donkey and Stick (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Mi Tocaya Antojería (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Superkhana International (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Sochi Saigonese Kitchen (Lakeview) — BIB · Resy · Amex ✓ · $$
+- [ ] Chilam Balam (Lakeview) — BIB · Resy · Amex ✓ · $$
+- [ ] Ciccio Mio (River North) — BIB · Resy · Amex ✓ · $$
+- [ ] Mott St (Wicker Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Perilla (West Loop) — BIB · Resy · Amex ✓ · $$
+- [ ] Pleasant House Pub (Pilsen) — BIB · Resy · Amex ✓ · $$
+- [ ] Munno (Andersonville) — BIB · Resy · Amex ✓ · $$
+- [ ] Boonie's Filipino (North Center) — BIB · Resy · Amex ✓ · $$
+- [ ] Sifr (River North) — BIB · Resy · Amex ✓ · $$
+- [ ] Sol de Mexico (Belmont Cragin) — BIB · Resy · Amex ✓ · $$
+- [ ] Birrieria Zaragoza (Uptown) — BIB · Walk-in · $
+- [ ] Bloom Plant Based Kitchen (Wicker Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Tortello (Wicker Park) — BIB · Resy · Amex ✓ · $$
+- [ ] Apolonia (South Loop) — BIB · Resy · Amex ✓ · $$
+- [ ] Chef's Special Cocktail Bar (Bucktown) — BIB · Resy · Amex ✓ · $$
+- [ ] HaiSous (Pilsen) — BIB · Resy · Amex ✓ · $$
+- [ ] Andros Taverna (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Kie-Gol-Lanee (Uptown) — BIB · Resy · Amex ✓ · $$
+- [ ] Rose Mary (Fulton Market) — BIB · Resy · Amex ✓ · $$$
+- [ ] Cafe Spiaggia — CLOSED
+- [ ] Proxi — CLOSED
+- [ ] Passerotto — CLOSED
+- [ ] Fat Rice — CLOSED
+
+### The new guard
+- [ ] Obélix (River North) — NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Goa (River North) — NEW · Resy · Amex ✓ · $$
+- [ ] Parachute (Andersonville; reborn) — NEW · Resy · Amex ✓ · $$
+- [ ] Nine Bar / Moon Palace (Chinatown) — NEW · $$
+- [ ] Pompette (Bucktown) — NEW · Resy · Amex ✓ · $$
+- [ ] Warlord (Avondale; live fire) — NEW · Resy · Amex ✓ · $$
+- [ ] Tre Dita (St. Regis; Tuscan) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Miru (St. Regis; Japanese) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Adalina (Gold Coast) — NEW · Resy · Amex ✓ · $$$$
+- [ ] The Alston (Gold Coast) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Akahoshi Ramen (Logan Square) — NEW · Resy · Amex ✓ · $$
+- [ ] Wherewithall — CLOSED
+- [ ] Bazaar Meat by José Andrés (Bank of America Tower) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Jaleo Chicago (River North) — NEW · Resy · Amex ✓ · $$$
+- [ ] Nobu Chicago (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Momotaro (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Time Out Market Chicago (Fulton Market) — Resy · Amex ✓ · $$
+
+### Classics & must-visits
+- [ ] Girl & the Goat (West Loop; Stephanie Izard) — Resy · Amex ✓ · $$$
+- [ ] Duck Duck Goat (West Loop) — Resy · Amex ✓ · $$$
+- [ ] Cabra (The Hoxton) — Resy · Amex ✓ · $$$
+- [ ] Little Goat Diner (West Loop) — Resy · Amex ✓ · $$
+- [ ] Au Cheval (West Loop) — Resy · Amex ✓ · $$
+- [ ] Bavette's Bar & Boeuf (River North) — Resy · Amex ✓ · $$$$
+- [ ] Gilt Bar (River North) — Resy · Amex ✓ · $$
+- [ ] Maple & Ash (Gold Coast) — Resy · Amex ✓ · $$$$
+- [ ] Swift & Sons (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] RPM Steak / RPM Italian (River North) — Resy · Amex ✓ · $$$$
+- [ ] Gibsons Bar & Steakhouse (Gold Coast; since 1989) — Resy · Amex ✓ · $$$$
+- [ ] Chicago Cut (River North; the river) — Resy · Amex ✓ · $$$$
+- [ ] Boeufhaus (Ukrainian Village) — Resy · Amex ✓ · $$$$
+- [ ] Prime & Provisions (the Loop) — Resy · Amex ✓ · $$$$
+- [ ] Monteverde (West Loop) — Resy · Amex ✓ · $$$
+- [ ] The Publican (Fulton Market) — Resy · Amex ✓ · $$$
+- [ ] Avec (West Loop) — Resy · Amex ✓ · $$
+- [ ] Blackbird — CLOSED
+- [ ] Longman & Eagle (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Lula Cafe (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Giant (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Big Star (Wicker Park) — Resy · Amex ✓ · $$
+- [ ] Le Bouchon (Bucktown) — Resy · Amex ✓ · $$$
+- [ ] Bistro Campagne (Lincoln Square) — Resy · Amex ✓ · $$$
+- [ ] North Pond (Lincoln Park; the pond) — Resy · Amex ✓ · $$$$
+- [ ] Frontera Grill / Topolobampo (River North) — $$
+- [ ] Xoco — CLOSED
+- [ ] Carnitas Uruapan (Pilsen; since 1975) — Walk-in · $
+- [ ] 5 Rabanitos (Pilsen) — Walk-in · $$
+- [ ] Nuevo Leon — CLOSED
+- [ ] Sun Wah BBQ (Uptown; the Beijing duck) — Resy · Amex ✓ · $$
+- [ ] Lao Sze Chuan (Chinatown; Tony Hu) — Walk-in · $$
+- [ ] MingHin Cuisine (Chinatown; dim sum) — Walk-in · $$
+- [ ] Qing Xiang Yuan Dumplings (Chinatown) — Walk-in · $$
+- [ ] Cai (Chinatown; dim sum) — Walk-in · $$
+- [ ] Jade Court? — CLOSED; use Chi Cafe (Chinatown; late)
+- [ ] Han 202 (Bridgeport; BYOB) — Walk-in · $$
+- [ ] HaiSous (Pilsen) — Resy · Amex ✓ · $$
+- [ ] Pho 777 (Uptown) — Walk-in · $$
+- [ ] Tank Noodle (Uptown) — Walk-in · $$
+- [ ] Nha Hang Viet Nam (Uptown) — Walk-in · $$
+- [ ] Demera (Uptown; Ethiopian) — Walk-in · $$
+- [ ] Ras Dashen (Edgewater; Ethiopian) — Walk-in · $$
+- [ ] Devon Avenue: Hema's Kitchen (Indian) — $$
+- [ ] Devon Avenue: Uru-Swati (vegetarian) — $$
+- [ ] Devon Avenue: Sabri Nihari (Pakistani) — $$
+- [ ] Rooh Chicago (West Loop) — Resy · Amex ✓ · $$
+- [ ] Vajra (West Town; Nepalese) — Resy · Amex ✓ · $$
+- [ ] Cumin (Wicker Park) — Resy · Amex ✓ · $$
+- [ ] Kimski (Bridgeport) — Resy · Amex ✓ · $$
+- [ ] Jeong (West Town; Korean tasting) — ? · Tock · Amex ✓ · $$$$
+- [ ] San Soo Gab San (Lincoln Square; Korean BBQ, 24h) — ? · Walk-in · $$
+- [ ] Cho Sun Ok (North Center; Korean BBQ) — Resy · Amex ✓ · $$
+- [ ] Jin Ju (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Isla Pilipina (Lincoln Square) — Resy · Amex ✓ · $$
+- [ ] Bayan Ko (Ravenswood; Filipino-Cuban) — Resy · Amex ✓ · $$
+- [ ] Omakase Yume (West Loop) — ? · Tock · Amex ✓ · $$$$
+- [ ] Kyōten (Logan Square; omakase, Otto Phan) — Tock · Amex ✓ · $$$$
+- [ ] Sushi-san (River North) — Resy · Amex ✓ · $$$
+- [ ] Momotaro (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Roka Akor (River North) — Resy · Amex ✓ · $$$$
+- [ ] Wasabi (Logan Square; ramen) — Walk-in · $$
+- [ ] Greek Islands (Greektown; since 1971) — Resy · Amex ✓ · $$
+- [ ] Athena (Greektown) — Resy · Amex ✓ · $$
+- [ ] Avli (Lincoln Park / River North) — Resy · Amex ✓ · $$
+- [ ] Ēma (River North) — Resy · Amex ✓ · $$
+- [ ] Aba (Fulton Market) — Resy · Amex ✓ · $$
+- [ ] Pequod's (Lincoln Park; the caramelized crust) — Walk-in · $$
+- [ ] Lou Malnati's (multiple; deep dish) — Walk-in · $$
+- [ ] Pizano's (multiple) — Walk-in · $$
+- [ ] Giordano's (multiple; stuffed) — Walk-in · $$
+- [ ] Spacca Napoli (Ravenswood; Neapolitan) — Resy · Amex ✓ · $$
+- [ ] Coalfire (West Town) — Resy · Amex ✓ · $$
+- [ ] Milly's Pizza in the Pan (Uptown) — Walk-in · $$
+- [ ] Bungalow by Middle Brow (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Paulie Gee's Logan Square — Resy · Amex ✓ · $$
+- [ ] Pat's Pizza (Lakeview; tavern-style) — Walk-in · $$
+- [ ] Marie's Pizza & Liquors (Albany Park) — Walk-in · $$
+- [ ] Gene & Jude's (River Grove; the hot dog) — Walk-in · $
+- [ ] Superdawg (Norwood Park; the drive-in) — Walk-in · $
+- [ ] Portillo's (multiple) — Walk-in · $
+- [ ] Wiener's Circle (Lincoln Park; the abuse) — Walk-in · $
+- [ ] Jim's Original (Maxwell Street; the Polish) — Walk-in · $
+- [ ] Al's Beef (Little Italy; since 1938) — Walk-in · $
+- [ ] Johnnie's Beef (Elmwood Park) — Walk-in · $
+- [ ] Mr. Beef (River North; The Bear) — Walk-in · $
+- [ ] Hot Doug's — CLOSED
+- [ ] Kuma's Corner (Avondale; metal burgers) — Resy · Amex ✓ · $$
+- [ ] Manny's (South Loop; corned beef) — OpenTable · $$
+- [ ] Harold's Chicken (multiple) — Walk-in · $
+- [ ] Lem's Bar-B-Q (Chatham; since 1954) — Walk-in · $
+- [ ] Smoque BBQ (Irving Park) — Resy · Amex ✓ · $$
+- [ ] Honey 1 BBQ — ? · $$
+- [ ] Calumet Fisheries (South Deering; smoked fish, JBF America's Classic) — Walk-in · $
+- [ ] Valois (Hyde Park) — Walk-in · $
+- [ ] Virtue (Hyde Park) — Resy · Amex ✓ · $$$
+- [ ] Bronzeville: Pearl's Place — ? · $$
+- [ ] Papa's Cache Sabroso (Humboldt Park; the jibarito) — Walk-in · $
+- [ ] La Bruquena (Humboldt Park; Puerto Rican) — Resy · Amex ✓ · $$
+- [ ] Sultan's Market (Wicker Park) — $$
+- [ ] Podhalanka (Noble Square; Polish, since 1985) — Walk-in · $$
+- [ ] Staropolska (Logan Square) — Walk-in · $$
+- [ ] Red Apple Buffet? — CLOSED; use Kasia's Deli (Ukrainian Village)
+- [ ] Tufano's Vernon Park Tap (Little Italy; since 1930) — Resy · Amex ✓ · $$
+- [ ] Rosebud (Little Italy) — Resy · Amex ✓ · $$
+- [ ] Piccolo Sogno (West Town) — Resy · Amex ✓ · $$
+- [ ] Mart Anthony's (West Town) — Resy · Amex ✓ · $$
+- [ ] Twin Anchors (Old Town; ribs) — Resy · Amex ✓ · $$
+- [ ] Original Pancake House (multiple; the Dutch baby) — OpenTable · $$
+- [ ] Walker Bros. (Wilmette) — OpenTable · $$
+- [ ] Lou Mitchell's (West Loop) — OpenTable · $$
+- [ ] Ann Sather (Lakeview) — OpenTable · $$
+- [ ] Bongo Room (multiple) — OpenTable · $$
+- [ ] Wildberry (the Loop / multiple) — OpenTable · $$
+
+---
+
+## Brunch spots (50)
+
+- [ ] Lula Cafe (Logan Square) — BIB · Resy · Amex ✓ · $$
+- [ ] Kasama (Ukrainian Village; the breakfast) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Longman & Eagle (Logan Square) — Resy · Amex ✓ · $$
+- [ ] Dove's Luncheonette (Wicker Park) — $$
+- [ ] m. henry (Andersonville) — Resy · Amex ✓ · $$
+- [ ] Ann Sather (Lakeview) — OpenTable · $$
+- [ ] Bongo Room (Wicker Park / South Loop / Andersonville) — OpenTable · $$
+- [ ] Wildberry Pancakes (the Loop / River North) — OpenTable · $$
+- [ ] Original Pancake House (Lincoln Park / multiple) — OpenTable · $$
+- [ ] Walker Bros. (Wilmette; the drive) — OpenTable · $$
+- [ ] Lou Mitchell's (West Loop) — OpenTable · $$
+- [ ] Kanela Breakfast Club (multiple) — Resy · Amex ✓ · $$
+- [ ] Batter & Berries (Lincoln Park) — Resy · Amex ✓ · $$
+- [ ] Tweet (Uptown) — OpenTable · $$
+- [ ] Big Jones (Andersonville; Southern) — Resy · Amex ✓ · $$
+- [ ] Southport Grocery (Lakeview) — Resy · Amex ✓ · $$
+- [ ] Little Goat Diner (West Loop) — Resy · Amex ✓ · $$
+- [ ] Beatrix (multiple) — Resy · Amex ✓ · $$
+- [ ] Bar Sótano weekend (River North) — $$
+- [ ] Frontera Grill brunch (River North) — BIB · $$
+- [ ] Loba (Lakeview) — Resy · Amex ✓ · $$
+- [ ] Floriole (Lincoln Park) — Resy · Amex ✓ · $$
+- [ ] La Fournette (Old Town) — Resy · Amex ✓ · $$
+- [ ] Publican brunch (Fulton Market) — $$
+- [ ] Avec brunch (River North) — BIB · $$
+- [ ] Cabra brunch (Hoxton) — $$
+- [ ] Rose Mary brunch (Fulton Market) — BIB · $$
+- [ ] Cafe Ba-Ba-Reeba! brunch (Lincoln Park) — $$
+- [ ] Dear Margaret weekend (Lakeview) — BIB · $$
+- [ ] Daisies brunch (Logan Square) — BIB · $$
+- [ ] Giant brunch (Logan Square) — $$
+- [ ] Mi Tocaya weekend (Logan Square) — BIB · $$
+- [ ] Sol de Mexico (Belmont Cragin) — BIB · Resy · Amex ✓ · $$
+- [ ] Birrieria Zaragoza (Uptown; Sunday) — BIB · Walk-in · $
+- [ ] Carnitas Uruapan (Pilsen; Sunday morning) — Walk-in · $
+- [ ] Valois (Hyde Park) — Walk-in · $
+- [ ] Virtue brunch (Hyde Park) — BIB · $$
+- [ ] Bronzeville's Peach's (Bronzeville) — $$
+- [ ] Manny's (South Loop) — OpenTable · $$
+- [ ] Eleven City Diner (South Loop) — OpenTable · $$
+- [ ] Yolk (multiple) — Resy · Amex ✓ · $$
+- [ ] Toast (Lincoln Park / Bucktown) — Resy · Amex ✓ · $$
+- [ ] Jam — CLOSED
+- [ ] Nettare? — CLOSED; use Ina Mae Tavern (Wicker Park; New Orleans)
+- [ ] Ravinia — OpenTable · $$
+- [ ] Kie-Gol-Lanee weekend (Uptown) — BIB · $$
+- [ ] Sun Wah (Uptown; dim sum hours) — Walk-in · $$
+- [ ] MingHin dim sum (Chinatown) — $$
+- [ ] Cai dim sum (Chinatown) — $$
+- [ ] Superdawg (the drive-in, any hour) — Walk-in · $
+- [ ] The Drake's Palm Court tea (Gold Coast) — OpenTable · $$
+- [ ] Lost Larson (Andersonville) — Resy · Amex ✓ · $$
+
+---
+
+## Off-beat & only-in-Chicago (50)
+
+- [ ] Gene & Jude's (River Grove; the depression dog) — Walk-in · $
+- [ ] Superdawg (Norwood Park; carhops since 1948) — Walk-in · $
+- [ ] Wiener's Circle (Lincoln Park; the char dog, the abuse) — Walk-in · $
+- [ ] Jim's Original (Maxwell Street; the Polish, since 1939) — Walk-in · $
+- [ ] Al's Beef (Little Italy; dipped, hot) — Walk-in · $
+- [ ] Johnnie's Beef (Elmwood Park) — Walk-in · $
+- [ ] Mr. Beef (River North) — Walk-in · $
+- [ ] Portillo's (Clark Street original) — Walk-in · $
+- [ ] Vito & Nick's (Ashburn; tavern-style) — Walk-in · $
+- [ ] Pequod's (Lincoln Park) — Walk-in · $$
+- [ ] Lou Malnati's (Lincolnwood original) — Walk-in · $$
+- [ ] Calumet Fisheries (South Deering; JBF America's Classic 2010) — Walk-in · $
+- [ ] Harold's Chicken (the mild sauce) — Walk-in · $
+- [ ] Lem's Bar-B-Q (Chatham; rib tips) — Walk-in · $
+- [ ] Uncle Remus (Austin; mild sauce chicken) — Walk-in · $
+- [ ] Manny's (South Loop) — OpenTable · $$
+- [ ] Valois (Hyde Park; "See Your Food") — Walk-in · $
+- [ ] Billy Goat Tavern (lower Michigan; "cheezborger") — Walk-in · $
+- [ ] Papa's Cache Sabroso (Humboldt Park; jibarito) — Walk-in · $
+- [ ] Carnitas Uruapan (Pilsen) — Walk-in · $
+- [ ] Birrieria Zaragoza (Uptown) — BIB · Walk-in · $
+- [ ] Sun Wah BBQ (Uptown; the duck ceremony) — Resy · Amex ✓ · $$
+- [ ] Qing Xiang Yuan Dumplings (Chinatown) — Walk-in · $
+- [ ] Chi Cafe (Chinatown; 3am) — Walk-in · $
+- [ ] Devon Avenue (the Indian-Pakistani strip) — Walk-in · $
+- [ ] Sabri Nihari (Devon) — Walk-in · $
+- [ ] Podhalanka (Noble Square) — Walk-in · $
+- [ ] Kasia's Deli (Ukrainian Village; pierogi) — Walk-in · $
+- [ ] Podlasie Club (Avondale) — Walk-in · $
+- [ ] Maxwell Street Market (Sunday; the tacos) — Walk-in · $
+- [ ] Maria's Packaged Goods (Bridgeport) — Resy · Amex ✓ · $
+- [ ] Kimski (Bridgeport) — Resy · Amex ✓ · $
+- [ ] Schwa (Wicker Park; call the phone, hope) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Next (West Loop; the whole menu changes) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Oriole (West Loop; the freight elevator) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Moody Tongue (South Loop; a brewery with a Michelin star) — ★ · Tock · Amex ✓ · $$$$
+- [ ] EL Ideas (Douglas Park; BYOB fine dining) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Milk Room (CAA; 8 seats, vintage spirits) — Tock · Amex ✓ · $$$$
+- [ ] Green Mill (Uptown; the Capone tunnels) — Walk-in · $
+- [ ] Carol's Pub (Uptown; honky-tonk) — Walk-in · $
+- [ ] Old Town Ale House (the paintings) — Walk-in · $
+- [ ] Twin Anchors (Old Town) — Resy · Amex ✓ · $$
+- [ ] Margie's Candies (Bucktown; since 1921) — Walk-in · $
+- [ ] Rainbow Cone (Beverly; since 1926) — Walk-in · $
+- [ ] Garrett Popcorn (the Chicago mix) — Walk-in · $
+- [ ] Nuts on Clark (Union Station) — Walk-in · $
+- [ ] Hot Doug's — CLOSED
+- [ ] Ravinia (the lawn, the picnic) — OpenTable · $$
+- [ ] The Riverwalk (Tiny Tapp, City Winery; summer) — $
+- [ ] Wrigley Field bleachers (an Old Style and a dog) — $
+
+---
+
+## Bakeries (50)
+
+- [ ] Kasama (Ukrainian Village) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Lost Larson (Andersonville / Wicker Park; Scandinavian) — Resy · Amex ✓ · $
+- [ ] Publican Quality Bread (Fulton Market) — Walk-in · $
+- [ ] Hewn (Evanston) — Resy · Amex ✓ · $
+- [ ] Middle Brow Bungalow (Logan Square) — Walk-in · $
+- [ ] Loba Pastry + Coffee (Lakeview) — $
+- [ ] Floriole (Lincoln Park) — Resy · Amex ✓ · $
+- [ ] La Fournette (Old Town) — Resy · Amex ✓ · $
+- [ ] Vanille Patisserie (Lincoln Park / multiple) — Walk-in · $
+- [ ] Bittersweet Pastry Shop (Lakeview) — Walk-in · $
+- [ ] Alliance Bakery (Wicker Park) — Walk-in · $
+- [ ] Roeser's Bakery (Humboldt Park; since 1911) — Walk-in · $
+- [ ] Weber's Bakery (Garfield Ridge) — Walk-in · $
+- [ ] Dinkel's — CLOSED
+- [ ] Swedish Bakery — CLOSED
+- [ ] Ann Sather (the cinnamon rolls) — OpenTable · $
+- [ ] Mindy's Bakery (Wicker Park; Mindy Segal) — Walk-in · $
+- [ ] Hoosier Mama Pie Company (West Town / Evanston) — Walk-in · $
+- [ ] Bang Bang Pie & Biscuits (Logan Square / Ravenswood) — Walk-in · $
+- [ ] First Slice Pie Café (multiple) — Walk-in · $
+- [ ] Do-Rite Donuts (multiple) — Walk-in · $
+- [ ] Stan's Donuts (multiple) — Walk-in · $
+- [ ] Doughnut Vault (River North) — Walk-in · $
+- [ ] Firecakes (multiple) — Walk-in · $
+- [ ] Old Fashioned Donuts (Roseland; the apple fritter) — Walk-in · $
+- [ ] Dat Donut (Chatham) — Walk-in · $
+- [ ] Bombobar (West Loop) — Walk-in · $
+- [ ] Chiu Quon Bakery (Chinatown / Uptown; since 1986) — Walk-in · $
+- [ ] Saint Anna Bakery (Chinatown) — Walk-in · $
+- [ ] Tous les Jours (Chinatown / multiple) — Walk-in · $
+- [ ] Paris Baguette (multiple) — Walk-in · $
+- [ ] Pticek & Son Bakery (Gage Park; paczki) — Walk-in · $
+- [ ] Delightful Pastries (Jefferson Park; paczki) — Walk-in · $
+- [ ] Oak Mill Bakery (Niles; Polish) — Walk-in · $
+- [ ] Bennison's Bakery (Evanston) — Walk-in · $
+- [ ] Defloured (Andersonville; gluten-free) — Walk-in · $
+- [ ] Panadería Nuevo León (Pilsen) — Walk-in · $
+- [ ] El Nopal Bakery (Pilsen) — Walk-in · $
+- [ ] Ferrara Bakery Chicago (Little Italy; since 1908) — Walk-in · $
+- [ ] Scafuri Bakery (Little Italy; since 1904) — Walk-in · $
+- [ ] D'Amato's Bakery (West Town; since 1962) — Walk-in · $
+- [ ] Gonnella? — $
+- [ ] Beurrage (Pilsen) — Walk-in · $
+- [ ] Sweet Mandy B's (Lincoln Park / multiple) — Walk-in · $
+- [ ] Molly's Cupcakes (Lincoln Park) — Walk-in · $
+- [ ] Baker Miller (Lincoln Square) — Walk-in · $
+- [ ] Bread & Wine — CLOSED
+- [ ] Kirschbaum's (Western Springs; the drive) — Walk-in · $
+- [ ] Levain Chicago (Wicker Park / Fulton Market) — NEW · Walk-in · $
+- [ ] Lezza Spumoni & Desserts (Elmhurst; since 1905) — Walk-in · $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Margie's Candies (Bucktown; the sundae) — Walk-in · $
+- [ ] Rainbow Cone (Beverly / multiple) — Walk-in · $
+- [ ] Pretty Cool Ice Cream (Logan Square) — Walk-in · $
+- [ ] Jeni's (multiple) — Walk-in · $
+- [ ] Black Dog Gelato (Ukrainian Village / multiple) — Walk-in · $
+- [ ] Kurimu (Chinatown; Japanese soft serve) — Walk-in · $
+- [ ] Cone Gourmet Ice Cream (Wicker Park) — Walk-in · $
+- [ ] Zarlengo's (Elmwood Park; Italian ice) — Walk-in · $
+- [ ] Miko's Italian Ice (Logan Square / Bucktown; seasonal) — Walk-in · $
+- [ ] Mario's Italian Lemonade (Little Italy; seasonal since 1954) — Walk-in · $
+- [ ] Garrett Popcorn (the Chicago mix) — Walk-in · $
+- [ ] Nuts on Clark — Walk-in · $
+- [ ] Vosges Haut-Chocolat (Lincoln Park / multiple) — Walk-in · $
+- [ ] Katherine Anne Confections (Logan Square; caramels) — Walk-in · $
+- [ ] Bombobar (West Loop) — Walk-in · $
+- [ ] Do-Rite Donuts — Walk-in · $
+- [ ] Stan's Donuts — Walk-in · $
+- [ ] Doughnut Vault — Walk-in · $
+- [ ] Firecakes — Walk-in · $
+- [ ] Old Fashioned Donuts (Roseland) — Walk-in · $
+- [ ] Hoosier Mama Pie — Walk-in · $
+- [ ] Bang Bang Pie — Walk-in · $
+- [ ] Mindy's Bakery — Walk-in · $
+- [ ] Bittersweet — $
+- [ ] Vanille — $
+- [ ] Alliance Bakery — Walk-in · $
+- [ ] Sweet Mandy B's — Walk-in · $
+- [ ] Molly's Cupcakes — Walk-in · $
+- [ ] Kasama's ube pastries — ★★ · $$$$
+- [ ] Lost Larson's cardamom bun — $
+- [ ] Loba's pastries — $
+- [ ] Ann Sather cinnamon rolls — $
+- [ ] Eli's Cheesecake (Norwood Park; the factory) — Walk-in · $
+- [ ] Portillo's chocolate cake shake — $
+- [ ] Sugar Bliss? — $
+- [ ] Bubble tea: Kung Fu Tea (Chinatown / multiple) — $
+- [ ] Tsaocaa (Chinatown) — Walk-in · $
+- [ ] Joy Yee (Chinatown; the bubble tea original) — Walk-in · $
+- [ ] Chiu Quon's egg tarts (Chinatown) — $
+- [ ] Saint Anna's tarts (Chinatown) — $
+- [ ] Alinea's dessert course (Lincoln Park; the balloon) — ★★ · $$$$
+- [ ] Smyth's dessert (West Loop) — ★★★ · $$$$
+- [ ] Ever's finale (Fulton Market) — ★★ · $$$$
+- [ ] Kasama's dessert course — ★★ · $$$$
+- [ ] The Drake's afternoon tea (Gold Coast) — $
+- [ ] Palmer House's brownie (the original, since 1893) — Walk-in · $
+- [ ] Fannie May (multiple; since 1920) — Walk-in · $
+- [ ] Frango Mints (Macy's on State) — Walk-in · $
+- [ ] Beurrage (Pilsen) — Walk-in · $
+- [ ] Original Rainbow Cone at Navy Pier (seasonal) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Maple & Ash (Gold Coast) — Resy · Amex ✓ · $$$$
+- [ ] Gibsons (Gold Coast) — Resy · Amex ✓ · $$$$
+- [ ] Bavette's (River North) — Resy · Amex ✓ · $$$$
+- [ ] RPM Steak (River North) — Resy · Amex ✓ · $$$$
+- [ ] RPM Italian (River North) — Resy · Amex ✓ · $$$
+- [ ] Swift & Sons (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Chicago Cut (River North) — Resy · Amex ✓ · $$$$
+- [ ] Prime & Provisions (the Loop) — Resy · Amex ✓ · $$$$
+- [ ] Boeufhaus (Ukrainian Village) — Resy · Amex ✓ · $$$$
+- [ ] Bazaar Meat (the Loop) — NEW · $$$
+- [ ] Jaleo Chicago (River North) — NEW · Resy · Amex ✓ · $$$
+- [ ] Nobu Chicago (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Momotaro (Fulton Market) — Resy · Amex ✓ · $$$$
+- [ ] Roka Akor (River North) — Resy · Amex ✓ · $$$$
+- [ ] Sushi-san (River North) — Resy · Amex ✓ · $$$
+- [ ] Tre Dita (St. Regis) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Miru (St. Regis) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Adalina (Gold Coast) — NEW · Resy · Amex ✓ · $$$$
+- [ ] The Alston (Gold Coast) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Le Colonial (Gold Coast) — Resy · Amex ✓ · $$$
+- [ ] Nico Osteria (Gold Coast) — Resy · Amex ✓ · $$$
+- [ ] Somerset (Gold Coast; Viceroy) — Resy · Amex ✓ · $$$
+- [ ] NoMI (Park Hyatt) — Resy · Amex ✓ · $$$$
+- [ ] The Peninsula's Shanghai Terrace — Resy · Amex ✓ · $$$$
+- [ ] Pops for Champagne (River North) — Resy · Amex ✓ · $$$
+- [ ] Beatnik (West Town / the river) — Resy · Amex ✓ · $$$
+- [ ] Ēma (River North) — Resy · Amex ✓ · $$$
+- [ ] Aba (Fulton Market) — Resy · Amex ✓ · $$$
+- [ ] Cabra (Hoxton) — Resy · Amex ✓ · $$$
+- [ ] Girl & the Goat (West Loop) — Resy · Amex ✓ · $$$
+- [ ] Monteverde (West Loop) — Resy · Amex ✓ · $$$
+- [ ] Au Cheval (West Loop) — Resy · Amex ✓ · $$
+- [ ] The Publican (Fulton Market) — Resy · Amex ✓ · $$$
+- [ ] Alinea (Lincoln Park) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Ever (Fulton Market) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Oriole (West Loop) — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Smyth (West Loop) — ★★★ · Tock · Amex ✓ · $$$$
+- [ ] Next (West Loop) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Boka (Lincoln Park) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Esmé (Lincoln Park) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Indienne (River North) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Topolobampo (River North) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Sepia (West Loop) — ★ · Resy · Amex ✓ · $$$
+- [ ] Elske (West Loop) — ★ · Tock · Amex ✓ · $$$
+- [ ] Untitled Supper Club (River North) — Resy · Amex ✓ · $$$
+- [ ] Cindy's (CAA) — Resy · Amex ✓ · $$$
+- [ ] LH Rooftop (LondonHouse) — Resy · Amex ✓ · $$$
+- [ ] The Drake (Coq d'Or / Palm Court) — $$$
+- [ ] Time Out Market Chicago — Resy · Amex ✓ · $$$
+- [ ] Soho House Chicago (Fulton Market; members) — SevenRooms · $$$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] Smartbar (Wrigleyville; below Metro; since 1982) — SevenRooms · $$
+- [ ] Metro (Wrigleyville) — OpenTable · $$
+- [ ] Spybar (River North) — SevenRooms · $$$
+- [ ] Sound-Bar (River North) — SevenRooms · $$$
+- [ ] Prysm (River North) — SevenRooms · $$$
+- [ ] TAO Chicago (River North) — SevenRooms · $$$$
+- [ ] Berlin — CLOSED
+- [ ] Empty Bottle (Ukrainian Village) — OpenTable · $$$
+- [ ] Thalia Hall (Pilsen) — OpenTable · $$$
+- [ ] Salt Shed (Goose Island; the venue) — OpenTable · $$$
+- [ ] Lincoln Hall (Lincoln Park) — OpenTable · $$$
+- [ ] Schubas (Lakeview) — Resy · Amex ✓ · $$$
+- [ ] The Hideout (West Town) — Resy · Amex ✓ · $$$
+- [ ] Green Mill (Uptown; jazz) — Walk-in · $
+- [ ] Kingston Mines (Lincoln Park; blues) — Resy · Amex ✓ · $$$
+- [ ] Buddy Guy's Legends (South Loop) — Resy · Amex ✓ · $$$
+- [ ] Rosa's Lounge (Logan Square) — Resy · Amex ✓ · $$$
+- [ ] Jazz Showcase (South Loop; since 1947) — Resy · Amex ✓ · $$$
+- [ ] Andy's Jazz Club (River North) — Resy · Amex ✓ · $$$
+- [ ] Constellation (Roscoe Village) — OpenTable · $$$
+- [ ] Sleeping Village (Avondale) — OpenTable · $$$
+- [ ] Cafe Mustache? — CLOSED; use Cole's (Logan Square)
+- [ ] Beauty Bar (West Town) — Resy · Amex ✓ · $$$
+- [ ] Slippery Slope (Logan Square) — Resy · Amex ✓ · $$$
+- [ ] Debonair (Wicker Park) — $$$
+- [ ] Emporium (Wicker Park / Logan Square) — Resy · Amex ✓ · $$$
+- [ ] Subterranean (Wicker Park) — OpenTable · $$$
+- [ ] Double Door — CLOSED (reopening?) — ?
+- [ ] Sidetrack (Boystown; the showtunes) — Walk-in · $$$
+- [ ] Roscoe's (Boystown) — Walk-in · $$$
+- [ ] Hydrate (Boystown) — Walk-in · $$$
+- [ ] Progress (Boystown) — Walk-in · $$$
+- [ ] Cell Block (Boystown) — Walk-in · $$$
+- [ ] Big Chicks (Uptown) — Walk-in · $$$
+- [ ] Podlasie Club (Avondale) — Walk-in · $$$
+- [ ] Carol's Pub (Uptown) — Walk-in · $$$
+- [ ] Cobra Lounge (West Town) — OpenTable · $$$
+- [ ] Reggies (South Loop) — OpenTable · $$$
+- [ ] Bottom Lounge (West Loop) — OpenTable · $$$
+- [ ] House of Blues (River North) — OpenTable · $$$
+- [ ] Radius (Pilsen; the big room) — OpenTable · $$$
+- [ ] Riviera (Uptown) — OpenTable · $$$
+- [ ] Aragon Ballroom (Uptown) — OpenTable · $$$
+- [ ] Chicago Theatre (the Loop) — OpenTable · $$$
+- [ ] Le Passage — CLOSED
+- [ ] Studio Paris — CLOSED
+- [ ] Bassline (South Loop) — OpenTable · $$$
+- [ ] Punch House late (Pilsen) — $$$
+- [ ] Ravinia (summer) — OpenTable · $$
+- [ ] Evil Olive (Wicker Park) — SevenRooms · $$$
+
+---
+
+*Notes*
+- Michelin: the 2025 Chicago selection (Northeast Cities guide, November 18, 2025) — twenty stars: Smyth alone at three; Alinea (moved down from three), Ever, Oriole and Kasama (promoted) at two; fifteen one-stars including Feld, new with a Green Star. Daisies holds a Green Star with its Bib. Mirra, Nadu and Taqueria Chingón joined the Bib list. Amy Cordell of Ever won the Michelin Service Award.
+- Bars: Kumiko is Chicago's 50 Best regular and the 2024 James Beard Outstanding Bar; Best Intentions, Meadowlark and Bisous held 2025 rankings (№25, №38, №39) — their 2026 placings weren't confirmed for this edition.
+- Anything marked **?** deserves a check before you go.

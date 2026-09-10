@@ -1,0 +1,850 @@
+# liste de ville / Miami — Fall/Winter 2026
+
+First edition · cross-referenced against the Michelin Guide Florida (2026 selection, May 28, 2026 — the most recent, and the first to cover the whole state), North America's 50 Best Bars 2026, Miami New Times' Top 50 Bars 2026, Eater Miami, Resy, OpenTable and Yelp.
+
+**Legend**
+- `[x]` = you've been
+- ★ / ★★ = Michelin stars (2026 Florida selection) · **GS** = Michelin Green Star
+- **BIB** = Michelin Bib Gourmand (2026)
+- **NA50 #n** = North America's 50 Best Bars 2026 · **NT50** = New Times Top 50 Bars 2026
+- **JBF** = James Beard nominee (year noted)
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Mandolin Aegean Bistro (Buena Vista; the garden) — BIB · Resy · Amex ✓ · $$$
+- [ ] Michael's Genuine (Design District; since 2007) — BIB · Resy · Amex ✓ · $$$
+- [ ] Krüs Kitchen (Coconut Grove) — GS · Resy · Amex ✓ · $$$
+- [ ] Los Félix (Coconut Grove) — ★ · GS · Resy · Amex ✓ · $$$
+- [ ] Zak the Baker (Wynwood; kosher bakery-café) — Resy · Amex ✓ · $$
+- [ ] Chug's Diner (Coconut Grove; Cuban-American) — BIB · Resy · Amex ✓ · $$
+- [ ] Tâm Tâm (Downtown; Vietnamese) — BIB · Resy · Amex ✓ · $$
+- [ ] Phuc Yea (Upper East Side; Vietnamese-Cajun) — BIB · Resy · Amex ✓ · $$
+- [ ] La Natural (Little River; pizza + natural wine) — BIB · Resy · Amex ✓ · $$
+- [ ] Zitz Sum (Coral Gables; dim sum) — BIB · Resy · Amex ✓ · $$
+- [ ] Tinta y Café (Coral Gables; Cuban café) — BIB · Resy · Amex ✓ · $
+- [ ] Cotoa (Little River) — BIB · NEW 2026 Bib · Resy · Amex ✓ · $$
+- [ ] Barra Callao (Peruvian) — BIB · NEW 2026 Bib · Resy · Amex ✓ · $$
+- [ ] Double Luck (Chinese) — BIB · NEW 2026 Bib · Resy · Amex ✓ · $$
+- [ ] To Be Determined (Little River) — BIB · NEW 2026 Bib · Resy · Amex ✓ · $$
+- [ ] Boia De (Little Haiti; the counter) — ★ · Resy · Amex ✓ · $$$
+- [ ] Ariete (Coconut Grove; Michael Beltran) — ★ · Resy · Amex ✓ · $$$
+- [ ] Jaguar Sun (Downtown; pasta + cocktails) — Resy · Amex ✓ · $$
+- [ ] Margot (Downtown; wine bar) — Resy · Amex ✓ · $$
+- [ ] Lagniappe (Midtown; wine + backyard) — Resy · Amex ✓ · $$
+- [ ] Bar Alter — CLOSED
+- [ ] Macchialina (South Beach; Italian; Michelin Sommelier Award 2025) — Resy · Amex ✓ · $$$
+- [ ] Sardinia Enoteca (Sunset Harbour) — Resy · Amex ✓ · $$
+- [ ] Stubborn Seed (South Beach; Jeremy Ford) — ★ · GS · Resy · Amex ✓ · $$$$
+- [ ] Mila (South Beach; the scene) — Resy · Amex ✓ · $$$$
+- [ ] Threefold Café (Coral Gables / Sunset Harbour; Aussie) — Resy · Amex ✓ · $$
+- [ ] All Day (Downtown; coffee + brunch) — Resy · Amex ✓ · $$
+- [ ] Panther Coffee (Wynwood / multiple) — Walk-in · $$
+- [ ] Rosetta Bakery (Brickell / multiple) — Resy · Amex ✓ · $$
+- [ ] Bachour (Coral Gables; Antonio Bachour) — BIB · Resy · Amex ✓ · $$
+- [ ] Ghee Indian Kitchen (Dadeland / Design District) — BIB · Resy · Amex ✓ · $$
+- [ ] Niu Kitchen (Downtown; Catalan) — Resy · Amex ✓ · $$$
+- [ ] Kaido (Design District; Japanese bar) — Resy · Amex ✓ · $$$
+- [ ] Sereia (Coconut Grove; Portuguese) — NEW · Resy · Amex ✓ · $$$
+- [ ] Erba (Coral Gables; pasta) — NEW · Resy · Amex ✓ · $$$
+- [ ] Mano Libera (Italian) — NEW · Resy · Amex ✓ · $$
+- [ ] Bistro Ocho Miami — NEW · Resy · Amex ✓ · $$
+- [ ] Elyu Omakase — NEW · Resy · Amex ✓ · $$
+- [ ] Sanguich de Miami (Little Havana; Cuban sandwiches) — BIB · Resy · Amex ✓ · $
+- [ ] El Turco (Upper East Side; Turkish) — BIB · Resy · Amex ✓ · $$
+- [ ] Hometown Barbecue Miami (Allapattah) — BIB · Resy · Amex ✓ · $$
+- [ ] Lucali (Sunset Harbour) — BIB · Resy · Amex ✓ · $$
+- [ ] Coyo Taco (Wynwood / multiple) — Resy · Amex ✓ · $
+- [ ] Taquiza (South Beach / North Beach; blue-corn tortillas) — Resy · Amex ✓ · $
+- [ ] Blue Collar (Upper East Side; comfort food) — Resy · Amex ✓ · $$
+- [ ] Mignonette (Edgewater; oysters) — Resy · Amex ✓ · $$
+- [ ] Sushi Garage (Sunset Harbour) — Resy · Amex ✓ · $$
+- [ ] Pastis Miami (Wynwood; Keith McNally) — NEW · Resy · Amex ✓ · $$$
+- [ ] Sant Ambroeus (South Beach / Design District) — Resy · Amex ✓ · $$
+- [ ] Casa Tua Cucina (Brickell / Saks) — Resy · Amex ✓ · $$
+- [ ] Itamae AO (Midtown; Nando Chang's Nikkei counter) — ★ in 2025 · ? · Resy · Amex ✓ · $$$$
+- [ ] EntreNos (Miami Shores) — GS · Resy · Amex ✓ · $$$$
+
+---
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] ViceVersa (Downtown; the hidden aperitivo bar) — NA50 #46 · JBF 2025 Best New Bar finalist · Resy · Amex ✓ · $$$
+- [ ] Bar Kaiju (Little River; The Citadel mezzanine) — NA50 #70 · Resy · Amex ✓ · $$$
+- [ ] Dante's HiFi (Wynwood; listening bar) — Resy · Amex ✓ · $$$
+- [ ] Sweet Liberty (South Beach) — NT50 · Resy · Amex ✓ · $$
+- [ ] Foxhole (Little River; the speakeasy) — NT50 · Resy · Amex ✓ · $$
+- [ ] Bodega Taqueria's back bar (South Beach; through the porta-potty door) — $$
+- [ ] The Anderson (Upper East Side; the tiki back room) — Resy · Amex ✓ · $$
+- [ ] Lost Boy Dry Goods (Downtown; the old department store) — Resy · Amex ✓ · $$
+- [ ] Mama Tried (Downtown) — Resy · Amex ✓ · $$
+- [ ] Better Days (Downtown; upstairs) — Resy · Amex ✓ · $$
+- [ ] Employees Only Miami — CLOSED
+- [ ] Broken Shaker (Freehand, Mid-Beach; the original) — Resy · Amex ✓ · $$
+- [ ] Esotico (Arts & Entertainment District; tiki) — Resy · Amex ✓ · $$
+- [ ] Over Under (Downtown; dive-cocktail) — Resy · Amex ✓ · $$
+- [ ] Spanglish (Brickell) — ? · $$
+- [ ] Bar Bastille (Downtown; French bar) — Resy · Amex ✓ · $$
+- [ ] Jaguar Sun (Downtown) — Resy · Amex ✓ · $$
+- [ ] Margot (Downtown) — Resy · Amex ✓ · $$
+- [ ] Kush (Wynwood; burgers + beer) — Resy · Amex ✓ · $$
+- [ ] Gramps (Wynwood) — Resy · Amex ✓ · $
+- [ ] Mac's Club Deuce (South Beach; since 1926) — Walk-in · $
+- [ ] Ball & Chain (Little Havana; the Pineapple stage) — Resy · Amex ✓ · $$
+- [ ] Café La Trova (Little Havana) — NA50 #42 · JBF Outstanding Bar nominee · Resy · Amex ✓ · $$$
+- [ ] Hoy Como Ayer (Little Havana; live Cuban music) — Resy · Amex ✓ · $$
+- [ ] Bar Nancy (Little Havana; pirate-ship dive) — Resy · Amex ✓ · $
+- [ ] Sylvano (Coconut Grove; underground) — ? · $$
+- [ ] The Corner (Downtown; late) — Resy · Amex ✓ · $
+- [ ] Blackbird Ordinary (Brickell) — Resy · Amex ✓ · $$
+- [ ] Tropezón (South Beach; gin + tapas) — Resy · Amex ✓ · $$
+- [ ] Chotto Matte's bar (South Beach) — $$
+- [ ] Kiki on the River bar (Miami River) — $$
+- [ ] Sexy Fish bar (Brickell) — $$
+- [ ] Papi Steak bar (South Beach) — $$
+- [ ] Le Chick (Wynwood; rotisserie + bar) — Resy · Amex ✓ · $$
+- [ ] Boulud Sud's bar (Downtown) — $$
+- [ ] The Elser rooftop bar (Downtown) — $$
+- [ ] Lounge at the Setai (South Beach) — $$
+- [ ] The Bar at Four Seasons Surf Club (Surfside) — $$
+- [ ] Champagne Bar at the Surf Club (Surfside) — Resy · Amex ✓ · $$
+- [ ] Le Sirenuse Champagne Bar (Surfside) — $$
+- [ ] Rec Room (Gale Hotel, South Beach; the basement) — Resy · Amex ✓ · $$
+- [ ] Do Not Sit On The Furniture (South Beach) — Resy · Amex ✓ · $$
+- [ ] The Bar at Casa Florida (Little River) — $$
+- [ ] Gramps Getaway (Coconut Grove; boat bar) — $$
+- [ ] Kill Your Idol (South Beach) — Resy · Amex ✓ · $$
+- [ ] The Sylvester (Wynwood; dive) — Resy · Amex ✓ · $$
+- [ ] Bar Rita (Wynwood; tequila) — Resy · Amex ✓ · $$
+- [ ] Sweet Caroline (Brickell; karaoke) — Resy · Amex ✓ · $$
+- [ ] El Patio Wynwood — Resy · Amex ✓ · $$
+- [ ] Bar Centro (Casa Tua Cucina, Brickell) — $$
+
+---
+
+## Rooftop bars (50)
+
+- [ ] Sugar (EAST Miami, Brickell; 40th floor) — Resy · Amex ✓ · $$$
+- [ ] Rosa Sky (Downtown; 20th floor) — Resy · Amex ✓ · $$$
+- [ ] The Elser rooftop (Downtown) — $$$
+- [ ] Astra (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] No. 3 Social (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] Juvia (South Beach; penthouse) — Resy · Amex ✓ · $$$$
+- [ ] Watr at the 1 Rooftop (1 Hotel South Beach) — Resy · Amex ✓ · $$$
+- [ ] Area 31 (Kimpton Epic, Downtown) — Resy · Amex ✓ · $$$
+- [ ] Serena Rooftop (Moxy South Beach) — Resy · Amex ✓ · $$$
+- [ ] The Rooftop at Hotel Greystone (South Beach) — $$$
+- [ ] Lona (Hyatt Regency Downtown; Mexican rooftop) — Resy · Amex ✓ · $$$
+- [ ] Amara at Paraiso (Edgewater; the bay) — Resy · Amex ✓ · $$$
+- [ ] Kiki on the River (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Seaspice (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Casa Florida (Little River; the backyard) — Resy · Amex ✓ · $$$
+- [ ] Lagniappe backyard (Midtown) — $$$
+- [ ] Fontainebleau's La Côte? — CLOSED; use Fontainebleau pool bar (Mid-Beach)
+- [ ] Broken Shaker pool (Freehand, Mid-Beach) — $$$
+- [ ] The Standard Spa's Lido Bayside Grill (Belle Isle) — $$$
+- [ ] Soho Beach House? — members; use Sunny's Steakhouse (Little River; outdoor) · $$$
+- [ ] Sunny's (Little River; the garden) — Resy · Amex ✓ · $$$
+- [ ] Nikki Beach (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Bâoli Miami garden (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Monty's Sunset (Sunset Harbour; on the water) — Resy · Amex ✓ · $$$
+- [ ] Monty's Raw Bar (Coconut Grove) — Resy · Amex ✓ · $$$
+- [ ] Lulu in the Grove (Coconut Grove) — Resy · Amex ✓ · $$$
+- [ ] Glass & Vine (Coconut Grove; the park) — Resy · Amex ✓ · $$$
+- [ ] Mr. Mandolin (Design District; rooftop) — Resy · Amex ✓ · $$$
+- [ ] Swan's rooftop (Bar Bevy) — $$$
+- [ ] Bar Bevy (Design District; above Swan) — Resy · Amex ✓ · $$$
+- [ ] Cantina La Veinte's terrace (Brickell) — $$$
+- [ ] La Mar by Gastón Acurio (Mandarin Oriental, Brickell Key; the terrace) — Resy · Amex ✓ · $$$
+- [ ] Cipriani's terrace (Brickell) — $$$
+- [ ] Klaw (Edgewater; rooftop bar) — Resy · Amex ✓ · $$$$
+- [ ] Vista (Edgewater) — ? · $$$
+- [ ] The Deck at Island Gardens (Watson Island) — $$$
+- [ ] Rusty Pelican (Key Biscayne; the skyline) — Resy · Amex ✓ · $$$
+- [ ] Garcia's Seafood (Miami River; the dock) — $$$
+- [ ] Casablanca on the Bay (Miami River) — $$$
+- [ ] Shuckers (North Bay Village; on the bay) — Resy · Amex ✓ · $$
+- [ ] Baia Beach Club (Mondrian, South Beach) — Resy · Amex ✓ · $$$
+- [ ] Strawberry Moon (Goodtime Hotel, South Beach; the pool) — Resy · Amex ✓ · $$$
+- [ ] Higher Ground (Arlo Wynwood; rooftop) — Resy · Amex ✓ · $$$
+- [ ] Terras (Life House, Little Havana) — Resy · Amex ✓ · $$$
+- [ ] Deck Sixteen (Kimpton Palomar, South Beach) — Resy · Amex ✓ · $$$
+- [ ] Level 25 (Conrad, Brickell) — Resy · Amex ✓ · $$$
+- [ ] LT Steak's rooftop (The Betsy, South Beach) — $$$
+- [ ] Blue Ribbon Sushi rooftop (The Plymouth, South Beach) — $$$
+- [ ] Sky Yard (Dream South Beach) — Resy · Amex ✓ · $$$
+- [ ] Casa Neos (Miami River; rooftop) — NEW · Resy · Amex ✓ · $$$
+
+---
+
+## Bars — notable mentions (100)
+
+**Ranked & recognized**
+- [ ] Café La Trova (Little Havana) — NA50 #42 · Resy · Amex ✓ · $$$
+- [ ] ViceVersa (Downtown) — NA50 #46 · Resy · Amex ✓ · $$$
+- [ ] Bar Kaiju (Little River) — NA50 #70 · Resy · Amex ✓ · $$$
+- [ ] Sweet Liberty (South Beach) — NT50 · Resy · Amex ✓ · $$
+- [ ] Dante's HiFi (Wynwood) — NT50 · Resy · Amex ✓ · $$$
+- [ ] Medium Cool (South Beach; Naren Young) — NT50 · NEW · Resy · Amex ✓ · $$$
+- [ ] Foxhole (Little River) — NT50 · Resy · Amex ✓ · $$
+
+**Cocktail institutions**
+- [ ] Broken Shaker (Mid-Beach) — Resy · Amex ✓ · $$
+- [ ] The Anderson (Upper East Side) — Resy · Amex ✓ · $$
+- [ ] Lost Boy Dry Goods (Downtown) — Resy · Amex ✓ · $$
+- [ ] Mama Tried (Downtown) — Resy · Amex ✓ · $$
+- [ ] Better Days (Downtown) — Resy · Amex ✓ · $$
+- [ ] Jaguar Sun (Downtown) — Resy · Amex ✓ · $$
+- [ ] Margot (Downtown) — Resy · Amex ✓ · $$
+- [ ] Over Under (Downtown) — Resy · Amex ✓ · $$
+- [ ] Bar Bastille (Downtown) — Resy · Amex ✓ · $$
+- [ ] The Corner (Downtown) — Resy · Amex ✓ · $
+- [ ] Blackbird Ordinary (Brickell) — Resy · Amex ✓ · $$
+- [ ] Esotico (A&E District; tiki) — Resy · Amex ✓ · $$
+- [ ] Gramps (Wynwood) — Resy · Amex ✓ · $
+- [ ] Kush (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Wynwood's Boxelder (craft beer) — $$
+- [ ] Lagniappe (Midtown) — Resy · Amex ✓ · $$
+- [ ] Tropezón (South Beach) — Resy · Amex ✓ · $$
+- [ ] Bodega back bar (South Beach) — $$
+- [ ] Do Not Sit On The Furniture (South Beach) — Resy · Amex ✓ · $$
+- [ ] Rec Room (South Beach) — Resy · Amex ✓ · $$
+- [ ] Mac's Club Deuce (South Beach) — Walk-in · $
+- [ ] Ball & Chain (Little Havana) — Resy · Amex ✓ · $$
+- [ ] Bar Nancy (Little Havana) — Resy · Amex ✓ · $
+- [ ] Hoy Como Ayer (Little Havana) — Resy · Amex ✓ · $$
+- [ ] Casa Florida (Little River) — Resy · Amex ✓ · $$
+- [ ] Le Chick (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Sylvano (Coconut Grove) — ? · $$
+- [ ] Taurus (Coconut Grove; oldest bar in the Grove) — Resy · Amex ✓ · $
+- [ ] Barracuda Taphouse (Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Bar Bevy (Design District) — Resy · Amex ✓ · $$
+- [ ] Kiki on the River bar — $$
+- [ ] Sexy Fish bar (Brickell) — $$
+- [ ] Gekko bar (Brickell) — $$
+- [ ] Papi Steak bar (South Beach) — $$
+- [ ] Bâoli bar (South Beach) — $$
+
+**Hotel & classic bars**
+- [ ] Champagne Bar at the Surf Club (Surfside) — Resy · Amex ✓ · $$
+- [ ] Le Sirenuse (Surfside) — Resy · Amex ✓ · $$$$
+- [ ] The Bar at the Setai (South Beach) — Resy · Amex ✓ · $$
+- [ ] Bar at the Faena (Mid-Beach; the Living Room) — $$
+- [ ] Bleau Bar (Fontainebleau) — Resy · Amex ✓ · $$
+- [ ] Lido Bayside (The Standard) — Resy · Amex ✓ · $$
+- [ ] Sugar (EAST) — Resy · Amex ✓ · $$$
+- [ ] Rosa Sky (Downtown) — Resy · Amex ✓ · $$$
+- [ ] The Elser rooftop — $$
+- [ ] Esmé Hotel's bars (South Beach) — $$
+- [ ] Goodtime Hotel's Strawberry Moon (South Beach) — $$
+- [ ] Freehand's Broken Shaker — $$
+- [ ] Lightkeepers (Ritz-Carlton Key Biscayne) — Resy · Amex ✓ · $$$
+- [ ] La Mar terrace (Mandarin Oriental) — $$
+- [ ] Nautilus Sonesta's bar (South Beach) — $$
+
+**Historic / dive / neighborhood**
+- [ ] Mac's Club Deuce (South Beach; 1926) — Walk-in · $
+- [ ] Ted's Hideaway (South Beach) — Walk-in · $
+- [ ] Taurus (Coconut Grove) — Resy · Amex ✓ · $
+- [ ] Churchill's Pub (Little Haiti; punk since 1979) — Walk-in · $
+- [ ] Las Rosas (Allapattah) — Walk-in · $
+- [ ] Gramps (Wynwood) — Resy · Amex ✓ · $
+- [ ] The Corner (Downtown) — Resy · Amex ✓ · $
+- [ ] Bar Nancy (Little Havana) — Resy · Amex ✓ · $
+- [ ] Sandbar Lounge (Miami Beach; North Beach) — Walk-in · $$
+- [ ] Fox's Lounge (South Miami; reborn) — Walk-in · $$
+- [ ] Union Beer Store (Little Havana) — Walk-in · $$
+- [ ] Boxelder (Wynwood) — Resy · Amex ✓ · $$
+- [ ] J. Wakefield Brewing (Wynwood) — Walk-in · $$
+- [ ] Veza Sur (Wynwood) — Walk-in · $$
+- [ ] Wynwood Brewing — Walk-in · $$
+- [ ] Tripping Animals (Doral) — Walk-in · $$
+- [ ] Unbranded Brewing (Hialeah) — Walk-in · $$
+- [ ] The Tank (Little River) — Walk-in · $$
+- [ ] Lincoln's Beard (Bird Road) — Walk-in · $$
+- [ ] M.I.A. Beer Company (Doral) — Walk-in · $$
+
+**Wine bars**
+- [ ] Margot (Downtown) — Resy · Amex ✓ · $$
+- [ ] Lagniappe (Midtown) — Resy · Amex ✓ · $$
+- [ ] Macchialina (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Sardinia (Sunset Harbour) — $$
+- [ ] La Natural (Little River) — BIB · Resy · Amex ✓ · $$
+- [ ] Vinya Wine (Coral Gables) — Walk-in · $$
+- [ ] Cotoa (Little River) — BIB · Resy · Amex ✓ · $$
+- [ ] To Be Determined (Little River) — BIB · Resy · Amex ✓ · $$
+- [ ] Boia De's bar (Little Haiti) — $$
+- [ ] Bar Alter — CLOSED
+- [ ] Tinta y Café (Coral Gables) — Resy · Amex ✓ · $
+- [ ] Erba (Coral Gables) — Resy · Amex ✓ · $$$
+
+**Rooftop / view bars that double as great bars**
+- [ ] Sugar (EAST) — Resy · Amex ✓ · $$$
+- [ ] Astra (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] No. 3 Social (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Watr (1 Hotel) — $$
+- [ ] Rosa Sky — Resy · Amex ✓ · $$$
+- [ ] The Sylvester (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Bar Rita (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Sweet Caroline (Brickell) — Resy · Amex ✓ · $$
+- [ ] El Patio Wynwood — Resy · Amex ✓ · $$
+- [ ] Bar One (Brickell) — Resy · Amex ✓ · $$
+- [ ] Batch Gastropub (Brickell) — Resy · Amex ✓ · $$
+
+---
+
+## Coffee shops (50)
+
+- [ ] Panther Coffee (Wynwood / multiple; the Miami roaster) — Walk-in · $
+- [ ] All Day (Downtown) — Resy · Amex ✓ · $
+- [ ] Vice City Bean (Edgewater) — Walk-in · $
+- [ ] Imperial Moto (Little River; motorcycles) — Walk-in · $
+- [ ] Pasión del Cielo (Coral Gables / multiple) — Walk-in · $
+- [ ] Eternity Coffee Roasters (Downtown) — Walk-in · $
+- [ ] Threefold Café (Coral Gables / Sunset Harbour) — Resy · Amex ✓ · $
+- [ ] Zak the Baker (Wynwood) — Resy · Amex ✓ · $
+- [ ] Rosetta Bakery (multiple) — Resy · Amex ✓ · $
+- [ ] True Loaf (Sunset Harbour) — Resy · Amex ✓ · $
+- [ ] Madruga Bakery (South Miami) — Resy · Amex ✓ · $
+- [ ] Bachour (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Versailles ventanita (Little Havana; the cafecito window) — Walk-in · $
+- [ ] La Carreta ventanita (multiple) — Walk-in · $
+- [ ] Los Pinareños Frutería (Little Havana) — Walk-in · $
+- [ ] Cuban Coffee Queen? — Key West; use Café Demetrio (Coral Gables) · $
+- [ ] Cindy Lou's Cookies (Little River) — Walk-in · $
+- [ ] The Salty Donut (Wynwood / multiple) — Walk-in · $
+- [ ] Chug's Diner (Coconut Grove) — BIB · Resy · Amex ✓ · $$
+- [ ] Greenstreet Cafe (Coconut Grove) — Resy · Amex ✓ · $
+- [ ] Crumb on Parchment (Design District) — Walk-in · $
+- [ ] OTL (Design District) — Walk-in · $
+- [ ] Dr. Smood (multiple) — Walk-in · $
+- [ ] Pura Vida (multiple) — Walk-in · $
+- [ ] Bebito's Café (South Beach; Cuban) — Walk-in · $
+- [ ] Enriqueta's (Edgewater; Cuban) — Walk-in · $
+- [ ] Luis Galindo's Latin American (Little Havana) — Walk-in · $
+- [ ] Islas Canarias (Westchester; croquetas) — Walk-in · $
+- [ ] Tinta y Café (Coral Gables) — BIB · Resy · Amex ✓ · $
+- [ ] Café Curuba (Little Havana) — Walk-in · $
+- [ ] Books & Books Café (Coral Gables) — Walk-in · $
+- [ ] Karla Bakery (multiple; pastelitos) — Walk-in · $
+- [ ] Manolo? — Costa Rica; use Chocolate Fashion (Coral Gables) · $
+- [ ] Sant Ambroeus (South Beach; espresso) — Resy · Amex ✓ · $
+- [ ] Café Bustelo Café? — $
+- [ ] Blue Bottle Miami (Design District) — NEW · Walk-in · $
+- [ ] Nuvo? — $
+- [ ] Doce Provisions (Little Havana) — Walk-in · $$
+- [ ] La Ventana (Little Havana; the window) — Walk-in · $
+- [ ] Fireman Derek's (Wynwood / Coconut Grove; pie) — Walk-in · $
+- [ ] Night Owl Cookies (Wynwood / multiple) — Walk-in · $
+- [ ] Café Demetrio (Coral Gables) — Walk-in · $
+- [ ] Alaska Coffee Roasting (North Miami) — Walk-in · $
+- [ ] Latin Cafe 2000 (Brickell) — Walk-in · $
+- [ ] Pinecrest Bakery (multiple; 24 hours) — Walk-in · $
+- [ ] Buena Vista Deli (Buena Vista) — Walk-in · $
+- [ ] El Exquisito (Little Havana) — Walk-in · $
+- [ ] Miam Café (Wynwood) — Walk-in · $
+- [ ] Small Tea (Coral Gables) — Walk-in · $
+- [ ] Books & Books Café (Coral Gables) — Walk-in · $
+- [ ] Coral Bagels (Coral Gables) — Walk-in · $
+
+---
+
+## Restaurants (110+)
+
+### Michelin ★★
+- [ ] L'Atelier de Joël Robuchon (Design District) — ★★ · Tock · Amex ✓ · $$$$
+
+### Michelin ★
+- [ ] Le Jardinier (Design District; Alain Verzeroli) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Stubborn Seed (South Beach; Jeremy Ford) — ★ · GS · Resy · Amex ✓ · $$$$
+- [ ] Cote Miami (Design District; Korean steakhouse) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Boia De (Little Haiti) — ★ · Resy · Amex ✓ · $$$
+- [ ] Ariete (Coconut Grove; Michael Beltran) — ★ · Resy · Amex ✓ · $$$
+- [ ] Elcielo Miami (Brickell; Colombian) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Hiden (Wynwood; omakase behind a door) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Los Félix (Coconut Grove; Mexican masa) — ★ · GS · Resy · Amex ✓ · $$$
+- [ ] Ogawa (Little River; omakase) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Shingo (Coral Gables; omakase) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Tambourine Room by Tristan Brandt (Carillon, Mid-Beach) — ★ · Tock · Amex ✓ · $$$$
+- [ ] The Surf Club Restaurant (Four Seasons Surfside; Thomas Keller) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Mutra (North Miami; kosher, Raz Shabtai) — ★ · NEW 2026 star · Resy · Amex ✓ · $$$$
+- [ ] Itamae AO (Midtown; Nando Chang) — ★ in 2025 · ? · Resy · Amex ✓ · $$$$
+- [ ] EntreNos (Miami Shores) — GS · Resy · Amex ✓ · $$$$
+- [ ] Krüs Kitchen (Coconut Grove) — GS · Resy · Amex ✓ · $$$
+
+### Bib Gourmand (2026)
+- [ ] Tâm Tâm (Downtown) — BIB · Michelin Young Chef 2024 · Resy · Amex ✓ · $$
+- [ ] Bachour (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Chug's Diner (Coconut Grove) — BIB · Resy · Amex ✓ · $$
+- [ ] El Turco (Upper East Side) — BIB · Resy · Amex ✓ · $$
+- [ ] Ghee Indian Kitchen (multiple) — BIB · Resy · Amex ✓ · $$
+- [ ] Hometown Barbecue Miami (Allapattah) — BIB · Resy · Amex ✓ · $$
+- [ ] La Natural (Little River) — BIB · Resy · Amex ✓ · $$
+- [ ] Lucali (Sunset Harbour) — BIB · Resy · Amex ✓ · $$
+- [ ] Mandolin Aegean Bistro (Buena Vista) — BIB · Resy · Amex ✓ · $$$
+- [ ] Michael's Genuine (Design District) — BIB · Resy · Amex ✓ · $$$
+- [ ] Phuc Yea (Upper East Side) — BIB · Resy · Amex ✓ · $$
+- [ ] Sanguich de Miami (Little Havana) — BIB · Resy · Amex ✓ · $
+- [ ] Tinta y Café (Coral Gables) — BIB · Resy · Amex ✓ · $
+- [ ] Zitz Sum (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Barra Callao (Peruvian) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Cotoa (Little River) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] Double Luck (Chinese) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+- [ ] To Be Determined (Little River) — BIB · NEW 2026 · Resy · Amex ✓ · $$
+
+### The new guard & Michelin recommended
+- [ ] Pastis Miami (Wynwood) — NEW · Resy · Amex ✓ · $$$
+- [ ] Sadelle's (Coconut Grove) — NEW · Resy · Amex ✓ · $$$
+- [ ] Carbone Miami (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Contessa Miami (Design District) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Casadonna (Edgewater; Groot + Tao) — Resy · Amex ✓ · $$$$
+- [ ] Sereia (Coconut Grove) — NEW · Resy · Amex ✓ · $$$
+- [ ] Erba (Coral Gables) — NEW · Resy · Amex ✓ · $$$
+- [ ] Mano Libera — NEW (Michelin recommended 2026) · Resy · Amex ✓ · $$
+- [ ] Bistro Ocho Miami — NEW (Michelin recommended 2026) · Resy · Amex ✓ · $$
+- [ ] Elyu Omakase — NEW (Michelin recommended 2026) · Resy · Amex ✓ · $$
+- [ ] Palma (Bay Harbor; Michelin Young Chef 2025) — Resy · Amex ✓ · $$$
+- [ ] Macchialina (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Jaguar Sun (Downtown) — Resy · Amex ✓ · $$
+- [ ] Niu Kitchen (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Kaido (Design District) — Resy · Amex ✓ · $$$
+- [ ] Sunny's Steakhouse (Little River) — Resy · Amex ✓ · $$$$
+- [ ] Klaw (Edgewater; king crab) — Resy · Amex ✓ · $$$$
+- [ ] Amara at Paraiso (Edgewater; Michael Schwartz) — Resy · Amex ✓ · $$$
+- [ ] Fiola Miami (Coral Gables) — Resy · Amex ✓ · $$$$
+- [ ] Zuma (Downtown; the river) — Resy · Amex ✓ · $$$$
+- [ ] Uchi Miami (Wynwood) — Resy · Amex ✓ · $$$$
+- [ ] Naoe (Brickell Key; omakase, since 2009) — Tock · Amex ✓ · $$$$
+- [ ] Makoto (Bal Harbour) — Resy · Amex ✓ · $$$$
+- [ ] Nobu Miami (Eden Roc) — Resy · Amex ✓ · $$$$
+- [ ] Hakkasan (Fontainebleau) — Resy · Amex ✓ · $$$$
+- [ ] Papi Steak (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Gekko (Brickell; Bad Bunny's) — Resy · Amex ✓ · $$$$
+- [ ] Sexy Fish (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Komodo (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Swan (Design District) — Resy · Amex ✓ · $$$
+- [ ] Kiki on the River (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Seaspice (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Garcia's Seafood Grille & Fish Market (Miami River) — OpenTable · $$
+- [ ] Casablanca (Miami River) — OpenTable · $$
+- [ ] La Mar by Gastón Acurio (Brickell Key) — Resy · Amex ✓ · $$$
+- [ ] Cantina La Veinte (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Cvi.che 105 (Downtown / multiple) — Resy · Amex ✓ · $$
+- [ ] Pisco y Nazca (Doral) — Resy · Amex ✓ · $$
+- [ ] Mister O1 Extraordinary Pizza (multiple) — Resy · Amex ✓ · $$
+- [ ] Chef Adrianne's Vineyard Restaurant (Kendall) — Resy · Amex ✓ · $$
+- [ ] Bakan (Wynwood; mezcal + Mexican) — Resy · Amex ✓ · $$$
+- [ ] Los Fuegos by Francis Mallmann (Faena) — Resy · Amex ✓ · $$$$
+- [ ] Pao by Paul Qui (Faena) — Resy · Amex ✓ · $$$$
+- [ ] Boulud Sud (Downtown) — Resy · Amex ✓ · $$
+- [ ] Estiatorio Milos (South of Fifth) — Resy · Amex ✓ · $$$$
+- [ ] Joe's Stone Crab (South of Fifth; since 1913; season Oct–May) — Resy · Amex ✓ · $$$$
+- [ ] Prime 112 (South of Fifth) — Resy · Amex ✓ · $$$$
+- [ ] Casa Tua (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] The Forge (Mid-Beach) — Resy · Amex ✓ · $$$$
+- [ ] Byblos (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Motek (multiple; Israeli) — Resy · Amex ✓ · $$
+- [ ] Mila (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Juvia (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Yardbird (South Beach; fried chicken) — Resy · Amex ✓ · $$
+- [ ] Versailles (Little Havana; since 1971) — OpenTable · $$
+- [ ] La Carreta (multiple) — OpenTable · $
+- [ ] El Palacio de los Jugos (multiple) — Walk-in · $
+- [ ] Islas Canarias (Westchester) — Walk-in · $
+- [ ] Doce Provisions (Little Havana) — Walk-in · $$
+- [ ] Old's Havana (Little Havana) — OpenTable · $$
+- [ ] Bebito's (South Beach) — Walk-in · $
+- [ ] Enriqueta's (Edgewater) — Walk-in · $
+- [ ] Puerto Sagua (South Beach; since 1962) — OpenTable · $
+- [ ] La Sandwicherie (South Beach) — Walk-in · $
+- [ ] Big Pink (South of Fifth; the diner) — Resy · Amex ✓ · $$
+- [ ] Front Porch Café (South Beach) — Resy · Amex ✓ · $$
+- [ ] News Café — CLOSED
+- [ ] Chef Creole (Little Haiti) — Walk-in · $
+- [ ] Clive's Cafe (Little Haiti; Jamaican) — Walk-in · $
+- [ ] Naomi's Garden (Little Haiti; Haitian) — Walk-in · $
+- [ ] Blue Collar (Upper East Side) — Resy · Amex ✓ · $$
+- [ ] Mignonette (Edgewater) — Resy · Amex ✓ · $$
+- [ ] Crab House? — CLOSED; use Captain Jim's Seafood (North Miami)
+- [ ] Rusty Pelican (Key Biscayne) — Resy · Amex ✓ · $$$
+- [ ] Lightkeepers (Key Biscayne) — Resy · Amex ✓ · $$$
+- [ ] Shuckers (North Bay Village) — Resy · Amex ✓ · $$
+- [ ] Monty's (Coconut Grove / Sunset Harbour) — $$
+- [ ] Glass & Vine (Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Lulu (Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Greenstreet Cafe (Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Coyo Taco (multiple) — Resy · Amex ✓ · $
+- [ ] Taquiza (South Beach / North Beach) — Resy · Amex ✓ · $
+- [ ] Osaka Nikkei (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Nusr-Et Miami (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Toscana Divino (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Cipriani Downtown Miami (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Il Gabbiano (Downtown) — Resy · Amex ✓ · $$$$
+- [ ] Novecento (Brickell) — Resy · Amex ✓ · $$
+- [ ] Zak the Baker (Wynwood) — Resy · Amex ✓ · $$
+- [ ] KYU (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] Alter — CLOSED
+- [ ] Beaker & Gray — CLOSED
+- [ ] 1-800-Lucky (Wynwood; Asian food hall) — Walk-in · $$
+- [ ] Wynwood Marketplace — Walk-in · $$
+- [ ] Time Out Market Miami (South Beach) — Walk-in · $$
+- [ ] The Citadel (Little River; food hall) — Walk-in · $$
+- [ ] Lincoln Eatery? — CLOSED
+- [ ] Rosie's (Upper East Side; brunch + Southern) — Resy · Amex ✓ · $$
+- [ ] Le Chick (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Kojin? — CLOSED
+- [ ] Sushi Garage (Sunset Harbour) — Resy · Amex ✓ · $$
+- [ ] Azabu (South Beach; omakase behind the door) — Tock · Amex ✓ · $$$$
+- [ ] Wabi Sabi by Shuji (Upper East Side) — Resy · Amex ✓ · $$$
+- [ ] Mr. Mandolin (Design District) — Resy · Amex ✓ · $$
+- [ ] Harry's Pizzeria (Design District / Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Stanzione 87 (South Beach; pizza) — Resy · Amex ✓ · $$
+- [ ] La Leggenda (South Beach; pizza) — Resy · Amex ✓ · $$
+- [ ] Ironside Pizza (Little River) — Resy · Amex ✓ · $$
+- [ ] Miami Slice (Wynwood) — $$
+
+---
+
+## Brunch spots (50)
+
+- [ ] Versailles (Little Havana; Sunday Cuban breakfast) — OpenTable · $$
+- [ ] Sadelle's (Coconut Grove) — NEW · Resy · Amex ✓ · $$$
+- [ ] Pastis Miami (Wynwood) — NEW · Resy · Amex ✓ · $$$
+- [ ] Zak the Baker (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Threefold Café (Coral Gables / Sunset Harbour) — Resy · Amex ✓ · $$
+- [ ] All Day (Downtown) — Resy · Amex ✓ · $$
+- [ ] Chug's Diner (Coconut Grove) — BIB · Resy · Amex ✓ · $$
+- [ ] Greenstreet Cafe (Coconut Grove) — Resy · Amex ✓ · $$
+- [ ] Big Pink (South of Fifth) — Resy · Amex ✓ · $$
+- [ ] Front Porch Café (South Beach) — Resy · Amex ✓ · $$
+- [ ] Bagel Emporium (Coral Gables) — Resy · Amex ✓ · $$
+- [ ] Rosie's (Upper East Side) — Resy · Amex ✓ · $$
+- [ ] Blue Collar (Upper East Side) — Resy · Amex ✓ · $$
+- [ ] Phuc Yea brunch (Upper East Side) — BIB · $$
+- [ ] Mandolin brunch (Buena Vista) — BIB · $$
+- [ ] Michael's Genuine brunch (Design District) — BIB · $$
+- [ ] Sweet Liberty brunch (South Beach) — $$
+- [ ] Ariete brunch (Coconut Grove) — ★ · $$$
+- [ ] Krüs Kitchen (Coconut Grove) — GS · Resy · Amex ✓ · $$$
+- [ ] Mila brunch (South Beach) — $$
+- [ ] Casa Tua brunch (South Beach) — $$
+- [ ] Byblos brunch (South Beach) — $$
+- [ ] Motek (multiple) — Resy · Amex ✓ · $$
+- [ ] Bebito's (South Beach) — Walk-in · $
+- [ ] Puerto Sagua (South Beach) — OpenTable · $
+- [ ] Enriqueta's (Edgewater) — Walk-in · $
+- [ ] La Sandwicherie (South Beach) — Walk-in · $
+- [ ] Rosetta Bakery (multiple) — Resy · Amex ✓ · $$
+- [ ] True Loaf (Sunset Harbour) — Resy · Amex ✓ · $$
+- [ ] Madruga Bakery (South Miami) — Resy · Amex ✓ · $$
+- [ ] Bachour (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Tinta y Café (Coral Gables) — BIB · Resy · Amex ✓ · $
+- [ ] Ghee brunch (Dadeland) — BIB · $$
+- [ ] Kush (Wynwood) — Resy · Amex ✓ · $$
+- [ ] Coyo Taco (Wynwood) — Resy · Amex ✓ · $
+- [ ] Panther Coffee (Wynwood) — Walk-in · $$
+- [ ] The Salty Donut (Wynwood) — Walk-in · $$
+- [ ] Nikki Beach Sunday brunch (South Beach) — $$
+- [ ] The Setai Sunday brunch (South Beach) — $$
+- [ ] Kiki on the River Sunday (Miami River) — $$
+- [ ] Seaspice Sunday (Miami River) — $$
+- [ ] Sexy Fish brunch (Brickell) — $$
+- [ ] Komodo brunch (Brickell) — $$
+- [ ] Cantina La Veinte brunch (Brickell) — $$
+- [ ] Cipriani brunch (Brickell) — $$
+- [ ] Jaguar Sun brunch — $$
+- [ ] Rusty Pelican brunch (Key Biscayne) — $$
+- [ ] Lightkeepers brunch (Key Biscayne) — $$
+- [ ] Lulu brunch (Coconut Grove) — $$
+- [ ] Glass & Vine brunch (Coconut Grove) — $$
+- [ ] Monty's (Coconut Grove) — $$
+- [ ] Shuckers (North Bay Village) — Resy · Amex ✓ · $$
+- [ ] Casa Florida brunch (Little River) — $$
+
+---
+
+## Off-beat & only-in-Miami (50)
+
+- [ ] Versailles ventanita (Little Havana; cafecito at 3:05) — Walk-in · $
+- [ ] El Palacio de los Jugos (Flagler; the original) — Walk-in · $
+- [ ] Los Pinareños Frutería (Little Havana) — Walk-in · $
+- [ ] Sanguich de Miami (Little Havana) — BIB · Resy · Amex ✓ · $
+- [ ] Old's Havana (Little Havana) — OpenTable · $$
+- [ ] Ball & Chain (Little Havana) — Resy · Amex ✓ · $$
+- [ ] Domino Park (Little Havana; watch, don't play) — Walk-in · $
+- [ ] Azucar Ice Cream (Little Havana; Abuela Maria) — Walk-in · $
+- [ ] La Carreta 24-hour window (multiple) — $
+- [ ] Islas Canarias (Westchester; the croqueta) — Walk-in · $
+- [ ] Vicky Bakery (multiple; pastelitos) — Walk-in · $
+- [ ] Karla Bakery (multiple) — Walk-in · $
+- [ ] Sergio's (multiple; the Cuban diner) — Walk-in · $
+- [ ] Luis Galindo's Latin American (Little Havana) — Walk-in · $
+- [ ] Chef Creole (Little Haiti) — Walk-in · $
+- [ ] Naomi's Garden (Little Haiti) — Walk-in · $
+- [ ] Clive's Cafe (Little Haiti) — Walk-in · $
+- [ ] Little Haiti Cultural Complex's Big Night (monthly) — $
+- [ ] Joe's Take Away (South of Fifth; the line-free counter) — Walk-in · $$$
+- [ ] Garcia's (Miami River; from the boats) — $
+- [ ] Casablanca fish market (Miami River) — $
+- [ ] Captain Jim's (North Miami) — $
+- [ ] Shuckers (North Bay Village) — Resy · Amex ✓ · $$
+- [ ] Alabama Jack's (Card Sound Road; the drive to the Keys) — Walk-in · $$
+- [ ] Robert Is Here (Homestead; fruit stand + milkshakes) — Walk-in · $
+- [ ] Knaus Berry Farm (Homestead; cinnamon rolls, Nov–Apr) — Walk-in · $
+- [ ] Redland Fruit & Spice Park (Homestead) — Walk-in · $
+- [ ] Schnebly Redland's Winery (Homestead) — Walk-in · $
+- [ ] La Camaronera (Flagler; fried shrimp counter) — Walk-in · $
+- [ ] El Rey de las Fritas (Little Havana; the frita) — Walk-in · $
+- [ ] El Mago de las Fritas (West Miami) — Walk-in · $
+- [ ] Enriqueta's (Edgewater) — Walk-in · $
+- [ ] Puerto Sagua (South Beach) — OpenTable · $
+- [ ] La Sandwicherie (South Beach; 3am) — Walk-in · $
+- [ ] Mac's Club Deuce (South Beach) — Walk-in · $
+- [ ] Mango's Tropical Café (South Beach; the spectacle) — SevenRooms · $$
+- [ ] Wynwood Walls (the murals, then Panther) — $
+- [ ] 1-800-Lucky (Wynwood) — Walk-in · $
+- [ ] The Citadel (Little River) — Walk-in · $
+- [ ] Hometown BBQ Miami (Allapattah) — BIB · $$
+- [ ] Bar Kaiju (Little River) — NA50 #70 · Resy · Amex ✓ · $$$
+- [ ] Hiden (Wynwood; through the door) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Azabu (South Beach; the back room) — Tock · Amex ✓ · $$$$
+- [ ] Bodega's porta-potty door (South Beach) — $
+- [ ] Churchill's Pub (Little Haiti) — Walk-in · $
+- [ ] Las Rosas (Allapattah) — Walk-in · $
+- [ ] Yambo (Little Havana; Nicaraguan, 24h) — Walk-in · $
+- [ ] El Cristo? — ?; use Doce Provisions (Little Havana) · $
+- [ ] Yambo (Little Havana; Nicaraguan, 24 hours) — Walk-in · $
+- [ ] Shorty's BBQ (South Miami; since 1951) — Walk-in · $
+- [ ] El Toro Taco (Homestead) — Walk-in · $
+
+---
+
+## Bakeries (50)
+
+- [ ] Zak the Baker (Wynwood) — Resy · Amex ✓ · $
+- [ ] Bachour (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Rosetta Bakery (multiple) — Resy · Amex ✓ · $
+- [ ] True Loaf (Sunset Harbour) — Resy · Amex ✓ · $
+- [ ] Madruga Bakery (South Miami) — Resy · Amex ✓ · $
+- [ ] La Provence (Brickell / multiple; French) — Walk-in · $
+- [ ] Crumb on Parchment (Design District) — Walk-in · $
+- [ ] Vicky Bakery (multiple) — Walk-in · $
+- [ ] Karla Bakery (multiple) — Walk-in · $
+- [ ] Porto's? — no Miami; use Islas Canarias (croquetas) · $
+- [ ] Gilbert's Bakery (multiple; Cuban) — Walk-in · $
+- [ ] The Salty Donut (Wynwood / multiple) — Walk-in · $
+- [ ] Mojo Donuts (Pembroke Pines) — ? · $
+- [ ] Night Owl Cookies (multiple) — Walk-in · $
+- [ ] Cindy Lou's Cookies (Little River) — Walk-in · $
+- [ ] Fireman Derek's (pie) — Walk-in · $
+- [ ] Bagel Emporium (Coral Gables) — Resy · Amex ✓ · $
+- [ ] Sadelle's (Coconut Grove; bagels) — NEW · Resy · Amex ✓ · $$$
+- [ ] Toasted Bagelry (Brickell / multiple) — Walk-in · $
+- [ ] Bagel Bar East (North Miami Beach) — Walk-in · $
+- [ ] Sant Ambroeus (South Beach; pastries) — Resy · Amex ✓ · $
+- [ ] Chocolate Fashion (Coral Gables) — Walk-in · $
+- [ ] Bunnie Cakes (Wynwood; vegan) — Walk-in · $
+- [ ] Le Macaron (multiple) — Walk-in · $
+- [ ] Ladurée Miami (Design District) — Walk-in · $
+- [ ] Paris Baguette (multiple) — Walk-in · $
+- [ ] Tous les Jours (Doral) — Walk-in · $
+- [ ] Taquiza's tortillas (blue corn) — $
+- [ ] Los Félix's masa (Coconut Grove) — $
+- [ ] B Bistro + Bakery (Brickell) — Walk-in · $
+- [ ] Sullivan Street Bakery Miami (Wynwood) — ? · $
+- [ ] La Bagel? — $
+- [ ] A La Folie (South Beach; crêpes) — Walk-in · $
+- [ ] Little Bread (Little River) — NEW · Walk-in · $
+- [ ] Charlotte Bakery (Key Biscayne; Argentine) — Walk-in · $
+- [ ] Manolo (Miami Beach; churros) — Walk-in · $
+- [ ] La Boulangerie Boul'Mich (Coral Gables / Brickell) — Walk-in · $
+- [ ] Misha's Cupcakes (multiple) — Walk-in · $
+- [ ] Icebox Café (South Beach; cakes) — Walk-in · $
+- [ ] Divine Delicacies (cakes) — Walk-in · $
+- [ ] Pinecrest Bakery (multiple; 24 hours) — Walk-in · $
+- [ ] Buena Vista Deli — Walk-in · $
+- [ ] Cuban Guys (multiple) — Walk-in · $
+- [ ] Sweetness Bake Shop (multiple) — Walk-in · $
+- [ ] Ricky Bakery (Hialeah; pastelitos) — Walk-in · $
+- [ ] Yisell Bakery (Hialeah) — Walk-in · $
+- [ ] El Brazo Fuerte (Coral Gables; since 1968) — Walk-in · $
+- [ ] Old Lisbon's pastéis de nata (Coral Gables) — Walk-in · $
+- [ ] Islas Canarias' croquetas (Westchester) — $
+- [ ] Café Demetrio's pastries (Coral Gables) — $
+
+---
+
+## Dessert bars & sweets (50)
+
+- [ ] Azucar Ice Cream (Little Havana) — Walk-in · $
+- [ ] Dasher & Crank (Wynwood) — Walk-in · $
+- [ ] Wynwood Parlor (Wynwood; ice cream sandwiches) — Walk-in · $
+- [ ] Bianco Gelato (Coconut Grove) — Walk-in · $
+- [ ] Cielito Artisan Pops (multiple) — Walk-in · $
+- [ ] Morelia Gourmet Paletas (multiple) — Walk-in · $
+- [ ] Frice Cream (Wynwood) — Walk-in · $
+- [ ] Bachour (Coral Gables) — BIB · Resy · Amex ✓ · $$
+- [ ] Fireman Derek's (pie) — Walk-in · $
+- [ ] Cindy Lou's Cookies (Little River) — Walk-in · $
+- [ ] Night Owl Cookies — Walk-in · $
+- [ ] The Salty Donut — Walk-in · $
+- [ ] Knaus Berry Farm cinnamon rolls (Homestead; seasonal) — $
+- [ ] Robert Is Here milkshakes (Homestead) — $
+- [ ] Chocolate Fashion (Coral Gables) — Walk-in · $
+- [ ] Ladurée (Design District) — $
+- [ ] Sant Ambroeus gelato (South Beach) — $
+- [ ] Le Macaron — Walk-in · $
+- [ ] Bunnie Cakes (Wynwood) — Walk-in · $
+- [ ] Mochi? — $
+- [ ] Vicky Bakery's pastelitos — $
+- [ ] Karla Bakery's pastelitos — $
+- [ ] Gilbert's Bakery — Walk-in · $
+- [ ] La Carreta's flan — $
+- [ ] Versailles' flan — $
+- [ ] Islas Canarias' tres leches — $
+- [ ] Bebito's café con leche + tostada — $
+- [ ] Pasión del Cielo's cortadito — $
+- [ ] Crumb on Parchment — Walk-in · $
+- [ ] Rosetta's tiramisu — $
+- [ ] Zak the Baker's babka — $
+- [ ] Madruga's croissant — $
+- [ ] True Loaf's kouign-amann — $
+- [ ] Stubborn Seed's dessert counter (South Beach) — ★ · $$$$
+- [ ] Le Jardinier's desserts (Design District) — ★ · $$$$
+- [ ] L'Atelier's mignardises (Design District) — ★★ · $$$$
+- [ ] Mila's desserts (South Beach) — $
+- [ ] Sexy Fish dessert theater (Brickell) — $
+- [ ] Carbone Miami's cheesecake (South Beach) — $
+- [ ] Byblos' baklava (South Beach) — $
+- [ ] Motek's knafeh (multiple) — $
+- [ ] Mandolin's baklava (Buena Vista) — $
+- [ ] Ghee's kulfi (multiple) — $
+- [ ] Phuc Yea's Vietnamese coffee (Upper East Side) — $
+- [ ] Tâm Tâm's desserts (Downtown) — $
+- [ ] Los Pinareños' batidos — $
+- [ ] El Palacio de los Jugos' batidos — $
+- [ ] Alabama Jack's key lime pie (Card Sound) — $
+- [ ] Mr. Kream (Wynwood) — Walk-in · $
+- [ ] Cream Parlor (Biscayne) — Walk-in · $
+
+---
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Carbone Miami (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Papi Steak (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Gekko (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Sexy Fish (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Komodo (Brickell) — Resy · Amex ✓ · $$$$
+- [ ] Swan (Design District) — Resy · Amex ✓ · $$$
+- [ ] Bar Bevy (Design District) — Resy · Amex ✓ · $$$
+- [ ] Casadonna (Edgewater) — Resy · Amex ✓ · $$$$
+- [ ] Kiki on the River (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Seaspice (Miami River) — Resy · Amex ✓ · $$$$
+- [ ] Zuma (Downtown) — Resy · Amex ✓ · $$$$
+- [ ] Cipriani (Brickell) — $$$
+- [ ] Nusr-Et (Brickell) — $$$
+- [ ] Mila (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Juvia (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Casa Tua (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Byblos (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Prime 112 (South of Fifth) — Resy · Amex ✓ · $$$$
+- [ ] Joe's Stone Crab (South of Fifth) — Resy · Amex ✓ · $$$$
+- [ ] Estiatorio Milos (South of Fifth) — Resy · Amex ✓ · $$$$
+- [ ] Nobu Miami (Eden Roc) — Resy · Amex ✓ · $$$$
+- [ ] Hakkasan (Fontainebleau) — Resy · Amex ✓ · $$$$
+- [ ] Los Fuegos (Faena) — $$$
+- [ ] Pao (Faena) — $$$
+- [ ] The Forge (Mid-Beach) — Resy · Amex ✓ · $$$$
+- [ ] Le Sirenuse (Surfside) — Resy · Amex ✓ · $$$$
+- [ ] The Surf Club Restaurant (Surfside) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Makoto (Bal Harbour) — Resy · Amex ✓ · $$$$
+- [ ] Carpaccio (Bal Harbour) — $$$
+- [ ] Le Jardinier (Design District) — ★ · Resy · Amex ✓ · $$$$
+- [ ] L'Atelier (Design District) — ★★ · $$$$
+- [ ] Cote Miami (Design District) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Contessa Miami (Design District) — NEW · Resy · Amex ✓ · $$$$
+- [ ] Michael's Genuine (Design District) — BIB · Resy · Amex ✓ · $$$
+- [ ] Mandolin (Buena Vista) — BIB · $$
+- [ ] Pastis (Wynwood) — NEW · $$$
+- [ ] Uchi (Wynwood) — $$$
+- [ ] KYU (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] Bakan (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] Sunny's (Little River) — Resy · Amex ✓ · $$$
+- [ ] Amara at Paraiso (Edgewater) — Resy · Amex ✓ · $$$
+- [ ] Klaw (Edgewater) — Resy · Amex ✓ · $$$$
+- [ ] Elcielo (Brickell) — ★ · $$$
+- [ ] La Mar (Brickell Key) — $$$
+- [ ] Cantina La Veinte (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Osaka Nikkei (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Toscana Divino (Brickell) — Resy · Amex ✓ · $$$
+- [ ] Il Gabbiano (Downtown) — Resy · Amex ✓ · $$$$
+- [ ] Fiola Miami (Coral Gables) — Resy · Amex ✓ · $$$$
+- [ ] Ariete (Coconut Grove) — ★ · Resy · Amex ✓ · $$$
+- [ ] Nikki Beach (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Soho Beach House (Mid-Beach; members) — SevenRooms · $$$$
+- [ ] Faena Theater (Mid-Beach; the show) — OpenTable · $$$$
+
+---
+
+## Dance clubs & nightlife (50)
+
+- [ ] LIV (Fontainebleau) — SevenRooms · $$$$
+- [ ] E11even (Downtown; 24 hours) — SevenRooms · $$$$
+- [ ] Club Space (Downtown; the terrace at sunrise) — SevenRooms · $$$
+- [ ] Floyd (Downtown; Space's little sibling) — SevenRooms · $$
+- [ ] Story — CLOSED
+- [ ] Basement Miami (Edition, Mid-Beach; bowling + ice rink) — SevenRooms · $$$
+- [ ] Do Not Sit On The Furniture (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Treehouse — CLOSED
+- [ ] Mayami (Wynwood) — SevenRooms · $$$
+- [ ] Oasis Wynwood — SevenRooms · $$$
+- [ ] Gramps (Wynwood) — Resy · Amex ✓ · $
+- [ ] Kill Your Idol (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Rec Room (South Beach) — Resy · Amex ✓ · $$$
+- [ ] Bâoli (South Beach) — Resy · Amex ✓ · $$$$
+- [ ] Wall Lounge (W South Beach) — SevenRooms · $$$$
+- [ ] Rockwell — CLOSED
+- [ ] Le Rouge (South Beach) — SevenRooms · $$$
+- [ ] M2 (South Beach; the old Mansion) — SevenRooms · $$$
+- [ ] Mango's Tropical Café (South Beach) — SevenRooms · $$
+- [ ] Ball & Chain (Little Havana) — Resy · Amex ✓ · $$
+- [ ] Hoy Como Ayer (Little Havana) — Resy · Amex ✓ · $$
+- [ ] Cubaocho (Little Havana) — Walk-in · $$
+- [ ] Churchill's Pub (Little Haiti) — Walk-in · $
+- [ ] Las Rosas (Allapattah) — Walk-in · $
+- [ ] Lagniappe (Midtown; live music nightly) — Resy · Amex ✓ · $$$
+- [ ] The Corner (Downtown) — Resy · Amex ✓ · $
+- [ ] Mama Tried (Downtown) — Resy · Amex ✓ · $$$
+- [ ] Better Days (Downtown) — Resy · Amex ✓ · $$$
+- [ ] ATV Records (Downtown) — Walk-in · $$$
+- [ ] Dante's HiFi (Wynwood) — Resy · Amex ✓ · $$$
+- [ ] Bar Kaiju late (Little River) — $$$
+- [ ] Gramps Getaway (Coconut Grove) — $$$
+- [ ] Taurus late (Coconut Grove) — $$$
+- [ ] Sexy Fish nights (Brickell) — $$$
+- [ ] Sugar late (EAST) — $$$
+- [ ] Rosa Sky late (Downtown) — $$$
+- [ ] The Elser rooftop late — $$$
+- [ ] Nikki Beach Sundays — $$$
+- [ ] Strawberry Moon (Goodtime; the pool party) — Resy · Amex ✓ · $$$
+- [ ] Bagatelle Miami? — CLOSED
+- [ ] Kaseya Center concerts (Downtown) — Walk-in · $$$
+- [ ] Bayfront Park (Ultra, March) — Walk-in · $$$
+- [ ] III Points (Mana Wynwood; fall) — Walk-in · $$$
+- [ ] Art Basel week (December; everything) — Walk-in · $$$
+- [ ] Faena Theater (Mid-Beach) — OpenTable · $$$$
+- [ ] The Fillmore Miami Beach — OpenTable · $$$
+- [ ] Adrienne Arsht Center (Downtown) — Walk-in · $$$
+- [ ] Hard Rock Live (Hollywood, FL) — Walk-in · $$$
+- [ ] Miami Beach Bandshell (North Beach) — Walk-in · $$$
+
+---
+
+*Notes*
+- Michelin: the 2026 Florida selection (May 28, 2026 — the first to cover the whole state). Miami holds fourteen stars — L'Atelier de Joël Robuchon the only two-star in Florida for a fifth year; Mutra the new one-star; Krüs Kitchen, Los Félix and Stubborn Seed the Green Stars — and eighteen Bib Gourmands, with Barra Callao, Cotoa, Double Luck and To Be Determined added this year. Itamae AO's 2025 star was not confirmed in the 2026 list at press time; verify.
+- Bars: North America's 50 Best Bars 2026 — Café La Trova №42, ViceVersa №46, Bar Kaiju №70. ViceVersa was a 2025 James Beard Best New Bar finalist.
+- Anything marked **?** deserves a check before you go — Miami's scene turns over faster than any other city in this series.
