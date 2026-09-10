@@ -52,11 +52,12 @@
 </head>
 <body id="top">
 <header class="nav"><div class="wrap">
-  <a class="brand" href="/"><b>listedeville</b><span>by Honestly Speaking</span></a>
+  <a class="brand" href="/"><b>liste<i>deville</i></b><span>by Honestly Speaking</span></a>
   <nav><ul><li><a href="/">Home</a></li><li class="menu current"><button type="button" aria-expanded="false" aria-haspopup="true">Seattle <span class="car">▾</span></button><ul class="dd"><li><a href="/new-york/">New York</a></li><li><a href="/boston/">Boston</a></li><li><a href="/seattle/" aria-current="page">Washington, DC</a></li><li><a href="/miami/">Miami</a></li><li><a href="/chicago/">Chicago</a></li><li><a href="/san-francisco/">San Francisco</a></li><li><a href="/los-angeles/">Los Angeles</a></li><li><a href="/seattle/" aria-current="page">Seattle</a></li></ul></li><li><a href="/seattle/itineraries/">Itineraries</a></li><li><a href="/about/">About</a></li></ul></nav>
 </div></header>
 
-<main class="wrap">
+<main class="wrap city">
+  <div class="cityhero" style="background-image:url(/img/seattle/cover.jpg)">
   <div class="head">
     <div>
       <p class="eyebrow">listedeville · No. 9 · Fall/Winter 2026</p>
@@ -66,7 +67,9 @@
     <div class="meta"><a class="pill" href="/seattle/liste-de-ville-seattle-2026.pdf" style="margin-bottom:12px">Download the magazine edition (PDF)</a><br>738 places · twelve lists<br>James Beard 2026 finalists — Atoma and Surrell · James Beard 2026 semifinalists</div>
   </div>
 
-  <div class="toolbar">
+  </div>
+  <div class="tbtoggle"><button type="button" id="tbtoggle" aria-expanded="true" aria-controls="toolbar">Hide search &amp; filters</button></div>
+  <div class="toolbar" id="toolbar">
     <div class="search">
       <input id="q" type="search" placeholder="Search a place, a neighborhood, a cuisine… (try “oysters”, “Ballard”, “omakase”)" autocomplete="off" aria-label="Search places">
       <select id="sort" aria-label="Sort"><option value="list">Editor's order</option><option value="az">A → Z</option><option value="rank">Ranked first</option></select>
@@ -214,5 +217,6 @@ const fab=$("#fab"); function tick(){fab.classList.toggle("on",window.scrollY>60
 fab.onclick=e=>{e.preventDefault();scrollTo({top:0,behavior:"smooth"})};
 })();
 </script>
-<script>document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.addEventListener("click",function(e){e.stopPropagation();var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o)});});document.addEventListener("click",function(){document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});document.addEventListener("keydown",function(e){if(e.key==="Escape")document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});</script></body>
+<script>document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.addEventListener("click",function(e){e.stopPropagation();var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o)});});document.addEventListener("click",function(){document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});document.addEventListener("keydown",function(e){if(e.key==="Escape")document.querySelectorAll(".nav li.menu>button").forEach(function(b){b.setAttribute("aria-expanded","false")})});</script><script>(function(){var b=document.getElementById("tbtoggle"),tb=document.getElementById("toolbar");if(!b||!tb)return;b.onclick=function(){var o=b.getAttribute("aria-expanded")==="true";b.setAttribute("aria-expanded",!o);tb.classList.toggle("collapsed",o);b.textContent=o?"Show search & filters":"Hide search & filters";};})();</script>
+</body>
 </html>
