@@ -1,6 +1,6 @@
 /* listedeville — site-wide search & filters sheet. Opens from the nav "Search" tab on every page. */
 (function(){
-var CITIES=[["new-york","New York"],["boston","Boston"],["washington-dc","Washington, DC"],["miami","Miami"],["chicago","Chicago"],["san-francisco","San Francisco"],["los-angeles","Los Angeles"],["seattle","Seattle"]];
+var CITIES=[["new-york","New York"],["boston","Boston"],["washington-dc","Washington, DC"],["miami","Miami"],["chicago","Chicago"],["san-francisco","San Francisco"],["los-angeles","Los Angeles"],["seattle","Seattle"],["new-orleans","New Orleans"]];
 var CATS=["Cafés","Speakeasies","Rooftops","Bars","Coffee","Restaurants","Brunch","Off-beat","Bakeries","Dessert","Scene","Nightlife"];
 var ONLY=[["stars",'<span class="star">★</span> Michelin-starred'],["bib",'<span class="bib">Bib</span> Bib Gourmand'],["ranked","Ranked (50 Best / NYT)"],["amex",'<span class="amex">Amex ✓</span> Resy credit'],["new","New since last edition"],["visited",'<span class="been">been</span> Tony\'s been'],["jbf",'<span class="jbf">JBF 2026</span> James Beard nominee'],["showclosed","Show closed"]];
 var PLAT=["Resy","Tock","OpenTable","SevenRooms","Walk-in"];

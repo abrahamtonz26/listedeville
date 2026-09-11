@@ -136,3 +136,7 @@ body.ssopen{overflow:hidden}
 .honortease .ht-n{font-family:"Fraunces",serif;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;opacity:.85}
 .honortease:hover .ht-n{opacity:1}
 @media (max-width:720px){.honortease{border-radius:22px;flex-direction:column;align-items:flex-start;gap:6px}.honortease .ht-n{white-space:normal;font-size:14px}}
+
+/* long city names on phones */
+.nav .cityshort{display:none}
+@media (max-width:720px){.nav .cityfull{display:none}.nav .cityshort{display:inline}}

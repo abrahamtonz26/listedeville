@@ -1,0 +1,819 @@
+# liste de ville / New Orleans — Fall/Winter 2026
+
+First edition · Cross-referenced against the inaugural Michelin Guide American South (November 2025), the James Beard Foundation's 2026 awards, North America's 50 Best Bars, The Times-Picayune, Eater New Orleans, Resy, OpenTable and Google.
+
+**Legend**
+- `[x]` = you've been
+- **★** = Michelin star (2025 American South selection) · **BIB** = Bib Gourmand · **MR** = Michelin recommended
+- **JBF 2026** = James Beard 2026 finalist or semifinalist (category noted) · **JBF** = past winner or nominee · **NA50** = North America's 50 Best
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Saba (Uptown, Magazine St; Alon Shaya) — BIB · Resy · Amex ✓ · $$$
+- [ ] Turkey and the Wolf (Irish Channel; Mason Hereford) — BIB · Walk-in · $$
+- [ ] Hungry Eyes (Lower Garden District; luxury drinking food) — BIB · Walk-in · $$
+- [ ] Mister Mao (Uptown; Sophina Uong) — BIB · Resy · Amex ✓ · $$
+- [ ] Acamaya (Bywater; Ana Castro) — BIB · JBF 2026 finalist (Best Chef South) · Resy · Amex ✓ · $$$
+- [ ] La Petite Grocery (Uptown; Justin Devillier) — MR · Resy · Amex ✓ · $$$
+- [ ] Patois (Uptown; Aaron Burgau) — MR · Resy · Amex ✓ · $$$
+- [ ] Osteria Lupo (Uptown; Northern Italian) — MR · Resy · Amex ✓ · $$$
+- [ ] Herbsaint (CBD; Donald Link) — MR · JBF 2026 finalist (Outstanding Restaurateur) · Resy · Amex ✓ · $$$
+- [ ] Pêche Seafood Grill (Warehouse District) — MR · JBF · Resy · Amex ✓ · $$$
+- [ ] Cochon (Warehouse District) — BIB · Resy · Amex ✓ · $$$
+- [ ] Coquette (Garden District) — Resy · Amex ✓ · $$$
+- [ ] Lilette (Uptown; John Harris) — Resy · Amex ✓ · $$$
+- [ ] Bacchanal (Bywater; wine in the yard) — Walk-in · $$
+- [ ] N7 (Bywater; through the gate) — Resy · Amex ✓ · $$$
+- [ ] Elizabeth's (Bywater; praline bacon) — Walk-in · $$
+- [ ] Bar Marilou (Maison de la Luz) — SevenRooms · $$$
+- [ ] Justine (French Quarter; Devillier's brasserie) — Resy · Amex ✓ · $$$
+- [ ] Sylvain (French Quarter; the courtyard) — Resy · Amex ✓ · $$
+- [ ] Cane & Table (French Quarter; rum and the yard) — Resy · Amex ✓ · $$
+- [ ] Bayona (French Quarter; Susan Spicer since 1990) — Resy · Amex ✓ · $$$
+- [ ] Marjie's Grill (Mid-City; Gulf meets Southeast Asia) — Walk-in · $$
+- [ ] Toups' Meatery (Mid-City; Isaac Toups) — Resy · Amex ✓ · $$$
+- [ ] Café Degas (Esplanade; the porch) — OpenTable · $$
+- [ ] Lola's (Esplanade; Spanish, BYOB) — Walk-in · $$
+- [ ] Bar Redux (Bywater) — Walk-in · $
+- [ ] The Elysian Bar (Hotel Peter & Paul) — Resy · Amex ✓ · $$
+- [ ] Paladar 511 (Marigny; Italian) — Resy · Amex ✓ · $$$
+- [ ] Palm & Pine (French Quarter; Amarys and Jordan Herndon) — Resy · Amex ✓ · $$
+- [ ] Bar Pomona (Uptown; wine bar) — Walk-in · $$
+- [ ] Saffron NOLA (Uptown; the Vilkhus) — MR · Resy · Amex ✓ · $$$
+- [ ] Lengua Madre (Lower Garden District; Mexican tasting) — Resy · Amex ✓ · $$$
+- [ ] Bar Frances (Uptown; Freret St) — Resy · Amex ✓ · $$
+- [ ] Shaya (Uptown; the pita) — Resy · Amex ✓ · $$$
+- [ ] Mosquito Supper Club (Uptown; Melissa Martin's Cajun table) — Tock · Amex ✓ · $$$$
+- [ ] Saint Claire (Uptown; Melissa Martin) — JBF 2026 semifinalist (Best New Restaurant) · NEW · Resy · Amex ✓ · $$$
+- [ ] Evviva (Uptown; Italian) — JBF 2026 semifinalist (Best New Restaurant) · NEW · Resy · Amex ✓ · $$$
+- [ ] Gianna (Warehouse District; Link's Italian) — Resy · Amex ✓ · $$$
+- [ ] Jack Rose (Pontchartrain Hotel) — Resy · Amex ✓ · $$$
+- [ ] Vessel (Mid-City; in a church) — Resy · Amex ✓ · $$
+- [ ] Katie's (Mid-City) — Walk-in · $$
+- [ ] Mopho (Mid-City; Vietnamese-Cajun) — Walk-in · $$
+- [ ] Bywater American Bistro (Nina Compton's second) — Resy · Amex ✓ · $$$
+- [ ] Rosedale (Mid-City; Susan Spicer's neighborhood spot) — OpenTable · $$
+- [ ] Delacroix (Freret; Wiley Wilkinson Lewis) — NEW · Resy · Amex ✓ · $$$
+- [ ] Zasu (Mid-City; Sue Zemanick) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Sac-a-lait? — CLOSED
+- [ ] Mariza — CLOSED
+- [ ] Meauxbar — CLOSED
+- [ ] Booty's Street Food — CLOSED
+- [ ] Cavan — CLOSED
+- [ ] Green Goddess — CLOSED
+- [ ] Domenica (Roosevelt Hotel; the pizza) — OpenTable · $$
+- [ ] Pizza Delicious (Bywater) — Walk-in · $
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Jewel of the South (French Quarter; Chris Hannah) — NA50 · JBF · Resy · Amex ✓ · $$
+- [ ] Cure (Freret St; where it started, 2009) — JBF · Walk-in · $$
+- [ ] Cane & Table (French Quarter; rum) — Resy · Amex ✓ · $$
+- [ ] Bar Tonique (Rampart; the neighborhood cocktail bar) — Walk-in · $
+- [ ] Manolito (French Quarter; Cuban daiquiris) — Walk-in · $
+- [ ] Latitude 29 (Bienville House; Beachbum Berry's tiki) — Resy · Amex ✓ · $$
+- [ ] Bar Marilou (Maison de la Luz; the hidden salon) — SevenRooms · $$$
+- [ ] The Elysian Bar (Hotel Peter & Paul; the rectory) — Resy · Amex ✓ · $$
+- [ ] Peychaud's (Maison de Ville; the courtyard) — Walk-in · $$
+- [ ] Erin Rose (French Quarter; frozen Irish coffee, Killer PoBoys in back) — Walk-in · $
+- [ ] Bar Redux (Bywater; behind the levee) — Walk-in · $
+- [ ] Anna's (Marigny; the bathtub) — Walk-in · $
+- [ ] The Domino (St. Claude; hidden behind a tavern) — Walk-in · $$
+- [ ] Twelve Mile Limit (Mid-City) — Walk-in · $
+- [ ] Barrel Proof (Lower Garden District; the whiskey wall) — Walk-in · $$
+- [ ] Loa (International House; the candlelit lobby) — Walk-in · $$
+- [ ] Sazerac Bar (Roosevelt Hotel; the murals) — Walk-in · $$
+- [ ] Carousel Bar (Hotel Monteleone; it turns) — Walk-in · $$
+- [ ] Bar Frances (Uptown) — Resy · Amex ✓ · $$
+- [ ] Toulouse Dive Bar (French Quarter; upstairs) — Walk-in · $
+- [ ] Bar Marmalade? — ? · $$
+- [ ] Chandelier Bar (Four Seasons; the lobby) — Walk-in · $$$
+- [ ] Bar Sazerac? (Sazerac House; the museum bar) — Walk-in · $$
+- [ ] The Will & The Way (French Quarter; Lauren Myerscough) — Walk-in · $$
+- [ ] Sidney's Saloon (St. Bernard Ave) — Walk-in · $
+- [ ] Pal's Lounge (Mid-City) — Walk-in · $
+- [ ] The Black Penny (Rampart; beer) — Walk-in · $
+- [ ] Vaughan's Lounge (Bywater; Thursday brass band) — Walk-in · $
+- [ ] Bud Rip's (Bywater; since 1960) — Walk-in · $
+- [ ] Bacchanal upstairs (Bywater) — Walk-in · $$
+- [ ] Bar Pomona (Uptown) — Walk-in · $$
+- [ ] Bakery Bar (Lower Garden District; doberge cake with your drink) — Walk-in · $
+- [ ] Bar Kiln? — ? · $$
+- [ ] Hot Tin (Pontchartrain Hotel; the rooftop) — Walk-in · $$
+- [ ] Above the Grid (NOPSI Hotel) — Walk-in · $$
+- [ ] Longway Tavern (French Quarter; the courtyard) — Walk-in · $$
+- [ ] Tiki Tolteca (French Quarter; upstairs from Felipe's) — Walk-in · $
+- [ ] Bar Tabac (Marigny; Frenchmen) — Walk-in · $
+- [ ] Cellar Door (Lower Garden District; in an old brothel) — Walk-in · $$
+- [ ] Bourbon O (Bourbon Orleans; Cheryl Charming's bar) — Walk-in · $$
+- [ ] Belle Époque (Bourbon House; the absinthe room) — Walk-in · $$
+- [ ] Old Absinthe House (Bourbon St; since 1807) — Walk-in · $
+- [ ] Napoleon House (French Quarter; Pimm's Cup since 1914) — Walk-in · $$
+- [ ] Lafitte's Blacksmith Shop (Bourbon St; candles, 1722) — Walk-in · $
+- [ ] The Columns (St. Charles; the porch) — Resy · Amex ✓ · $$
+- [ ] Ms. Mae's (Uptown; 24 hours) — Walk-in · $
+- [ ] Snake and Jake's Christmas Club Lounge (Uptown; 3am) — Walk-in · $
+- [ ] The Saint (Lower Garden District) — Walk-in · $
+- [ ] Bar Kanzo? — ? · $$
+- [ ] Portside Lounge (Mid-City; tiki) — Walk-in · $
+- [ ] Beachcorner? — CLOSED
+- [ ] Bellocq — CLOSED
+- [ ] The Dungeon (Bourbon St; after midnight) — Walk-in · $
+
+## Rooftop bars (50)
+
+- [ ] Hot Tin (Pontchartrain Hotel; St. Charles and the river) — Walk-in · $$
+- [ ] Above the Grid (NOPSI Hotel; the pool) — Walk-in · $$
+- [ ] Alto (Ace Hotel; the pool) — Walk-in · $$
+- [ ] Monkey Board (The Troubadour) — Walk-in · $$
+- [ ] Rosie's on the Roof (Higgins Hotel; the WWII Museum) — Walk-in · $$
+- [ ] Chandelier Bar / Chemin à la Mer (Four Seasons; Link's river room) — Resy · Amex ✓ · $$$$
+- [ ] Vue Orleans (Four Seasons; the observation deck) — Walk-in · $$
+- [ ] Bar Marilou terrace? — SevenRooms · $$$
+- [ ] The Roost (Kimpton Fontenot; the pool) — Walk-in · $$
+- [ ] Pool Club at the Virgin Hotels — Walk-in · $$
+- [ ] Rooftop at the Catahoula Hotel (Peruvian pisco) — Walk-in · $$
+- [ ] Jack Rose porch (Pontchartrain Hotel) — Resy · Amex ✓ · $$$
+- [ ] The Drifter Hotel pool — Walk-in · $
+- [ ] Hotel Peter & Paul courtyard — Resy · Amex ✓ · $$
+- [ ] The Columns porch (St. Charles) — Resy · Amex ✓ · $$
+- [ ] Bacchanal yard (Bywater; live music under the lights) — Walk-in · $$
+- [ ] The Fly (Audubon Park; the river levee at sunset, BYO) — Walk-in · $
+- [ ] Crescent Park (Bywater; the river, the Rusty Rainbow bridge) — Walk-in · $
+- [ ] Moonwalk (French Quarter; the riverfront at dusk) — Walk-in · $
+- [ ] Riverview at the Westin? — ? · $$
+- [ ] Copper Vine (Poydras; the courtyard) — OpenTable · $$
+- [ ] Bar Tonique patio — Walk-in · $
+- [ ] Pat O'Brien's courtyard (the flaming fountain) — Walk-in · $
+- [ ] Court of Two Sisters courtyard — OpenTable · $$$
+- [ ] Brennan's courtyard — OpenTable · $$$
+- [ ] Sylvain courtyard — Resy · Amex ✓ · $$
+- [ ] Cane & Table courtyard — Resy · Amex ✓ · $$
+- [ ] Longway Tavern courtyard — Walk-in · $$
+- [ ] Napoleon House courtyard — Walk-in · $$
+- [ ] Café Amelie (Royal St; the courtyard) — OpenTable · $$$
+- [ ] Rosedale patio — OpenTable · $$
+- [ ] Wrong Iron on the Greenway (Mid-City; beer garden) — Walk-in · $
+- [ ] Parleaux Beer Lab (Bywater; the yard) — Walk-in · $
+- [ ] Urban South Brewery (Tchoupitoulas) — Walk-in · $
+- [ ] Zony Mash Beer Project (Broadmoor; the old theater) — Walk-in · $
+- [ ] Port Orleans Brewing (Tchoupitoulas) — Walk-in · $
+- [ ] NOLA Brewing tap room (the roof deck) — Walk-in · $
+- [ ] Brieux Carré (Frenchmen; the courtyard) — Walk-in · $
+- [ ] The Tasting Room (Uptown) — Walk-in · $$
+- [ ] Bar Redux yard — Walk-in · $
+- [ ] The Rabbit Hole (Central City; the courtyard) — Walk-in · $$
+- [ ] Miel Brewery (Irish Channel; the yard) — Walk-in · $
+- [ ] Second Line Brewing (Mid-City) — Walk-in · $
+- [ ] Faubourg Brewery (New Orleans East) — Walk-in · $
+- [ ] The Broadside (Mid-City; outdoor stage) — Walk-in · $
+- [ ] Marigny Opera House garden — $
+- [ ] Bayou Beer Garden / Bayou Wine Garden (Mid-City) — Walk-in · $
+- [ ] Pontchartrain Hotel's Silver Whistle? — ? · $$
+- [ ] Tujague's balcony — OpenTable · $$$
+- [ ] Vacherie? — ? · $$
+- [ ] The Rooftop at Domio? — CLOSED
+- [ ] Piscobar (Catahoula) — Walk-in · $$
+
+## Bars — notable mentions (100)
+
+- [ ] Jewel of the South (French Quarter) — NA50 · Resy · Amex ✓ · $$
+- [ ] Cure (Freret St) — JBF · Walk-in · $$
+- [ ] Cane & Table (French Quarter) — Resy · Amex ✓ · $$
+- [ ] Bar Tonique (Rampart) — Walk-in · $
+- [ ] Manolito (French Quarter) — Walk-in · $
+- [ ] Latitude 29 (Bienville House) — Resy · Amex ✓ · $$
+- [ ] Sazerac Bar (Roosevelt Hotel) — Walk-in · $$
+- [ ] Carousel Bar (Hotel Monteleone) — Walk-in · $$
+- [ ] Napoleon House (Chartres St; Pimm's Cup) — Walk-in · $$
+- [ ] Lafitte's Blacksmith Shop (Bourbon St) — Walk-in · $
+- [ ] Old Absinthe House (Bourbon St) — Walk-in · $
+- [ ] Pat O'Brien's (the Hurricane, since 1933) — Walk-in · $
+- [ ] Arnaud's French 75 Bar (French Quarter; Chris Hannah's old bar) — JBF · Walk-in · $$
+- [ ] Bar Marilou (Maison de la Luz) — SevenRooms · $$$
+- [ ] The Elysian Bar (Hotel Peter & Paul) — Resy · Amex ✓ · $$
+- [ ] Peychaud's (Maison de Ville) — Walk-in · $$
+- [ ] Erin Rose (French Quarter) — Walk-in · $
+- [ ] Molly's at the Market (Decatur; frozen Irish coffee) — Walk-in · $
+- [ ] The Chart Room (Chartres St; cheap and honest) — Walk-in · $
+- [ ] Cosimo's (French Quarter; locals' corner) — Walk-in · $
+- [ ] Bar Redux (Bywater) — Walk-in · $
+- [ ] Vaughan's Lounge (Bywater) — Walk-in · $
+- [ ] Bud Rip's (Bywater) — Walk-in · $
+- [ ] BJ's Lounge (Bywater; King James on Mondays) — Walk-in · $
+- [ ] Markey's Bar (Bywater) — Walk-in · $
+- [ ] Bacchanal (Bywater) — Walk-in · $$
+- [ ] The Saturn Bar (St. Claude; since 1960) — Walk-in · $
+- [ ] Siberia (St. Claude; Slavic food, punk) — Walk-in · $
+- [ ] Hi-Ho Lounge (St. Claude) — Walk-in · $
+- [ ] Kajun's Pub (St. Claude; karaoke 24 hours) — Walk-in · $
+- [ ] The AllWays Lounge (St. Claude) — Walk-in · $
+- [ ] Mimi's in the Marigny — Walk-in · $
+- [ ] The Spotted Cat (Frenchmen; the jazz, the crush) — Walk-in · $
+- [ ] d.b.a. (Frenchmen) — Walk-in · $
+- [ ] Snug Harbor (Frenchmen; the jazz room) — $$
+- [ ] Blue Nile (Frenchmen) — Walk-in · $
+- [ ] Bar Tabac (Frenchmen) — Walk-in · $
+- [ ] Three Muses (Frenchmen; small plates and jazz) — Walk-in · $$
+- [ ] The Domino (St. Claude) — Walk-in · $$
+- [ ] Sidney's Saloon (Seventh Ward) — Walk-in · $
+- [ ] Bullet's Sports Bar (Seventh Ward; Kermit Ruffins on Tuesdays) — Walk-in · $
+- [ ] Kermit's Tremé Mother-in-Law Lounge — Walk-in · $
+- [ ] Candlelight Lounge (Tremé; Wednesday brass band) — Walk-in · $
+- [ ] Sportsman's Corner (Central City) — Walk-in · $
+- [ ] Twelve Mile Limit (Mid-City) — Walk-in · $
+- [ ] Pal's Lounge (Mid-City) — Walk-in · $
+- [ ] Finn McCool's (Mid-City; the football pub) — Walk-in · $
+- [ ] Bayou Beer Garden (Mid-City) — Walk-in · $
+- [ ] Mid-City Yacht Club — Walk-in · $
+- [ ] Banks Street Bar (Mid-City) — Walk-in · $
+- [ ] Chickie Wah Wah (Mid-City; the music room) — $
+- [ ] Barrel Proof (Lower Garden District) — Walk-in · $$
+- [ ] Cellar Door (Lower Garden District) — Walk-in · $$
+- [ ] The Saint (Lower Garden District) — Walk-in · $
+- [ ] Bakery Bar (Lower Garden District) — Walk-in · $
+- [ ] Avenue Pub (St. Charles; the beer list, 24 hours) — Walk-in · $
+- [ ] The Bulldog (Magazine St; the beer garden) — Walk-in · $
+- [ ] Ms. Mae's (Uptown; 24 hours) — Walk-in · $
+- [ ] Snake and Jake's Christmas Club Lounge (Uptown) — Walk-in · $
+- [ ] F&M Patio Bar (Uptown; dancing on the pool table) — Walk-in · $
+- [ ] The Boot (Uptown; Tulane) — Walk-in · $
+- [ ] Le Bon Temps Roulé (Uptown; Soul Rebels on Thursdays) — Walk-in · $
+- [ ] Tipitina's (Uptown; the shrine) — $$
+- [ ] Maple Leaf Bar (Carrollton; Rebirth on Tuesdays) — Walk-in · $
+- [ ] Carrollton Station — Walk-in · $
+- [ ] Oak Wine Bar (Carrollton) — Walk-in · $$
+- [ ] Bar Pomona (Uptown; wine) — Walk-in · $$
+- [ ] Bar Frances (Freret) — Resy · Amex ✓ · $$
+- [ ] The Delachaise (St. Charles; wine and frites) — Walk-in · $$
+- [ ] The Columns (St. Charles) — Resy · Amex ✓ · $$
+- [ ] Hot Tin (Pontchartrain Hotel) — Walk-in · $$
+- [ ] Bayou Wine Garden (Mid-City) — Walk-in · $$
+- [ ] Effervescence (Rampart; champagne bar) — Resy · Amex ✓ · $$$
+- [ ] Bar Brine? — ? · $$
+- [ ] Bar Marmalade? — ? · $$
+- [ ] Loa (International House) — Walk-in · $$
+- [ ] Chandelier Bar (Four Seasons) — Walk-in · $$$
+- [ ] Bar Kiln? — ? · $$
+- [ ] Alto (Ace Hotel) — Walk-in · $$
+- [ ] Three Keys (Ace Hotel; the music room) — $
+- [ ] Bourbon O (Bourbon Orleans) — Walk-in · $$
+- [ ] Toulouse Dive Bar — Walk-in · $
+- [ ] Johnny White's (Bourbon St; never closes) — Walk-in · $
+- [ ] Tropical Isle (Bourbon St; the Hand Grenade) — Walk-in · $
+- [ ] Cat's Meow (Bourbon St; karaoke) — Walk-in · $
+- [ ] Fritzel's (Bourbon St; traditional jazz) — Walk-in · $
+- [ ] Preservation Hall (St. Peter; the shrine, no bar) — $$
+- [ ] Palm Court Jazz Café (Decatur) — OpenTable · $$
+- [ ] The Jazz Playhouse (Royal Sonesta) — Walk-in · $$
+- [ ] Bombay Club (Prince Conti; martinis and jazz) — OpenTable · $$
+- [ ] 21st Amendment (Iberville) — Walk-in · $$
+- [ ] Bar Sazerac at Sazerac House — Walk-in · $$
+- [ ] Vacherie? — ? · $$
+- [ ] The Rabbit Hole (Central City) — Walk-in · $$
+- [ ] Parleaux Beer Lab (Bywater) — Walk-in · $
+- [ ] Brieux Carré (Frenchmen) — Walk-in · $
+- [ ] Courtyard Brewery (Lower Garden District) — Walk-in · $
+- [ ] Urban South Brewery — Walk-in · $
+- [ ] NOLA Brewing — Walk-in · $
+- [ ] Zony Mash Beer Project — Walk-in · $
+- [ ] Second Line Brewing — Walk-in · $
+- [ ] Wrong Iron on the Greenway — Walk-in · $
+- [ ] Mother's Milk? — CLOSED
+- [ ] Bellocq — CLOSED
+- [ ] Beachcorner — CLOSED
+- [ ] The Franklin — CLOSED
+
+## Coffee shops (50)
+
+- [ ] Café du Monde (Decatur; beignets and chicory, 24 hours since 1862) — Walk-in · $
+- [ ] Morning Call (City Park; the other beignet) — Walk-in · $
+- [ ] Café Beignet (Royal St) — Walk-in · $
+- [ ] Mammoth Espresso (Warehouse District) — Walk-in · $
+- [ ] Cherry Espresso Bar (Uptown / Lower Garden District) — Walk-in · $
+- [ ] French Truck Coffee (multiple; the yellow truck) — Walk-in · $
+- [ ] Congregation Coffee (Algiers Point; the roaster) — Walk-in · $
+- [ ] Hey! Café (Uptown / Freret) — Walk-in · $
+- [ ] Stumptown at the Ace Hotel — Walk-in · $
+- [ ] Revelator Coffee (Uptown / CBD) — Walk-in · $
+- [ ] Baldwin & Co. (Marigny; the bookstore café) — Walk-in · $
+- [ ] Café Envie (Decatur; open late) — Walk-in · $
+- [ ] Spitfire Coffee (French Quarter; the closet) — Walk-in · $
+- [ ] Bearcat Café (Uptown / CBD) — Walk-in · $$
+- [ ] Merchant? (Common St) — ? · $
+- [ ] Fair Grinds (Mid-City; since 2002) — Walk-in · $
+- [ ] Coffee Science (Mid-City) — Walk-in · $
+- [ ] Rook Café (Mid-City) — Walk-in · $
+- [ ] Solo Espresso (St. Claude) — Walk-in · $
+- [ ] Orange Couch (Marigny) — Walk-in · $
+- [ ] Who Dat Coffee Café (Marigny) — Walk-in · $
+- [ ] Satsuma Café (Bywater / Uptown) — Walk-in · $$
+- [ ] Rue de la Course (Uptown; since 1992) — Walk-in · $
+- [ ] CC's Coffee House (multiple; the local chain) — Walk-in · $
+- [ ] PJ's Coffee (multiple; the other local chain) — Walk-in · $
+- [ ] Z'otz Café (Carrollton; nocturnal) — Walk-in · $
+- [ ] Mojo Coffee House (Uptown / Freret) — Walk-in · $
+- [ ] Church Alley Coffee Bar (Central City) — Walk-in · $
+- [ ] Addiction Coffee House? — ? · $
+- [ ] Petite Clouet Café (Bywater) — Walk-in · $
+- [ ] Bywater Bakery coffee bar — JBF 2026 semifinalist (Outstanding Bakery) · Walk-in · $
+- [ ] Levee Baking Co. coffee (Uptown) — Walk-in · $
+- [ ] Gracious Bakery coffee (multiple) — Walk-in · $
+- [ ] Ayu Bakehouse coffee (Marigny) — Walk-in · $
+- [ ] Toast (Uptown / Gentilly; breakfast café) — Walk-in · $$
+- [ ] Café Reconcile (Central City; the training kitchen) — Walk-in · $
+- [ ] HiVolt Coffee (Lower Garden District) — Walk-in · $
+- [ ] Stein's Market & Deli coffee — Walk-in · $
+- [ ] Sofia Coffee? — ? · $
+- [ ] The Vintage (Magazine St; beignets and champagne) — Walk-in · $$
+- [ ] Bittersweet Confections coffee — Walk-in · $
+- [ ] Croissant d'Or (Ursulines; the patisserie) — Walk-in · $
+- [ ] La Boulangerie (Magazine St; Link's bakery) — Walk-in · $
+- [ ] Willa Jean coffee (CBD) — Walk-in · $$
+- [ ] Molly's Rise and Shine (Uptown; breakfast) — MR · Walk-in · $$
+- [ ] Old Road Coffee (Broadmoor) — Walk-in · $
+- [ ] Two Chicks Café? — ? · $$
+- [ ] District Donuts Sliders Brew (Magazine St) — Walk-in · $
+- [ ] Mister Gregory's (Rampart; French café) — Walk-in · $
+- [ ] Backatown Coffee Parlour (Tremé) — Walk-in · $
+
+## Restaurants (110+)
+
+### Michelin ★ and the tasting rooms
+- [ ] Emeril's (Warehouse District; E.J. Lagasse) — ★★ · JBF 2026 finalist (Emerging Chef) · Tock · Amex ✓ · $$$$
+- [ ] Saint-Germain (Bywater; the tasting in a house) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Zasu (Mid-City; Sue Zemanick) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Dakar NOLA (Uptown; Serigne Mbaye's Senegalese tasting) — MR · NA50 №6 (2025) · JBF 2026 finalist (Best Chef South) · Tock · Amex ✓ · $$$$
+- [ ] Mosquito Supper Club (Uptown; Melissa Martin) — Tock · Amex ✓ · $$$$
+- [ ] The Kingsway (Uptown; Ashwin Vilkhu's tasting) — MR · Tock · Amex ✓ · $$$$
+- [ ] Lengua Madre (Lower Garden District) — Resy · Amex ✓ · $$$
+- [ ] Restaurant August (CBD) — MR · OpenTable · $$$$
+- [ ] Commander's Palace (Garden District; since 1893; the 25-cent martini lunch) — JBF · OpenTable · $$$$
+- [ ] Brennan's (Royal St; bananas Foster invented here) — OpenTable · $$$$
+- [ ] Galatoire's (Bourbon St; Friday lunch, jackets) — MR · OpenTable · $$$$
+- [ ] Antoine's (St. Louis St; since 1840, oysters Rockefeller) — OpenTable · $$$$
+- [ ] Arnaud's (Bienville St; since 1918) — OpenTable · $$$$
+
+### Bib Gourmand & Michelin recommended
+- [ ] Acamaya (Bywater) — BIB · JBF 2026 finalist · Resy · Amex ✓ · $$$
+- [ ] Cochon (Warehouse District) — BIB · Resy · Amex ✓ · $$$
+- [ ] Cochon Butcher (Warehouse District; Le Pig Mac) — BIB · Walk-in · $$
+- [ ] Domilise's Po-Boy & Bar (Uptown; since 1918) — BIB · Walk-in · $
+- [ ] Hungry Eyes (Lower Garden District) — BIB · Walk-in · $$
+- [ ] Lufu (CBD; regional Indian) — BIB · Resy · Amex ✓ · $$
+- [ ] Mister Mao (Uptown) — BIB · Resy · Amex ✓ · $$
+- [ ] Parkway Bakery & Tavern (Mid-City; since 1911) — BIB · Walk-in · $
+- [ ] Saba (Uptown) — BIB · Resy · Amex ✓ · $$$
+- [ ] Turkey and the Wolf (Irish Channel) — BIB · Walk-in · $$
+- [ ] Willie Mae's NOLA (Tremé / Uptown; the fried chicken) — BIB · Walk-in · $
+- [ ] 34 Restaurant & Bar (Warehouse District; the Lagasses' Portuguese) — MR · Resy · Amex ✓ · $$$
+- [ ] Addis NOLA (Bayou Road; Ethiopian) — MR · Resy · Amex ✓ · $$
+- [ ] Atchafalaya (Irish Channel) — MR · OpenTable · $$$
+- [ ] Clancy's (Uptown; the insiders' club) — MR · Resy · Amex ✓ · $$$
+- [ ] Compère Lapin (Old No. 77; Nina Compton) — MR · JBF · Resy · Amex ✓ · $$$
+- [ ] Herbsaint (CBD) — MR · Resy · Amex ✓ · $$$
+- [ ] Killer PoBoys (French Quarter) — MR · Walk-in · $
+- [ ] La Petite Grocery (Uptown) — MR · Resy · Amex ✓ · $$$
+- [ ] Molly's Rise and Shine (Uptown) — MR · Walk-in · $$
+- [ ] Osteria Lupo (Uptown) — MR · Resy · Amex ✓ · $$$
+- [ ] Patois (Uptown) — MR · Resy · Amex ✓ · $$$
+- [ ] Pêche Seafood Grill (Warehouse District) — MR · JBF · Resy · Amex ✓ · $$$
+- [ ] Saffron NOLA (Uptown) — MR · Resy · Amex ✓ · $$$
+
+### The new guard & the Beard list
+- [ ] Saint Claire (Uptown) — JBF 2026 semifinalist (Best New Restaurant) · NEW · Resy · Amex ✓ · $$$
+- [ ] Evviva (Uptown) — JBF 2026 semifinalist (Best New Restaurant) · NEW · Resy · Amex ✓ · $$$
+- [ ] Delacroix (Freret) — NEW · Resy · Amex ✓ · $$$
+- [ ] Gianna (Warehouse District) — Resy · Amex ✓ · $$$
+- [ ] Chemin à la Mer (Four Seasons; Link) — Resy · Amex ✓ · $$$$
+- [ ] Miss River (Four Seasons; Alon Shaya) — Resy · Amex ✓ · $$$$
+- [ ] Coquette (Garden District) — Resy · Amex ✓ · $$$
+- [ ] Lilette (Uptown) — Resy · Amex ✓ · $$$
+- [ ] Shaya (Uptown) — Resy · Amex ✓ · $$$
+- [ ] Bayona (French Quarter) — Resy · Amex ✓ · $$$
+- [ ] Justine (French Quarter) — Resy · Amex ✓ · $$$
+- [ ] Sylvain (French Quarter) — Resy · Amex ✓ · $$
+- [ ] Palm & Pine (French Quarter) — Resy · Amex ✓ · $$
+- [ ] Bywater American Bistro (Bywater) — Resy · Amex ✓ · $$$
+- [ ] N7 (Bywater) — Resy · Amex ✓ · $$$
+- [ ] Paladar 511 (Marigny) — Resy · Amex ✓ · $$$
+- [ ] Toups' Meatery (Mid-City) — Resy · Amex ✓ · $$$
+- [ ] Marjie's Grill (Mid-City) — Walk-in · $$
+- [ ] Mopho (Mid-City) — Walk-in · $$
+- [ ] Jack Rose (Pontchartrain Hotel) — Resy · Amex ✓ · $$$
+- [ ] Vessel (Mid-City) — Resy · Amex ✓ · $$
+- [ ] Rosedale (Mid-City) — OpenTable · $$
+- [ ] Bar Marilou (Maison de la Luz) — SevenRooms · $$$
+- [ ] Maypop (Warehouse District; Michael Gulotta) — OpenTable · $$$
+- [ ] Ayu Bakehouse dinner? — ? · $$
+- [ ] Bar Frances (Freret) — Resy · Amex ✓ · $$
+- [ ] Alma Café (Bywater; Honduran) — Walk-in · $$
+- [ ] Fritai (Tremé; Haitian) — Walk-in · $$
+- [ ] Queen Trini Lisa (Mid-City; Trinidadian) — Walk-in · $
+- [ ] Bearcat (Uptown / CBD) — Walk-in · $$
+- [ ] Cavan? — CLOSED
+- [ ] Sac-a-lait — CLOSED
+
+### Classics & must-visits
+- [ ] Dooky Chase's (Tremé; Leah Chase, since 1941) — JBF America's Classic · OpenTable · $$
+- [ ] Mother's (Poydras; debris po'boy, since 1938) — Walk-in · $
+- [ ] Central Grocery (Decatur; the muffuletta, since 1906) — Walk-in · $
+- [ ] Casamento's (Magazine St; oyster loaf, closed summers) — Walk-in · $$
+- [ ] Mandina's (Mid-City; since 1932) — Walk-in · $$
+- [ ] Liuzza's by the Track (Fair Grounds; BBQ shrimp po'boy) — Walk-in · $$
+- [ ] Liuzza's Restaurant & Bar (Mid-City; the frosted schooner) — Walk-in · $$
+- [ ] Pascal's Manale (Uptown; BBQ shrimp invented here, 1913) — OpenTable · $$$
+- [ ] Jacques-Imo's (Carrollton; the alligator cheesecake) — Walk-in · $$$
+- [ ] Tujague's (Decatur; since 1856) — OpenTable · $$$
+- [ ] Mr. B's Bistro (Royal St; BBQ shrimp, bib provided) — OpenTable · $$$
+- [ ] Palace Café (Canal St; the Brennans) — OpenTable · $$$
+- [ ] Dickie Brennan's Steakhouse — OpenTable · $$$$
+- [ ] Muriel's (Jackson Square; the séance lounge) — OpenTable · $$$
+- [ ] Court of Two Sisters (jazz brunch) — OpenTable · $$$
+- [ ] Acme Oyster House (Iberville; the line) — Walk-in · $$
+- [ ] Felix's (Iberville; across the street, no line) — Walk-in · $$
+- [ ] Drago's (Hilton; charbroiled oysters invented here) — OpenTable · $$
+- [ ] Deanie's (Bucktown / French Quarter; the seafood platter) — Walk-in · $$
+- [ ] Bon Ton Café (Magazine St; Cajun since 1953) — OpenTable · $$$
+- [ ] Gautreau's (Uptown; the pharmacy) — OpenTable · $$$$
+- [ ] Upperline (Uptown; JoAnn Clevenger's rooms) — OpenTable · $$$
+- [ ] Brigtsen's (Riverbend; Frank Brigtsen) — JBF · OpenTable · $$$
+- [ ] Dante's Kitchen? — CLOSED
+- [ ] Boucherie (Carrollton) — OpenTable · $$
+- [ ] Ye Olde College Inn (Carrollton) — Walk-in · $$
+- [ ] Camellia Grill (Carrollton; the counter since 1946) — Walk-in · $
+- [ ] Parasol's (Irish Channel; roast beef) — Walk-in · $
+- [ ] Tracey's (Irish Channel; the other roast beef) — Walk-in · $
+- [ ] Guy's Po-Boys (Uptown) — Walk-in · $
+- [ ] Mahony's (Uptown; fried oyster and bacon) — Walk-in · $
+- [ ] Johnny's Po-Boys (French Quarter) — Walk-in · $
+- [ ] Verti Marte (French Quarter; the All That Jazz, 24 hours) — Walk-in · $
+- [ ] R&O's (Bucktown; roast beef and seafood) — Walk-in · $$
+- [ ] Bevi Seafood Co. (Mid-City; boiled crawfish in season) — Walk-in · $$
+- [ ] Cajun Seafood (Claiborne; boiled, by the pound) — Walk-in · $
+- [ ] Clesi's (Mid-City; crawfish) — Walk-in · $$
+- [ ] Seither's (Harahan; the boil) — Walk-in · $$
+- [ ] Dong Phuong (New Orleans East; bánh mì and king cake) — JBF America's Classic · Walk-in · $
+- [ ] Tan Dinh (Gretna; Vietnamese) — Walk-in · $$
+- [ ] Pho Tau Bay (Tulane Ave) — Walk-in · $
+- [ ] Nine Roses (Gretna) — Walk-in · $$
+- [ ] Ba Chi Canteen (Uptown; bacos) — Walk-in · $
+- [ ] Lil' Dizzy's Café (Tremé; the Baquets) — Walk-in · $$
+- [ ] Neyow's Creole Café (Mid-City) — Walk-in · $$
+- [ ] Heard Dat Kitchen (Central City) — Walk-in · $
+- [ ] Two Sisters? — ? · $
+- [ ] Bennachin (French Quarter; West African) — Walk-in · $$
+- [ ] Café Reconcile (Central City) — Walk-in · $
+- [ ] Katie's (Mid-City) — Walk-in · $$
+- [ ] Piece of Meat (Mid-City; the butcher's sandwiches) — Walk-in · $$
+- [ ] Bao & Noodle? — ? · $$
+- [ ] Red's Chinese? — CLOSED
+- [ ] Coop's Place (Decatur; rabbit jambalaya, cash) — Walk-in · $
+- [ ] Port of Call (Esplanade; the burger and the baked potato) — Walk-in · $$
+- [ ] Bud's Broiler (charbroiled since 1952) — Walk-in · $
+- [ ] The Joint (Bywater; barbecue) — Walk-in · $$
+- [ ] Blue Oak BBQ (Mid-City) — Walk-in · $$
+- [ ] Frey Smoked Meat Co.? — ? · $$
+- [ ] Peacemaker? — CLOSED
+- [ ] The Munch Factory (Gentilly) — Walk-in · $$
+- [ ] Ajun Cajun? (Riverbend) — ? · $
+- [ ] Stein's Market & Deli (Magazine St) — Walk-in · $
+- [ ] Pizza Delicious (Bywater) — Walk-in · $
+- [ ] Domenica (Roosevelt Hotel) — OpenTable · $$
+- [ ] Pizza Domenica (Uptown) — OpenTable · $$
+- [ ] Adolfo's (Frenchmen; upstairs, cash) — Walk-in · $$
+- [ ] Irene's (French Quarter; the garlic) — OpenTable · $$$
+- [ ] Mosca's (Westwego; the drive, oysters Mosca) — Walk-in · $$$
+
+## Brunch spots (50)
+
+- [ ] Commander's Palace jazz brunch — OpenTable · $$$$
+- [ ] Brennan's breakfast (bananas Foster, eggs Hussarde) — OpenTable · $$$$
+- [ ] Atchafalaya (the Bloody Mary bar) — MR · OpenTable · $$$
+- [ ] Molly's Rise and Shine — MR · Walk-in · $$
+- [ ] Elizabeth's (Bywater; praline bacon) — Walk-in · $$
+- [ ] Willa Jean (CBD; the biscuits) — Resy · Amex ✓ · $$
+- [ ] Ruby Slipper (multiple; the eggs) — Walk-in · $$
+- [ ] Toast (Uptown / Gentilly) — Walk-in · $$
+- [ ] Surrey's (Magazine St; the juice) — Walk-in · $$
+- [ ] Bearcat — Walk-in · $$
+- [ ] Satsuma Café — Walk-in · $$
+- [ ] Horn's (Marigny) — Walk-in · $$
+- [ ] Café du Monde (beignets at dawn) — Walk-in · $
+- [ ] Camellia Grill — Walk-in · $
+- [ ] Cake Café? — CLOSED
+- [ ] Bywater Bakery (the king cake, the brunch) — JBF 2026 semifinalist · Walk-in · $
+- [ ] Stein's Market & Deli — Walk-in · $
+- [ ] Biscuits & Buns on Banks (Mid-City) — Walk-in · $$
+- [ ] Wakin' Bakin' (Mid-City / Uptown) — Walk-in · $
+- [ ] Katie's Sunday brunch — Walk-in · $$
+- [ ] Ralph's on the Park (City Park) — OpenTable · $$$
+- [ ] Café Degas — OpenTable · $$
+- [ ] The Court of Two Sisters jazz brunch — OpenTable · $$$
+- [ ] Arnaud's Sunday jazz brunch — OpenTable · $$$$
+- [ ] Antoine's jazz brunch — OpenTable · $$$$
+- [ ] Muriel's jazz brunch — OpenTable · $$$
+- [ ] Café Amelie — OpenTable · $$$
+- [ ] Sylvain brunch — Resy · Amex ✓ · $$
+- [ ] Justine brunch — Resy · Amex ✓ · $$$
+- [ ] Compère Lapin brunch — Resy · Amex ✓ · $$$
+- [ ] Bywater American Bistro brunch — Resy · Amex ✓ · $$$
+- [ ] Jack Rose brunch — Resy · Amex ✓ · $$$
+- [ ] Saba brunch — Resy · Amex ✓ · $$$
+- [ ] Mister Mao brunch — Resy · Amex ✓ · $$
+- [ ] Turkey and the Wolf (lunch, really) — Walk-in · $$
+- [ ] Two Chicks Café — ? · $$
+- [ ] Bearcat Uptown — Walk-in · $$
+- [ ] The Vintage (beignets and bubbles) — Walk-in · $$
+- [ ] Levee Baking Co. — Walk-in · $
+- [ ] Ayu Bakehouse — Walk-in · $
+- [ ] Gracious Bakery — Walk-in · $
+- [ ] La Boulangerie — Walk-in · $
+- [ ] Mother's breakfast (grits and debris) — Walk-in · $
+- [ ] Lil' Dizzy's Café — Walk-in · $$
+- [ ] Dooky Chase's lunch buffet (Tremé) — JBF America's Classic · Walk-in · $$
+- [ ] Willie Mae's lunch — BIB · Walk-in · $
+- [ ] Country Club (Bywater; the pool brunch) — Resy · Amex ✓ · $$
+- [ ] Marigny Brasserie — OpenTable · $$
+- [ ] Ruby Slipper Marigny — Walk-in · $$
+- [ ] Josephine Estelle brunch (Ace Hotel) — OpenTable · $$$
+
+## Off-beat & only-in-New Orleans (50)
+
+- [ ] Café du Monde at 3am (Decatur) — Walk-in · $
+- [ ] Central Grocery (the muffuletta, since 1906) — Walk-in · $
+- [ ] Domilise's (Uptown; since 1918) — BIB · Walk-in · $
+- [ ] Parkway Bakery & Tavern (Mid-City; since 1911) — BIB · Walk-in · $
+- [ ] Willie Mae's (the fried chicken) — BIB · Walk-in · $
+- [ ] Dooky Chase's (Tremé; Leah Chase's table) — JBF America's Classic · OpenTable · $$
+- [ ] Mother's (the debris) — Walk-in · $
+- [ ] Hansen's Sno-Bliz (Uptown; since 1939; the machine) — JBF America's Classic · Walk-in · $
+- [ ] Plum Street Snoballs (Carrollton) — Walk-in · $
+- [ ] Pandora's Snowballs (Carrollton) — Walk-in · $
+- [ ] Sal's Sno-Balls (Metairie) — Walk-in · $
+- [ ] Angelo Brocato's (Mid-City; gelato since 1905) — Walk-in · $
+- [ ] Verti Marte (24-hour deli, All That Jazz po'boy) — Walk-in · $
+- [ ] Coop's Place (cash, rabbit jambalaya) — Walk-in · $
+- [ ] Port of Call (the burger with the baked potato) — Walk-in · $$
+- [ ] Bud's Broiler — Walk-in · $
+- [ ] Dat Dog (Frenchmen / Freret; alligator sausage) — Walk-in · $
+- [ ] Lucky Dog carts (Bourbon St; since 1947) — Walk-in · $
+- [ ] Crabby Jack's (Jefferson Hwy; Jacques-Imo's lunch) — Walk-in · $
+- [ ] Liuzza's by the Track (BBQ shrimp po'boy) — Walk-in · $$
+- [ ] Casamento's (the oyster loaf; closed summers) — Walk-in · $$
+- [ ] Drago's (charbroiled oysters) — OpenTable · $$
+- [ ] Acme vs Felix's (the oyster argument, Iberville St) — Walk-in · $$
+- [ ] Mosca's (Westwego; a roadhouse since 1946) — Walk-in · $$$
+- [ ] Middendorf's (Manchac; thin-fried catfish, the drive) — Walk-in · $$
+- [ ] Rocky & Carlo's (Chalmette; mac and cheese with gravy) — Walk-in · $
+- [ ] Dong Phuong (New Orleans East; the king cake line) — JBF America's Classic · Walk-in · $
+- [ ] Manny Randazzo's (Metairie; king cake) — Walk-in · $
+- [ ] Haydel's Bakery (king cake) — Walk-in · $
+- [ ] Vaughan's Lounge on a Thursday (Bywater) — Walk-in · $
+- [ ] Maple Leaf on a Tuesday (Rebirth) — Walk-in · $
+- [ ] Bullet's on a Tuesday (Kermit Ruffins) — Walk-in · $
+- [ ] Preservation Hall (the 45-minute set) — $$
+- [ ] Frenchmen Street after 10pm — Walk-in · $
+- [ ] Tipitina's (Fess's bust) — $$
+- [ ] Second lines (Sunday afternoons; WWOZ's Takin' It to the Streets) — $
+- [ ] Commander's 25-cent martini lunch — OpenTable · $$$$
+- [ ] Galatoire's Friday lunch (the line starts at 8) — MR · OpenTable · $$$$
+- [ ] Antoine's 14 dining rooms (since 1840) — OpenTable · $$$$
+- [ ] Sazerac House (Canal St; the free museum, the free drink) — Walk-in · $
+- [ ] Southern Food & Beverage Museum (Central City) — $
+- [ ] Old Absinthe House (since 1807) — Walk-in · $
+- [ ] Lafitte's Blacksmith Shop (candlelight, 1722) — Walk-in · $
+- [ ] Napoleon House (Pimm's Cup) — Walk-in · $$
+- [ ] Carousel Bar (one rotation = 15 minutes) — Walk-in · $$
+- [ ] St. Roch Market (the food hall) — Walk-in · $
+- [ ] Auction House Market (CBD) — Walk-in · $
+- [ ] Pythian Market (CBD) — Walk-in · $
+- [ ] Crescent City Farmers Market (Saturdays) — Walk-in · $
+- [ ] Bayou Road (Addis NOLA, Coco Hut, the bookstore) — Walk-in · $
+- [ ] Algiers Point ferry (then Congregation Coffee) — Walk-in · $
+- [ ] Marjie's Grill (Mid-City) — Walk-in · $$
+- [ ] Alma Café (Bywater; Honduran breakfast) — Walk-in · $$
+- [ ] Fritai (Tremé; Haitian) — Walk-in · $$
+- [ ] Queen Trini Lisa (Trinidadian) — Walk-in · $
+
+## Bakeries (50)
+
+- [ ] Bywater Bakery (king cake, the neighborhood) — JBF 2026 semifinalist (Outstanding Bakery) · Walk-in · $
+- [ ] Lagniappe Bake House (Central City; Kaitlin Guerin) — JBF 2025 finalist · Walk-in · $
+- [ ] Levee Baking Co. (Uptown; Christina Balzebre) — JBF · Walk-in · $
+- [ ] Ayu Bakehouse (Marigny) — Walk-in · $
+- [ ] La Boulangerie (Magazine St; Link) — Walk-in · $
+- [ ] Gracious Bakery (multiple) — Walk-in · $
+- [ ] Willa Jean (CBD) — Resy · Amex ✓ · $$
+- [ ] Croissant d'Or (Ursulines; since 1983) — Walk-in · $
+- [ ] Dong Phuong (New Orleans East) — JBF America's Classic · Walk-in · $
+- [ ] Manny Randazzo's (Metairie; king cake) — Walk-in · $
+- [ ] Haydel's (king cake) — Walk-in · $
+- [ ] Gambino's (king cake, doberge) — Walk-in · $
+- [ ] Debbie Does Doberge / Bakery Bar (doberge cake) — Walk-in · $
+- [ ] Angelo Brocato's (cannoli, gelato) — Walk-in · $
+- [ ] Sucré (Magazine St; macarons) — Walk-in · $
+- [ ] Bittersweet Confections (Warehouse District) — Walk-in · $
+- [ ] Mayhew Bakery (Mid-City) — Walk-in · $
+- [ ] Breads on Oak (Carrollton; vegan bakery) — Walk-in · $
+- [ ] District Donuts (Magazine St) — Walk-in · $
+- [ ] Blue Dot Donuts (Mid-City) — Walk-in · $
+- [ ] Tastee Donuts (the local chain) — Walk-in · $
+- [ ] Café du Monde (beignets) — Walk-in · $
+- [ ] Morning Call — Walk-in · $
+- [ ] Loretta's Authentic Pralines (Marigny; praline beignets) — Walk-in · $
+- [ ] Aunt Sally's Pralines (French Quarter) — Walk-in · $
+- [ ] Southern Candymakers (Decatur) — Walk-in · $
+- [ ] Leidenheimer (the po'boy loaf; wholesale, but know the name) — $
+- [ ] Gendusa's? (Gentilly; the other loaf) — ? · $
+- [ ] Bellegarde Bakery (wholesale; the bread at every good restaurant) — $
+- [ ] Bearcat's pastry counter — Walk-in · $$
+- [ ] Molly's Rise and Shine pastries — MR · Walk-in · $$
+- [ ] Piety and Desire Chocolate (Mid-City; bean to bar) — Walk-in · $
+- [ ] Bittersweet's king cake — Walk-in · $
+- [ ] Cake Café — CLOSED
+- [ ] Maurice French Pastries (Metairie) — Walk-in · $
+- [ ] Nonna Randazzo's (Chalmette / Covington) — Walk-in · $
+- [ ] Adrian's Bakery (Gentilly) — Walk-in · $
+- [ ] Antoine's Famous Cakes (Gretna) — Walk-in · $
+- [ ] Bakery Bar (doberge and cocktails) — Walk-in · $
+- [ ] Shake Sugary (Bywater) — Walk-in · $
+- [ ] Baker's Dozen? — ? · $
+- [ ] Hi-Do Bakery (Terrytown; the king cake) — Walk-in · $
+- [ ] Rouses king cake (the grocery store one) — Walk-in · $
+- [ ] Cafe Beignet — Walk-in · $
+- [ ] Sofia's? — ? · $
+- [ ] Bread & Circus Provisions? (Lafayette; the drive) — ? · $$
+- [ ] Simone's Market? — ? · $
+- [ ] Toast pastries — Walk-in · $$
+- [ ] Mister Gregory's (French pastries, Rampart) — Walk-in · $
+- [ ] The Vintage (beignets) — Walk-in · $$
+
+## Dessert bars & sweets (50)
+
+- [ ] Hansen's Sno-Bliz (Uptown; since 1939) — JBF America's Classic · Walk-in · $
+- [ ] Plum Street Snoballs — Walk-in · $
+- [ ] Pandora's Snowballs — Walk-in · $
+- [ ] Sal's Sno-Balls — Walk-in · $
+- [ ] Angelo Brocato's (spumoni, cannoli) — Walk-in · $
+- [ ] Creole Creamery (Uptown; the Tchoupitoulas challenge) — Walk-in · $
+- [ ] La Divina Gelateria (Magazine St) — Walk-in · $
+- [ ] Sucré — Walk-in · $
+- [ ] Bittersweet Confections — Walk-in · $
+- [ ] Piety and Desire Chocolate — Walk-in · $
+- [ ] Bakery Bar (doberge) — Walk-in · $
+- [ ] Bananas Foster at Brennan's (tableside) — OpenTable · $$$$
+- [ ] Bread pudding soufflé at Commander's — OpenTable · $$$$
+- [ ] Baked Alaska at Antoine's — OpenTable · $$$$
+- [ ] Beignets at Café du Monde — Walk-in · $
+- [ ] Beignets at Morning Call — Walk-in · $
+- [ ] Praline beignets at Loretta's — Walk-in · $
+- [ ] Pralines at Aunt Sally's — Walk-in · $
+- [ ] Pralines at Southern Candymakers — Walk-in · $
+- [ ] Leah's Pralines (French Quarter) — Walk-in · $
+- [ ] Laura's Candies (French Quarter; since 1913) — Walk-in · $
+- [ ] King cake at Dong Phuong (season only) — Walk-in · $
+- [ ] King cake at Manny Randazzo's — Walk-in · $
+- [ ] King cake at Bywater Bakery — Walk-in · $
+- [ ] Doberge at Gambino's — Walk-in · $
+- [ ] Hubig's Pies (they're back) — Walk-in · $
+- [ ] Ice cream at Bywater American Bistro — Resy · Amex ✓ · $$
+- [ ] Sweet Bird? — ? · $
+- [ ] Frozen custard at Ted's? — ? · $
+- [ ] Dessert at Saint-Germain — ★ · Tock · $$$$
+- [ ] Dessert at Emeril's — ★★ · Tock · $$$$
+- [ ] Toasted pineapple rum cake at Compère Lapin — MR · Resy · $$$
+- [ ] Lemon icebox pie at Clancy's — MR · Resy · $$$
+- [ ] Pecan pie at Camellia Grill — Walk-in · $
+- [ ] Bread pudding at Mother's — Walk-in · $
+- [ ] Bread pudding at Bon Ton — OpenTable · $$$
+- [ ] Beignets at Café Beignet — Walk-in · $
+- [ ] Frozen Irish coffee at Erin Rose / Molly's — Walk-in · $
+- [ ] Freret Beer Room? — CLOSED
+- [ ] Meltdown Popsicles (Bywater / French Quarter) — Walk-in · $
+- [ ] Tee-Eva's Old Fashioned Pies & Pralines (Uptown) — Walk-in · $
+- [ ] Imperial Woodpecker Sno-Balls (Uptown) — Walk-in · $
+- [ ] District Donuts — Walk-in · $
+- [ ] Blue Dot Donuts — Walk-in · $
+- [ ] Rue de la Course's cake case — Walk-in · $
+- [ ] The Chocolate Crocodile? — ? · $
+- [ ] Bittersweet's hot chocolate — Walk-in · $
+- [ ] Piety and Desire's drinking chocolate — Walk-in · $
+- [ ] Bananas Foster at Arnaud's — OpenTable · $$$$
+- [ ] White chocolate bread pudding at Palace Café — OpenTable · $$$
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Commander's Palace (the turquoise house) — OpenTable · $$$$
+- [ ] Galatoire's Friday lunch — MR · OpenTable · $$$$
+- [ ] Antoine's — OpenTable · $$$$
+- [ ] Arnaud's (the jazz bistro, the Mardi Gras museum) — OpenTable · $$$$
+- [ ] Brennan's (pink, the courtyard) — OpenTable · $$$$
+- [ ] Restaurant August — MR · OpenTable · $$$$
+- [ ] Emeril's — ★★ · Tock · Amex ✓ · $$$$
+- [ ] Chemin à la Mer (Four Seasons) — Resy · Amex ✓ · $$$$
+- [ ] Miss River (Four Seasons) — Resy · Amex ✓ · $$$$
+- [ ] Chandelier Bar (Four Seasons) — Walk-in · $$$
+- [ ] Jack Rose (Pontchartrain Hotel; the wallpaper) — Resy · Amex ✓ · $$$
+- [ ] Hot Tin — Walk-in · $$
+- [ ] Bar Marilou — SevenRooms · $$$
+- [ ] Justine (the brasserie, the projections) — Resy · Amex ✓ · $$$
+- [ ] The Elysian Bar — Resy · Amex ✓ · $$
+- [ ] Sazerac Bar — Walk-in · $$
+- [ ] The Roosevelt's Fountain Lounge — Walk-in · $$
+- [ ] Carousel Bar — Walk-in · $$
+- [ ] Criollo (Hotel Monteleone) — OpenTable · $$$
+- [ ] Tableau (Jackson Square; Dickie Brennan) — OpenTable · $$$
+- [ ] Muriel's — OpenTable · $$$
+- [ ] Court of Two Sisters — OpenTable · $$$
+- [ ] Broussard's (the courtyard) — OpenTable · $$$
+- [ ] Mr. B's Bistro — OpenTable · $$$
+- [ ] Palace Café — OpenTable · $$$
+- [ ] Dickie Brennan's Steakhouse — OpenTable · $$$$
+- [ ] Doris Metropolitan (Chartres St; the dry-aged room) — OpenTable · $$$$
+- [ ] Desi Vega's Steakhouse — OpenTable · $$$$
+- [ ] La Boca (Warehouse District; Argentine) — OpenTable · $$$$
+- [ ] GW Fins (French Quarter; the fish) — OpenTable · $$$$
+- [ ] Marcello's? (Warehouse District; Italian wine room) — ? · $$$
+- [ ] Domenica — OpenTable · $$
+- [ ] Josephine Estelle (Ace Hotel) — OpenTable · $$$
+- [ ] Seaworthy (Ace Hotel; oysters) — OpenTable · $$$
+- [ ] Alto (Ace Hotel) — Walk-in · $$
+- [ ] Compère Lapin (Old No. 77) — MR · Resy · Amex ✓ · $$$
+- [ ] Copper Vine (Poydras) — OpenTable · $$
+- [ ] Pêche — MR · Resy · Amex ✓ · $$$
+- [ ] Cochon — BIB · Resy · Amex ✓ · $$$
+- [ ] Gianna — Resy · Amex ✓ · $$$
+- [ ] The Columns (the porch) — Resy · Amex ✓ · $$
+- [ ] Gautreau's — OpenTable · $$$$
+- [ ] Clancy's — MR · Resy · Amex ✓ · $$$
+- [ ] Upperline — OpenTable · $$$
+- [ ] Jacques-Imo's (the truck bed table) — Walk-in · $$$
+- [ ] Bacchanal (the yard) — Walk-in · $$
+- [ ] Country Club (Bywater; the pool) — Resy · Amex ✓ · $$
+- [ ] Dakar NOLA — MR · Tock · Amex ✓ · $$$$
+- [ ] Mosquito Supper Club — Tock · Amex ✓ · $$$$
+- [ ] Saint-Germain — ★ · Tock · Amex ✓ · $$$$
+- [ ] Zasu — ★ · Resy · Amex ✓ · $$$$
+- [ ] The Bombay Club — OpenTable · $$
+
+## Dance clubs & nightlife (50)
+
+- [ ] Tipitina's (Uptown; since 1977) — $$
+- [ ] Preservation Hall (French Quarter) — $$
+- [ ] Maple Leaf Bar (Carrollton) — Walk-in · $
+- [ ] The Spotted Cat (Frenchmen) — Walk-in · $
+- [ ] d.b.a. (Frenchmen) — Walk-in · $
+- [ ] Snug Harbor (Frenchmen) — $$
+- [ ] Blue Nile (Frenchmen) — Walk-in · $
+- [ ] The Maison (Frenchmen) — Walk-in · $
+- [ ] Three Muses (Frenchmen) — Walk-in · $$
+- [ ] Café Negril (Frenchmen; reggae) — Walk-in · $
+- [ ] Vaso (Frenchmen) — Walk-in · $
+- [ ] Apple Barrel (Frenchmen; tiny) — Walk-in · $
+- [ ] Bamboula's (Frenchmen) — Walk-in · $
+- [ ] The Howlin' Wolf (Warehouse District) — $$
+- [ ] Republic NOLA (Warehouse District) — $$
+- [ ] Joy Theater (Canal St) — $$
+- [ ] The Fillmore (Harrah's) — $$
+- [ ] Saenger Theatre (Canal St) — $$$
+- [ ] Orpheum Theater — $$$
+- [ ] Civic Theatre (O'Keefe) — $$
+- [ ] House of Blues (Decatur; the Gospel brunch) — $$
+- [ ] One Eyed Jacks (Toulouse St) — $$
+- [ ] The Metropolitan? (Warehouse District; the megaclub) — ? · $$
+- [ ] Masquerade (Harrah's) — $$
+- [ ] Bourbon Pub & Parade (the gay dance floor, since 1974) — Walk-in · $
+- [ ] Oz (Bourbon St) — Walk-in · $
+- [ ] Café Lafitte in Exile (Bourbon St; since 1933) — Walk-in · $
+- [ ] Good Friends Bar (Dauphine St) — Walk-in · $
+- [ ] The Phoenix (Marigny) — Walk-in · $
+- [ ] Country Club (Bywater) — Resy · Amex ✓ · $$
+- [ ] The AllWays Lounge (St. Claude; burlesque) — Walk-in · $
+- [ ] Hi-Ho Lounge (St. Claude) — Walk-in · $
+- [ ] Siberia (St. Claude) — Walk-in · $
+- [ ] Saturn Bar (St. Claude) — Walk-in · $
+- [ ] Poor Boys (St. Claude) — Walk-in · $
+- [ ] Kajun's Pub (St. Claude; karaoke) — Walk-in · $
+- [ ] Vaughan's Lounge (Bywater) — Walk-in · $
+- [ ] BJ's Lounge (Bywater) — Walk-in · $
+- [ ] Bullet's Sports Bar (Seventh Ward) — Walk-in · $
+- [ ] Kermit's Tremé Mother-in-Law Lounge — Walk-in · $
+- [ ] Candlelight Lounge (Tremé) — Walk-in · $
+- [ ] Chickie Wah Wah (Mid-City) — $
+- [ ] The Broadside (Mid-City) — $
+- [ ] Rock 'n' Bowl (Carrollton; zydeco on Thursdays) — Walk-in · $
+- [ ] Le Bon Temps Roulé (Uptown) — Walk-in · $
+- [ ] F&M Patio Bar (Uptown) — Walk-in · $
+- [ ] The Boot (Uptown) — Walk-in · $
+- [ ] Gasa Gasa (Freret) — $
+- [ ] Toulouse Theatre? — ? · $$
+- [ ] Music Box Village (Bywater; the musical houses) — $$
+- [ ] The Dungeon (Bourbon St) — Walk-in · $
+- [ ] Santos Bar (Decatur) — Walk-in · $
+- [ ] The Dragon's Den? — CLOSED
+- [ ] Circle Bar — CLOSED

@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+ITINS = [
+ {"key":"one-day","title":"One day","deck":"French Quarter to Bywater, on foot and by streetcar. Beignets at dawn, a two-star at eight.",
+  "who":"One day, walkable in the Quarter and the Marigny; the streetcar for Uptown. Book one dinner.",
+  "book":"Book one thing: dinner at Emeril's (Tock) — or Pêche (Resy) if it's gone.",
+  "days":[{"label":"The day","stops":[
+   ("7:30","Café du Monde (Decatur)","Beignets and a café au lait before the line forms. Walk-in, cash, 24 hours; the powdered sugar is the point."),
+   ("9:00","The French Quarter on foot","Royal Street's galleries and Jackson Square, then Central Grocery for a quarter muffuletta to carry."),
+   ("11:30","Acme or Felix's (Iberville St)","A dozen raw and a dozen charbroiled. Felix's has no line and the same oysters."),
+   ("1:30","Frenchmen Street by day","Walk the Marigny; Baldwin & Co. for a coffee among the books, Loretta's for a praline beignet."),
+   ("3:30","Bacchanal (Bywater)","Pick a bottle inside, take it to the yard, order the cheese plate. Live music starts around four; Crescent Park's river view is five minutes away."),
+   ("5:30","Jewel of the South (French Quarter)","Chris Hannah's bar — a Brandy Crusta where it was invented. Then Napoleon House for a Pimm's Cup if there's time."),
+   ("8:00","Emeril's (Warehouse District) or Pêche","E.J. Lagasse's two-star tasting, or Link's wood-fired whole fish. Both walkable from the Quarter."),
+   ("10:30","The Spotted Cat or d.b.a. (Frenchmen)","Traditional jazz in a room the size of a living room; no cover, one-drink minimum. The Maple Leaf if it's a Tuesday.")]}]},
+ {"key":"three-day","title":"Three days","deck":"The Quarter, then Uptown by streetcar, then the Bywater and Tremé. Six meals that explain the city.",
+  "who":"Three days, one neighborhood a day. Book two dinners and one lunch.",
+  "book":"Book: Emeril's or Saint-Germain (Tock), Dakar NOLA (Tock), and Commander's Palace for the Friday or Saturday lunch (OpenTable).",
+  "days":[
+   {"label":"Day 1 — The Quarter and the Warehouse District","stops":[
+    ("8:00","Café du Monde","Beignets at the source; walk them off along the Moonwalk."),
+    ("10:00","Sazerac House (Canal St)","The free museum with a free drink at the end — the Sazerac, the Ramos, the Crusta explained."),
+    ("12:30","Cochon Butcher (Warehouse District)","Le Pig Mac and a muffuletta from the Bib-Gourmand butcher counter."),
+    ("3:00","Napoleon House, then the Carousel Bar","A Pimm's Cup in the courtyard, then one rotation of the Monteleone's bar."),
+    ("6:00","Cane & Table","Rum drinks in the courtyard before dinner."),
+    ("8:00","Emeril's or Saint-Germain","The two-star Creole tasting, or the one-star tasting in a Bywater house."),
+    ("10:30","Preservation Hall (St. Peter St)","The last set; 45 minutes, wooden benches, no drinks. Buy tickets ahead.")]},
+   {"label":"Day 2 — Uptown, by streetcar","stops":[
+    ("9:00","The St. Charles streetcar","Ride it from Canal to Audubon Park; get off for Domilise's at Bellecastle."),
+    ("11:00","Domilise's Po-Boy & Bar","Fried shrimp, dressed, on Leidenheimer bread, since 1918. A Bib in a barroom."),
+    ("1:00","Hansen's Sno-Bliz (Tchoupitoulas)","Cream of nectar on the 1939 machine. Cash; a James Beard America's Classic."),
+    ("3:00","Magazine Street","Walk from Napoleon toward Jackson: Sucré, Bar Pomona, the shops."),
+    ("5:30","Cure (Freret St)","The bar that started the city's cocktail revival in 2009; happy hour until seven."),
+    ("8:00","Dakar NOLA","Serigne Mbaye's Senegalese tasting — №6 in North America's 50 Best, a Beard finalist. Tock."),
+    ("10:30","Tipitina's or Le Bon Temps Roulé","Whoever's playing; the Soul Rebels on Thursdays at Le Bon Temps.")]},
+   {"label":"Day 3 — Tremé, Mid-City and the Bywater","stops":[
+    ("9:00","Willie Mae's (Tremé) or Lil' Dizzy's","Fried chicken for breakfast is legal here; Willie Mae's opens at eleven, so Lil' Dizzy's for the early start."),
+    ("11:30","Parkway Bakery & Tavern (Mid-City)","Roast beef debris po'boy on the patio by the bayou. Since 1911, a Bib."),
+    ("1:00","Angelo Brocato's (Carrollton Ave)","Spumoni and a cannoli, since 1905."),
+    ("2:30","Commander's Palace (Garden District)","The 25-cent martini lunch, if it's a weekday; jazz brunch on the weekend. Jackets for men."),
+    ("5:30","Bar Redux or Vaughan's (Bywater)","A neighborhood bar by the levee; Vaughan's on a Thursday for the brass band."),
+    ("8:00","Acamaya (Bywater)","Ana Castro's Mexican mariscos — a Bib and a Beard finalist. Resy."),
+    ("10:00","Bullet's Sports Bar (Seventh Ward)","Kermit Ruffins if it's Tuesday; a local room any night.")]}]},
+ {"key":"five-day","title":"Five days","deck":"The three-day plan, plus a day across the river and out of town, and a day for the institutions.",
+  "who":"Five days: three neighborhoods, one drive, one day of old New Orleans. Book three dinners.",
+  "book":"Add to the three-day bookings: Galatoire's Friday lunch (OpenTable, or the line at 8am), Mosquito Supper Club (Tock).",
+  "days":[
+   {"label":"Days 1–3","stops":[("—","The three-day plan","As above.")]},
+   {"label":"Day 4 — The drive","stops":[
+    ("9:00","Dong Phuong (New Orleans East)","Bánh mì and, in season, the king cake with the longest line in the city. A Beard America's Classic."),
+    ("12:00","Mosca's (Westwego) or Middendorf's (Manchac)","Oysters Mosca in a roadhouse since 1946, or thin-fried catfish over the swamp. Cash at Mosca's."),
+    ("3:00","Algiers Point","The ferry back across the river; Congregation Coffee on the Point."),
+    ("6:00","Bar Tonique (Rampart St)","The neighborhood cocktail bar; the daily special is always the order."),
+    ("8:00","Mosquito Supper Club (Uptown)","Melissa Martin's communal Cajun table; one seating, family style. Tock, weeks out.")]},
+   {"label":"Day 5 — The institutions","stops":[
+    ("8:00","Brennan's (Royal St)","Breakfast: eggs Hussarde, bananas Foster set alight at the table."),
+    ("11:30","Galatoire's (Bourbon St)","Friday lunch — the line, the jackets, the soufflé potatoes, the crabmeat maison. Stay until four."),
+    ("5:00","Arnaud's French 75 Bar","The bar where Chris Hannah made his name; a French 75 in the room it was named for."),
+    ("7:30","Antoine's","Fourteen dining rooms since 1840; oysters Rockefeller invented here, baked Alaska to finish."),
+    ("10:00","Lafitte's Blacksmith Shop","Candlelight in the oldest bar in the country, then the walk back down Bourbon.")]}]},
+]
+GOTCHAS = [
+ ("Tock for the tastings, Resy for the rooms, OpenTable for the institutions.", "Emeril's, Saint-Germain, Dakar NOLA, Mosquito Supper Club and the Kingsway sell tickets on Tock, often weeks out. Link, Shaya and the new guard run on Resy, 30 days out. Commander's, Galatoire's, Antoine's, Arnaud's and Brennan's are OpenTable — book Galatoire's Friday lunch or join the line on Bourbon Street at 8am."),
+ ("Jackets at the old rooms.", "Galatoire's after five and all day Sunday, Commander's at dinner, Arnaud's and Antoine's at night: jackets for men, no shorts anywhere. Lunch is more relaxed."),
+ ("Cash at the counters.", "Domilise's, Hansen's, Mosca's, Coop's, Verti Marte, the sno-ball stands and most of the Tremé bars are cash-first. Carry $60 on the po'boy day."),
+ ("The streetcar is the transit and the attraction.", "St. Charles for Uptown, Canal for Mid-City and the cemeteries, the Riverfront line along the Quarter. $1.25 a ride, exact change or the Le Pass app; it's slow and that's the point."),
+ ("Season matters.", "Crawfish from February to June; oysters best in the cold months; Casamento's closes for summer; king cake only from Twelfth Night to Mardi Gras. Late summer is hot enough that half the city's chefs go on vacation."),
+ ("Frenchmen, not Bourbon.", "Bourbon Street is for one drink and a look. The music is on Frenchmen Street — no cover, one-drink minimums, tip the band — and in the neighborhood bars: Maple Leaf on Tuesdays, Vaughan's and Le Bon Temps on Thursdays, Bullet's on Tuesdays."),
+ ("Tipping and the go-cup.", "Twenty percent is the floor; many rooms add a service charge now, so read the check. You can carry a drink out of any bar in a plastic cup — but not a glass one."),
+ ("The Amex credit.", "Resy runs the Platinum dining credit; Pêche, Herbsaint, Cochon, Saba, Acamaya and the Compère Lapin family all book through it. Tock and OpenTable rooms don't count."),
+]
