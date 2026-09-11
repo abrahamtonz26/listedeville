@@ -1,0 +1,36 @@
+# Honor Roll — Los Angeles. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against Michelin California 2026, Eater LA, the LA Times 101 and Google ratings/reviews.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A shrimp-taco truck in Boyle Heights, a starred counter inside a food hall, a 24-hour Koreatown stew house and a three-star seafood room, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Los Angeles is where the Guide finally learned to give stars to food halls and Bibs to taco stands, and the city eats best where the parking is worst. These ten are where Michelin, the LA Times critics and tens of thousands of Google reviews all point the same way, and where the food, not the scene, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Providence (Hollywood; Michael Cimarusti; since 2005) — ★★★ · GS · Tock · Amex ✓ · $$$$",
+      why="Michael Cimarusti's seafood tasting menu has been the city's most serious kitchen for twenty years and finally holds three stars, plus a Green Star for how the fish is sourced. Restraint, technique, and a plate of California seafood that no one else here can match.",
+      order="The tasting, with the uni and caviar supplement if it's offered. The 'ugly bunch' tuna course and the whole-fish preparations are the ones people remember."),
+ dict(raw="- [ ] Kato (Arts District; Jon Yao; promoted 2026) — ★★ · Tock · Amex ✓ · $$$$",
+      why="Jon Yao's Taiwanese-American tasting menu was promoted to two stars this year and is the most personal fine dining in the city: night-market memories reworked with Californian produce, in a minimal room off Alameda. The bar takes walk-ins for a shorter menu.",
+      order="The tasting at the table; at the bar, the toasted honey-garlic bread and whatever the sour-cabbage fish course is that season. The guava shaved ice to finish."),
+ dict(raw="- [ ] Holbox (Historic South Central; Yucatecan seafood, Mercado La Paloma) — ★ · Resy · Amex ✓ · $$",
+      why="Gilberto Cetina's Yucatecan seafood counter inside a South Central food hall holds a Michelin star and a 4.8 on Google from three thousand people — a combination no other restaurant on any of these rolls can claim. Ceviches, aguachiles and tacos of a quality that shouldn't exist under fluorescent lights.",
+      order="The kanpachi taco and the octopus taco, the scallop aguachile, the tuna tostada, and the caldo de mariscos if you're staying. Ask for the hot sauces — they're kept at the counter."),
+ dict(raw="- [ ] Osteria Mozza (Melrose; Nancy Silverton) — ★ · Resy · Amex ✓ · $$$",
+      why="Nancy Silverton's mozzarella bar has kept its star for over a decade by doing the same things perfectly: fresh cheeses at the counter, hand-made pasta, bread that reminds you she invented La Brea. The most consistent starred room in Los Angeles.",
+      order="Start at the mozzarella bar — the burrata and the burricotta with spiced walnuts — then the ricotta-and-egg raviolo and the butternut-squash tortelloni. Olive-oil cake to finish."),
+ dict(raw="- [ ] Sonoratown (DTLA / Mid-City; flour tortillas) — BIB · NEW 2026 · Walk-in · $",
+      why="A Sonoran taquería downtown whose flour tortillas — thin, blistered, hand-pressed from flour brought up from Mexico — are the single best thing to eat for under five dollars in Los Angeles. New to the Bib list this year and overdue.",
+      order="Tacos de asada and the chorizo burrito, then the chivichanga (a griddled burrito) with the braised beef. Coconut horchata."),
+ dict(raw="- [ ] Mariscos Jalisco (Boyle Heights; the shrimp taco truck) — Walk-in · $",
+      why="A truck on Olympic Boulevard that has served one dish since 2001: a fried shrimp taco, crisp shell, soft filling, drowned in salsa and avocado. Every food critic in the city has called it the best taco in Los Angeles at least once. Cash only.",
+      order="Two tacos de camarón and the Poseidon tostada (shrimp, octopus and ceviche). The shrimp ceviche tostada if you're still hungry."),
+ dict(raw="- [ ] Langer's Deli (Westlake; the #19, since 1947) — BIB · Walk-in · $$",
+      why="The pastrami argument with New York is settled here: hand-cut, steamed for hours, on double-baked rye with a crust that cracks, since 1947. The #19 — pastrami, Swiss, coleslaw, Russian dressing — is the one sandwich every Angeleno agrees on.",
+      order="The #19 and a bowl of matzo ball soup. Purists get the pastrami plain on rye. Closes at four; go for lunch."),
+ dict(raw="- [ ] Anajak Thai (Sherman Oaks; Taco Tuesday) — BIB · JBF 2024 Best Chef California finalist · Resy · Amex ✓ · $$$",
+      why="Justin Pichetrungsi turned his family's Valley Thai restaurant into the most exciting table in the city — a Bib, a Beard finalist, a natural-wine list, and a Tuesday night when the whole menu becomes Thai-spiced tacos. The fried chicken alone justifies the drive over the hill.",
+      order="The southern Thai fried chicken, the crab fried rice and the papaya salad any night; on Thai Taco Tuesday, the bass tacos and the fish tostada. Book the day reservations open."),
+ dict(raw="- [ ] Sun Nong Dan (Koreatown; galbi jjim, 24h) — BIB · Walk-in · $$",
+      why="Open twenty-four hours on Western Avenue, with a line at midnight for one dish: galbi jjim, short ribs braised in a spicy sweet-soy broth with rice cakes, arriving in a cast-iron pan and, if you ask, under a torched cap of cheese. Koreatown's most beloved feast.",
+      order="The galbi jjim, medium spicy, with the cheese, for two or more. The seolleongtang (ox-bone soup) for one, at any hour."),
+ dict(raw="- [ ] Pizzeria Bianco LA (Arts District; Chris Bianco) — BIB · Resy · Amex ✓ · $$",
+      why="Chris Bianco brought the most famous pizza oven in America from Phoenix to the Arts District, and the pies are the same — thin, blistered, dressed with restraint — with a Bib to prove Michelin noticed. Lunch, no line, is the secret.",
+      order="The Rosa (red onion, rosemary, pistachio) and the Margherita, a bowl of the beans with burrata to start. Don't skip the gnocchi."),
+]
