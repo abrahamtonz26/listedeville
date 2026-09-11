@@ -1,0 +1,71 @@
+# -*- coding: utf-8 -*-
+ITINS = [
+ {"key":"one-day","title":"One day","deck":"Breakfast tacos, a Bib barbecue line, Bellaire at night. One day in the most diverse food city in America.",
+  "who":"One day, by car — Houston doesn't walk. Book one dinner.",
+  "book":"Book one thing: dinner at Nancy's Hustle or Street to Kitchen (Resy) — or March (Tock) if you're splurging.",
+  "days":[{"label":"The day","stops":[
+   ("7:30","Villa Arcos (East End)","Breakfast tacos on flour tortillas since 1977; the line moves. Then Laredo Taqueria on Washington if you're still hungry."),
+   ("9:30","Houston Farmers Market (Airline Dr)","Papalo Taqueria (a Bib), the produce halls, Underbelly Burger for later. The most Houston hour of the day."),
+   ("11:00","Truth BBQ or The Pit Room","Get in line by eleven at Truth (Heights) for brisket and the beef rib; or the Pit Room in Montrose, where the tortillas are made with brisket fat. Both are Bibs."),
+   ("2:00","Menil Collection, then Blacksmith","The free museum; then a Vietnamese coffee and the steak-and-eggs at Blacksmith on Westheimer."),
+   ("5:00","Anvil Bar & Refuge (Montrose)","Bobby Heugel's bar — the 100-list cocktails, the reason Houston drinks well. Walk-in; early is the move."),
+   ("7:30","Nancy's Hustle (EaDo) or Street to Kitchen (East End)","The Hustle Bread and the tartare, or Benchawan Painter's Beard-winning Thai. Both Bibs, both Resy."),
+   ("10:00","Bellaire Boulevard","Sinh Sinh for Cantonese at midnight, or Pho Binh's trailer if it's still open. The last stop is always Asiatown.")]}]},
+ {"key":"three-day","title":"Three days","deck":"Barbecue, Asiatown, the starred rooms. Three days that cover the three Houstons.",
+  "who":"Three days by car. Book two dinners and one barbecue line.",
+  "book":"Book: March or Tatemó (Tock), Bludorn or Le Jardinier (Resy). Everything else is a line or a walk-in.",
+  "days":[
+   {"label":"Day 1 — Montrose and the Heights","stops":[
+    ("8:00","Blacksmith (Montrose)","Vietnamese steak and eggs, a cortado, the courtyard."),
+    ("10:30","Truth BBQ (Heights)","The line for the Bib brisket; get there before it opens at eleven. Beef rib, brisket, tres leches."),
+    ("1:30","Common Bond or Morningstar","A pastry to walk off the barbecue; Morningstar's donuts if it's the Heights."),
+    ("4:00","Better Luck Tomorrow (Heights)","Justin Yu and Bobby Heugel's neighborhood bar; the snacks are a Bib chef's."),
+    ("6:00","Julep (Washington Ave)","Alba Huerta's Southern cocktails; the julep list is the point."),
+    ("8:00","Bludorn (Montrose) or Rosie Cannonball","Aaron Bludorn's Michelin-recommended room, or Goodnight's wood-fired Bib. Resy."),
+    ("10:30","Marfreless (River Oaks)","The blue door, no sign, since 1976. Quiet."),]},
+   {"label":"Day 2 — Asiatown and the East End","stops":[
+    ("9:00","Nam Giao (Bellaire)","Hue-style Vietnamese breakfast — bánh bèo, bún bò Huế — at a Bib that costs ten dollars."),
+    ("11:00","Hong Kong City Mall","The food court, the bakeries, the grocery; Ocean Palace for dim sum if you'd rather sit."),
+    ("1:00","Crawfish & Noodles (Bellaire)","Trong Nguyen's Viet-Cajun crawfish — the dish Houston invented. In season February to June; the salt-and-pepper blue crab otherwise."),
+    ("3:30","Blood Bros. BBQ (Bellaire)","Brisket fried rice and Thai green curry boudin from a Bib smokehouse. They sell out; go before four."),
+    ("6:00","Mala Sichuan Bistro (Montrose)","A Bib Sichuan room; the water-boiled fish and the cumin lamb."),
+    ("8:00","Street to Kitchen (East End)","Benchawan Painter's Thai, cooked at Bangkok strength. Resy."),
+    ("10:00","Moon Tower Inn (East End)","Hot dogs and a wall of beer in a yard by the tracks.")]},
+   {"label":"Day 3 — Downtown, the Museum District and the stars","stops":[
+    ("8:00","Laredo Taqueria (Washington Ave)","Breakfast tacos at the counter; the carne guisada."),
+    ("10:00","Museum of Fine Arts, then Le Jardinier","The Kinder building; Alain Verzeroli's starred vegetable-forward lunch inside the museum. Resy."),
+    ("2:00","Buffalo Bayou Cistern","The underground reservoir; book the tour."),
+    ("4:00","La Carafe (Market Square)","Candles, cash, the oldest bar in Houston. One drink."),
+    ("5:30","Tongue-Cut Sparrow (Downtown)","Upstairs from the Pastry War; the rules are posted, the drinks are exact."),
+    ("8:00","March (Montrose) or Tatemó (Spring Branch)","Felipe Riccio's Mediterranean tasting, or Emmanuel Chavez's eight-seat masa tasting. Tock, weeks out."),
+    ("10:30","The Continental Club (Midtown)","Whoever's on; the Big Top next door if it's full.")]}]},
+ {"key":"five-day","title":"Five days","deck":"The three-day plan, plus a barbecue pilgrimage north and a day of Hillcroft and the Third Ward.",
+  "who":"Five days by car. Book three dinners and one steakhouse.",
+  "book":"Add to the three-day bookings: Musaafer (Resy), Pappas Bros. (OpenTable), Killen's Steakhouse (OpenTable).",
+  "days":[
+   {"label":"Days 1–3","stops":[("—","The three-day plan","As above.")]},
+   {"label":"Day 4 — North: the starred smokehouse","stops":[
+    ("9:30","CorkScrew BBQ (Spring)","The barbecue joint with a Michelin star; the line forms before ten. Brisket, ribs, the sausage."),
+    ("12:30","Tejas Chocolate & Barbecue (Tomball)","A chocolate shop that became a Top 50 smokehouse; the carrot soufflé is the side."),
+    ("3:00","Killen's (Pearland) — the drive south","Ronnie Killen's beef rib at the barbecue, then the Bib steakhouse next door for dinner. OpenTable."),
+    ("7:30","Killen's Steakhouse (Pearland)","The dry-aged bone-in ribeye; a Bib for a steakhouse, which is rare."),
+    ("10:00","Neon Boots (Northwest)","The country dancehall; two-step lessons early, the floor late.")]},
+   {"label":"Day 5 — Hillcroft, the Third Ward and the old rooms","stops":[
+    ("9:00","Shri Balaji Bhavan (Hillcroft)","Dosas and filter coffee in the Mahatma Gandhi District."),
+    ("11:30","Himalaya (Hillcroft)","Kaiser Lashkari's Indo-Pakistani kitchen — a Beard semifinalist for years. The chicken hara masala and the biryani."),
+    ("2:00","Frenchy's (Third Ward)","Creole fried chicken since 1969; a two-piece and a side."),
+    ("4:00","This Is It Soul Food (Third Ward)","Oxtails and greens from the cafeteria line, since 1959."),
+    ("6:00","Bayou & Bottle (Four Seasons)","The bourbon library; a pre-dinner pour."),
+    ("8:00","Musaafer (Galleria) or Pappas Bros.","Mayank Istwal's starred Indian tasting in a room built like a palace, or the steakhouse with 3,000 wines. Resy / OpenTable."),
+    ("10:30","House of Pies (Kirby)","The Bayou Goo pie, 24 hours. The right end to Houston.")]}]},
+]
+GOTCHAS = [
+ ("You need a car.", "Houston is 665 square miles and the food is spread across all of it — Bellaire is twenty minutes from Montrose, Pearland forty, Spring an hour. Rideshare works inside the Loop; a rental is cheaper for two days or more. The light rail covers Downtown, Midtown and the Museum District only."),
+ ("Barbecue is a morning meal.", "Truth, the Pit Room, Pinkerton's, Blood Bros., Killen's and CorkScrew open at eleven and sell out of brisket by early afternoon. Be in line by 10:30 on weekends; weekdays are gentler. Order by the pound, and get the sides."),
+ ("Tock for the counters, Resy for the rooms, OpenTable for the Pappas family.", "March, Tatemó and Hidden Omakase sell tickets on Tock, weeks out. Bludorn, Le Jardinier, Musaafer, BCN and the Bibs are Resy, 30 days out. Pappas Bros., Hugo's, Xochi and the old rooms are OpenTable."),
+ ("Crawfish season.", "Viet-Cajun crawfish runs February to June; Crawfish & Noodles and Cajun Kitchen are the reason to come in spring. Outside the season, order the salt-and-pepper blue crab instead."),
+ ("Bellaire after dark.", "Asiatown runs late — Sinh Sinh until 2am, the boba shops until midnight, Pho Binh's trailer from dawn. It's a strip-mall city; park once per block and walk."),
+ ("Cash at the counters.", "Villa Arcos, Gerardo's, Tacos Tierra Caliente, La Carafe, Irma's and most of Hillcroft are cash-first. Carry $60 on the taco day."),
+ ("The heat.", "May to October, plan the outdoor stops — the ice houses, the beer gardens, the barbecue lines — for before eleven or after six. Everything indoors is over-air-conditioned; carry a layer."),
+ ("The Amex credit.", "Resy runs the Platinum dining credit; Bludorn, Le Jardinier, Musaafer, Nancy's Hustle, Rosie Cannonball, Squable and most of the Bibs book through it. Tock and OpenTable rooms don't count."),
+]

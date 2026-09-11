@@ -1,0 +1,820 @@
+# liste de ville / Houston — Fall/Winter 2026
+
+First edition · Cross-referenced against the Michelin Guide Texas (second edition, October 2025), the James Beard Foundation's 2026 awards, Texas Monthly's BBQ Top 50, the Houston Chronicle's Top 100, Houstonia, Eater Houston, Resy, OpenTable and Google.
+
+**Legend**
+- `[x]` = you've been
+- **★** = Michelin star (2025 Texas selection) · **BIB** = Bib Gourmand · **MR** = Michelin recommended · **TM50** = Texas Monthly Top 50 BBQ
+- **JBF 2026** = James Beard 2026 finalist or semifinalist (category noted) · **JBF** = past winner or nominee
+- **NEW** · **CLOSED** · **?** = verify before you go
+- **Resy / Tock / OpenTable / SevenRooms / Walk-in** · **Amex ✓** · **$–$$$$** · occasion chips (editorial)
+
+---
+
+## Cafés & all-day / chef's neighborhood spots (50)
+
+- [ ] Nancy's Hustle (EaDo; the Hustle Bread) — BIB · Resy · Amex ✓ · $$
+- [ ] Nobie's (Montrose) — BIB · Resy · Amex ✓ · $$
+- [ ] Rosie Cannonball (Montrose; wood-fired) — BIB · Resy · Amex ✓ · $$$
+- [ ] Theodore Rex (Warehouse District; Justin Yu) — BIB · Resy · Amex ✓ · $$$
+- [ ] Street to Kitchen (East End; Benchawan Painter's Thai) — BIB · JBF · Resy · Amex ✓ · $$
+- [ ] Da Gama Canteen (Heights; Indian-Portuguese) — BIB · Resy · Amex ✓ · $$
+- [ ] Máximo (Museum District; Mexican) — BIB · Resy · Amex ✓ · $$$
+- [ ] Annam (Autry Park; Vietnamese) — BIB · NEW · Resy · Amex ✓ · $$
+- [ ] ChòpnBlọk (Montrose; West African) — BIB · NEW · Resy · Amex ✓ · $$
+- [ ] Belly of the Beast (Spring; Thomas Bille) — BIB · Resy · Amex ✓ · $$$
+- [ ] Bar Bludorn (Montrose) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Agnes and Sherman (Heights) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Late August (Museum District; Chris Williams) — MR · Resy · Amex ✓ · $$$
+- [ ] Josephine's (Montrose; Gulf Coast) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Perseid (Hotel Saint Augustine) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Candente (Montrose; Tex-Mex) — MR · Resy · Amex ✓ · $$
+- [ ] Baso (Heights; Basque) — MR · Resy · Amex ✓ · $$$
+- [ ] Squable (Heights) — Resy · Amex ✓ · $$$
+- [ ] Coltivare (Heights; the garden) — Walk-in · $$$
+- [ ] Better Luck Tomorrow (Heights; Yu and Bobby Heugel) — Walk-in · $$
+- [ ] Anvil Bar & Refuge (Montrose) — Walk-in · $$
+- [ ] Riel (Montrose; Ryan Lachaine) — Resy · Amex ✓ · $$$
+- [ ] Tiny Champions (EaDo; pizza and natural wine) — Resy · Amex ✓ · $$
+- [ ] The Marigold Club (Montrose) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] March (Montrose; the tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Hugo's (Montrose; Hugo Ortega) — JBF 2026 semifinalist (Outstanding Restaurateur) · OpenTable · $$$
+- [ ] Xochi (Downtown; Oaxacan) — JBF · OpenTable · $$$
+- [ ] Urbe (Uptown; Mexican street food) — OpenTable · $$
+- [ ] Caracol (Uptown; Mexican coastal) — OpenTable · $$$
+- [ ] Backstreet Café (River Oaks; since 1983) — OpenTable · $$$
+- [ ] Ninfa's on Navigation (East End; the original fajita) — OpenTable · $$
+- [ ] Mala Sichuan Bistro (Montrose / Chinatown) — BIB · Walk-in · $$
+- [ ] Nam Giao (Bellaire; Hue-style Vietnamese) — BIB · Walk-in · $
+- [ ] Crawfish & Noodles (Bellaire; Trong Nguyen) — JBF · Walk-in · $$
+- [ ] Himalaya (Mahatma Gandhi District; Kaiser Lashkari) — JBF · Walk-in · $$
+- [ ] Lucille's (Museum District; Chris Williams) — JBF · OpenTable · $$$
+- [ ] Bludorn (Montrose; Aaron Bludorn) — MR · Resy · Amex ✓ · $$$$
+- [ ] Navy Blue (Rice Village; Bludorn's seafood) — Resy · Amex ✓ · $$$$
+- [ ] Georgia James (Regent Square; Chris Shepherd's steaks) — Resy · Amex ✓ · $$$$
+- [ ] Wild Oats (Houston Farmers Market; Nick Fine) — Resy · Amex ✓ · $$
+- [ ] Underbelly Burger (Houston Farmers Market) — Walk-in · $
+- [ ] Musaafer (Galleria; Indian tasting) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Le Jardinier (MFAH; the museum) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Tatemó (Spring Branch; masa tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] BCN Taste & Tradition (Montrose; Spanish) — ★ · Resy · Amex ✓ · $$$$
+- [ ] MAD (River Oaks District; Spanish scene) — OpenTable · $$$
+- [ ] Ostia (Montrose; Travis McShane) — Resy · Amex ✓ · $$$
+- [ ] Indianola (EaDo) — Resy · Amex ✓ · $$
+- [ ] Vibrant (Montrose; the healthy one) — Resy · Amex ✓ · $$
+- [ ] Bar Louie? — CLOSED
+- [ ] UB Preserv — CLOSED
+- [ ] One Fifth — CLOSED
+- [ ] Underbelly (the original) — CLOSED
+- [ ] Oxheart — CLOSED
+
+## Speakeasies & hidden bars — descending order of amazingness (50)
+
+- [ ] Anvil Bar & Refuge (Montrose; Bobby Heugel, the 100 list) — JBF · Walk-in · $$
+- [ ] Tongue-Cut Sparrow (Downtown; upstairs from the Pastry War, the rules) — Walk-in · $$
+- [ ] The Pastry War (Downtown; mezcaleria) — Walk-in · $$
+- [ ] Better Luck Tomorrow (Heights) — Walk-in · $$
+- [ ] Julep (Washington Ave; Alba Huerta) — JBF · Walk-in · $$
+- [ ] Refuge? (Montrose) — ? · $$
+- [ ] Squable bar (Heights) — Resy · Amex ✓ · $$$
+- [ ] Bad News Bar (Downtown; upstairs, the balcony) — Walk-in · $$
+- [ ] Rosemont? (wine bar) — ? · $$
+- [ ] Lei Low (Heights; tiki) — Walk-in · $$
+- [ ] Sidecar Tapas & Bar? — ? · $$
+- [ ] Nightingale Room (Downtown; the piano) — Walk-in · $$
+- [ ] Little Dipper (Downtown; the dive with good drinks) — Walk-in · $
+- [ ] Trigger Happy? — ? · $
+- [ ] La Carafe (Market Square; candles, the oldest bar, cash) — Walk-in · $
+- [ ] Warren's Inn (Market Square; the stiff pour) — Walk-in · $
+- [ ] Notsuoh (Downtown; the art bar) — Walk-in · $
+- [ ] Moving Sidewalk (Downtown) — Walk-in · $$
+- [ ] Reserve 101 (Downtown; whiskey) — Walk-in · $$
+- [ ] Bar Bludorn (Montrose; the bar side) — MR · Resy · Amex ✓ · $$$
+- [ ] Marfreless (River Oaks; the blue door, since 1976) — Walk-in · $$
+- [ ] Poison Girl (Montrose; the pinball, the bourbon) — Walk-in · $
+- [ ] Grand Prize Bar (Montrose; two floors) — Walk-in · $
+- [ ] Mongoose versus Cobra (Midtown; beer, the mezzanine) — Walk-in · $$
+- [ ] The Toasted Coconut (Heights; tiki) — Walk-in · $$
+- [ ] Eight Row Flint (Heights; agave and cider) — Walk-in · $$
+- [ ] Present Company (Montrose; the courtyard) — Walk-in · $$
+- [ ] Winnie's (Montrose; Cajun-Vietnamese bar food) — Walk-in · $$
+- [ ] Pearl Bar (Washington Ave) — Walk-in · $
+- [ ] Two Headed Dog (Midtown; the Hungarian bar) — Walk-in · $
+- [ ] Bar Boheme (Montrose; the patio, the pizza) — Walk-in · $$
+- [ ] West Alabama Ice House (Montrose; since 1928) — Walk-in · $
+- [ ] Alice's Tall Texan (Heights; goblets of Lone Star) — Walk-in · $
+- [ ] Big Star Bar (Heights; the yard) — Walk-in · $
+- [ ] D&T Drive Inn (Heights; the ice house) — Walk-in · $
+- [ ] Rudyard's (Montrose; British pub, since 1978) — Walk-in · $
+- [ ] Catbirds (Montrose) — Walk-in · $
+- [ ] Lola's Depot (Montrose; the dive) — Walk-in · $
+- [ ] The Continental Club (Midtown; the Houston branch) — Walk-in · $
+- [ ] Shoeshine Charley's Big Top Lounge (Midtown; next to the Continental) — Walk-in · $
+- [ ] Cottonwood (Garden Oaks; the yard) — Walk-in · $$
+- [ ] Kirby Ice House (Upper Kirby; the megayard) — Walk-in · $
+- [ ] Axelrad (Midtown; hammocks and pizza) — Walk-in · $
+- [ ] The Cottonmouth Club? — CLOSED
+- [ ] Miss Carousel — CLOSED
+- [ ] The Hay Merchant — CLOSED
+- [ ] OKRA Charity Saloon (Downtown; you vote with your drink) — Walk-in · $
+- [ ] Wooster's Garden (Midtown) — Walk-in · $$
+- [ ] Bar 5015? (Almeda; whiskey bar) — ? · $$
+- [ ] Bandista (Downtown; Tex-Mex cocktails) — Walk-in · $$
+- [ ] Dean's (Downtown; the old clothing store) — Walk-in · $
+
+## Rooftop bars (50)
+
+- [ ] Z on 23 (Le Méridien; downtown skyline) — Walk-in · $$
+- [ ] Rooftop Cinema Club (Uptown; movies over the Galleria) — $$
+- [ ] Bisou (River Oaks District; the terrace) — SevenRooms · $$$
+- [ ] High & Dry (Midtown; rum on the roof) — Walk-in · $$
+- [ ] Wooster's Garden (Midtown) — Walk-in · $$
+- [ ] Proof Rooftop Lounge (Midtown) — Walk-in · $$
+- [ ] The Rustic (Downtown; the yard, live music) — Walk-in · $$
+- [ ] Present Company (Montrose) — Walk-in · $$
+- [ ] Bar Boheme patio (Montrose) — Walk-in · $$
+- [ ] Axelrad beer garden (Midtown) — Walk-in · $
+- [ ] Kirby Ice House (Upper Kirby / Memorial) — Walk-in · $
+- [ ] West Alabama Ice House (Montrose) — Walk-in · $
+- [ ] Cottonwood (Garden Oaks) — Walk-in · $$
+- [ ] Big Star Bar yard (Heights) — Walk-in · $
+- [ ] Eureka Heights Brewing (Heights) — Walk-in · $
+- [ ] Saint Arnold Beer Garden (Near Northside; the first craft brewery in Texas) — Walk-in · $
+- [ ] 8th Wonder Brewery (EaDo; the Beatles statues) — Walk-in · $
+- [ ] Buffalo Bayou Brewing (Sawyer Yards; the roof deck) — Walk-in · $$
+- [ ] Karbach Brewing (Spring Branch; the biergarten) — Walk-in · $
+- [ ] True Anomaly (EaDo) — Walk-in · $
+- [ ] Holler Brewing (Sawyer Yards) — Walk-in · $
+- [ ] Platypus Brewing (Timbergrove; Australian) — Walk-in · $
+- [ ] Great Heights Brewing — Walk-in · $
+- [ ] Urban South HTX (Sawyer Yards) — Walk-in · $
+- [ ] Sawyer Park? (Sawyer Yards; the sports yard) — Walk-in · $$
+- [ ] Bayou City Bar? — ? · $$
+- [ ] The Emerald? — ? · $$
+- [ ] Post Houston rooftop (Skylawn; the old post office, the view) — Walk-in · $
+- [ ] Eight Row Flint patio (Heights) — Walk-in · $$
+- [ ] Coltivare garden (Heights) — Walk-in · $$$
+- [ ] Backstreet Café patio (River Oaks) — OpenTable · $$$
+- [ ] Hugo's balcony? (Montrose) — OpenTable · $$$
+- [ ] Brasserie 19 patio (River Oaks; the rosé) — OpenTable · $$$
+- [ ] La Colombe d'Or patio (Montrose) — OpenTable · $$$$
+- [ ] Ouzo Bay patio (River Oaks District) — OpenTable · $$$
+- [ ] Rainbow Lodge (Heights; the log cabin on the bayou) — OpenTable · $$$
+- [ ] Marquis II? — CLOSED
+- [ ] Buffalo Bayou Park Cistern (the walk, then a drink) — $
+- [ ] Discovery Green (Downtown; the Grove's patio) — OpenTable · $$
+- [ ] Hermann Park's Pinewood Café? — Walk-in · $
+- [ ] Lawn at White Oak Music Hall (Near Northside; shows on the hill) — $$
+- [ ] Truck Yard (EaDo; the Ferris wheel) — Walk-in · $
+- [ ] The Dogwood (Midtown; the yard) — Walk-in · $
+- [ ] Pitch 25 (EaDo; the sports yard) — Walk-in · $
+- [ ] Little Woodrow's (multiple; the yard) — Walk-in · $
+- [ ] Tin Roof? (Downtown) — ? · $
+- [ ] Bar 5015 patio (Almeda) — ? · $$
+- [ ] Ballroom at Tanglewood? — CLOSED
+- [ ] Neon Boots? (Northwest; the country dance yard) — Walk-in · $
+- [ ] Saint Arnold's rooftop? (the second-floor deck) — Walk-in · $
+- [ ] Third Coast (Texas Medical Center; the sixth-floor view) — OpenTable · $$$
+
+## Bars — notable mentions (100)
+
+- [ ] Anvil Bar & Refuge (Montrose) — JBF · Walk-in · $$
+- [ ] Julep (Washington Ave) — JBF · Walk-in · $$
+- [ ] Tongue-Cut Sparrow (Downtown) — Walk-in · $$
+- [ ] The Pastry War (Downtown) — Walk-in · $$
+- [ ] Better Luck Tomorrow (Heights) — Walk-in · $$
+- [ ] Squable (Heights) — Resy · Amex ✓ · $$$
+- [ ] Bar Bludorn (Montrose) — MR · Resy · Amex ✓ · $$$
+- [ ] Bad News Bar (Downtown) — Walk-in · $$
+- [ ] Lei Low (Heights) — Walk-in · $$
+- [ ] The Toasted Coconut (Heights) — Walk-in · $$
+- [ ] Eight Row Flint (Heights) — Walk-in · $$
+- [ ] Present Company (Montrose) — Walk-in · $$
+- [ ] Nightingale Room (Downtown) — Walk-in · $$
+- [ ] Little Dipper (Downtown) — Walk-in · $
+- [ ] Moving Sidewalk (Downtown) — Walk-in · $$
+- [ ] Reserve 101 (Downtown) — Walk-in · $$
+- [ ] La Carafe (Market Square; since 1847 building) — Walk-in · $
+- [ ] Warren's Inn (Market Square) — Walk-in · $
+- [ ] Notsuoh (Downtown) — Walk-in · $
+- [ ] OKRA Charity Saloon (Downtown) — Walk-in · $
+- [ ] Dean's (Downtown) — Walk-in · $
+- [ ] Bandista (Downtown) — Walk-in · $$
+- [ ] Marfreless (River Oaks) — Walk-in · $$
+- [ ] Poison Girl (Montrose) — Walk-in · $
+- [ ] Grand Prize Bar (Montrose) — Walk-in · $
+- [ ] Rudyard's (Montrose) — Walk-in · $
+- [ ] Catbirds (Montrose) — Walk-in · $
+- [ ] Lola's Depot (Montrose) — Walk-in · $
+- [ ] West Alabama Ice House (Montrose) — Walk-in · $
+- [ ] Bar Boheme (Montrose) — Walk-in · $$
+- [ ] Winnie's (Montrose) — Walk-in · $$
+- [ ] JR's Bar & Grill (Montrose; the gay strip since 1979) — Walk-in · $
+- [ ] Eagle Houston (Montrose) — Walk-in · $
+- [ ] Ripcord (Montrose) — Walk-in · $
+- [ ] Pearl Bar (Washington Ave; the lesbian bar) — Walk-in · $
+- [ ] Mongoose versus Cobra (Midtown) — Walk-in · $$
+- [ ] Two Headed Dog (Midtown) — Walk-in · $
+- [ ] Wooster's Garden (Midtown) — Walk-in · $$
+- [ ] Axelrad (Midtown) — Walk-in · $
+- [ ] The Continental Club (Midtown) — Walk-in · $
+- [ ] Shoeshine Charley's Big Top Lounge (Midtown) — Walk-in · $
+- [ ] Cuchara (Montrose; the mezcal list) — OpenTable · $$
+- [ ] Camerata (Montrose; wine bar) — Walk-in · $$
+- [ ] 13 Celsius (Midtown; wine) — Walk-in · $$
+- [ ] Rosemont? — ? · $$
+- [ ] Vinology (Rice Village) — Walk-in · $$
+- [ ] Bar 5015 (Almeda) — ? · $$
+- [ ] Alice's Tall Texan (Heights) — Walk-in · $
+- [ ] Big Star Bar (Heights) — Walk-in · $
+- [ ] D&T Drive Inn (Heights) — Walk-in · $
+- [ ] Cottonwood (Garden Oaks) — Walk-in · $$
+- [ ] Petrol Station (Garden Oaks; the burger, the beer) — Walk-in · $$
+- [ ] Kirby Ice House (Upper Kirby) — Walk-in · $
+- [ ] The Ginger Man (Rice Village; the beer hall) — Walk-in · $
+- [ ] Little Woodrow's (Rice Village / multiple) — Walk-in · $
+- [ ] Hans' Bier Haus (Rice Village) — Walk-in · $
+- [ ] Valhalla (Rice University; graduate students' bar, $2 beer) — Walk-in · $
+- [ ] Under the Volcano (Rice Village; the frozen screwdriver) — Walk-in · $
+- [ ] Bobcat Teddy's Ice House (Heights) — Walk-in · $
+- [ ] Onion Creek (Heights; the patio) — Walk-in · $
+- [ ] Saint Arnold Beer Garden — Walk-in · $
+- [ ] 8th Wonder Brewery (EaDo) — Walk-in · $
+- [ ] Buffalo Bayou Brewing (Sawyer Yards) — Walk-in · $$
+- [ ] Eureka Heights Brewing — Walk-in · $
+- [ ] Karbach Brewing — Walk-in · $
+- [ ] True Anomaly (EaDo) — Walk-in · $
+- [ ] Holler Brewing — Walk-in · $
+- [ ] Platypus Brewing — Walk-in · $
+- [ ] Great Heights Brewing — Walk-in · $
+- [ ] Truck Yard (EaDo) — Walk-in · $
+- [ ] Pitch 25 (EaDo) — Walk-in · $
+- [ ] Neil's Bahr (EaDo; the arcade bar) — Walk-in · $
+- [ ] Moon Tower Inn (East End; the hot dogs, the beer) — Walk-in · $
+- [ ] Voodoo Queen (East End; the daiquiris) — Walk-in · $
+- [ ] The Rustic (Downtown) — Walk-in · $$
+- [ ] Z on 23 (Le Méridien) — Walk-in · $$
+- [ ] High & Dry (Midtown) — Walk-in · $$
+- [ ] Proof Rooftop Lounge (Midtown) — Walk-in · $$
+- [ ] Howl at the Moon (Downtown; dueling pianos) — $$
+- [ ] Dirt Bar (Downtown; the rock dive) — Walk-in · $
+- [ ] Rebels Honky Tonk (Downtown / Washington) — Walk-in · $
+- [ ] Neon Boots (Northwest; country dancehall) — Walk-in · $
+- [ ] Blanco's? — CLOSED
+- [ ] Goode's Armadillo Palace (Kirby; the armadillo, the music) — Walk-in · $$
+- [ ] McGonigel's Mucky Duck (Upper Kirby; folk and Irish) — $$
+- [ ] The Big Easy Social & Pleasure Club (Upper Kirby; blues, since 1994) — Walk-in · $
+- [ ] Sambuca (Downtown; jazz and dinner) — OpenTable · $$$
+- [ ] Cezanne (Montrose; the jazz room above Black Lab) — $$
+- [ ] Black Labrador (Montrose; the pub) — Walk-in · $
+- [ ] The Flat (Montrose; the DJ lounge) — Walk-in · $
+- [ ] Boondocks (Montrose) — Walk-in · $
+- [ ] Numbers (Montrose; since 1978, the new wave) — $
+- [ ] Rich's (Midtown; the dance floor) — $$
+- [ ] Barbarella (Midtown; 80s nights) — $
+- [ ] The Secret Group (EaDo; comedy and beer) — $
+- [ ] Lucky's Pub (EaDo; the soccer bar) — Walk-in · $
+- [ ] The Hay Merchant — CLOSED
+- [ ] Miss Carousel — CLOSED
+- [ ] Marquis II — CLOSED
+- [ ] Bar Louie — CLOSED
+- [ ] Cottonmouth Club — CLOSED
+
+## Coffee shops (50)
+
+- [ ] Blacksmith (Montrose; the Vietnamese steak and eggs) — Walk-in · $$
+- [ ] Boomtown Coffee (Heights / multiple; the roaster) — Walk-in · $
+- [ ] Greenway Coffee (Downtown tunnels / Montrose) — Walk-in · $
+- [ ] Morningstar (Heights; David Buehrer's donuts) — Walk-in · $
+- [ ] Siphon Coffee (Montrose) — Walk-in · $
+- [ ] Catalina Coffee (Washington Ave) — Walk-in · $
+- [ ] Southside Espresso (Montrose; wine at night) — Walk-in · $
+- [ ] Agora (Montrose; the Greek café, 2am) — Walk-in · $
+- [ ] Antidote (Heights; the vintage room) — Walk-in · $
+- [ ] Campesino Coffee House (Montrose / Heights; Latin) — Walk-in · $
+- [ ] Tenfold Coffee (Heights) — Walk-in · $
+- [ ] Cafeza (Near Northside; the cafecito) — Walk-in · $
+- [ ] Throughgood Coffee (Northside / Rice Village) — Walk-in · $
+- [ ] Retrospect Coffee Bar (Midtown; the gas station) — Walk-in · $
+- [ ] Prelude Coffee & Tea (Downtown; the tunnels) — Walk-in · $
+- [ ] Minuti Coffee (Downtown / multiple; Italian) — Walk-in · $
+- [ ] Amaya Roasting (Heights / multiple) — Walk-in · $
+- [ ] Black Hole Coffee House (Montrose; the study room) — Walk-in · $
+- [ ] Brasil (Montrose; the patio, since 1992) — Walk-in · $$
+- [ ] Common Bond (Montrose / multiple; the bakery café) — Walk-in · $$
+- [ ] Koffeteria (EaDo; the pastries) — Walk-in · $$
+- [ ] Tout Suite (EaDo) — Walk-in · $$
+- [ ] Cherry Coffee? (Midtown) — ? · $
+- [ ] Fellini Caffè (Rice Village; Italian, the granita) — Walk-in · $
+- [ ] Sweet Paris (Rice Village; crêpes) — Walk-in · $$
+- [ ] Inversion Coffee (Montrose; the art space) — Walk-in · $
+- [ ] Empire Café (Montrose; Monday half-price cake) — Walk-in · $$
+- [ ] Bungalow Heights? — Walk-in · $$
+- [ ] Day 6 Coffee Roasters (Sugar Land) — Walk-in · $
+- [ ] Paper Co. Café (Pearland?) — ? · $
+- [ ] Lee's Fried Chicken & Donuts (Heights; the drive-through) — Walk-in · $
+- [ ] Shipley Do-Nuts (multiple; the Houston chain since 1936) — Walk-in · $
+- [ ] Christy's Donuts (Montrose; since 1980) — Walk-in · $
+- [ ] The Original Hungry's? — ? · $$
+- [ ] Ipanema Café? — ? · $
+- [ ] Doshi House (Third Ward; vegan café) — Walk-in · $
+- [ ] Coffee Cartel? (The Heights) — ? · $
+- [ ] Zeke's? — ? · $
+- [ ] Café Poêtes (Downtown; the bookshop café) — Walk-in · $
+- [ ] Bayou City Coffee? — ? · $
+- [ ] Bebidas (Montrose; the juice) — Walk-in · $
+- [ ] Nurture Kitchen? — ? · $$
+- [ ] Coral Sword (Eastwood; the game café) — Walk-in · $
+- [ ] Java Pura? — ? · $
+- [ ] Cafe Ginger? (Rice Village) — ? · $$
+- [ ] Toasted Yolk (multiple; breakfast chain) — Walk-in · $$
+- [ ] Ocean Tea? — ? · $
+- [ ] Phin Café? (Bellaire; Vietnamese coffee) — ? · $
+- [ ] Cà Phê Sữa Đá at any Bellaire bánh mì counter — Walk-in · $
+- [ ] Nguyen Ngo Bakery coffee (Bellaire) — Walk-in · $
+
+## Restaurants (110+)
+
+### Michelin ★
+- [ ] March (Montrose; Felipe Riccio's Mediterranean tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Le Jardinier (Museum of Fine Arts; Alain Verzeroli) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Musaafer (Galleria; Mayank Istwal's Indian tasting) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Tatemó (Spring Branch; Emmanuel Chavez's masa tasting) — ★ · Tock · Amex ✓ · $$$$
+- [ ] BCN Taste & Tradition (Montrose; Spanish) — ★ · Resy · Amex ✓ · $$$$
+- [ ] CorkScrew BBQ (Spring; the starred barbecue) — ★ · TM50 · Walk-in · $$
+
+### Bib Gourmand (2025)
+- [ ] Annam (Autry Park; Vietnamese) — BIB · NEW · Resy · Amex ✓ · $$
+- [ ] Belly of the Beast (Spring) — BIB · Resy · Amex ✓ · $$$
+- [ ] Blood Bros. BBQ (Bellaire; the Vietnamese-Texan smokehouse) — BIB · TM50 · Walk-in · $$
+- [ ] CasaEma (Montrose; Mexican) — BIB · Resy · Amex ✓ · $$
+- [ ] ChòpnBlọk (Montrose) — BIB · NEW · Resy · Amex ✓ · $$
+- [ ] Da Gama Canteen (Heights) — BIB · NEW · Resy · Amex ✓ · $$
+- [ ] Killen's (Pearland; the steakhouse) — BIB · OpenTable · $$$
+- [ ] Killen's BBQ (Pearland; Ronnie Killen) — BIB · TM50 · Walk-in · $$
+- [ ] Mala Sichuan Bistro (Montrose / Chinatown) — BIB · Walk-in · $$
+- [ ] Máximo (Museum District) — BIB · NEW · Resy · Amex ✓ · $$$
+- [ ] Nam Giao (Bellaire) — BIB · Walk-in · $
+- [ ] Nancy's Hustle (EaDo) — BIB · Resy · Amex ✓ · $$
+- [ ] Nobie's (Montrose) — BIB · Resy · Amex ✓ · $$
+- [ ] Papalo Taqueria (Houston Farmers Market) — BIB · NEW · Walk-in · $
+- [ ] Pinkerton's BBQ (Heights) — BIB · TM50 · Walk-in · $$
+- [ ] The Pit Room (Montrose; the tortillas) — BIB · TM50 · Walk-in · $$
+- [ ] Rosie Cannonball (Montrose) — BIB · Resy · Amex ✓ · $$$
+- [ ] Rosemeyer Bar-B-Q (Spring) — BIB · Walk-in · $$
+- [ ] Street to Kitchen (East End) — BIB · JBF · Resy · Amex ✓ · $$
+- [ ] Tejas Chocolate & Barbecue (Tomball; the drive) — BIB · TM50 · Walk-in · $$
+- [ ] Theodore Rex (Warehouse District) — BIB · Resy · Amex ✓ · $$$
+- [ ] Truth BBQ (Heights; Leonard Botello) — BIB · TM50 · Walk-in · $$
+
+### Michelin recommended
+- [ ] Agnes and Sherman (Heights) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Bar Bludorn (Montrose) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Baso (Heights) — MR · Resy · Amex ✓ · $$$
+- [ ] Bludorn (Montrose) — MR · Resy · Amex ✓ · $$$$
+- [ ] Brisket & Rice (Chinatown; Cambodian barbecue) — MR · Walk-in · $
+- [ ] Candente (Montrose) — MR · Resy · Amex ✓ · $$
+- [ ] Credence (Montrose; Michelin Service Award 2025) — MR · NEW · Resy · Amex ✓ · $$$$
+- [ ] Hidden Omakase (Galleria) — MR · Tock · Amex ✓ · $$$$
+- [ ] Hong Kong Food Street (Chinatown) — MR · NEW · Walk-in · $$
+- [ ] J-Bar-M Barbecue (EaDo) — MR · NEW · Walk-in · $$
+- [ ] Josephine's (Montrose) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] Late August (Museum District) — MR · Resy · Amex ✓ · $$$
+- [ ] Neo (Montrose; omakase) — MR · NEW · ? temporarily closed · Tock · $$$$
+- [ ] Pappas Bros. Steakhouse (Galleria / Downtown; Michelin Sommelier Award 2024) — MR · OpenTable · $$$$
+- [ ] Perseid (Hotel Saint Augustine) — MR · NEW · Resy · Amex ✓ · $$$
+- [ ] The Marigold Club (Montrose) — MR · NEW · Resy · Amex ✓ · $$$
+
+### The Beard list & the classics
+- [ ] Hugo's (Montrose; Hugo Ortega) — JBF 2026 semifinalist (Outstanding Restaurateur) · JBF · OpenTable · $$$
+- [ ] Xochi (Downtown) — JBF · OpenTable · $$$
+- [ ] Caracol (Uptown) — OpenTable · $$$
+- [ ] Urbe (Uptown) — OpenTable · $$
+- [ ] Backstreet Café (River Oaks) — OpenTable · $$$
+- [ ] Himalaya (Mahatma Gandhi District) — JBF · Walk-in · $$
+- [ ] Crawfish & Noodles (Bellaire) — JBF · Walk-in · $$
+- [ ] Lucille's (Museum District) — JBF · OpenTable · $$$
+- [ ] Georgia James (Regent Square) — Resy · Amex ✓ · $$$$
+- [ ] Wild Oats (Houston Farmers Market) — Resy · Amex ✓ · $$
+- [ ] Navy Blue (Rice Village) — Resy · Amex ✓ · $$$$
+- [ ] Ostia (Montrose) — Resy · Amex ✓ · $$$
+- [ ] Riel (Montrose) — Resy · Amex ✓ · $$$
+- [ ] Squable (Heights) — Resy · Amex ✓ · $$$
+- [ ] Coltivare (Heights) — Walk-in · $$$
+- [ ] Indianola (EaDo) — Resy · Amex ✓ · $$
+- [ ] Tiny Champions (EaDo) — Resy · Amex ✓ · $$
+- [ ] Better Luck Tomorrow (Heights) — Walk-in · $$
+- [ ] MAD (River Oaks District) — OpenTable · $$$
+- [ ] Ninfa's on Navigation (East End; since 1973) — OpenTable · $$
+- [ ] Irma's Original (Downtown; no menu, the lemonade) — Walk-in · $$
+- [ ] Molina's Cantina (multiple; since 1941) — OpenTable · $$
+- [ ] El Tiempo Cantina (multiple; the fajitas) — OpenTable · $$
+- [ ] Laredo Taqueria (Washington Ave; breakfast tacos) — Walk-in · $
+- [ ] Villa Arcos (East End; the breakfast taco line) — Walk-in · $
+- [ ] Tacos Tierra Caliente (Montrose; the truck by the ice house) — Walk-in · $
+- [ ] Taquería Arandas (multiple) — Walk-in · $
+- [ ] Gerardo's Drive-In (Northside; barbacoa on Sundays) — Walk-in · $
+- [ ] Taqueria Tacambaro (Canino's market) — Walk-in · $
+- [ ] Brothers Taco House (EaDo) — Walk-in · $
+- [ ] Doña María? — ? · $
+- [ ] Pho Binh (multiple; the trailer, Bellaire) — Walk-in · $
+- [ ] Pho Saigon (Bellaire / multiple) — Walk-in · $
+- [ ] Huynh (EaDo; the Vietnamese by the ballpark) — Walk-in · $$
+- [ ] Kim Son (multiple; the buffet, since 1982) — Walk-in · $$
+- [ ] Les Givral's (Midtown; bánh mì) — Walk-in · $
+- [ ] Cali Sandwich (Midtown; bánh mì) — Walk-in · $
+- [ ] Roostar (Heights / multiple; bánh mì) — Walk-in · $
+- [ ] Saigon House (Midtown; Viet-Cajun crawfish) — Walk-in · $$
+- [ ] Cajun Kitchen (Bellaire; Viet-Cajun crawfish) — Walk-in · $$
+- [ ] LA Crawfish (multiple) — Walk-in · $$
+- [ ] Fung's Kitchen (Southwest; the dim sum hall) — Walk-in · $$
+- [ ] Ocean Palace (Hong Kong City Mall; dim sum) — Walk-in · $$
+- [ ] Tim Ho Wan (Bellaire; the Hong Kong import) — Walk-in · $$
+- [ ] One Dragon (Bellaire; soup dumplings) — Walk-in · $$
+- [ ] Pepper Twins (Montrose / multiple; Sichuan) — Walk-in · $$
+- [ ] Cooking Girl (Montrose / Chinatown; Sichuan) — Walk-in · $$
+- [ ] Shabu House? — ? · $$
+- [ ] London Sizzler (Southwest; Indo-Pakistani) — Walk-in · $$
+- [ ] Shri Balaji Bhavan (Hillcroft; dosas) — Walk-in · $
+- [ ] Bombay Brasserie? — ? · $$
+- [ ] Aga's (Stafford; the Pakistani hall) — Walk-in · $$
+- [ ] Bijan Persian Grill (Hillcroft) — Walk-in · $$
+- [ ] Kasra (Westheimer; Persian) — Walk-in · $$
+- [ ] Garden Restaurant? (Persian) — ? · $$
+- [ ] Al Aseel Grill & Café (Hillcroft; Lebanese) — Walk-in · $$
+- [ ] Fadi's Mediterranean (multiple; the cafeteria line) — Walk-in · $
+- [ ] Mary'z Mediterranean (Montrose) — Walk-in · $$
+- [ ] Niko Niko's (Montrose; gyros since 1977) — Walk-in · $
+- [ ] Blue Nile Ethiopian (Southwest) — Walk-in · $$
+- [ ] Lucy Ethiopian? — ? · $$
+- [ ] Safari Restaurant? — ? · $$
+- [ ] Peli Peli (Galleria / Vintage Park; South African) — OpenTable · $$$
+- [ ] Finger Licking Bukateria (Southwest; Nigerian) — Walk-in · $
+- [ ] Sinh Sinh (Bellaire; 2am Cantonese) — Walk-in · $$
+- [ ] Mai's (Midtown; Vietnamese since 1978, late) — Walk-in · $$
+- [ ] Katz's Deli (Montrose; 24 hours, not the New York one) — Walk-in · $$
+- [ ] House of Pies (Kirby; 24 hours, the Bayou Goo) — Walk-in · $
+- [ ] Frank's Pizza (Downtown; the late slice) — Walk-in · $
+- [ ] Star Pizza (Montrose / Washington) — Walk-in · $$
+- [ ] Pizaro's (Memorial; Neapolitan) — Walk-in · $$
+- [ ] Antone's Famous Po'Boys (multiple; since 1962) — Walk-in · $
+- [ ] Burger-Chan (Greenway) — Walk-in · $
+- [ ] Bernie's Burger Bus (multiple) — Walk-in · $
+- [ ] Hubcap Grill (Downtown / Heights) — Walk-in · $
+- [ ] Lankford Grocery (Midtown; the burger since 1977) — Walk-in · $
+- [ ] Stanton's City Bites (Old Sixth Ward; the burger) — Walk-in · $
+- [ ] Whataburger (any; the honey butter chicken biscuit) — Walk-in · $
+- [ ] Frenchy's Chicken (Third Ward; since 1969) — Walk-in · $
+- [ ] Barbecue Inn (Northside; fried chicken, since 1946) — Walk-in · $$
+- [ ] The Breakfast Klub (Midtown; wings and waffles, the line) — Walk-in · $$
+- [ ] This Is It Soul Food (Third Ward; since 1959) — Walk-in · $
+- [ ] Burns Original BBQ (Acres Homes) — TM50 · Walk-in · $$
+- [ ] Gatlin's BBQ (Northwest) — TM50 · Walk-in · $$
+- [ ] Feges BBQ (Spring Branch / Greenway) — Walk-in · $$
+- [ ] Ray's BBQ Shack (Third Ward) — Walk-in · $$
+- [ ] Goode Co. Barbeque (Kirby; since 1977, the pecan pie) — Walk-in · $$
+- [ ] Goode Co. Seafood (Kirby; the campechana) — OpenTable · $$
+- [ ] Goode Co. Taqueria (Kirby; the breakfast) — Walk-in · $$
+- [ ] Brennan's of Houston (Midtown; the Creole cousin) — OpenTable · $$$$
+- [ ] Tony's (Greenway; since 1965) — OpenTable · $$$$
+- [ ] Mark's American Cuisine — CLOSED
+- [ ] Da Marco (Montrose; Marco Wiles) — OpenTable · $$$$
+- [ ] Dolce Vita (Montrose; Wiles' pizzeria) — OpenTable · $$
+- [ ] Nino's / Vincent's / Grappino di Nino (Montrose; the Mandola compound) — OpenTable · $$$
+- [ ] Carrabba's original (Kirby; the family one, not the chain) — OpenTable · $$
+- [ ] Rainbow Lodge (Heights) — OpenTable · $$$
+- [ ] Brasserie 19 (River Oaks) — OpenTable · $$$
+- [ ] La Colombe d'Or (Montrose) — OpenTable · $$$$
+- [ ] State of Grace (River Oaks; Ford Fry) — OpenTable · $$$
+- [ ] Pappadeaux (multiple; the Pappas seafood house) — Walk-in · $$
+- [ ] Pappasito's (multiple) — Walk-in · $$
+- [ ] Oxheart — CLOSED
+- [ ] Underbelly — CLOSED
+- [ ] UB Preserv — CLOSED
+- [ ] One Fifth — CLOSED
+- [ ] Reef — CLOSED
+- [ ] Hay Merchant — CLOSED
+
+## Brunch spots (50)
+
+- [ ] The Breakfast Klub (Midtown; the line) — Walk-in · $$
+- [ ] Blacksmith (Montrose) — Walk-in · $$
+- [ ] Hugo's Sunday brunch (Montrose; the buffet) — OpenTable · $$$
+- [ ] Backstreet Café brunch — OpenTable · $$$
+- [ ] Brennan's of Houston jazz brunch — OpenTable · $$$$
+- [ ] Rainbow Lodge brunch — OpenTable · $$$
+- [ ] Coltivare brunch? — Walk-in · $$$
+- [ ] Squable brunch — Resy · Amex ✓ · $$$
+- [ ] Nancy's Hustle brunch? — Resy · Amex ✓ · $$
+- [ ] Riel brunch — Resy · Amex ✓ · $$$
+- [ ] Ostia brunch — Resy · Amex ✓ · $$$
+- [ ] Bludorn brunch — MR · Resy · Amex ✓ · $$$$
+- [ ] Bar Bludorn brunch — MR · Resy · Amex ✓ · $$$
+- [ ] Josephine's brunch — MR · Resy · Amex ✓ · $$$
+- [ ] Late August brunch — MR · Resy · Amex ✓ · $$$
+- [ ] Lucille's brunch — OpenTable · $$$
+- [ ] Máximo brunch — BIB · Resy · Amex ✓ · $$$
+- [ ] Da Gama brunch — BIB · Resy · Amex ✓ · $$
+- [ ] ChòpnBlọk brunch — BIB · Resy · Amex ✓ · $$
+- [ ] Common Bond (Montrose) — Walk-in · $$
+- [ ] Koffeteria (EaDo) — Walk-in · $$
+- [ ] Morningstar (Heights) — Walk-in · $
+- [ ] Lee's Fried Chicken & Donuts — Walk-in · $
+- [ ] Laredo Taqueria (breakfast tacos) — Walk-in · $
+- [ ] Villa Arcos (breakfast tacos) — Walk-in · $
+- [ ] Goode Co. Taqueria (the breakfast) — Walk-in · $$
+- [ ] Gerardo's (barbacoa on weekends) — Walk-in · $
+- [ ] Tacos A Go Go (multiple) — Walk-in · $
+- [ ] Snooze (multiple; the chain) — Walk-in · $$
+- [ ] Toasted Yolk — Walk-in · $$
+- [ ] Buffalo Grille (multiple; the migas) — Walk-in · $$
+- [ ] House of Pies (24 hours) — Walk-in · $
+- [ ] Katz's (24 hours) — Walk-in · $$
+- [ ] Baby Barnaby's (Montrose; breakfast, since 1992) — Walk-in · $$
+- [ ] Barnaby's Café (Montrose / multiple) — Walk-in · $$
+- [ ] Empire Café brunch — Walk-in · $$
+- [ ] Brasil (Montrose) — Walk-in · $$
+- [ ] Dish Society (multiple) — Walk-in · $$
+- [ ] Harold's (Heights; Southern brunch) — OpenTable · $$$
+- [ ] Cherry Block? — ? · $$$
+- [ ] Ouzo Bay brunch — OpenTable · $$$
+- [ ] Brasserie 19 brunch — OpenTable · $$$
+- [ ] La Colombe d'Or brunch — OpenTable · $$$$
+- [ ] State of Grace brunch — OpenTable · $$$
+- [ ] The Original Ninfa's brunch — OpenTable · $$
+- [ ] Ocean Palace dim sum — Walk-in · $$
+- [ ] Fung's Kitchen dim sum — Walk-in · $$
+- [ ] Tim Ho Wan — Walk-in · $$
+- [ ] Shri Balaji Bhavan (the weekend dosa) — Walk-in · $
+- [ ] Nam Giao (bánh bèo for breakfast) — BIB · Walk-in · $
+- [ ] Pho Binh (the trailer at 8am) — Walk-in · $
+
+## Off-beat & only-in-Houston (50)
+
+- [ ] Truth BBQ (Heights; the line) — BIB · TM50 · Walk-in · $$
+- [ ] The Pit Room (Montrose; brisket tacos on lard tortillas) — BIB · TM50 · Walk-in · $$
+- [ ] Pinkerton's (Heights; the glazed ribs) — BIB · TM50 · Walk-in · $$
+- [ ] Blood Bros. (Bellaire; brisket fried rice, Thai green curry boudin) — BIB · TM50 · Walk-in · $$
+- [ ] Killen's BBQ (Pearland; the beef rib) — BIB · TM50 · Walk-in · $$
+- [ ] CorkScrew BBQ (Spring; a Michelin star for brisket) — ★ · TM50 · Walk-in · $$
+- [ ] Tejas Chocolate & Barbecue (Tomball) — BIB · TM50 · Walk-in · $$
+- [ ] Burns Original (Acres Homes; since 1973) — TM50 · Walk-in · $$
+- [ ] Gatlin's (Northwest) — TM50 · Walk-in · $$
+- [ ] Brisket & Rice (Chinatown; Cambodian barbecue) — MR · Walk-in · $
+- [ ] Gerardo's Drive-In (Northside; barbacoa de cabeza on Sundays) — Walk-in · $
+- [ ] Villa Arcos (East End; the breakfast taco since 1977) — Walk-in · $
+- [ ] Laredo Taqueria (Washington Ave) — Walk-in · $
+- [ ] Tacos Tierra Caliente (the truck at West Alabama Ice House) — Walk-in · $
+- [ ] Ninfa's on Navigation (the fajita was invented here, 1973) — OpenTable · $$
+- [ ] Irma's Original (no menu, cash) — Walk-in · $$
+- [ ] Crawfish & Noodles (Viet-Cajun crawfish, the Houston invention) — JBF · Walk-in · $$
+- [ ] Cajun Kitchen (Bellaire) — Walk-in · $$
+- [ ] Pho Binh trailer (Bellaire; since 1983) — Walk-in · $
+- [ ] Sinh Sinh at 2am (Bellaire) — Walk-in · $$
+- [ ] Hong Kong City Mall (Bellaire; the food court) — Walk-in · $
+- [ ] Houston Farmers Market (Airline Dr; Papalo, Underbelly Burger, Wild Oats, the produce) — Walk-in · $
+- [ ] Canino's Produce and Taqueria Tacambaro — Walk-in · $
+- [ ] Hillcroft (the Mahatma Gandhi District; Himalaya, Shri Balaji, the sweet shops) — Walk-in · $
+- [ ] Bellaire Boulevard at midnight — Walk-in · $
+- [ ] Frenchy's Chicken (Third Ward) — Walk-in · $
+- [ ] This Is It Soul Food (Third Ward) — Walk-in · $
+- [ ] Barbecue Inn (the fried chicken, since 1946) — Walk-in · $$
+- [ ] House of Pies at 3am (Kirby) — Walk-in · $
+- [ ] Katz's Deli (24 hours, Montrose) — Walk-in · $$
+- [ ] Whataburger after midnight — Walk-in · $
+- [ ] Shipley's (the glazed, since 1936) — Walk-in · $
+- [ ] Lee's Fried Chicken & Donuts (Heights; the drive-through) — Walk-in · $
+- [ ] Lankford Grocery (the Grim Reaper burger) — Walk-in · $
+- [ ] Antone's (the po'boy since 1962) — Walk-in · $
+- [ ] Goode Co. (the pecan pie in the wooden box) — Walk-in · $$
+- [ ] Molina's Cantina (Tex-Mex since 1941) — OpenTable · $$
+- [ ] Pappas Bros. (the wine list, 3,000 labels) — MR · OpenTable · $$$$
+- [ ] Tony's (since 1965; the society room) — OpenTable · $$$$
+- [ ] West Alabama Ice House (since 1928; the taco truck, the dogs) — Walk-in · $
+- [ ] Alice's Tall Texan (the goblet) — Walk-in · $
+- [ ] La Carafe (the oldest bar, cash, candles) — Walk-in · $
+- [ ] Marfreless (the blue door) — Walk-in · $$
+- [ ] Anvil's 100 list — JBF · Walk-in · $$
+- [ ] The Continental Club (Midtown) — Walk-in · $
+- [ ] Neon Boots (the country dancehall) — Walk-in · $
+- [ ] Rodeo Houston (March; the fried everything) — $$
+- [ ] Buffalo Bayou Cistern — $
+- [ ] Post Houston (the old post office; Skylawn) — Walk-in · $
+- [ ] Space Center Houston (then a Whataburger on the way back) — $$
+- [ ] Galveston day (Gaido's since 1911, the drive) — OpenTable · $$$
+- [ ] Killen's Steakhouse (Pearland; a Bib steakhouse) — BIB · OpenTable · $$$
+
+## Bakeries (50)
+
+- [ ] Common Bond (Montrose / multiple) — Walk-in · $$
+- [ ] Koffeteria (EaDo; Vanarin Kuch) — JBF · Walk-in · $$
+- [ ] Morningstar (Heights) — Walk-in · $
+- [ ] Shipley Do-Nuts (since 1936) — Walk-in · $
+- [ ] Christy's Donuts (Montrose) — Walk-in · $
+- [ ] Lee's Fried Chicken & Donuts (Heights) — Walk-in · $
+- [ ] Glazed? (Doughnut Wonderland) — ? · $
+- [ ] Three Brothers Bakery (Braeswood; since 1949) — Walk-in · $
+- [ ] Moeller's Bakery (Bellaire; petits fours) — Walk-in · $
+- [ ] Michael's Cookie Jar (Bellaire) — Walk-in · $
+- [ ] Fluff Bake Bar (Montrose; Rebecca Masson) — JBF · Walk-in · $$
+- [ ] Cake & Bacon? — ? · $
+- [ ] Bakery Lorraine? — ? · $$
+- [ ] Pondicheri Bake Lab (Upper Kirby; Anita Jaisinghani) — JBF · Walk-in · $$
+- [ ] Slow Dough Bread Co. (Heights; the wholesale bakery) — Walk-in · $
+- [ ] Magnol French Baking (Washington Ave) — Walk-in · $$
+- [ ] Kraftsmen Bakery (Montrose) — Walk-in · $
+- [ ] Tout Suite (EaDo) — Walk-in · $$
+- [ ] Nguyen Ngo Bakery (Bellaire; bánh mì bread) — Walk-in · $
+- [ ] Hong Kong Food Street bakery counter? — MR · Walk-in · $
+- [ ] Six Ping Bakery (Bellaire; Taiwanese) — Walk-in · $
+- [ ] 85°C (Bellaire / multiple) — Walk-in · $
+- [ ] Paris Baguette (multiple) — Walk-in · $
+- [ ] Tous les Jours (multiple) — Walk-in · $
+- [ ] El Bolillo (multiple; the pan dulce, the tres leches) — Walk-in · $
+- [ ] Panadería Nuevo León? — ? · $
+- [ ] La Guadalupana Bakery & Café (Montrose; the pastries, the breakfast) — Walk-in · $
+- [ ] Angelo's Bakery? — ? · $
+- [ ] Rustika Café (multiple; Argentine, the empanadas) — Walk-in · $$
+- [ ] Phoenicia Specialty Foods (Downtown / Westchase; the bakery inside) — Walk-in · $
+- [ ] Al Aseel bakery counter? — ? · $
+- [ ] Raja Sweets (Hillcroft; since 1985) — Walk-in · $
+- [ ] Bombay Sweets? — ? · $
+- [ ] Alpha Bakery (Bellaire) — Walk-in · $
+- [ ] Dessert Gallery (Upper Kirby / Galleria; Sara Brook) — Walk-in · $$
+- [ ] Ooh La La (multiple; the cupcakes) — Walk-in · $
+- [ ] Crumbville TX (Third Ward; the stuffed cookies) — Walk-in · $
+- [ ] Petite Sweets (Montrose) — Walk-in · $
+- [ ] Manena's Pastry Shop (Bellaire; Argentine) — Walk-in · $
+- [ ] Dandelion Café? — ? · $$
+- [ ] Sweet Paris (crêpes) — Walk-in · $$
+- [ ] Pena's Donut Heaven (Pearland) — Walk-in · $
+- [ ] River Oaks Donuts — Walk-in · $
+- [ ] Hugs & Donuts (Heights) — Walk-in · $
+- [ ] Voodoo Doughnut (Montrose; the Portland import) — Walk-in · $
+- [ ] Rise Kitchen? — ? · $
+- [ ] Tejas Chocolate (the chocolate half) — BIB · Walk-in · $
+- [ ] Cacao & Cardamom (Galleria; the chocolatier) — Walk-in · $$
+- [ ] Bread Man Baking Co. (the wholesale loaf at the farmers market) — Walk-in · $
+- [ ] Yummy's? (Bellaire; Cantonese bakery) — ? · $
+
+## Dessert bars & sweets (50)
+
+- [ ] House of Pies (the Bayou Goo, 24 hours) — Walk-in · $
+- [ ] Goode Co. pecan pie — Walk-in · $$
+- [ ] Fluff Bake Bar (Montrose) — JBF · Walk-in · $$
+- [ ] Dessert Gallery — Walk-in · $$
+- [ ] Cloud 10 Creamery (Rice Village; Chris Leung) — Walk-in · $
+- [ ] Fat Cat Creamery (Heights) — Walk-in · $
+- [ ] Sweet Bribery? — ? · $
+- [ ] Jeni's (Montrose / Heights) — Walk-in · $
+- [ ] Amy's Ice Creams (the Austin one) — Walk-in · $
+- [ ] Hank's Ice Cream (South Main; since 1985) — Walk-in · $
+- [ ] La Paletera (multiple; paletas) — Walk-in · $
+- [ ] Raspas at any Northside truck — Walk-in · $
+- [ ] Bingsu at Sul & Beans (Bellaire) — Walk-in · $
+- [ ] Meet Fresh (Bellaire; Taiwanese) — Walk-in · $
+- [ ] Cafe 101? (Bellaire) — ? · $
+- [ ] Nu Café? (Bellaire; Vietnamese sweets) — ? · $
+- [ ] Chè at Lee's Sandwiches? — Walk-in · $
+- [ ] Raja Sweets (Hillcroft) — Walk-in · $
+- [ ] Kulfi at Shri Balaji — Walk-in · $
+- [ ] Tres leches at El Bolillo — Walk-in · $
+- [ ] Tres leches at Ninfa's — OpenTable · $$
+- [ ] Flan at Hugo's — OpenTable · $$$
+- [ ] Churros at Urbe — OpenTable · $$
+- [ ] Chocolate at Tejas — BIB · Walk-in · $
+- [ ] Cacao & Cardamom — Walk-in · $$
+- [ ] Tout Suite — Walk-in · $$
+- [ ] Koffeteria (the kolaches and the cakes) — Walk-in · $$
+- [ ] Common Bond's cakes — Walk-in · $$
+- [ ] Empire Café (half-price cake Mondays) — Walk-in · $$
+- [ ] Three Brothers Bakery (the cakes) — Walk-in · $
+- [ ] Moeller's petits fours — Walk-in · $
+- [ ] Michael's Cookie Jar — Walk-in · $
+- [ ] Crumbville TX — Walk-in · $
+- [ ] Kolaches at Kolache Shoppe (Timbergrove; since 1970) — Walk-in · $
+- [ ] Kolaches at Shipley's — Walk-in · $
+- [ ] Kolaches at Weikel's (La Grange; the drive to Austin) — Walk-in · $
+- [ ] Dessert at March — ★ · Tock · $$$$
+- [ ] Dessert at Musaafer (the Indian pastry) — ★ · Resy · $$$$
+- [ ] Dessert at Le Jardinier — ★ · Resy · $$$$
+- [ ] Bread pudding at Brennan's of Houston — OpenTable · $$$$
+- [ ] Frozen custard at Ritter's? — ? · $
+- [ ] Snow cones at Snow Cone Lady? — ? · $
+- [ ] Baked Alaska at Tony's — OpenTable · $$$$
+- [ ] Mochi donuts at Mochinut (multiple) — Walk-in · $
+- [ ] Boba at Teahouse (Bellaire / multiple; the Houston chain) — Walk-in · $
+- [ ] Boba at Tapioca House (Bellaire) — Walk-in · $
+- [ ] Pies at Flying Saucer Pie Co. (Northside; since 1967) — Walk-in · $
+- [ ] Doberge at Three Brothers — Walk-in · $
+- [ ] Cheesecake at Nino's (the Mandola one) — OpenTable · $$$
+- [ ] Cookies at Hugs & Donuts? — ? · $
+
+## Notable mentions — scene dining, lounges & supper clubs (50)
+
+- [ ] Tony's (Greenway) — OpenTable · $$$$
+- [ ] Pappas Bros. Steakhouse (Galleria) — MR · OpenTable · $$$$
+- [ ] Georgia James — Resy · Amex ✓ · $$$$
+- [ ] Bludorn — MR · Resy · Amex ✓ · $$$$
+- [ ] Navy Blue — Resy · Amex ✓ · $$$$
+- [ ] Le Jardinier (MFAH) — ★ · Resy · Amex ✓ · $$$$
+- [ ] March — ★ · Tock · Amex ✓ · $$$$
+- [ ] Musaafer (the Galleria palace) — ★ · Resy · Amex ✓ · $$$$
+- [ ] Credence (the service award) — MR · Resy · Amex ✓ · $$$$
+- [ ] The Marigold Club — MR · Resy · Amex ✓ · $$$
+- [ ] Perseid (Hotel Saint Augustine) — MR · Resy · Amex ✓ · $$$
+- [ ] Bisou (River Oaks District; the scene) — SevenRooms · $$$$
+- [ ] MAD (River Oaks District) — OpenTable · $$$
+- [ ] Ouzo Bay (River Oaks District) — OpenTable · $$$
+- [ ] Toca Madera (River Oaks District) — SevenRooms · $$$$
+- [ ] Steak 48 (River Oaks District) — OpenTable · $$$$
+- [ ] Mastro's (Post Oak) — OpenTable · $$$$
+- [ ] Bludorn's Bar — MR · Resy · Amex ✓ · $$$
+- [ ] Brennan's of Houston — OpenTable · $$$$
+- [ ] La Colombe d'Or — OpenTable · $$$$
+- [ ] Da Marco — OpenTable · $$$$
+- [ ] Ostia — Resy · Amex ✓ · $$$
+- [ ] Rosie Cannonball — BIB · Resy · Amex ✓ · $$$
+- [ ] Squable — Resy · Amex ✓ · $$$
+- [ ] Nancy's Hustle — BIB · Resy · Amex ✓ · $$
+- [ ] Hugo's — OpenTable · $$$
+- [ ] Xochi — OpenTable · $$$
+- [ ] Caracol — OpenTable · $$$
+- [ ] Brasserie 19 — OpenTable · $$$
+- [ ] State of Grace — OpenTable · $$$
+- [ ] Backstreet Café — OpenTable · $$$
+- [ ] Rainbow Lodge — OpenTable · $$$
+- [ ] The Post Oak Hotel's Bloom & Bee — OpenTable · $$$$
+- [ ] Toro Toro (Four Seasons) — OpenTable · $$$
+- [ ] Bayou & Bottle (Four Seasons; the bourbon) — Walk-in · $$$
+- [ ] Z on 23 (Le Méridien) — Walk-in · $$
+- [ ] Marfreless — Walk-in · $$
+- [ ] Anvil — Walk-in · $$
+- [ ] Julep — Walk-in · $$
+- [ ] Tongue-Cut Sparrow — Walk-in · $$
+- [ ] Sambuca (jazz dinner) — OpenTable · $$$
+- [ ] Cezanne (the jazz room) — $$
+- [ ] Hidden Omakase — MR · Tock · Amex ✓ · $$$$
+- [ ] Neo — MR · ? · Tock · $$$$
+- [ ] Tatemó (the eight seats) — ★ · Tock · Amex ✓ · $$$$
+- [ ] Kata Robata (Upper Kirby; the sushi scene) — OpenTable · $$$
+- [ ] Uchi Houston (Montrose) — OpenTable · $$$$
+- [ ] Nobu Houston (Galleria) — OpenTable · $$$$
+- [ ] The Annie Café & Bar (Galleria; Ben Berg) — OpenTable · $$$$
+- [ ] B&B Butchers (Washington Ave) — OpenTable · $$$$
+- [ ] Turner's (Washington Ave; the supper club) — OpenTable · $$$$
+
+## Dance clubs & nightlife (50)
+
+- [ ] The Continental Club (Midtown) — Walk-in · $
+- [ ] White Oak Music Hall (Near Northside; the lawn, the rooms) — $$
+- [ ] Warehouse Live Midtown — $$
+- [ ] House of Blues Houston (Downtown) — $$
+- [ ] 713 Music Hall (Post Houston) — $$
+- [ ] Bayou Music Center (Downtown) — $$
+- [ ] The Heights Theater — $$
+- [ ] Rudyard's (the upstairs stage) — Walk-in · $
+- [ ] Numbers (Montrose; since 1978) — $
+- [ ] Rich's (Midtown) — $$
+- [ ] JR's (Montrose) — Walk-in · $
+- [ ] South Beach? — CLOSED
+- [ ] Eagle Houston — Walk-in · $
+- [ ] Pearl Bar — Walk-in · $
+- [ ] Barbarella (Midtown) — $
+- [ ] Clé (Midtown; the megaclub) — SevenRooms · $$$
+- [ ] Spire (Downtown; the old church) — $$$
+- [ ] Stereo Live (Midtown; EDM) — $$
+- [ ] Bar 5015? — ? · $$
+- [ ] The Secret Group (EaDo) — $
+- [ ] Neil's Bahr (EaDo) — Walk-in · $
+- [ ] Lucky's Pub (EaDo) — Walk-in · $
+- [ ] Truck Yard (EaDo) — Walk-in · $
+- [ ] Howl at the Moon — $$
+- [ ] Dirt Bar (Downtown) — Walk-in · $
+- [ ] Notsuoh (Downtown) — Walk-in · $
+- [ ] Little Dipper (Downtown) — Walk-in · $
+- [ ] Rebels Honky Tonk — Walk-in · $
+- [ ] Neon Boots (Northwest; country) — Walk-in · $
+- [ ] Wild West (Northwest; the dancehall) — Walk-in · $
+- [ ] Goode's Armadillo Palace (Kirby) — Walk-in · $$
+- [ ] McGonigel's Mucky Duck — $$
+- [ ] The Big Easy (Upper Kirby; blues) — Walk-in · $
+- [ ] Cezanne (Montrose; jazz) — $$
+- [ ] Sambuca (Downtown; jazz) — OpenTable · $$$
+- [ ] Last Concert Café (Warehouse District; the hidden yard, knock) — Walk-in · $$
+- [ ] The Nightingale Room — Walk-in · $$
+- [ ] Bad News Bar — Walk-in · $$
+- [ ] Dean's (Downtown) — Walk-in · $
+- [ ] Moving Sidewalk — Walk-in · $$
+- [ ] Reserve 101 — Walk-in · $$
+- [ ] Axelrad (Midtown; the yard, the DJs) — Walk-in · $
+- [ ] The Dogwood (Midtown) — Walk-in · $
+- [ ] Wooster's Garden — Walk-in · $$
+- [ ] Present Company — Walk-in · $$
+- [ ] Grand Prize Bar — Walk-in · $
+- [ ] Poison Girl — Walk-in · $
+- [ ] The Flat (Montrose) — Walk-in · $
+- [ ] Boondocks (Montrose) — Walk-in · $
+- [ ] Etro Lounge? — CLOSED
+- [ ] Fitzgerald's — CLOSED
+- [ ] Walter's Downtown — CLOSED
