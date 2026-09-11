@@ -1,0 +1,36 @@
+# Honor Roll — New York. Ten plates you don't leave the city without.
+# `raw` is the entry line exactly as it appears in the list markdown, so marks render the same way.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A cart, a food-hall counter, a Flushing dumpling room and a starred tasting room, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Every pick is somewhere I've eaten more than once and would send a friend on their only night in town. Room, scene and price didn't count. Only what arrived."
+HONOR = [
+ dict(raw="- [x] Semma (West Village; South Indian) — ★ · NYT #7 · Resy · Amex ✓ · $$$",
+      why="Vijay Kumar cooks the Tamil village food that never made it onto Manhattan menus: heat, sour, ferment, whole spice. It is the one starred restaurant in the city where the star feels beside the point.",
+      order="Gunpowder dosai to start, nathai pirattal (snails, Chettinad-style) if you're willing, and the goat curry with parotta to finish. Eat the parotta with your hands."),
+ dict(raw="- [x] Atoboy (NoMad; Atomix's casual sibling) — NEW · Resy · Amex ✓ · $$$",
+      why="Atomix's little sibling, and the better place to understand what the Park family does: Korean banchan logic applied to a short, sharp set menu at a third of the price. Every plate is built around one seasoning done exactly right.",
+      order="The set menu — pick three from the list and let the table share. Whatever the current fried chicken or eggplant plate is, don't skip it."),
+ dict(raw="- [x] Ambassador Clubhouse (Indian) — NEW · $$$",
+      why="Punjabi club cooking — the food of the Delhi and Lahore members' clubs — done with real technique and no restraint on ghee, char or spice. Newer than everything else on this roll and already the Indian table I send people to first.",
+      order="Start with the kebabs from the grill, then the butter chicken and dal, with the tandoor breads while they're still puffing. Save room for the kulfi."),
+ dict(raw="- [x] Corima (LES/Two Bridges; Mexican) — ★ · NYT #37 · NEW · Resy · Amex ✓ · JBF 2026 · Best Chef NY (Fidel Caballero) · $$$",
+      why="Fidel Caballero cooks northern Mexico — Chihuahua flour tortillas, sotol, smoke — with a technique that looks east as often as south. New, starred, and still improving month to month.",
+      order="The tasting menu. Whatever else comes, the flour tortillas alone justify the reservation."),
+ dict(raw="- [x] Los Tacos No.1 (Chelsea Market / Times Sq / Nolita) — · Walk-in · $",
+      why="A Tijuana-style taco counter that happens to be in a tourist market. The adobada comes off a vertical spit, the tortillas are made in front of you, and nothing on the menu costs more than a coffee.",
+      order="Adobada on a flour tortilla, with everything. Add a nopal taco. Eat standing up; there are no chairs."),
+ dict(raw="- [x] Adel's Famous Halal Food (6th Ave & 43rd cart, by Bryant Park) — NEW · Walk-in · $",
+      why="The cart the office towers around Bryant Park queue for at lunch, and the one that outcooks the famous name ten blocks north. The chicken is marinated properly, the rice is yellow with real spice, and the white sauce isn't an afterthought.",
+      order="Chicken over rice, white sauce heavy, red sauce on the side so you control it. Ask for the mixed if you want the lamb too."),
+ dict(raw="- [x] Tanoreen (Bay Ridge) — BIB · $$",
+      why="Rawia Bishara's Palestinian kitchen is worth the R train to Bay Ridge. Home cooking with the depth of a restaurant — sumac, pomegranate, lamb, and the vegetable dishes that most places treat as afterthoughts.",
+      order="Musakhan (sumac chicken on taboon bread), lamb fetti, and the fried Brussels sprouts with tahini, which are the reason half the room came."),
+ dict(raw="- [x] Rezdôra (Flatiron; Emilia-Romagna) — ★ · Resy · Amex ✓ · $$$",
+      why="Hand-made pasta from one region, done properly, in a room that stays out of the way. The egg-dough plates here are the best in Manhattan; the ragù is cooked the slow way and tastes like it.",
+      order="The Grand Tour of Emilia-Romagna pasta tasting. Solo, the tagliatelle al ragù bolognese and the tortellini in brodo."),
+ dict(raw="- [x] Nan Xiang Xiao Long Bao (Flushing) — NEW · Walk-in · $$",
+      why="The Flushing soup dumpling room that the Manhattan copies are measured against. Thin skins, hot broth, a wait that moves. Bring people who will finish a basket.",
+      order="Crab-and-pork xiao long bao, a basket of the plain pork, and the scallion pancake. Lift, bite, drink the soup, then eat."),
+ dict(raw="- [x] Thai Diner (Nolita) — BIB · Walk-in · $$",
+      why="Uncle Boons' owners rebuilt their restaurant as a diner and somehow made it better. Thai food at diner hours, with a Bib to prove the kitchen never dropped its standards.",
+      order="Thai disco fries and the Thai tea babka French toast for brunch; the khao soi at night. The egg sandwich is a sleeper."),
+]

@@ -824,6 +824,7 @@ Updated September 2026 · cross-referenced against Michelin Guide NYC (2025 sele
 - [ ] Defonte's (Red Hook; 1922 hero shop) — NEW · Walk-in · $
 - [ ] Frankel's Delicatessen (Greenpoint) — NEW · Walk-in · $
 - [ ] Cheeky Sandwiches (LES; biscuits) — NEW · Walk-in · $
+- [x] Adel's Famous Halal Food (6th Ave & 43rd cart, by Bryant Park) — NEW · Walk-in · $
 - [x] Halal Guys (53rd & 6th cart, original) — NEW · Walk-in · $
 - [ ] Rolf's (Christmas all year) [x] — $$
 - [ ] Zum Stammtisch (Glendale; German) — NEW · $$
