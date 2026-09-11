@@ -1,0 +1,36 @@
+# Honor Roll — Washington, DC. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against Michelin DC 2025, Washingtonian's 100 Very Best 2026, Eater DC, JBF 2026 and Google ratings/reviews.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A half-smoke counter from 1958, a breakfast-taco window, a Shaw injera house and three starred dining rooms, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Washington eats better than its reputation — twenty-odd stars, a deep Bib list, and the best Ethiopian and Indian cooking on the East Coast. These ten are where the Guide, Washingtonian's critics, the Beard committee and a few thousand Google reviews all point the same way, and where the food, not the room, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Albi (Navy Yard; Michael Rafidi) — ★ · W#1 · NYT 4 stars · NEW · Resy · Amex ✓ · $$$",
+      why="Michael Rafidi's Levantine hearth is the city's best restaurant by most measures that matter — a star, Washingtonian's №1 two years running, and a kitchen that treats Palestinian home cooking with the seriousness usually reserved for French. Everything passes through wood fire.",
+      order="The sfeeha and the mushroom hummus with the pita, the kibbeh naya, then the lamb — whatever cut the hearth is doing. Finish with the kunafeh."),
+ dict(raw="- [ ] Rose's Luxury (Barracks Row) — ★ · Resy · Amex ✓ · $$$",
+      why="Aaron Silverman's row house made Barracks Row a destination a decade ago and the food still earns the star: playful, precise, and built around a few dishes the city refuses to let him retire. The bar takes walk-ins the morning of.",
+      order="The pork-and-lychee salad, the bread with miso cream, and whatever pasta is on. Sit at the bar and order à la carte if you can't face the full menu."),
+ dict(raw="- [ ] The Dabney (Blagden Alley; Jeremiah Langhorne; hearth) — ★ · Resy · Amex ✓ · $$$",
+      why="Mid-Atlantic cooking from a wood-burning hearth in a Blagden Alley townhouse — the one starred room in DC where the vegetables are the reason people come back. Regional, seasonal, and smoky in the best way.",
+      order="The hearth-roasted vegetables, the deviled eggs, the potato-roll sliders, and one large cut from the fire for the table. The bar, à la carte, is the relaxed way in."),
+ dict(raw="- [ ] Rasika (Penn Quarter / West End; the palak chaat) — Resy · Amex ✓ · $$$",
+      why="The Indian restaurant that taught Washington to book weeks ahead. The menu is modern but the cooking is grounded, and one dish — crisped spinach with yogurt, tamarind and dates — is on every list of the city's essential plates for a reason.",
+      order="Palak chaat to start, no exceptions. Then the black cod, the chicken makhani and a mango lassi."),
+ dict(raw="- [ ] Tapori (H Street; Suresh Sundas' Indian street food) — JBF 2026 · Best Chef Mid-Atlantic finalist · NEW · Resy · Amex ✓ · $$",
+      why="Suresh Sundas' Bombay street-food room on H Street — pani puri, vada pav, dosa — cooked with a Beard finalist's technique and none of the restraint. New, loud, and already the Indian table Washingtonians send each other to.",
+      order="Pani puri and the vada pav to start, the podi masala dosa, the lotus-root chaat, and the dum biryani for the table. Kulfi to finish."),
+ dict(raw="- [ ] Zaytinya (Penn Quarter; José Andrés) — BIB · Resy · Amex ✓ · $$$",
+      why="José Andrés' Turkish-Greek-Lebanese mezze room, twenty years old and still a Bib. It's the safe pick that turns out to be the right one: the bread comes out of the oven all night, and the small plates are consistent across a menu that runs to sixty.",
+      order="The pita with olive oil and pomegranate, the kibbeh, the grilled octopus, the kofta, and the Turkish coffee cake. Order in waves."),
+ dict(raw="- [ ] Chercher (Shaw; Ethiopian) — Resy · Amex ✓ · $$",
+      why="Of the dozens of Ethiopian kitchens in a city that has the best outside Addis, this Shaw row house is the one to send a first-timer: soft, sour injera made fresh, stews with real depth, a lamb tibs that people cross town for.",
+      order="A combination platter — split the meat and vegetarian sides so you get the misir wot, the gomen and the doro wot — plus the lamb tibs and a glass of tej."),
+ dict(raw="- [ ] La Tejana (Mount Pleasant; breakfast tacos) — BIB · Resy · Amex ✓ · $",
+      why="Breakfast tacos from a window in Mount Pleasant, on flour tortillas made that morning, with a Bib to show Michelin noticed. The line on weekends is the neighborhood's social hour; go on a weekday and there isn't one.",
+      order="The migas, the choripapa and the Tio Willie. Ask for salsa on everything and eat them on the sidewalk."),
+ dict(raw="- [ ] Ben's Chili Bowl (U Street; since 1958) — Walk-in · $",
+      why="The half-smoke — a coarse, snappy pork-and-beef sausage under chili — is Washington's one true native dish, and this U Street counter has served it since 1958, through riots, the Metro dig, and every president since Eisenhower. It's history you can eat in ten minutes.",
+      order="The original half-smoke with chili, mustard and onions, chili cheese fries, and a vanilla shake. Late on a Friday is the right time."),
+ dict(raw="- [ ] 2 Amys (Cathedral Heights; Peter Pastan) — JBF 2026 semifinalist (Outstanding Chef) · Walk-in · $$",
+      why="Peter Pastan's Neapolitan pizzeria has been Washington's best for twenty-five years and this year the Beard Foundation finally put him up for Outstanding Chef. Certified D.O.C. pies from a wood oven, and a small-plates list that's quietly the better half of the menu.",
+      order="The Margherita D.O.C. and the Norcia, plus the deviled eggs, the suppli and the salt cod fritters from the little-dishes board. No reservations; go before 6."),
+]
