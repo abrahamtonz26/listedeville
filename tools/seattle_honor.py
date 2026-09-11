@@ -1,0 +1,36 @@
+# Honor Roll — Seattle. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against JBF 2026, Seattle Met's Best Restaurants, Eater Seattle, The Stranger and Google ratings/reviews. Seattle has no Michelin guide.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A drive-in from 1954, a Filipino counter in the market with a Beard medal, an oyster bar on Ballard Avenue and the tasting rooms the Beard committee keeps nominating, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Michelin hasn't reached Seattle, so the marks here are the Beard Foundation's and the city's own. These ten are where the critics, the awards and thousands of Google reviews all point the same way — and where the food, not the view, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Canlis (Queen Anne; the view since 1950) — Tock · Amex ✓ · $$$$",
+      why="The Canlis family's midcentury room above Lake Union has been the city's special-occasion table for seventy-five years, and the kitchen has never coasted on the glass wall: a tight tasting menu of Northwest seafood and produce that changes with the season and a service culture the rest of the country studies.",
+      order="The tasting, with the wine pairing. If the Canlis salad is offered as a supplement — the 1950 original, tossed tableside — say yes."),
+ dict(raw="- [ ] Atoma (Wallingford; Johnny Courtney) — JBF 2026 finalist · RoY 2024 · Tock · Amex ✓ · $$$",
+      why="Johnny Courtney's Wallingford room is the restaurant Seattle's critics argue about least: Restaurant of the Year in 2024, a Beard finalist in 2026, and a menu of shared plates that reads Northwest but eats like nowhere else. The rosette cookies alone have a following.",
+      order="The rosette cookies (caramelized onion and local cheese), the Hokkaido scallop, the crumpets, and the maitake plate; the baked Alaska to finish. Order for the table."),
+ dict(raw="- [ ] Sushi Kashiba (Pike Place; Shiro Kashiba) — Tock · Amex ✓ · $$$$",
+      why="Shiro Kashiba brought Edomae sushi to Seattle in 1970, and at eighty-plus he still works the counter several nights a week, cutting Northwest fish — geoduck, spot prawn, king salmon — the way Tokyo taught him. The one omakase in the city that is also a piece of its history.",
+      order="Omakase at the counter, and ask which nights Shiro-san is behind it. Local fish over flown-in: the geoduck, the spot prawns, the salmon."),
+ dict(raw="- [ ] Spinasse (Capitol Hill; tajarin) — Resy · Amex ✓ · $$$",
+      why="Piedmontese cooking on Capitol Hill for nearly twenty years, built on one plate: tajarin, forty-egg-yolk noodles cut by hand every afternoon and dressed with butter and sage or a slow ragù. Nothing on the menu is trendy and nothing needs to be.",
+      order="The tajarin al ragù, the vitello tonnato, and the agnolotti if they're on. Sit at the bar to watch the pasta being cut."),
+ dict(raw="- [ ] The Walrus and the Carpenter (Ballard; Renee Erickson) — Resy · Amex ✓ · $$$",
+      why="Renee Erickson's oyster bar at the back of a Ballard Avenue alley is where Seattle's whole oyster culture points: a dozen Washington varieties on ice, small plates that change nightly, no reservations for years and a line worth standing in. Happy hour is the local move.",
+      order="A dozen oysters, picked across the board; the Hama Hama clams, the scallop crudo, the fried oysters, and the bread. Go at four."),
+ dict(raw="- [ ] Musang (Beacon Hill; Melissa Miranda) — JBF 2026 semifinalist · Resy · Amex ✓ · $$$",
+      why="Melissa Miranda's Beacon Hill house cooks Filipino food the way the city's Filipino families do, then sharpens it: kinilaw, ribs, corn cakes, a fried chicken that should be famous. A Beard semifinalist every year and the warmest room on this roll.",
+      order="The fried chicken, the corn cakes, the kinilaw and the pancit — four plates for four people is the house rule. Chocolate mousse to finish."),
+ dict(raw="- [ ] Pho Bac Súp Shop (Chinatown–ID / Rainier; the Pham sisters, JBF Outstanding Restaurateur finalists) — Resy · Amex ✓ · $",
+      why="The Pham sisters took their parents' 1982 pho shop — the boat-shaped original still stands a block away — and made it the city's essential bowl: a broth cooked all day, brisket cut thick, and a fried chicken wing on the side that regulars won't skip. Beard finalists for how they run it.",
+      order="Pho tái nạm, a large, with a side of the fried chicken wings; the bún bò Huế if you want heat. Cash is cheaper."),
+ dict(raw="- [ ] Oriental Mart (Pike Place; the Filipino counter, JBF America's Classic 2020) — Walk-in · $",
+      why="A Filipino grocery counter inside the market, run by the same family since 1971 and honored with a Beard America's Classic: adobo, sinigang and longanisa ladled into takeout boxes, with rules of service everyone learns the first time. Come early; the sinigang sells out.",
+      order="Salmon sinigang, pork adobo and a longanisa on the side, with rice and pancit. Know your order before you reach the counter."),
+ dict(raw="- [ ] Un Bien (Ballard; the Paseo family's original) — Walk-in · $",
+      why="The Caribbean roast — slow-cooked pork shoulder, caramelized onions, aioli and cilantro on a toasted roll — is Seattle's sandwich, and this is the original family's counter. Paseo, which kept the name, is the argument; Un Bien is the answer.",
+      order="The Caribbean Roast, with everything, and a side of the grilled corn on the cob. Napkins."),
+ dict(raw="- [ ] Dick's Drive-In (Wallingford / multiple; since 1954) — Walk-in · $",
+      why="Cash, walk-up windows, no substitutions, open until two, and a burger that hasn't changed since 1954. Ten thousand Google reviews land at 4.6 for a reason: the Deluxe is small, cheap and exactly right at one in the morning.",
+      order="A Deluxe, hand-cut fries and a chocolate shake. Eat on the hood of the car, like the last seventy years of Seattle."),
+]
