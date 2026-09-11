@@ -1,0 +1,36 @@
+# Honor Roll — Chicago. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against Michelin Chicago 2026, Eater Chicago, the Tribune/Infatuation lists and Google ratings/reviews.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A drive-up beef stand, a goat-birria counter, a rib-tip window on 75th Street and the city's only three-star kitchen, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Chicago is the best eating city in America per dollar, and the Guide agrees — more Bibs than any city but New York, most of them under $30. These ten are where Michelin, the local critics and tens of thousands of Google reviews all point the same way, and where the food, not the room, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Smyth (West Loop; John and Karen Shields) — ★★★ · Tock · Amex ✓ · $$$$",
+      why="The Shields' West Loop tasting room is the city's only three-star kitchen and the rare one where the food, not the theatre, carries the evening: farm-driven, quietly strange, precise. Alinea has the fame; this has the plates.",
+      order="The tasting — there is only one. The quail and the Japanese milk bread are the courses people write home about; take the wine pairing."),
+ dict(raw="- [ ] Kasama (Ukrainian Village; the morning pastry) — ★★ · Tock · Amex ✓ · $$$$",
+      why="Two stars for the Filipino tasting menu at night; by day, a bakery counter with a line down Winchester Avenue for the best pastries in Chicago. Both halves earn the roll. The Bear made it famous; the food was already there.",
+      order="Daytime: the ube-huckleberry basque cake, a truffle croissant and the longganisa breakfast sandwich (order ahead online to skip the line). Night: the tasting, booked the day Tock opens."),
+ dict(raw="- [ ] Galit (Lincoln Park; Zach Engel) — ★ · Resy · Amex ✓ · $$$",
+      why="Zach Engel's Lincoln Park room does modern Israeli cooking with a star and no fuss: pita from a wood oven, salatim that change daily, a hummus that regulars order on every visit. The pick-your-own set menu keeps the price sane.",
+      order="The hummus and salatim to start, the falafel, then whatever the grill has that night. Take the set menu and let the table share."),
+ dict(raw="- [ ] Avec (West Loop / River North) — BIB · Resy · Amex ✓ · $$",
+      why="Paul Kahan's West Loop wine bar has been the city's most-copied room since 2003 and still holds a Bib. Communal tables, a wood oven, and one dish — chorizo-stuffed dates wrapped in bacon — that Chicago would riot over if it left.",
+      order="The bacon-wrapped dates, the focaccia, the whole roasted fish or the brandade, and a bottle from the Mediterranean end of the list."),
+ dict(raw="- [ ] Birrieria Zaragoza (Uptown) — BIB · Walk-in · $",
+      why="One thing, done perfectly: goat birria, Jalisco-style, roasted then simmered, served with hand-pressed tortillas and a bowl of consommé. Counter seating only, a Bib every year, and a 4.7 on Google that nothing else on this roll can match.",
+      order="The large plate, bone-in, with extra consommé; make your own tacos. Horchata, then the flan."),
+ dict(raw="- [ ] Sun Wah BBQ (Uptown; the Beijing duck) — Resy · Amex ✓ · $$",
+      why="A Cantonese barbecue house on Broadway that turns a whole roast duck into a three-act meal: carved tableside onto bao, then fried rice from the carcass, then soup. Loud, fast and the city's most beloved feast for four.",
+      order="The Beijing Duck Dinner — call ahead to reserve the duck — with extra bao. Add the roast pork and a plate of the beef chow fun while you wait."),
+ dict(raw="- [ ] Johnnie's Beef (Elmwood Park) — Walk-in · $",
+      why="The Italian beef the rest of the city measures itself against: thin-sliced, dipped, on a roll that dissolves halfway through. Cash, a line out the door, no seats to speak of, and the lemon ice afterward is part of the ritual.",
+      order="Beef, hot, dipped. A combo (beef and sausage) if you're hungry. Lemon Italian ice to finish, eaten standing at the car."),
+ dict(raw="- [ ] Carnitas Uruapan (Pilsen; since 1975) — Walk-in · $",
+      why="Michoacán-style carnitas since 1975, cooked in copper and chopped to order by the pound at a counter that hands out samples while you wait. The best pork in the city, in a room that smells like it.",
+      order="Carnitas by the pound with tortillas, salsa and pickled jalapeños, plus a slab of chicharrón. Weekends, add the corundas."),
+ dict(raw="- [ ] Pequod's (Lincoln Park; the caramelized crust) — Walk-in · $$",
+      why="If you eat one deep-dish, eat this one: the pan is lined with cheese that caramelizes black against the iron, so the crust is the point rather than the price of admission. Sixteen thousand Google reviews say the same thing.",
+      order="A deep-dish with sausage, half if there are two of you; ask for the crust well done. Order it the moment you sit — it takes forty minutes."),
+ dict(raw="- [ ] Lem's Bar-B-Q (Chatham; since 1954) — Walk-in · $",
+      why="South Side barbecue from an aquarium smoker on 75th Street since 1954: rib tips and hot links, charred and chopped, under a tangy, vinegar-forward sauce, sold through a window with room for five inside. Take-out only; eat in the car like everyone else.",
+      order="The rib-tip-and-hot-link combo, sauce on, with the fries that come under it. Extra sauce on the side."),
+]
