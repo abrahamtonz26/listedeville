@@ -1,0 +1,36 @@
+# Honor Roll — San Francisco. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against Michelin California 2026, Eater SF, the Chronicle's Top 100 and Google ratings/reviews.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A focaccia counter that closes when it sells out, a marble oyster bar from 1912, a Mission burrito with a Bib and the first three-star Mexican restaurant on earth, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "San Francisco has more three-star kitchens than any American city but New York and still eats best at counters. These ten are where the Guide, the Chronicle's critics and tens of thousands of Google reviews all point the same way, and where the food, not the view, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Californios (Mission; Val Cantu — the world's first three-star Mexican restaurant) — ★★★ · NEW 2026 promotion · Tock · Amex ✓ · $$$$",
+      why="Val Cantu's tasting menu made history this year as the first Mexican restaurant anywhere to hold three stars, and it earns them on the plate: heirloom masa, California seafood, moles that take days. The one splurge on this roll that changes how you think about a cuisine.",
+      order="The tasting, with the mezcal flight. The sope with caviar, the lobster aguachile and the quail in mole are the courses people remember."),
+ dict(raw="- [ ] State Bird Provisions (Fillmore) — ★ · Resy · Amex ✓ · $$$",
+      why="Dim-sum carts, but the carts carry Californian small plates — the format that made this the most-copied restaurant in the country a decade ago. Still a star, still a line for walk-ins before 5:30, and the namesake quail is still the reason.",
+      order="The State Bird (fried quail with stewed onions), the sourdough-sauerkraut pancake with pecorino, the trout-dip potato chips, and whatever hand roll is on the cart."),
+ dict(raw="- [ ] San Ho Won (Mission; Korean grill, Corey Lee) — ★ · Resy · Amex ✓ · $$$",
+      why="Corey Lee's Korean charcoal grill is Benu's casual sibling and, for most people, the better night: galbi over live coals, banchan made with the same care as his three-star kitchen, and a star at a third of the price.",
+      order="The galbi and the pork jowl from the grill, the seafood pancake, and the naengmyeon to finish. Let them cook it."),
+ dict(raw="- [ ] Rintaro (Mission; izakaya) — BIB · Resy · Amex ✓ · $$$",
+      why="Sylvan Mishima Brackett's izakaya in a hand-built Japanese room off Folsom Street: yakitori over binchotan, udon cut to order in front of you, a Bib every year since the guide arrived. The most beautiful room on this roll and the food keeps up.",
+      order="The yakitori set, the katsu sando, the hand-cut udon (hot, in winter), and the oden if it's cold out. Reserve two weeks ahead."),
+ dict(raw="- [ ] Swan Oyster Depot (Nob Hill; since 1912; cash, counter) — Walk-in · $$",
+      why="Eighteen stools at a marble counter on Polk Street, open since 1912, cash only, closed by 2:30. The line is the price; the crab salad and the oysters shucked in front of you are the reward. There is no better lunch in the city.",
+      order="A dozen oysters, the Dungeness crab salad, the smoked salmon and a bowl of chowder. Ask for the 'secret' sashimi plate. Get in line before 10:30."),
+ dict(raw="- [ ] La Taqueria (Mission; the burrito) — BIB · Resy · Amex ✓ · $",
+      why="The Mission burrito, from the counter that refuses to put rice in it: carne asada grilled to order, beans, salsa, a flour tortilla crisped on the plancha if you ask. Named the best burrito in America once, given a Bib since, and the line still moves.",
+      order="Carne asada burrito, super, dorado (crisped). A carnitas taco on the side. Horchata."),
+ dict(raw="- [ ] Z & Y (Chinatown; Sichuan) — BIB · Resy · Amex ✓ · $$",
+      why="Chinatown's Sichuan standard-bearer: real ma-la heat, tea-smoked duck, a Bib on the door next to the photo of a presidential visit. Go with a table so you can order across the menu, and go hungry.",
+      order="Chicken with explosive chili peppers, the tea-smoked duck, mapo tofu, and the fish fillets in flaming chili oil. Order 'medium' — it means hot."),
+ dict(raw="- [ ] Liguria Bakery (North Beach; focaccia, cash, until it's gone) — Walk-in · $",
+      why="One family, one product, since 1911: sheets of focaccia sold from a bare counter on Washington Square, wrapped in butcher paper, cash only, and gone by late morning. A 4.8 on Google and nothing to say except that it is the best bread in the city.",
+      order="A sheet of the rosemary-garlic and a sheet of the pizza focaccia, cut to go. Be there by nine; when the racks are empty, the door locks."),
+ dict(raw="- [ ] Tartine Manufactory (Mission) — Resy · Amex ✓ · $$",
+      why="The bakery that changed how America thinks about bread, in its big Mission workshop with the ovens in view. The country loaf is the reason, but the morning bun, the croissants and the smørrebrød at lunch are why the line never shortens.",
+      order="A morning bun and a croissant early, a country loaf to carry home, and the smoked-trout smørrebrød if it's lunch."),
+ dict(raw="- [ ] House of Prime Rib (Nob Hill; since 1949) — OpenTable · $$$",
+      why="One dish since 1949, carved tableside from a silver cart under a spinning salad bowl: prime rib, Yorkshire pudding, creamed spinach, mashed potatoes, and a second slice if you ask. It is the least fashionable restaurant in the city and one of the most loved for a reason.",
+      order="The King Henry VIII cut, medium-rare, with the Yorkshire pudding and creamed spinach. Say yes to the second helping. Book weeks ahead."),
+]
