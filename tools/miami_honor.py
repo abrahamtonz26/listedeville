@@ -1,0 +1,36 @@
+# Honor Roll — Miami. Ten plates you don't leave the city without.
+# Picks cross-checked Sept 2026 against Michelin Florida 2026, Time Out Miami's 29, Eater Miami, Resy's Hit List and Google ratings/reviews.
+HONOR_DECK = "Ten places, ranked by nothing but the plate. A cafecito window, a croqueta counter, a stone-crab house from 1913 and three starred kitchens, all held to the same question: is this the best version of the thing in the city?"
+HONOR_WHY = "Miami's best food is Cuban, Peruvian, Vietnamese and Mexican before it is anything else, and the Guide has finally caught up — three Bibs on this roll cost under $30 a head. These ten are where Michelin, the local critics and tens of thousands of Google reviews all point the same way, and where the food, not the scene, is the reason. Room, scene and price didn't count."
+HONOR = [
+ dict(raw="- [ ] Los Félix (Coconut Grove) — ★ · GS · Resy · Amex ✓ · $$$",
+      why="Heirloom corn nixtamalized in-house, a star and a Green Star, and the best Mexican cooking in Florida in a tiny Coconut Grove room. The masa is the point: the tortillas, the arepa, the pancake all taste of it.",
+      order="Tacos al pastor and the beef-cheek carnitas, the tuna crudo in aguachile, and the sweet-corn arepa. The salsas are the reason to order the chips."),
+ dict(raw="- [ ] Ariete (Coconut Grove; Michael Beltran) — ★ · Resy · Amex ✓ · $$$",
+      why="Michael Beltran cooks Miami Cuban through French technique — foie gras with guava, agnolotti stuffed with goat, a fabada with real depth — and the star is for the plates, not the room. The most Miami restaurant with a Michelin star.",
+      order="The Versos Sencillos tasting if you have the evening; à la carte, the foie gras, the fabada and the chivo agnolotti, then anything with Homestead guava for dessert."),
+ dict(raw="- [ ] Hiden (Wynwood; omakase behind a door) — ★ · Tock · Amex ✓ · $$$$",
+      why="Eight seats behind an unmarked door beside a taco stand, fish flown in from Japan several times a week, a star every year since the Florida guide began. The hardest reservation in the city and the one omakase here that doesn't rely on theatre.",
+      order="The omakase — there's nothing else. Book the moment Tock opens and don't be late; the door only opens for your seating."),
+ dict(raw="- [ ] Tâm Tâm (Downtown; Vietnamese) — BIB · Resy · Amex ✓ · $$",
+      why="Tam Pham's downtown Vietnamese room won Michelin's Young Chef award and a Bib in the same year, and the plates explain why: glass-crisp chicken wings, a scallop crudo built on herbs instead of lime, tiger prawns that people order twice.",
+      order="The chicken wings, the scallop crudo, the beef tartare and the grilled tiger prawns; the lotus salad to cut through it. Thai-tea tres leches to finish."),
+ dict(raw="- [ ] Mandolin Aegean Bistro (Buena Vista; the garden) — BIB · Resy · Amex ✓ · $$$",
+      why="A blue-and-white courtyard in Buena Vista serving Greek and Turkish village food without a gimmick in sight: grilled fish, real meze, bread from the oven. Fifteen years on it is still the table Miamians take visitors to.",
+      order="The meze spread — tzatziki, taramasalata, the grilled halloumi — then a whole grilled branzino for the table and the lamb kebab. Sangria in the garden."),
+ dict(raw="- [ ] Sanguich de Miami (Little Havana; Cuban sandwiches) — BIB · Resy · Amex ✓ · $",
+      why="The Cuban sandwich that made Michelin notice a Calle Ocho counter: pork roasted in-house, ham cured in-house, pickles and mustard made in-house, bread pressed to shatter. The croquetas alone would earn the Bib.",
+      order="The Cubano, the croquetas, and a cortadito. If there's a second person, the pan con bistec. Closes at six; go for lunch."),
+ dict(raw="- [ ] Joe's Stone Crab (South of Fifth; since 1913; season Oct–May) — Resy · Amex ✓ · $$$$",
+      why="The one Miami institution that deserves its line. Stone crab claws, cracked and chilled, with mustard sauce — a dish invented at this address in 1921 — and sides that haven't changed since. Season runs October to May; the rest of the year, skip it.",
+      order="Large claws with the mustard sauce, hash browns, creamed spinach and grilled tomatoes; key lime pie. The take-away counter next door has no wait."),
+ dict(raw="- [ ] Versailles ventanita (Little Havana; the cafecito window) — Walk-in · $",
+      why="The walk-up coffee window of Miami's most famous Cuban restaurant, where exile politics, dominoes and the day's news get settled over thimbles of sweet espresso. The restaurant inside is fine; the window is essential.",
+      order="A cafecito (or a colada to share), a guava-and-cheese pastelito and a croqueta from the bakery counter. At 3:05pm the whole city stops for one — join it."),
+ dict(raw="- [ ] Islas Canarias (Westchester; croquetas) — Walk-in · $",
+      why="Way out on SW 26th Street, the croqueta that Miami measures every other croqueta against — creamy ham inside, crisp shell, sold by the dozen from a drive-through with a line. The restaurant is a proper Cuban diner; the croqueta is the reason it's here.",
+      order="A dozen ham croquetas to go, or the croqueta preparada — croquetas pressed into a Cuban sandwich — if you're eating in. The crema catalana if you sit down."),
+ dict(raw="- [ ] El Palacio de los Jugos (multiple) — Walk-in · $",
+      why="A Cuban market and juice stand that became a cafeteria empire: whole roast pork chopped to order, chicharrón, plantains, and fresh sugarcane juice pressed while you wait. The Flagler original is loud, cash-friendly and one of the best cheap meals in America.",
+      order="Lechón with yuca and moros, a bag of chicharrones, a guarapo (sugarcane juice) or a mamey shake. Point at what's in the steam trays; it's all good."),
+]
